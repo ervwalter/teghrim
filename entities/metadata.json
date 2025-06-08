@@ -1,0 +1,57 @@
+{
+  "entity_types": {
+    "races": {
+      "types": [
+        "Elf",
+        "Human",
+        "Dwarf",
+        "Goblinoid",
+        "Beastkin",
+        "Fey",
+        "Other"
+      ]
+    },
+    "characters": {
+      "types": [
+        "Deity"
+      ],
+      "tags": [
+        "Greater Deity",
+        "Demigod",
+        "Lesser Deity"
+      ]
+    },
+    "organizations": {
+      "types": [
+        "Religious Order",
+        "Military Order",
+        "Guild",
+        "Secret Society",
+        "Support Network"
+      ]
+    },
+    "locations": {
+      "types": [
+        "Continent",
+        "Region",
+        "City",
+        "Settlement",
+        "Island",
+        "Landmark"
+      ]
+    },
+    "creatures": {
+      "types": [
+        "Animal",
+        "Monstrous"
+      ]
+    }
+  },
+  "notes": {
+    "races": "Type indicates the broad category of ancestry/species",
+    "characters": "Currently all characters are deities. Tags indicate divine rank",
+    "organizations": "Type indicates the organization's primary function",
+    "locations": "Type indicates the scale/nature of the location",
+    "creatures": "Type distinguishes natural animals from supernatural/monstrous beings"
+  }
+}

@@ -1,0 +1,62 @@
+---
+type: Deity
+tags: [Greater Deity]
+---
+
+# Chronos the Watcher
+
+## Basic Information
+- **Type**: Deity - Divine Muse
+- **Title**: Muse of Writing, Philosophy, History
+- **Domain**: Knowledge, history, philosophy, written word
+
+## Description
+Chronos the Watcher is one of the three Divine Muses, representing intellectual pursuits, historical knowledge, and philosophical thought. He inspires scholars, historians, and philosophers to record and contemplate the nature of existence and the flow of time.
+
+## Worship & Influence
+- Scholars and scribes
+- Historians
+- Philosophers
+- Librarians
+
+## Divine Portfolio
+- Historical records
+- Philosophical thought
+- Written knowledge
+- Time's passage
+- Memory preservation
+- Scholarly pursuits
+
+## Relations with Other Deities
+- Divine Muse with Dibella and Orpheus
+- Allied with Teclis (knowledge)
+- Records all divine actions
+- Neutral observer
+
+## Followers
+- Historians and chroniclers
+- Philosophers
+- Scribes and librarians
+- Highland Dwarves value him
+- Nagaji historians
+- Scholars everywhere
+
+## Divine Principles
+- Record everything
+- Time reveals truth
+- Knowledge must be preserved
+- Philosophy guides action
+- History teaches
+- Writing immortalizes
+
+## Divine Limitations
+Subject to the "Decree Passive":
+- Cannot change history
+- Works through inspiration
+- Guides scholarly work
+
+## Common Symbols
+- Hourglass with quill
+- Open book
+- Watching eye
+- Scrolls of time
