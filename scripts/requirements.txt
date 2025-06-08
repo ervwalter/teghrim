@@ -1,0 +1,9 @@
+# Audio transcription requirements
+elevenlabs>=2.0.0
+pydub==0.25.1
+
+# Image generation requirements  
+openai==1.23.2
+
+# Note: pydub requires ffmpeg or libav to be installed on the system
+# Install with: apt-get install ffmpeg (Linux) or brew install ffmpeg (Mac)
