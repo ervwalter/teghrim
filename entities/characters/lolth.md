@@ -1,7 +1,11 @@
 ---
 name: Lolth
 type: Deity
-tags: ['Demigod']
+tags:
+- Demigod
+entity_id: 7763140
+created: '2025-06-12T21:06:29.174488+00:00'
+updated: '2025-06-12T21:06:29.174494+00:00'
 ---
 
 # Lolth

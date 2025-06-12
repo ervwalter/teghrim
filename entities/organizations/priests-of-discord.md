@@ -1,6 +1,9 @@
 ---
 name: Priests of Discord
 type: Religious Order
+entity_id: 7763128
+created: '2025-06-12T21:06:23.642278+00:00'
+updated: '2025-06-12T21:06:23.642284+00:00'
 ---
 
 # Priests of Discord

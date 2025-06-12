@@ -1,7 +1,11 @@
 ---
 name: Beerus
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763146
+created: '2025-06-12T21:06:31.786700+00:00'
+updated: '2025-06-12T21:06:31.786706+00:00'
 ---
 
 # Beerus

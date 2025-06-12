@@ -1,6 +1,9 @@
 ---
 name: Gelvin (Elflings)
 type: Elf
+entity_id: 7763194
+created: '2025-06-12T21:07:08.178581+00:00'
+updated: '2025-06-12T21:07:08.178587+00:00'
 ---
 
 # Gelvin (Elflings)

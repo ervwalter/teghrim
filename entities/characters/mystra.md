@@ -1,7 +1,11 @@
 ---
 name: Mystra
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763161
+created: '2025-06-12T21:06:38.436101+00:00'
+updated: '2025-06-12T21:06:38.436106+00:00'
 ---
 
 # Mystra

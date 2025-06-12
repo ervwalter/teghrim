@@ -1,7 +1,11 @@
 ---
 name: Moradin
 type: Deity
-tags: ['Demigod']
+tags:
+- Demigod
+entity_id: 7763150
+created: '2025-06-12T21:06:33.487953+00:00'
+updated: '2025-06-12T21:06:33.487958+00:00'
 ---
 
 # Moradin

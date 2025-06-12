@@ -1,6 +1,9 @@
 ---
 name: Tiefling
 type: Other
+entity_id: 7763224
+created: '2025-06-12T21:07:20.997499+00:00'
+updated: '2025-06-12T21:07:20.997504+00:00'
 ---
 
 # Tiefling

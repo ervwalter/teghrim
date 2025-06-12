@@ -1,6 +1,9 @@
 ---
 name: Frerheim
 type: Region
+entity_id: 7763184
+created: '2025-06-12T21:07:03.954631+00:00'
+updated: '2025-06-12T21:07:03.954636+00:00'
 ---
 
 # Frerheim

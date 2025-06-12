@@ -1,6 +1,9 @@
 ---
 name: Shangdu / Oceanus
 type: Continent
+entity_id: 7763168
+created: '2025-06-12T21:06:57.281026+00:00'
+updated: '2025-06-12T21:06:57.281033+00:00'
 ---
 
 # Shangdu / Oceanus

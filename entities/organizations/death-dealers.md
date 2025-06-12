@@ -1,6 +1,9 @@
 ---
 name: Death Dealers
 type: Religious Order
+entity_id: 7763124
+created: '2025-06-12T21:06:21.909961+00:00'
+updated: '2025-06-12T21:06:21.909967+00:00'
 ---
 
 # Death Dealers

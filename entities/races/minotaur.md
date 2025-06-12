@@ -1,6 +1,9 @@
 ---
 name: Minotaur
 type: Beastkin
+entity_id: 7763206
+created: '2025-06-12T21:07:13.402481+00:00'
+updated: '2025-06-12T21:07:13.402486+00:00'
 ---
 
 # Minotaur

@@ -1,6 +1,9 @@
 ---
 name: Children of Death
 type: Religious Order
+entity_id: 7763125
+created: '2025-06-12T21:06:22.332004+00:00'
+updated: '2025-06-12T21:06:22.332010+00:00'
 ---
 
 # Children of Death

@@ -1,26 +1,35 @@
 ---
+entity_id: 7763149
 name: Isis
 type: Deity
-tags: ['Demigod']
+tags:
+- Demigod
+is_hidden: false
+created: '2025-06-12T21:06:32+00:00'
+updated: '2025-06-12T21:06:32+00:00'
 ---
 
 # Isis
 
 ## Basic Information
+
 - **Type**: Demigod - Human/Egyptian
 - **Title**: Goddess of Funerary Rites, Motherhood, Protection, and Magic
 - **Domain**: Death rites, motherhood, protection, Egyptian magic
 
 ## Description
+
 Isis is an ancient Egyptian demigod who has maintained her influence through the ages. She represents the protective aspects of motherhood, proper funeral rites to ensure peaceful afterlife, and the ancient magical traditions of Aegyptus. She remains central to Sand Kingdoms culture.
 
 ## Worship & Influence
+
 - Sand Kingdoms (Aegyptus)
 - Mothers seeking protection
 - Funeral practitioners
 - Egyptian mages
 
 ## Divine Portfolio
+
 - Proper burial rites
 - Maternal protection
 - Ancient Egyptian magic
@@ -29,12 +38,14 @@ Isis is an ancient Egyptian demigod who has maintained her influence through the
 - Family bonds
 
 ## Relations with Other Deities
+
 - Human/Egyptian demigod
 - Works with Pharasma (death rites)
 - Protective of Helios
 - Mother figure to many
 
 ## Followers
+
 - Egyptian priests
 - Midwives
 - Morticians
@@ -43,6 +54,7 @@ Isis is an ancient Egyptian demigod who has maintained her influence through the
 - Khem-ri also worship
 
 ## Divine Principles
+
 - Proper burial ensures peace
 - Mothers protect all
 - Ancient magic endures
@@ -51,12 +63,15 @@ Isis is an ancient Egyptian demigod who has maintained her influence through the
 - Protection through ritual
 
 ## Divine Limitations
+
 As a demigod:
+
 - Primarily influences Aegyptus
 - Ancient power waning
 - Works through traditions
 
 ## Common Symbols
+
 - Ankh
 - Protective wings
 - Throne hieroglyph

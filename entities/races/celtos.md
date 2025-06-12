@@ -1,6 +1,9 @@
 ---
 name: Celtos
 type: Human
+entity_id: 7763210
+created: '2025-06-12T21:07:14.977878+00:00'
+updated: '2025-06-12T21:07:14.977884+00:00'
 ---
 
 # Celtos

@@ -1,6 +1,9 @@
 ---
 name: The Iron Kingdoms (Human)
 type: Human
+entity_id: 7763201
+created: '2025-06-12T21:07:11.229261+00:00'
+updated: '2025-06-12T21:07:11.229266+00:00'
 ---
 
 # The Iron Kingdoms (Human)

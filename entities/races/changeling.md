@@ -1,6 +1,9 @@
 ---
 name: Changeling
 type: Fey
+entity_id: 7763214
+created: '2025-06-12T21:07:16.600618+00:00'
+updated: '2025-06-12T21:07:16.600624+00:00'
 ---
 
 # Changeling

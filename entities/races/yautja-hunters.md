@@ -1,6 +1,9 @@
 ---
 name: Yautja (Hunters, Predators)
 type: Other
+entity_id: 7763217
+created: '2025-06-12T21:07:17.907736+00:00'
+updated: '2025-06-12T21:07:17.907742+00:00'
 ---
 
 # Yautja (Hunters, Predators)

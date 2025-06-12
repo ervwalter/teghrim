@@ -1,6 +1,9 @@
 ---
 name: Aegyptus
 type: Continent
+entity_id: 7763182
+created: '2025-06-12T21:07:03.153735+00:00'
+updated: '2025-06-12T21:07:03.153740+00:00'
 ---
 
 # Aegyptus

@@ -1,7 +1,11 @@
 ---
 name: Wee Jas
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763152
+created: '2025-06-12T21:06:34.372178+00:00'
+updated: '2025-06-12T21:06:34.372184+00:00'
 ---
 
 # Wee Jas

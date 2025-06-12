@@ -1,6 +1,9 @@
 ---
 name: Tamenroah Highlands
 type: Region
+entity_id: 7763171
+created: '2025-06-12T21:06:58.500076+00:00'
+updated: '2025-06-12T21:06:58.500082+00:00'
 ---
 
 # Tamenroah Highlands

@@ -1,20 +1,27 @@
 ---
+entity_id: 7763129
 name: Circle of Orboros
 type: Support Network
+is_hidden: false
+created: '2025-06-12T21:06:23+00:00'
+updated: '2025-06-12T21:06:23+00:00'
 ---
 
 # Circle of Orboros
 
 ## Basic Information
+
 - **Type**: Nature Support Network
 - **Affiliation**: Nature-aligned individuals
 - **Membership**: Druids, shamans, witches, nature defenders
 - **Scope**: Loose network across Septerra
 
 ## Description
+
 Circle of Orboros are a very loose collection of druids, shamans, witches, and others who have a strong affinity for the natural world. They don't have any real structure or organization, but are rather more of a support network. Their main goal is to help the civilized world co-exist with nature.
 
 ## Primary Purpose
+
 - Foster civilization-nature coexistence
 - Share natural knowledge
 - Protect threatened wilderness
@@ -22,6 +29,7 @@ Circle of Orboros are a very loose collection of druids, shamans, witches, and o
 - Teach sustainable practices
 
 ## Membership Requirements
+
 - Trained in Nature
 - Any nature-aligned class
 - Respect for natural balance
@@ -29,6 +37,7 @@ Circle of Orboros are a very loose collection of druids, shamans, witches, and o
 - Willingness to help
 
 ## Activities
+
 - Teaching sustainable farming
 - Mediating land disputes
 - Protecting sacred groves
@@ -37,6 +46,7 @@ Circle of Orboros are a very loose collection of druids, shamans, witches, and o
 - Guiding lost travelers
 
 ## Network Structure
+
 - No formal leadership
 - Regional gatherings
 - Knowledge sharing
@@ -45,6 +55,7 @@ Circle of Orboros are a very loose collection of druids, shamans, witches, and o
 - Seasonal meetings
 
 ## Methods
+
 - Education over force
 - Compromise solutions
 - Natural harmony
@@ -53,6 +64,7 @@ Circle of Orboros are a very loose collection of druids, shamans, witches, and o
 - Gradual change
 
 ## Relations
+
 - Welcomed by farmers
 - Trusted mediators
 - Respected by most
@@ -61,6 +73,7 @@ Circle of Orboros are a very loose collection of druids, shamans, witches, and o
 - Bridge cultures
 
 ## Communication
+
 - Natural signs
 - Druidic marks
 - Seasonal gatherings
@@ -69,6 +82,7 @@ Circle of Orboros are a very loose collection of druids, shamans, witches, and o
 - Traveler networks
 
 ## Identifying Features
+
 - Natural clothing
 - Druidic symbols
 - Animal companions

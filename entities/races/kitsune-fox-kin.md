@@ -1,6 +1,9 @@
 ---
 name: Kitsune (Fox-kin)
 type: Beastkin
+entity_id: 7763225
+created: '2025-06-12T21:07:21.437859+00:00'
+updated: '2025-06-12T21:07:21.437865+00:00'
 ---
 
 # Kitsune (Fox-kin)

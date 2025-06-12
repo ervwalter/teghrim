@@ -1,6 +1,9 @@
 ---
 name: Dhampir
 type: Other
+entity_id: 7763193
+created: '2025-06-12T21:07:07.723873+00:00'
+updated: '2025-06-12T21:07:07.723878+00:00'
 ---
 
 # Dhampir

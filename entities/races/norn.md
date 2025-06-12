@@ -1,6 +1,9 @@
 ---
 name: Norn
 type: Other
+entity_id: 7763211
+created: '2025-06-12T21:07:15.376645+00:00'
+updated: '2025-06-12T21:07:15.376651+00:00'
 ---
 
 # Norn

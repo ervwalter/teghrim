@@ -1,7 +1,11 @@
 ---
 name: Khorn
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763145
+created: '2025-06-12T21:06:31.400299+00:00'
+updated: '2025-06-12T21:06:31.400305+00:00'
 ---
 
 # Khorn

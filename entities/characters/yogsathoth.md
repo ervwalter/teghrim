@@ -1,7 +1,11 @@
 ---
 name: Yogsathoth
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763148
+created: '2025-06-12T21:06:32.646965+00:00'
+updated: '2025-06-12T21:06:32.646971+00:00'
 ---
 
 # Yogsathoth

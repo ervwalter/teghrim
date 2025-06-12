@@ -1,7 +1,11 @@
 ---
 name: Stendarr
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763138
+created: '2025-06-12T21:06:28.387229+00:00'
+updated: '2025-06-12T21:06:28.387234+00:00'
 ---
 
 # Stendarr

@@ -1,6 +1,9 @@
 ---
 name: Celadrin
 type: Elf
+entity_id: 7763192
+created: '2025-06-12T21:07:07.272021+00:00'
+updated: '2025-06-12T21:07:07.272028+00:00'
 ---
 
 # Celadrin

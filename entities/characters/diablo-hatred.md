@@ -1,7 +1,11 @@
 ---
 name: Diablo
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763136
+created: '2025-06-12T21:06:27.516816+00:00'
+updated: '2025-06-12T21:06:27.516822+00:00'
 ---
 
 # Diablo

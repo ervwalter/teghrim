@@ -1,6 +1,9 @@
 ---
 name: Aurorin (Frost Elves)
 type: Elf
+entity_id: 7763195
+created: '2025-06-12T21:07:08.756881+00:00'
+updated: '2025-06-12T21:07:08.756887+00:00'
 ---
 
 # Aurorin (Frost Elves)

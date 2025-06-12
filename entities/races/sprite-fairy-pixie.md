@@ -1,6 +1,9 @@
 ---
 name: Sprite / Fairy / Pixie
 type: Fey
+entity_id: 7763221
+created: '2025-06-12T21:07:19.736991+00:00'
+updated: '2025-06-12T21:07:19.736996+00:00'
 ---
 
 # Sprite / Fairy / Pixie

@@ -1,6 +1,9 @@
 ---
 name: Nagaji
 type: Beastkin
+entity_id: 7763226
+created: '2025-06-12T21:07:21.864866+00:00'
+updated: '2025-06-12T21:07:21.864871+00:00'
 ---
 
 # Nagaji

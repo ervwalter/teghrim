@@ -1,6 +1,9 @@
 ---
 name: Golgorun Plains
 type: Region
+entity_id: 7763179
+created: '2025-06-12T21:07:01.902100+00:00'
+updated: '2025-06-12T21:07:01.902105+00:00'
 ---
 
 # Golgorun Plains

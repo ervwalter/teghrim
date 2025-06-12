@@ -1,6 +1,9 @@
 ---
 name: Kobolds
 type: Other
+entity_id: 7763203
+created: '2025-06-12T21:07:11.999799+00:00'
+updated: '2025-06-12T21:07:11.999807+00:00'
 ---
 
 # Kobolds

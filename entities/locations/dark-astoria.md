@@ -1,20 +1,27 @@
 ---
+entity_id: 7763170
 name: Dark Astoria
 type: Region
+is_hidden: false
+created: '2025-06-12T21:06:57+00:00'
+updated: '2025-06-12T21:06:57+00:00'
 ---
 
 # Dark Astoria
 
 ## Basic Information
+
 - **Type**: Region within Astoria
 - **Location**: Specific area of Astoria (X3)
 - **Climate**: Gothic, perpetually dark
 - **Importance**: Shadow Elf refuge
 
 ## Description
+
 Dark Astoria is a specific region within the vampire-controlled continent of Astoria. It is known for its tall, gothic forests where the Shadow Elves (Delvin) have managed to survive despite vampire oppression. The region represents one of the few areas where non-vampires maintain some autonomy within Astoria.
 
 ## Geography
+
 - Tall gothic forests
 - Perpetual twilight
 - Hidden settlements
@@ -22,6 +29,7 @@ Dark Astoria is a specific region within the vampire-controlled continent of Ast
 - Natural barriers
 
 ## Major Inhabitants
+
 - **Shadow Elves (Delvin)**: Primary population
 - **Some Dhampir**: Elf-ancestry
 - **Forest spirits**: Corrupted fey
@@ -29,6 +37,7 @@ Dark Astoria is a specific region within the vampire-controlled continent of Ast
 - **Dark creatures**: Various threats
 
 ## Unique Features
+
 - Gothic forest aesthetic
 - Natural vampire deterrents
 - Hidden elf refuges
@@ -36,6 +45,7 @@ Dark Astoria is a specific region within the vampire-controlled continent of Ast
 - Twisted nature
 
 ## Shadow Elf Adaptations
+
 - Immunity to Miasma
 - Survival strategies
 - Hidden communities
@@ -43,6 +53,7 @@ Dark Astoria is a specific region within the vampire-controlled continent of Ast
 - Trade smuggling
 
 ## Current Situation
+
 - Constant vigilance
 - Vampire threat
 - Seeking outside allies
@@ -50,6 +61,7 @@ Dark Astoria is a specific region within the vampire-controlled continent of Ast
 - Slow recovery
 
 ## Defenses
+
 - Natural barriers
 - Hidden locations
 - Guerrilla tactics
@@ -57,6 +69,7 @@ Dark Astoria is a specific region within the vampire-controlled continent of Ast
 - Community solidarity
 
 ## Relations with Vampires
+
 - Oppressed population
 - Occasional raids
 - Forced tribute
@@ -64,6 +77,7 @@ Dark Astoria is a specific region within the vampire-controlled continent of Ast
 - Resistance efforts
 
 ## Hope for Future
+
 - Outside contact growing
 - Trade possibilities
 - Alliance seeking
@@ -71,6 +85,7 @@ Dark Astoria is a specific region within the vampire-controlled continent of Ast
 - Eventual freedom
 
 ## Historical Significance
+
 - Original inhabitants
 - Survived vampire conquest
 - Maintained elf presence

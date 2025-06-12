@@ -1,7 +1,11 @@
 ---
 name: Morathi
 type: Deity
-tags: ['Demigod']
+tags:
+- Demigod
+entity_id: 7763164
+created: '2025-06-12T21:06:55.506047+00:00'
+updated: '2025-06-12T21:06:55.506053+00:00'
 ---
 
 # Morathi

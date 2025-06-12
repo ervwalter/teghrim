@@ -1,20 +1,27 @@
 ---
+entity_id: 7763189
 name: Tir Asleen
 type: Region
+is_hidden: false
+created: '2025-06-12T21:07:05+00:00'
+updated: '2025-06-12T21:07:05+00:00'
 ---
 
 # Tir Asleen
 
 ## Basic Information
+
 - **Type**: Elven Forest Kingdom
 - **Location**: Within Lindon
 - **Climate**: Temperate forest
 - **Importance**: Sylvan Elf homeland
 
 ## Description
+
 Tir Asleen is the ancestral homeland of the Sylvan (Wood) Elves within the greater forest continent of Lindon. These ancient woodlands have sheltered the Wood Elves through the Dark Times and remain one of the last great elven kingdoms. The forest itself seems alive with ancient magic and protective spirits.
 
 ## Geography
+
 - Ancient forest groves
 - Hidden settlements
 - Sacred sites
@@ -22,6 +29,7 @@ Tir Asleen is the ancestral homeland of the Sylvan (Wood) Elves within the great
 - Mystical paths
 
 ## Culture
+
 - Wood Elf traditions
 - Harmony with nature
 - Druidic practices
@@ -29,6 +37,7 @@ Tir Asleen is the ancestral homeland of the Sylvan (Wood) Elves within the great
 - Forest magic
 
 ## Defenses
+
 - Natural barriers
 - Forest spirits
 - Hidden paths
@@ -36,6 +45,7 @@ Tir Asleen is the ancestral homeland of the Sylvan (Wood) Elves within the great
 - Ancient wards
 
 ## Relations
+
 - Allied with Celtos
 - Tensions with Iron Kingdoms
 - Halfling communities nearby
@@ -43,6 +53,7 @@ Tir Asleen is the ancestral homeland of the Sylvan (Wood) Elves within the great
 - Limited outside contact
 
 ## Current Challenges
+
 - Iron Kingdom encroachment
 - Deforestation threats
 - Cultural preservation
@@ -50,6 +61,7 @@ Tir Asleen is the ancestral homeland of the Sylvan (Wood) Elves within the great
 - Modernization pressure
 
 ## Sacred Sites
+
 - Ancient trees
 - Druid groves
 - Spirit pools
@@ -57,6 +69,7 @@ Tir Asleen is the ancestral homeland of the Sylvan (Wood) Elves within the great
 - Fey crossings
 
 ## Resources
+
 - Rare woods
 - Medicinal herbs
 - Elven crafts

@@ -1,6 +1,9 @@
 ---
 name: The Sand Kingdoms (Human)
 type: Human
+entity_id: 7763208
+created: '2025-06-12T21:07:14.186371+00:00'
+updated: '2025-06-12T21:07:14.186377+00:00'
 ---
 
 # The Sand Kingdoms (Human)

@@ -1,6 +1,9 @@
 ---
 name: Nock'Maar
 type: Region
+entity_id: 7763169
+created: '2025-06-12T21:06:57.664561+00:00'
+updated: '2025-06-12T21:06:57.664567+00:00'
 ---
 
 # Nock'Maar

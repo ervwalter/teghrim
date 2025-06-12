@@ -1,7 +1,11 @@
 ---
 name: Cthulhu
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763162
+created: '2025-06-12T21:06:38.869599+00:00'
+updated: '2025-06-12T21:06:38.869605+00:00'
 ---
 
 # Cthulhu

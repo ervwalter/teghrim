@@ -1,6 +1,9 @@
 ---
 name: Goblins
 type: Goblinoid
+entity_id: 7763229
+created: '2025-06-12T21:07:23.139990+00:00'
+updated: '2025-06-12T21:07:23.139995+00:00'
 ---
 
 # Goblins

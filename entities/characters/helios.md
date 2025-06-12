@@ -1,7 +1,11 @@
 ---
 name: Helios
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763147
+created: '2025-06-12T21:06:32.221241+00:00'
+updated: '2025-06-12T21:06:32.221246+00:00'
 ---
 
 # Helios

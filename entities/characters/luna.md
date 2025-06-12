@@ -1,7 +1,11 @@
 ---
 name: Luna
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763154
+created: '2025-06-12T21:06:35.259209+00:00'
+updated: '2025-06-12T21:06:35.259215+00:00'
 ---
 
 # Luna

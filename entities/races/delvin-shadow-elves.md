@@ -1,6 +1,9 @@
 ---
 name: Delvin (Shadow Elf or Grey Elf)
 type: Elf
+entity_id: 7763202
+created: '2025-06-12T21:07:11.621144+00:00'
+updated: '2025-06-12T21:07:11.621150+00:00'
 ---
 
 # Delvin (Shadow Elf or Grey Elf)

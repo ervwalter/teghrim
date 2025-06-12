@@ -1,6 +1,9 @@
 ---
 name: Gnoll
 type: Other
+entity_id: 7763207
+created: '2025-06-12T21:07:13.797456+00:00'
+updated: '2025-06-12T21:07:13.797461+00:00'
 ---
 
 # Gnoll

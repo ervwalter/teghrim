@@ -1,7 +1,11 @@
 ---
 name: Sharindlar
 type: Deity
-tags: ['Demigod']
+tags:
+- Demigod
+entity_id: 7763159
+created: '2025-06-12T21:06:37.418682+00:00'
+updated: '2025-06-12T21:06:37.418689+00:00'
 ---
 
 # Sharindlar

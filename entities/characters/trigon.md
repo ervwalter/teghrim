@@ -1,7 +1,11 @@
 ---
 name: Trigon
 type: Deity
-tags: ['Greater Deity']
+tags:
+- Greater Deity
+entity_id: 7763158
+created: '2025-06-12T21:06:36.964080+00:00'
+updated: '2025-06-12T21:06:36.964086+00:00'
 ---
 
 # Trigon

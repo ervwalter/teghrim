@@ -1,6 +1,9 @@
 ---
 name: Black Templars
 type: Religious Order
+entity_id: 7763126
+created: '2025-06-12T21:06:22.774960+00:00'
+updated: '2025-06-12T21:06:22.774966+00:00'
 ---
 
 # Black Templars

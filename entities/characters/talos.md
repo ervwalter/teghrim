@@ -1,7 +1,11 @@
 ---
 name: Talos
 type: Deity
-tags: ['Demigod']
+tags:
+- Demigod
+entity_id: 7763157
+created: '2025-06-12T21:06:36.525206+00:00'
+updated: '2025-06-12T21:06:36.525212+00:00'
 ---
 
 # Talos

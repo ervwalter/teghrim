@@ -1,6 +1,9 @@
 ---
 name: Cimmeria
 type: Region
+entity_id: 7763181
+created: '2025-06-12T21:07:02.771212+00:00'
+updated: '2025-06-12T21:07:02.771218+00:00'
 ---
 
 # Cimmeria

@@ -1,6 +1,9 @@
 ---
 name: Romanus (Leonen)
 type: Human
+entity_id: 7763204
+created: '2025-06-12T21:07:12.531196+00:00'
+updated: '2025-06-12T21:07:12.531203+00:00'
 ---
 
 # Romanus (Leonen)

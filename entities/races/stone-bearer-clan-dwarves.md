@@ -1,6 +1,9 @@
 ---
 name: Stone-Bearer Clan (Hill Dwarves)
 type: Dwarf
+entity_id: 7763191
+created: '2025-06-12T21:07:06.858407+00:00'
+updated: '2025-06-12T21:07:06.858413+00:00'
 ---
 
 # Stone-Bearer Clan (Hill Dwarves)

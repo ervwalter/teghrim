@@ -1,6 +1,9 @@
 ---
 name: Ogre/Troll
 type: Other
+entity_id: 7763197
+created: '2025-06-12T21:07:09.645580+00:00'
+updated: '2025-06-12T21:07:09.645585+00:00'
 ---
 
 # Ogre/Troll
