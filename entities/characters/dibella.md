@@ -1,6 +1,7 @@
 ---
+name: Dibella the Dancer
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Dibella the Dancer

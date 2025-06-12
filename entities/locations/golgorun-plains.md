@@ -1,4 +1,5 @@
 ---
+name: Golgorun Plains
 type: Region
 ---
 

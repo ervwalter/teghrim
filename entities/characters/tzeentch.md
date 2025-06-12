@@ -1,6 +1,7 @@
 ---
+name: Tzeentch
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Tzeentch

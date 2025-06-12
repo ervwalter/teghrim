@@ -1,6 +1,7 @@
 ---
+name: Teclis
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Teclis

@@ -1,4 +1,5 @@
 ---
+name: Bugbear
 type: Goblinoid
 ---
 

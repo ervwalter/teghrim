@@ -1,6 +1,7 @@
 ---
+name: Sylvanos
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Sylvanos

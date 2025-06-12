@@ -1,4 +1,5 @@
 ---
+name: Black Templars
 type: Religious Order
 ---
 

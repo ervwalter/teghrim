@@ -1,4 +1,5 @@
 ---
+name: Celadrin
 type: Elf
 ---
 

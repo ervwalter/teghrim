@@ -1,4 +1,5 @@
 ---
+name: Nagaji
 type: Beastkin
 ---
 

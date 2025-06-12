@@ -1,6 +1,7 @@
 ---
+name: Chronos the Watcher
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Chronos the Watcher

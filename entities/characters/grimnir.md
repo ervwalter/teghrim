@@ -1,6 +1,7 @@
 ---
+name: Grimnir
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Grimnir

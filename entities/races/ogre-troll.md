@@ -1,4 +1,5 @@
 ---
+name: Ogre/Troll
 type: Other
 ---
 

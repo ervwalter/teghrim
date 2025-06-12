@@ -1,6 +1,7 @@
 ---
+name: Crom
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Crom

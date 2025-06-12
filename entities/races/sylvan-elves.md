@@ -1,4 +1,5 @@
 ---
+name: Sylvan (Wood Elves)
 type: Elf
 ---
 

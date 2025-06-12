@@ -1,6 +1,7 @@
 ---
+name: Sharindlar
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Sharindlar

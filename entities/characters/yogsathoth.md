@@ -1,6 +1,7 @@
 ---
+name: Yogsathoth
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Yogsathoth

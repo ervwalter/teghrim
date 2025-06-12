@@ -1,4 +1,5 @@
 ---
+name: Dryder
 type: Monstrous
 ---
 

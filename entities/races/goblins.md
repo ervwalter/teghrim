@@ -1,4 +1,5 @@
 ---
+name: Goblins
 type: Goblinoid
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: Stone-Bearer Clan (Hill Dwarves)
 type: Dwarf
 ---
 

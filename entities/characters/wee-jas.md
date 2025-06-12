@@ -1,6 +1,7 @@
 ---
+name: Wee Jas
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Wee Jas

@@ -1,4 +1,5 @@
 ---
+name: Delvin (Shadow Elf or Grey Elf)
 type: Elf
 ---
 

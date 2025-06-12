@@ -1,6 +1,7 @@
 ---
+name: Morathi
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Morathi

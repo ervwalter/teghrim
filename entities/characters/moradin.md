@@ -1,6 +1,7 @@
 ---
+name: Moradin
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Moradin

@@ -1,6 +1,7 @@
 ---
+name: Lolth
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Lolth

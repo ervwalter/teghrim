@@ -1,4 +1,5 @@
 ---
+name: Gnoll
 type: Other
 ---
 

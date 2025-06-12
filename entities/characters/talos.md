@@ -1,6 +1,7 @@
 ---
+name: Talos
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Talos

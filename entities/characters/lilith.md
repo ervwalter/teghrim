@@ -1,6 +1,7 @@
 ---
+name: Lilith (The Night Mother, Nemesis)
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Lilith (The Night Mother, Nemesis)

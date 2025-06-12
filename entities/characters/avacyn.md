@@ -1,6 +1,7 @@
 ---
+name: Avacyn
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Avacyn

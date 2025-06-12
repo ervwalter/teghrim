@@ -1,4 +1,5 @@
 ---
+name: The Obsidian Kingdoms (Human)
 type: Human
 ---
 

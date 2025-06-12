@@ -1,4 +1,5 @@
 ---
+name: Astoria
 type: Continent
 ---
 

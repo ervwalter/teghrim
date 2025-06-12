@@ -1,6 +1,7 @@
 ---
+name: Celestine
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Celestine

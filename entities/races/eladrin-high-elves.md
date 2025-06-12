@@ -1,4 +1,5 @@
 ---
+name: Eladrin (High Elves)
 type: Elf
 ---
 

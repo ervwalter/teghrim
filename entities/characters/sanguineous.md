@@ -1,6 +1,7 @@
 ---
+name: Sanguineous
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Sanguineous

@@ -1,4 +1,5 @@
 ---
+name: Highland Clan (Mountain Dwarves)
 type: Dwarf
 ---
 

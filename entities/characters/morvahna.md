@@ -1,6 +1,7 @@
 ---
+name: Morvahna
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Morvahna

@@ -1,4 +1,5 @@
 ---
+name: Aurorin (Frost Elves)
 type: Elf
 ---
 

@@ -1,6 +1,7 @@
 ---
+name: Isis
 type: Deity
-tags: [Demigod]
+tags: ['Demigod']
 ---
 
 # Isis

@@ -1,6 +1,7 @@
 ---
+name: Mystra
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Mystra

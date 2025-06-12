@@ -1,4 +1,5 @@
 ---
+name: Kobolds
 type: Other
 ---
 

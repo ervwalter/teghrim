@@ -1,4 +1,5 @@
 ---
+name: Solstheim
 type: Island
 ---
 

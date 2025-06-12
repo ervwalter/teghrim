@@ -1,6 +1,7 @@
 ---
+name: Stendarr
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Stendarr

@@ -1,4 +1,5 @@
 ---
+name: Kitsune (Fox-kin)
 type: Beastkin
 ---
 

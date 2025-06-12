@@ -1,6 +1,7 @@
 ---
+name: Cthulhu
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Cthulhu

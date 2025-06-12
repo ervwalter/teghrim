@@ -1,4 +1,5 @@
 ---
+name: Frerheim
 type: Region
 ---
 

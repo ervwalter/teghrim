@@ -1,6 +1,7 @@
 ---
+name: Aris (Eris)
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Aris (Eris)

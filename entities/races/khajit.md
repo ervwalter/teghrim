@@ -1,4 +1,5 @@
 ---
+name: Khajit
 type: Beastkin
 ---
 

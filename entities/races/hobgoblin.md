@@ -1,4 +1,5 @@
 ---
+name: Hobgoblin
 type: Goblinoid
 ---
 

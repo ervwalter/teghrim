@@ -1,6 +1,7 @@
 ---
+name: Diablo
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Diablo

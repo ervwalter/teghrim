@@ -1,4 +1,5 @@
 ---
+name: Centaur
 type: Beastkin
 ---
 

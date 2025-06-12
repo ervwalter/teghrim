@@ -1,6 +1,7 @@
 ---
+name: Trigon
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Trigon

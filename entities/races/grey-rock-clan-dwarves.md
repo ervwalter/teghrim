@@ -1,4 +1,5 @@
 ---
+name: Grey-Rock Clan (Duergar)
 type: Dwarf
 ---
 

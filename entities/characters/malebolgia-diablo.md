@@ -1,6 +1,7 @@
 ---
+name: Malebolgia (aka Diablo)
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Malebolgia (aka Diablo)

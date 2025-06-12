@@ -1,6 +1,7 @@
 ---
+name: Luna
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Luna

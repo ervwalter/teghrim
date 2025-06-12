@@ -1,4 +1,5 @@
 ---
+name: Khem-ri
 type: Beastkin
 ---
 

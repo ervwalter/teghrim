@@ -1,6 +1,7 @@
 ---
+name: Tyrael
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Tyrael

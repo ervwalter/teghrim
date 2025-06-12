@@ -1,4 +1,5 @@
 ---
+name: Sprite / Fairy / Pixie
 type: Fey
 ---
 

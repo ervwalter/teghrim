@@ -1,4 +1,5 @@
 ---
+name: The Sand Kingdoms (Human)
 type: Human
 ---
 

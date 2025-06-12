@@ -1,4 +1,5 @@
 ---
+name: Dwarven Slayer Cults
 type: Military Order
 ---
 

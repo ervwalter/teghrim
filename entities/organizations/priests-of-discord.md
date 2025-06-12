@@ -1,4 +1,5 @@
 ---
+name: Priests of Discord
 type: Religious Order
 ---
 

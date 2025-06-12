@@ -1,6 +1,7 @@
 ---
+name: Beerus
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Beerus

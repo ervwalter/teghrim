@@ -1,6 +1,7 @@
 ---
+name: Orpheus the Singer
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Orpheus the Singer

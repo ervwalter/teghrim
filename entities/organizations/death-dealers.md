@@ -1,4 +1,5 @@
 ---
+name: Death Dealers
 type: Religious Order
 ---
 

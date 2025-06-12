@@ -1,4 +1,5 @@
 ---
+name: The Jade Kingdoms (Human)
 type: Human
 ---
 

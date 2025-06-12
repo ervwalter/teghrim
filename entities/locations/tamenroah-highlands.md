@@ -1,4 +1,5 @@
 ---
+name: Tamenroah Highlands
 type: Region
 ---
 

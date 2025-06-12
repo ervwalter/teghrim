@@ -1,4 +1,5 @@
 ---
+name: Children of Death
 type: Religious Order
 ---
 

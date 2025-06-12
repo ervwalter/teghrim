@@ -1,6 +1,7 @@
 ---
+name: Khorn
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Khorn

@@ -1,6 +1,7 @@
 ---
+name: Pharasma
 type: Deity
-tags: [Greater Deity]
+tags: ['Greater Deity']
 ---
 
 # Pharasma
