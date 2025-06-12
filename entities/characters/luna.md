@@ -1,30 +1,35 @@
 ---
+entity_id: 7763154
 name: Luna
 type: Deity
 tags:
 - Greater Deity
-entity_id: 7763154
-created: '2025-06-12T21:06:35.259209+00:00'
-updated: '2025-06-12T21:06:35.259215+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:35+00:00'
+updated: '2025-06-12T21:53:21+00:00'
 ---
 
 # Luna
 
 ## Basic Information
+
 - **Type**: Deity - Scion of Nature
 - **Title**: Spirit of the Moon
 - **Domain**: The moon, night, tides, cycles
 
 ## Description
+
 Luna is the spirit of the moon, one of the Scions of Nature. She represents the mysterious night, the pull of the tides, monthly cycles, and the subtle magic of moonlight. Neither good nor evil, Luna is essential to the natural order and particularly important to shapeshifters and sea peoples.
 
 ## Worship & Influence
+
 - Central to Lycan cultures
 - Important to seafaring peoples
 - Women's mysteries
 - Tied to shapeshifting
 
 ## Divine Portfolio
+
 - Lunar cycles
 - Ocean tides
 - Night's mysteries
@@ -33,12 +38,14 @@ Luna is the spirit of the moon, one of the Scions of Nature. She represents the 
 - Women's cycles
 
 ## Relations with Other Deities
+
 - Scion of Nature with Helios and Gia
 - Works in harmony with Helios
 - Influences lycanthrope changes
 - Neutral in divine conflicts
 
 ## Followers
+
 - Kitsune especially devoted
 - Khem-ri worship her
 - Seafarers and navigators
@@ -47,6 +54,7 @@ Luna is the spirit of the moon, one of the Scions of Nature. She represents the 
 - Dream mystics
 
 ## Divine Practices
+
 - Full moon ceremonies
 - Tide rituals
 - Night vigils
@@ -54,12 +62,15 @@ Luna is the spirit of the moon, one of the Scions of Nature. She represents the 
 - Shapeshifting rites
 
 ## Divine Limitations
+
 Subject to the "Decree Passive":
+
 - Cannot alter moon's path
 - Works through natural cycles
 - Influences through moonlight
 
 ## Common Symbols
+
 - Crescent moon
 - Full moon disk
 - Tidal waves
