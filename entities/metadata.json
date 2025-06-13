@@ -1,0 +1,89 @@
+{
+  "entity_types": {
+    "races": {
+      "types": [
+        "Elf",
+        "Human",
+        "Dwarf",
+        "Goblinoid",
+        "Beastkin",
+        "Fey",
+        "Other"
+      ]
+    },
+    "characters": {
+      "types": [
+        "Deity",
+        "Player Character",
+        "NPC"
+      ],
+      "tags": [
+        "Greater Deity",
+        "Demigod",
+        "Lesser Deity",
+        "Dramatis Personae"
+      ]
+    },
+    "notes": {
+      "types": [
+        "Session Digest",
+        "GM Note",
+        "Lore",
+        "Rules Reference"
+      ],
+      "tags": [
+        "Digest",
+        "Processed"
+      ]
+    },
+    "organizations": {
+      "types": [
+        "Religious Order",
+        "Military Order",
+        "Guild",
+        "Secret Society",
+        "Support Network"
+      ]
+    },
+    "locations": {
+      "types": [
+        "Continent",
+        "Region",
+        "City",
+        "Settlement",
+        "Island",
+        "Landmark"
+      ]
+    },
+    "creatures": {
+      "types": [
+        "Animal",
+        "Monstrous"
+      ]
+    },
+    "quests": {
+      "types": [
+        "Main Quest",
+        "Side Quest",
+        "Personal Quest",
+        "Investigation",
+        "Combat Mission"
+      ],
+      "tags": [
+        "active",
+        "completed",
+        "failed",
+        "paused"
+      ]
+    }
+  },
+  "notes": {
+    "races": "Type indicates the broad category of ancestry/species",
+    "characters": "Types include Deity, Player Character, and NPC. Tags include divine ranks and Dramatis Personae status",
+    "organizations": "Type indicates the organization's primary function",
+    "locations": "Type indicates the scale/nature of the location",
+    "creatures": "Type distinguishes natural animals from supernatural/monstrous beings",
+    "quests": "Type indicates quest category. Tags track current status",
+    "notes": "Type indicates note category. Rules Reference type provides important campaign mechanics and context to agents. Tags control categorization and processing status"
+  }
+}

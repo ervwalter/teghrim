@@ -1,0 +1,42 @@
+---
+name: Sigrid
+type: NPC
+tags: []
+is_hidden: false
+created: '2025-06-13T02:25:41.493334+00:00'
+updated: '2025-06-13T05:21:52.528014+00:00'
+entity_id: 7764194
+---
+
+# Sigrid
+
+## Overview
+Sigrid is a [entity:7763211|Norn] woman who fled [entity:7763178|Solstheim] and now works with caravans and the general store at [entity:7763187|Teghrim's Crossing]. As [entity:7764100|Grimnar's] niece, she maintains family connections while helping coordinate traditional festivals and serving as a cultural bridge for other [entity:7763211|Norn] travelers.
+
+## Description
+### Physical Appearance
+A [entity:7763211|Norn] woman with the typical Nordic features of her people from [entity:7763178|Solstheim].
+
+### Personality & Demeanor
+Culturally connected to her [entity:7763211|Norn] heritage while adapting to frontier life. Enthusiastic about maintaining traditional celebrations and connecting with fellow [entity:7763211|Norn] travelers who share her language and customs.
+
+### Abilities & Skills
+Fluent in Skald language, allowing communication with other [entity:7763211|Norn] travelers. Experienced in caravan operations and general store management, with knowledge of traditional festival planning and cultural practices.
+
+## Background
+Originally from [entity:7763178|Solstheim], she fled her homeland for unknown reasons and established herself at [entity:7763187|Teghrim's Crossing] where she works in commerce while maintaining family ties to her uncle [entity:7764100|Grimnar].
+
+## Relationships
+- **[entity:7764100|Grimnar Bjornson]**: Uncle who operates as a beekeeper on his island south of the bridge
+- **[entity:7763290|Arnór Josefson]**: Fellow [entity:7763211|Norn] with whom she can communicate in Skald language, planning traditional festivals together
+- **Caravan Networks**: Works closely with traveling merchants and trade operations
+- **General Store Operations**: Integral part of [entity:7763187|Teghrim's Crossing] commercial activities
+
+## Notable History
+- **The Flight from [entity:7763178|Solstheim]**: Left her homeland under circumstances that brought her to the frontier territories
+- **The Family Connection**: Established relationship with uncle [entity:7764100|Grimnar] while building independent life
+- **The Cultural Bridge**: Began serving as connection point for [entity:7763211|Norn] travelers passing through the settlement
+- **The Festival Planning**: Started organizing Old Lughnass festival for September 22nd with fellow [entity:7763211|Norn] [entity:7763290|Arnór]
+
+## Current Status
+Actively working in caravan and general store operations while planning traditional Norn celebrations and maintaining cultural connections with visiting travelers from her homeland.
