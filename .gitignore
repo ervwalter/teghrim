@@ -1,5 +1,6 @@
 # Project-specific
 audio/
+.digests_temp/
 
 # Environment variables
 .env

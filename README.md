@@ -1,156 +1,164 @@
 # Teghrim Campaign Management System
 
+An AI-powered pipeline for transforming tabletop RPG session recordings into structured, searchable campaign knowledge. This system automates the journey from raw audio to a comprehensive campaign database.
+
 ## Overview
 
-This repository contains an AI-powered pipeline for managing tabletop RPG campaigns, specifically designed for the Teghrim campaign setting. It automates the transformation of game session audio recordings into structured, searchable campaign knowledge.
+The Teghrim system processes game session audio through multiple AI-powered stages:
+1. **Transcription** - Convert MP3 recordings to timestamped text
+2. **Digest Creation** - Transform verbose transcripts into structured summaries
+3. **Narrative Generation** - Create story-format retellings
+4. **Knowledge Extraction** - Update campaign database with entities and relationships
+5. **Content Creation** - Generate audiobooks, podcasts, and images
 
-## What This Does
+## Quick Start
 
-1. **Transcribes** game session audio recordings using AI
-2. **Processes** verbose transcripts into structured session digests
-3. **Generates** various content formats (narratives, summaries, podcasts)
-4. **Maintains** a searchable knowledge base of all campaign entities
-5. **Syncs** with Kanka.io for collaborative campaign management
+### Prerequisites
+
+```bash
+# Install Python dependencies
+pip install -r scripts/requirements.txt
+
+# Install system dependency (required for audio processing)
+# Linux
+apt-get install ffmpeg
+# macOS
+brew install ffmpeg
+```
+
+### Required API Keys
+
+Set these environment variables:
+- `ELEVEN_API_KEY` - For audio transcription and generation
+- `OPENAI_API_KEY` - For image generation
+- `OPENAI_ORG_ID` - OpenAI organization ID
+- `KANKA_TOKEN` - For campaign database sync
+- `KANKA_CAMPAIGN_ID` - Your Kanka campaign ID
+
+### Common Commands
+
+```bash
+# Transcribe session audio
+python scripts/transcribe_audio.py
+
+# Sync entities from Kanka
+python scripts/pull_from_kanka.py
+
+# Find local changes
+python scripts/find_local_changes.py
+
+# Push changes to Kanka
+python scripts/push_to_kanka.py entities/characters/moradin.md
+# Or push all changes
+python scripts/push_to_kanka.py --all
+
+# Generate audiobook from text
+python scripts/generate_audiobook.py narrative.txt -o output.mp3
+
+# Generate podcast from script
+python scripts/generate_podcast.py script.txt -o output.mp3
+
+# Generate image from prompt
+python scripts/generate_image.py prompt.txt -o output.png
+```
 
 ## Project Structure
 
 ```
 teghrim/
-├── audio/                 # Raw session recordings (MP3 files)
-├── transcripts/          # AI-generated session transcripts
-├── entities/             # Local copies of all campaign entities
-│   ├── characters/       # NPCs, deities, and notable figures
-│   ├── locations/        # Cities, regions, and landmarks
-│   ├── organizations/    # Factions, guilds, and groups
-│   ├── races/           # Playable species and cultures
-│   └── creatures/       # Monster types and animals
-├── references/          # Campaign setting PDFs and source materials
-├── scripts/             # Python automation scripts
-└── docs/               # Documentation for various processes
+├── audio/              # Raw MP3 recordings (YYMMDD_####.mp3)
+├── transcripts/        # AI-generated transcripts
+├── entities/           # Local entity database (syncs with Kanka)
+│   ├── characters/     # NPCs, deities, notable figures
+│   ├── locations/      # Places, regions, landmarks
+│   ├── organizations/  # Factions, guilds, groups
+│   ├── races/          # Ancestries and cultures
+│   └── creatures/      # Monsters and animals
+├── references/         # Campaign setting PDFs
+├── scripts/            # Python automation tools
+└── docs/               # Process documentation
 ```
 
-## The Campaign Setting
+## Entity Management
 
-Teghrim is a rich fantasy world featuring:
-- Multiple pantheons of deities drawn from various mythologies
-- Diverse races and cultures across several continents
-- Complex political and religious organizations
-- A deep history spanning multiple ages
+The system maintains a local markdown database that syncs bidirectionally with Kanka.io:
 
-## Key Features
+### Entity Format
+```yaml
+---
+name: Moradin
+entity_id: 123456
+type: Deity
+tags: [dwarf-pantheon, forge, creation]
+is_hidden: false
+created: 2024-12-30T10:00:00Z
+updated: 2024-12-31T15:30:00Z
+---
 
-### Audio Processing Pipeline
-- Automated transcription of game sessions
-- Speaker diarization to identify who's talking
-- Conversion of transcripts into structured knowledge
+# Moradin
+
+The Forge Father, patron deity of dwarves...
+```
+
+### Entity Posts
+Additional notes can be attached to entities:
+```
+entities/characters/moradin/secret-of-eternal-flame.md
+```
+
+### Sync Workflow
+1. **Pull**: `pull_from_kanka.py` fetches remote changes
+2. **Edit**: Modify local markdown files
+3. **Push**: `push_to_kanka.py` uploads changes
+4. **Conflict Resolution**: Manual merge when both sides change
+
+## Scripts Reference
+
+### Audio Processing
+- **`transcribe_audio.py`** - Convert MP3 to text with speaker identification
+  - Handles files >2 hours by auto-splitting
+  - Groups multi-part sessions automatically
+  
+### Content Generation
+- **`generate_audiobook.py`** - Text-to-speech audiobook creation
+- **`generate_podcast.py`** - Multi-voice podcast generation
+- **`generate_image.py`** - AI image generation from prompts
 
 ### Entity Management
-- Local markdown files for every campaign entity
-- YAML frontmatter for metadata (tags, types, IDs)
-- Bidirectional sync with Kanka.io
-- Full-text search across all entities
+- **`pull_from_kanka.py`** - Sync from Kanka to local
+- **`push_to_kanka.py`** - Upload local changes to Kanka
+- **`find_local_changes.py`** - Identify entities needing sync
+- **`clean_campaign.py`** - ⚠️ Delete all Kanka entities (use with caution)
 
-### Content Generation
-- Narrative prose from session events
-- Audiobook generation with AI voices
-- Podcast-style recaps with multiple speakers
-- Visual scene generation from descriptions
+### Utilities
+- **`add_name_to_frontmatter.py`** - Bulk update entity metadata
 
-## Getting Started
+## Campaign Setting
 
-### Prerequisites
-- Python 3.8+
-- ffmpeg (for audio processing)
-- API keys for:
-  - ElevenLabs (audio generation)
-  - OpenAI (transcription and image generation)
-  - Kanka.io (campaign management)
+The Teghrim campaign features:
+- **42 playable ancestries** from traditional fantasy to unique creations
+- **Multiple pantheons** with complex divine relationships
+- **Rich geography** spanning multiple continents and planes
+- **Teghrim's Crossing** - The central bridge settlement connecting realms
+- **Diverse organizations** from knightly orders to shadow cults
 
-### Installation
-```bash
-# Install Python dependencies
-pip install -r scripts/requirements.txt
+## Workflows
 
-# Install system dependencies
-# Linux:
-sudo apt-get install ffmpeg
-# macOS:
-brew install ffmpeg
-```
+See the `docs/` directory for detailed workflows:
+- Audio transcription pipeline
+- Entity sync procedures
+- Campaign reset process
+- Image generation guidelines
+- MCP-Kanka operations
 
-### Basic Usage
+## Technical Notes
 
-1. **Transcribe a session**:
-   ```bash
-   python scripts/transcribe_audio.py
-   ```
-
-2. **Generate an audiobook**:
-   ```bash
-   python scripts/generate_audiobook.py narrative.txt -o output.mp3
-   ```
-
-3. **Create session images**:
-   ```bash
-   python scripts/generate_image.py prompt.txt -o scene.png
-   ```
-
-## Entity Files
-
-Each entity is stored as a markdown file with frontmatter:
-
-```yaml
----
-entity_id: 7745243      # Kanka ID (if synced)
-type: Deity            # Custom type field
-tags: [Demigod]        # Categorization tags
-is_private: false      # Visibility setting
----
-
-# Entity Name
-
-Content describing the entity...
-```
-
-### Posts (Entity Notes)
-
-Additional notes and updates for entities are stored in subdirectories:
-
-```
-entities/
-  characters/
-    moradin.md                          # Main entity file
-    moradin/
-      secret-of-eternal-flame.md        # Post file
-      forging-first-hammer.md           # Another post
-```
-
-Each post file has its own frontmatter:
-
-```yaml
----
-post_id: 456           # Kanka post ID (added after sync)
-entity_id: 7745243     # Parent entity's ID
-title: "Secret of the Eternal Flame"
-is_private: true       # GM-only visibility
-created: 2025-01-06
----
-
-Post content here...
-```
-
-## Documentation
-
-See the `docs/` directory for detailed guides on:
-- Audio transcription process
-- Content generation workflows
-- Kanka integration details
-- Image and podcast generation
-
-## Contributing
-
-This is a personal campaign management system, but the structure and scripts may be useful as a template for other campaigns. Feel free to fork and adapt!
+- Audio files must be <2 hours for ElevenLabs API
+- Speaker diarization supports up to 6 speakers
+- Images generated at 1536x1024 resolution
+- Entity cross-references use `[entity:ID]` syntax
+- Local changes tracked via file modification times
 
 ## License
 
-The code and scripts in this repository are available for reuse. The campaign setting content (entities, references, and world-building materials) remains the intellectual property of the campaign creators.
+This project is for the Teghrim campaign. The codebase structure and scripts may be adapted for other campaigns.
