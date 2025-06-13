@@ -1,0 +1,56 @@
+# License
+
+This repository contains two distinct types of content with different licensing:
+
+## Code License (MIT)
+
+The software code in this repository (including but not limited to Python scripts, configuration files, and documentation related to the code) is licensed under the MIT License:
+
+```
+MIT License
+
+Copyright (c) 2025 Erv Walter
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## Campaign Content (All Rights Reserved)
+
+The campaign content in this repository is copyrighted and all rights are reserved:
+
+- All files in the `entities/` directory
+- All files in the `audiobooks/` directory  
+- All files in the `images/` directory
+- All files in the `references/` directory
+- All files in the `session-recordings/` directory
+- All files in the `transcripts/` directory
+
+This content includes but is not limited to:
+- Character descriptions and stories
+- World-building materials
+- Campaign narratives and session summaries
+- Audio recordings and transcripts
+- Generated images and artwork
+- Reference documents and campaign guides
+
+**This campaign content may NOT be used, copied, modified, distributed, or reproduced in any form without explicit written permission from the copyright holder.**
+
+---
+
+When using code from this repository, please ensure you only use the software components and not the campaign content.
