@@ -3,7 +3,7 @@ name: Dryder
 type: Monstrous
 entity_id: 7763130
 created: '2025-06-12T21:06:24.502830+00:00'
-updated: '2025-06-13T05:21:51.645152+00:00'
+updated: '2025-06-14T17:05:17.590145+00:00'
 ---
 
 # Dryder

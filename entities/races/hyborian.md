@@ -4,7 +4,7 @@ name: Hyborian
 type: Human
 is_hidden: false
 created: '2025-06-12T21:07:16+00:00'
-updated: '2025-06-13T05:53:22.555719+00:00'
+updated: '2025-06-14T17:20:27.875455+00:00'
 ---
 
 # Hyborian

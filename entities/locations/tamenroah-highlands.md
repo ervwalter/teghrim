@@ -4,7 +4,7 @@ name: Tamenroah Highlands
 type: Region
 is_hidden: false
 created: '2025-06-12T21:06:58+00:00'
-updated: '2025-06-13T05:43:03+00:00'
+updated: '2025-06-14T17:14:38.713809+00:00'
 ---
 
 # Tamenroah Highlands

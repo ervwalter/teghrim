@@ -3,7 +3,7 @@ name: Bugbear
 type: Goblinoid
 entity_id: 7763218
 created: '2025-06-12T21:07:18.390456+00:00'
-updated: '2025-06-13T05:45:26.555048+00:00'
+updated: '2025-06-14T17:21:31.874269+00:00'
 ---
 
 # Bugbear

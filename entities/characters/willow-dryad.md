@@ -4,7 +4,7 @@ name: Willow Dryad
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-06-13T05:23:05+00:00'
+updated: '2025-06-14T17:13:24.344062+00:00'
 ---
 
 # Willow Dryad

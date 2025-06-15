@@ -3,7 +3,7 @@ name: 2025-05-30 Image 3 - The Von Carstein Discovery
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:49:56.242798+00:00'
-updated: '2025-06-13T14:49:56.242806+00:00'
+updated: '2025-06-14T17:23:57.512683+00:00'
 entity_id: 7766574
 ---
 

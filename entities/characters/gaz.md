@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:41+00:00'
-updated: '2025-06-13T14:14:19.571936+00:00'
+updated: '2025-06-15T18:16:25.072258+00:00'
 ---
 
 # Gaz
@@ -43,7 +43,7 @@ Part of the civilized hob community that has integrated into frontier settlement
 
 - **The Integration**: Established herself as part of the legitimate hob community at [entity:7763187|Teghrim's Crossing]
 - **The Network Building**: Developed extensive contacts throughout the local wild [entity:7763229|goblin] and domesticated hob communities
-- **The Supply Mission**: Offered delivery work to adventuring parties for upriver hob camps
+- **The Supply Mission**: Offered [entity:7773182|supply delivery work] to adventuring parties for upriver hob camps
 
 ## Current Status
 

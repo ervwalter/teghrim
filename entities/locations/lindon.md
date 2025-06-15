@@ -3,7 +3,7 @@ name: Lindon
 type: Continent
 entity_id: 7763183
 created: '2025-06-12T21:07:03.551130+00:00'
-updated: '2025-06-13T05:43:11.623679+00:00'
+updated: '2025-06-14T17:16:52.443658+00:00'
 ---
 
 # Lindon

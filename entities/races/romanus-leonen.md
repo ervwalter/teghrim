@@ -4,7 +4,7 @@ name: Romanus (Leonen)
 type: Human
 is_hidden: false
 created: '2025-06-12T21:07:12+00:00'
-updated: '2025-06-13T05:53:14+00:00'
+updated: '2025-06-14T17:19:16.831123+00:00'
 ---
 
 # Romanus (Leonen)

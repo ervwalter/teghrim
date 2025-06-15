@@ -1,12 +1,12 @@
 ---
 name: Caravan Guard Duty
 entity_id: 7763872
-type: Combat Mission
+type: Combat
 tags:
 - completed
 is_hidden: false
 created: '2025-06-13T00:29:59.570175+00:00'
-updated: '2025-06-13T05:45:30.882631+00:00'
+updated: '2025-06-15T18:40:49.089732+00:00'
 ---
 
 # Caravan Guard Duty
@@ -45,3 +45,9 @@ Completed successfully. All protected individuals reached [entity:7763187|Teghri
 
 ## Outcome
 The mission's success demonstrated the party's combat effectiveness and established their reputation in the region. The shared dangers bonded the group and created connections with important NPCs for future adventures.
+
+## Related Quests
+- **[entity:7763875|Qotal's Broken Blade Quest]**: Meeting [entity:7763296|Qotal] during the caravan journey led to learning about his scholarly quest
+- **[entity:7763874|Lyn's Shrine Restoration]**: [entity:7763866|Lyn Chong] joined the caravan specifically to reach [entity:7763187|Teghrim's Crossing] for his spiritual mission
+- **[entity:7764109|Goblin Patrol Mission]**: The caravan's arrival triggered security concerns about stirred up goblin activity
+- **[entity:7773182|Supply Delivery Mission]**: Establishes ongoing trade connections between settlements for future hob camp deliveries

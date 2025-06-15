@@ -5,7 +5,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:13.525741+00:00'
-updated: '2025-06-13T05:05:57.528451+00:00'
+updated: '2025-06-15T18:16:26.823424+00:00'
 entity_id: 7764102
 ---
 
@@ -41,7 +41,7 @@ Originally from Aes Piosayn, was traveling by caravan when she fell asleep and t
 - **The Treehouse Home**: Established residence in full-sized house built within massive redwood-like tree
 - **The Slayer Recognition**: Identified [entity:7763295|Bruldin] as a slayer but expressed no issue with slayer traditions
 - **The Dryad Rescue**: Participated in mission to save trapped dryad, cutting through webbing and translating Sylvan
-- **The Elderberry Quest**: Requested party assistance to discretely procure rare elderberries from Old Willy, stolen by fairies and needed for seeds
+- **The Elderberry Quest**: Requested party assistance during the [entity:7773180|Elderberry Procurement] quest to discretely procure rare elderberries from Old Willy, stolen by fairies and needed for seeds
 
 ## Current Status
 Living in treehouse near [entity:7763187|Teghrim's Crossing], serving as local ally for wilderness missions. Available to assist with forest-related activities and provide magical support, though she considers the area too dangerous for long-term residence.

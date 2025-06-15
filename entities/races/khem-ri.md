@@ -3,7 +3,7 @@ name: Khem-ri
 type: Beastkin
 entity_id: 7763196
 created: '2025-06-12T21:07:09.248119+00:00'
-updated: '2025-06-13T05:52:08.929429+00:00'
+updated: '2025-06-14T17:18:08.432415+00:00'
 ---
 
 # Khem-ri

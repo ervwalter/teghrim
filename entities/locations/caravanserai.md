@@ -5,7 +5,7 @@ type: Landmark
 tags: []
 is_hidden: false
 created: '2025-06-13T00:29:58.021905+00:00'
-updated: '2025-06-13T05:25:20.882754+00:00'
+updated: '2025-06-14T17:16:54.974924+00:00'
 ---
 
 # Caravanserai

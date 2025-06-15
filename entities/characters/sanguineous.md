@@ -5,7 +5,7 @@ tags:
 - Greater Deity
 entity_id: 7763167
 created: '2025-06-12T21:06:56.776323+00:00'
-updated: '2025-06-13T05:24:10.997330+00:00'
+updated: '2025-06-14T17:13:28.731355+00:00'
 ---
 
 # Sanguineous

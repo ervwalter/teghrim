@@ -4,7 +4,7 @@ type: Mansion
 tags: []
 is_hidden: false
 created: '2025-06-13T02:25:43.173697+00:00'
-updated: '2025-06-13T05:41:57.915814+00:00'
+updated: '2025-06-15T18:16:27.670517+00:00'
 entity_id: 7764198
 ---
 
@@ -36,7 +36,7 @@ Built by a military commander 20 years ago and completed 7-8 years ago, the mans
 - **The Commander's Death**: Left abandoned after the military commander died 2-3 years ago
 - **The Undead Infestation**: Became overrun with skeps and necromantic activity before clearing
 - **The Vampire Acquisition**: Recently purchased by [entity:7764193|Osanna Von Carstein] as [entity:7764192|Von Carstein] family property
-- **The Clearing Mission**: Successfully cleared of undead threats by adventuring party
+- **The Clearing Mission**: Successfully cleared of undead threats by adventuring party during the [entity:7773183|Von Carstein Mansion Clearing] quest
 
 ## Current Status
 Recently cleared of undead creatures and ready for occupation by its new vampire owner, with valuable loot removed but structure and furnishings intact.

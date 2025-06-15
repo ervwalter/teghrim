@@ -3,7 +3,7 @@ name: The Obsidian Kingdoms (Human)
 type: Human
 entity_id: 7763230
 created: '2025-06-12T21:07:23.548926+00:00'
-updated: '2025-06-13T05:55:34.974476+00:00'
+updated: '2025-06-14T17:22:43.919954+00:00'
 ---
 
 # The Obsidian Kingdoms (Human)

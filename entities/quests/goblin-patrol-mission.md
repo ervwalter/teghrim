@@ -1,11 +1,11 @@
 ---
 name: Goblin Patrol Mission
-type: Combat Mission
+type: Combat
 tags:
 - completed
 is_hidden: false
 created: '2025-06-13T01:40:16.522077+00:00'
-updated: '2025-06-13T05:46:32.958309+00:00'
+updated: '2025-06-15T18:40:49.977088+00:00'
 entity_id: 7764109
 ---
 
@@ -42,3 +42,8 @@ The eastern patrol area lies within orc territorial claims, requiring careful na
 
 ## Significance
 Demonstrates the dual nature of threats facing [entity:7763187|Teghrim's Crossing], requiring simultaneous attention to both mundane security concerns (goblin raiders) and magical emergencies (fey distress calls) that characterize frontier life.
+
+## Related Quests
+- **[entity:7763872|Caravan Guard Duty]**: The caravan's arrival prompted this security patrol to check for stirred up goblin activity
+- **[entity:7764108|The Great Willow Rescue]**: Occurred simultaneously, forcing party to split between security and fey emergency
+- **[entity:7773182|Supply Delivery Mission]**: Highlights distinction between hostile goblins and civilized hob communities

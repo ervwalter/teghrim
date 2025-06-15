@@ -3,7 +3,7 @@ name: Willow Glade
 type: Landmark
 is_hidden: false
 created: '2025-06-13T01:40:15.620677+00:00'
-updated: '2025-06-13T05:44:17.790982+00:00'
+updated: '2025-06-14T17:18:01.393108+00:00'
 entity_id: 7764107
 ---
 

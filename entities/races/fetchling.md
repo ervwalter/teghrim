@@ -3,7 +3,7 @@ name: Fetchling
 type: Fey
 entity_id: 7763212
 created: '2025-06-12T21:07:15.800862+00:00'
-updated: '2025-06-13T05:53:20.898115+00:00'
+updated: '2025-06-14T17:20:25.234736+00:00'
 ---
 
 # Fetchling

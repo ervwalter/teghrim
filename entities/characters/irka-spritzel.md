@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:11+00:00'
-updated: '2025-06-13T06:17:02+00:00'
+updated: '2025-06-15T18:39:39.396577+00:00'
 ---
 
 # Irka Spritzel
@@ -43,8 +43,8 @@ Serves as captain of the [entity:7763200|Highland Dwarf] guards at [entity:77631
 
 - **The Caravan Welcome**: Greeted the party upon their arrival, providing accommodation information and settlement orientation
 - **The Slayer Recognition**: Expressed heartfelt pleasure at seeing a dwarven slayer arrive at the crossing
-- **The Mission Coordination**: Organized both [entity:7763229|goblin] patrol eastward and fey emergency response
+- **The Mission Coordination**: Organized both [entity:7764109|Goblin Patrol Mission] eastward and fey emergency response
 
 ## Current Status
 
-Actively managing [entity:7763187|Teghrim's Crossing] operations, coordinating security patrols, and serving as primary contact for visiting adventurers and merchants. Available for future mission assignments and settlement support.
+Actively managing [entity:7763187|Teghrim's Crossing] operations, coordinating security patrols, and serving as primary contact for visiting adventurers and merchants. Available for future mission assignments and settlement support. Recently coordinated the urgent [entity:7773183|Von Carstein Mansion Clearing] to prepare for incoming vampire nobility.

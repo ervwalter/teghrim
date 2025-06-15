@@ -6,7 +6,7 @@ tags:
 - Domesticated
 is_hidden: false
 created: '2025-06-13T14:13:10.243115+00:00'
-updated: '2025-06-13T14:13:10.243120+00:00'
+updated: '2025-06-15T18:39:38.532643+00:00'
 entity_id: 7766459
 ---
 
@@ -48,7 +48,7 @@ Wild [entity:7763229|goblins] view hobs as traitors to their kind, while hobs se
 
 ## Notable Hobs
 
-- **[entity:7764195|Gaz]**: Female hob server at [entity:7763187|Teghrim's Crossing] mess hall, renowned information broker
+- **[entity:7764195|Gaz]**: Female hob server at [entity:7763187|Teghrim's Crossing] mess hall, renowned information broker who offers the [entity:7773182|supply delivery mission] to hob camps
 
 ## Historical Context
 

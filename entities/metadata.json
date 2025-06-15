@@ -63,17 +63,13 @@
     },
     "quests": {
       "types": [
-        "Main Quest",
-        "Side Quest",
+        "Party Quest",
         "Personal Quest",
-        "Investigation",
-        "Combat Mission"
+        "Combat"
       ],
       "tags": [
         "active",
-        "completed",
-        "failed",
-        "paused"
+        "completed"
       ]
     }
   },

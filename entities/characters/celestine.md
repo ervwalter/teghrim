@@ -5,7 +5,7 @@ tags:
 - Greater Deity
 entity_id: 7763132
 created: '2025-06-12T21:06:25.501602+00:00'
-updated: '2025-06-13T05:08:26.177385+00:00'
+updated: '2025-06-14T17:05:19.302695+00:00'
 ---
 
 # Celestine

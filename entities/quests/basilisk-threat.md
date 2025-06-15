@@ -1,11 +1,11 @@
 ---
 name: Basilisk Threat
-type: Investigation
+type: Party Quest
 tags:
 - active
 is_hidden: false
 created: '2025-06-13T01:40:16.956958+00:00'
-updated: '2025-06-13T05:46:33.821831+00:00'
+updated: '2025-06-15T18:46:19.511816+00:00'
 entity_id: 7764110
 ---
 
@@ -55,3 +55,7 @@ The ongoing basilisk presence may limit exploration and resource gathering in fo
 - Prepare appropriate equipment and tactics for basilisk encounters
 - Establish safety protocols for forest travel
 - Consider organized hunting expedition to eliminate threat
+
+## Related Quests
+- **[entity:7764108|The Great Willow Rescue]**: Discovery of basilisk threat occurred during this mission when party found petrified victims
+- **[entity:7773180|Elderberry Procurement]**: Forest travel for this quest may encounter basilisk danger zones

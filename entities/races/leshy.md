@@ -4,7 +4,7 @@ name: Leshy
 type: Fey
 is_hidden: false
 created: '2025-06-12T21:07:22+00:00'
-updated: '2025-06-13T05:54:31+00:00'
+updated: '2025-06-14T17:22:42.134609+00:00'
 ---
 
 # Leshy

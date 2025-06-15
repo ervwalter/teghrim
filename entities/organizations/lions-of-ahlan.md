@@ -3,7 +3,7 @@ name: Lions of Ahlan
 type: Military Order
 entity_id: 7763121
 created: '2025-06-12T21:06:20.606232+00:00'
-updated: '2025-06-13T05:40:45.806769+00:00'
+updated: '2025-06-14T17:02:51.400277+00:00'
 ---
 
 # Lions of Ahlan

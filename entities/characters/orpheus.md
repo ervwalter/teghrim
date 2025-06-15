@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:56+00:00'
-updated: '2025-06-13T05:15:58+00:00'
+updated: '2025-06-14T17:13:23.432113+00:00'
 ---
 
 # Orpheus the Singer

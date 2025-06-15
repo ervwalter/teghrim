@@ -3,7 +3,7 @@ name: Vidia
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:13.942088+00:00'
-updated: '2025-06-13T05:23:08.650130+00:00'
+updated: '2025-06-14T17:13:27.830527+00:00'
 entity_id: 7764103
 ---
 

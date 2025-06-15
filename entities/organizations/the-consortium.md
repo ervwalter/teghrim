@@ -4,7 +4,7 @@ type: Trade Alliance
 tags: []
 is_hidden: false
 created: '2025-06-13T02:25:39.958108+00:00'
-updated: '2025-06-13T05:40:49.248176+00:00'
+updated: '2025-06-14T17:02:54.982244+00:00'
 entity_id: 7764191
 ---
 

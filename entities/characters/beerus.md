@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:31+00:00'
-updated: '2025-06-13T05:08:29.613436+00:00'
+updated: '2025-06-14T17:09:53.364573+00:00'
 ---
 
 # Beerus

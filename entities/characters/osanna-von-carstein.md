@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:40+00:00'
-updated: '2025-06-13T05:15:53.879150+00:00'
+updated: '2025-06-15T18:16:24.196773+00:00'
 ---
 
 # Osanna Von Carstein
@@ -42,12 +42,12 @@ Member of the [entity:7764192|Von Carstein vampire house], an ancient dynasty fr
 ## Notable History
 
 - **The Property Acquisition**: Recently became owner of the former commander's mansion near [entity:7763187|Teghrim's Crossing]
-- **The Correspondence**: Left documents in the mansion that revealed Von Carstein ownership to the clearing party
+- **The Correspondence**: Left documents in the mansion that revealed Von Carstein ownership to the party during the [entity:7773183|Von Carstein Mansion Clearing]
 - **The Expansion**: Represents Von Carstein family extension into frontier territories beyond Astoria
 
 ## Current Status
 
-New property owner in the [entity:7763187|Teghrim's Crossing] area with a recently cleared mansion, though her specific plans and timeline for arrival remain unclear.
+New property owner in the [entity:7763187|Teghrim's Crossing] area with a mansion recently cleared during the [entity:7773183|Von Carstein Mansion Clearing] quest, though her specific plans and timeline for arrival remain unclear.
 
 ## Secrets & Mysteries
 

@@ -3,7 +3,7 @@ name: Hyboria
 type: Continent
 entity_id: 7763186
 created: '2025-06-12T21:07:04.747347+00:00'
-updated: '2025-06-13T05:44:15.395175+00:00'
+updated: '2025-06-14T17:16:57.516664+00:00'
 ---
 
 # Hyboria

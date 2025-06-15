@@ -3,7 +3,7 @@ name: Hobgoblin
 type: Goblinoid
 entity_id: 7763190
 created: '2025-06-12T21:07:06.440841+00:00'
-updated: '2025-06-13T05:52:06.400797+00:00'
+updated: '2025-06-14T17:18:03.253449+00:00'
 ---
 
 # Hobgoblin

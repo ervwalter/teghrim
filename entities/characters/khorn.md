@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:31+00:00'
-updated: '2025-06-13T05:13:35.337455+00:00'
+updated: '2025-06-14T17:09:52.528928+00:00'
 ---
 
 # Khorn

@@ -4,7 +4,7 @@ name: Bruldin Grimstone
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:58+00:00'
-updated: '2025-06-13T05:08:31.521003+00:00'
+updated: '2025-06-15T18:40:44.455060+00:00'
 ---
 
 # Bruldin Grimstone
@@ -35,17 +35,17 @@ A proud member of the [entity:7763122|dwarven slayer cults], organizations that 
 
 ## Notable History
 - **The Troll Encounter**: Once strangled a troll with one arm tied behind his back, wrapping his beard around its neck
-- **The Caravanserai Defense**: Led fortification efforts and fought fiercely against orc-led goblin raiders
+- **The Caravanserai Defense**: Led fortification efforts and fought fiercely against orc-led goblin raiders during [entity:7763872|Caravan Guard Duty]
 - **The Broken Blade Mystery**: Became notably quiet when hearing [entity:7763296|Qotal's] description of an ancient dwarven warrior with a broken weapon
 - **The Goblin Intimidation**: Successfully demoralized goblin ambushers through reputation and presence
 - **The Slayer Recognition**: Received heartfelt welcome from Captain [entity:7764097|Irka Spritzel] upon arrival at [entity:7763187|Teghrim's Crossing]
 - **The Grimnir Blessing**: Offered assistance in [entity:7763141|Grimnir's] name during settlement introduction
 - **The Mysterious Recognition**: Reminded [entity:7764102|Aelysh] of someone from her past, though she did not elaborate
 - **The Mead Diplomacy**: Connected with [entity:7763289|Alrik Grimmelstang] through discussion of quality mead availability
-- **The Spider Combat**: Participated in dryad rescue mission, demonstrating combat prowess against forest creatures
+- **The Spider Combat**: Participated in [entity:7764108|The Great Willow Rescue] mission, demonstrating combat prowess against forest creatures
 
 ## Current Status
-Well-established at [entity:7763187|Teghrim's Crossing] with strong connections to Highland Dwarf leadership and local allies. Continues to withhold knowledge about [entity:7763296|Qotal's] broken blade quest while building reputation through successful forest mission participation.
+Well-established at [entity:7763187|Teghrim's Crossing] with strong connections to Highland Dwarf leadership and local allies. Continues to withhold knowledge about [entity:7763296|Qotal's] broken blade quest while building reputation through successful forest mission participation. Recently participated in the [entity:7764109|Goblin Patrol Mission] to secure the eastern approaches.
 
 ## Secrets & Mysteries
 Bruldin's quiet reaction to hearing about the broken blade suggests he knows more about this ancient dwarven legend than he has revealed to his companions.

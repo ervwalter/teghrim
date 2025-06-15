@@ -4,7 +4,7 @@ type: Vampire Dynasty
 tags: []
 is_hidden: false
 created: '2025-06-13T02:25:40.379167+00:00'
-updated: '2025-06-13T05:40:51.762003+00:00'
+updated: '2025-06-15T18:16:23.332817+00:00'
 entity_id: 7764192
 ---
 
@@ -44,7 +44,7 @@ One of the ancient vampire dynasties that established power on the mysterious [e
 - **The Ancient Foundation**: Established as one of the original vampire dynasties on [entity:7763172|Astoria] continent
 - **The Political Web**: Developed intricate relationships with other vampire families over centuries
 - **The Expansion Phase**: Began acquiring property and influence in frontier territories beyond Astoria
-- **The Frontier Investment**: Acquired mansion property near [entity:7763187|Teghrim's Crossing] through [entity:7764193|Osanna Von Carstein]
+- **The Frontier Investment**: Acquired mansion property near [entity:7763187|Teghrim's Crossing] through [entity:7764193|Osanna Von Carstein], later cleared during the [entity:7773183|Von Carstein Mansion Clearing] quest
 
 ## Current Status
 Actively expanding influence into frontier territories while maintaining traditional political relationships within [entity:7763172|Astorian] vampire society.

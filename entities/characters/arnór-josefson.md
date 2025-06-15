@@ -4,7 +4,7 @@ name: "Arn\xF3r Josefson"
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:52+00:00'
-updated: '2025-06-13T14:32:31.869071+00:00'
+updated: '2025-06-15T18:16:25.952904+00:00'
 ---
 
 # Arnór Josefson
@@ -39,7 +39,7 @@ Hails from [entity:7763178|Solstheim], the Norse island nation known for produci
 - **The Caravan Voyage**: Traveled by trading boat from [entity:7763868|Ni] to [entity:7763870|Menoth-Derith], engaging sailors in dice games
 - **The Combat Support**: Demonstrated tactical spellcasting and supernatural intimidation during goblin encounters
 - **The Musical Collaboration**: Provided flute accompaniment to [entity:7763296|Qotal's] campfire performances
-- **The Witch Investigation**: Conducted thorough search for local covens (rolled 18), discovering [entity:7764201|Hades shrine] and placing witch marks
+- **The Witch Investigation**: Conducted thorough search for local covens during the [entity:7773181|Witch Coven Establishment] quest (rolled 18), discovering [entity:7764201|Hades shrine] and placing witch marks
 - **The Cultural Connection**: Connected with fellow [entity:7763211|Norn] [entity:7764194|Sigrid] in Skald language, planning Old Lughnass festival for September 22nd
 - **The Natvig Check**: Maintained contact with familiar [entity:7763867|Natvig] during downtime activities
 - **The Von Carstein Mansion**: Used flanking tactics during [entity:7764198|mansion] clearing combat

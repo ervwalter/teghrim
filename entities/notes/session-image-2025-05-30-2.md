@@ -4,7 +4,7 @@ name: 2025-05-30 Image 2 - Qotal's Balcony Leap
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:49:56+00:00'
-updated: '2025-06-13T14:49:56+00:00'
+updated: '2025-06-14T17:23:59.109770+00:00'
 ---
 
 # The Monk Strikes the Necromancer

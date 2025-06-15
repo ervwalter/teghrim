@@ -5,7 +5,7 @@ type: Military Order
 tags: []
 is_hidden: false
 created: '2025-06-13T00:29:55.573229+00:00'
-updated: '2025-06-13T05:40:50.910219+00:00'
+updated: '2025-06-14T17:02:56.732538+00:00'
 ---
 
 # Goblin Raiders

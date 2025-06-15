@@ -3,7 +3,7 @@ name: Oskin (Half-Orks)
 type: Other
 entity_id: 7763219
 created: '2025-06-12T21:07:18.849399+00:00'
-updated: '2025-06-13T05:54:26.254413+00:00'
+updated: '2025-06-14T17:21:32.751506+00:00'
 ---
 
 # Oskin (Half-Orks)

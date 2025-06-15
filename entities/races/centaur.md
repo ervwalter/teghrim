@@ -3,7 +3,7 @@ name: Centaur
 type: Beastkin
 entity_id: 7763199
 created: '2025-06-12T21:07:10.441065+00:00'
-updated: '2025-06-13T05:45:23.204924+00:00'
+updated: '2025-06-14T17:19:12.421651+00:00'
 ---
 
 # Centaur

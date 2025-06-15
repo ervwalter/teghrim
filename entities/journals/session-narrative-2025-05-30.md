@@ -4,7 +4,7 @@ name: 03 - Necromancer's Welcome
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T14:13:08+00:00'
-updated: '2025-06-13T14:32:50+00:00'
+updated: '2025-06-15T18:46:16.819764+00:00'
 ---
 
 # Chapter 3 - Necromancer's Welcome

@@ -4,7 +4,7 @@ name: Drow
 type: Elf
 is_hidden: false
 created: '2025-06-12T21:07:23+00:00'
-updated: '2025-06-13T05:45:28+00:00'
+updated: '2025-06-14T17:22:44.820217+00:00'
 ---
 
 # Drow

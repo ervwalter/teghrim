@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:02:53.848065+00:00'
-updated: '2025-06-13T05:23:04.255707+00:00'
+updated: '2025-06-15T18:40:46.398375+00:00'
 ---
 
 # Sylvia Mournhold
@@ -33,7 +33,7 @@ Born into the Mournhold noble family, Sylvia was raised with all the privileges 
 
 ## Notable History
 - **The Eastern Assignment**: Tasked by family elders to establish trade connections at [entity:7763187|Teghrim's Crossing]
-- **The Caravan Journey**: Witnessed the party's combat prowess during goblin attacks, gaining appreciation for frontier dangers
+- **The Caravan Journey**: Witnessed the party's combat prowess during goblin attacks on [entity:7763872|Caravan Guard Duty], gaining appreciation for frontier dangers
 
 ## Current Status
 Traveling with the caravan to [entity:7763187|Teghrim's Crossing] to establish her family's trade presence in the growing settlement. Recently arrived after surviving multiple goblin ambushes alongside the party.

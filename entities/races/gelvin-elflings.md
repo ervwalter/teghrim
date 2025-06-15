@@ -4,7 +4,7 @@ name: Gelvin (Elflings)
 type: Elf
 is_hidden: false
 created: '2025-06-12T21:07:08+00:00'
-updated: '2025-06-13T05:52:07+00:00'
+updated: '2025-06-14T17:18:06.798913+00:00'
 ---
 
 # Gelvin (Elflings)

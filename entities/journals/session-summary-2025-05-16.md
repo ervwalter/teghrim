@@ -6,7 +6,7 @@ tags:
 - session-summary
 is_hidden: false
 created: '2025-06-13T04:18:13+00:00'
-updated: '2025-06-13T06:17:02.141276+00:00'
+updated: '2025-06-15T18:39:36.792577+00:00'
 ---
 
 # Roads Through Goblin Territory
@@ -27,7 +27,7 @@ The leader offered simple terms: guard the caravan's rear in exchange for free p
 
 Days into their journey, at an abandoned [entity:7763869|caravanserai] marked with goblin totems, [entity:7763294|Aurelia] waited alone. The dhampir investigator had arrived early, using the waystation as a meeting point. Her solitude was broken when three snotlings - young goblins barely larger than children - crawled through gaps in the walls. Their innocent snooping turned violent when they discovered her presence. Drawing tiny daggers, they attacked, but Aurelia dispatched them with practiced efficiency. She drained their blood to replenish her vampiric reserves before disposing of the bodies, unaware these were scouts for a larger force.
 
-When the caravan arrived the next afternoon, [entity:7763294|Aurelia] joined the rear guard without fanfare. As evening fell, the party worked to secure the caravanserai. [entity:7763295|Bruldin] drove defensive stakes around the perimeter while [entity:7763290|Arnór] attempted to set forest traps with limited success due to damp wood. [entity:7763296|Qotal] proved more successful, creating well-disguised tripwires inside the spike barrier. [entity:7763866|Lyn Chong] blessed the area with incense and prayers while [entity:7763693|Sylvia] directed workers in repairing the walls.
+When the caravan arrived the next afternoon, [entity:7763294|Aurelia] joined the rear guard without fanfare, adding to the group that had taken on the [entity:7763872|caravan guard contract]. As evening fell, the party worked to secure the caravanserai. [entity:7763295|Bruldin] drove defensive stakes around the perimeter while [entity:7763290|Arnór] attempted to set forest traps with limited success due to damp wood. [entity:7763296|Qotal] proved more successful, creating well-disguised tripwires inside the spike barrier. [entity:7763866|Lyn Chong] blessed the area with incense and prayers while [entity:7763693|Sylvia] directed workers in repairing the walls.
 
 During [entity:7763295|Bruldin's] first watch, strange sounds erupted from the rear entrance - squeaks, crashes, and cursing in Goblinish. The dwarf's intimidating javelin throw prompted a response in accented Common. A large orc emerged from the darkness, demanding to know the whereabouts of his "little guys" who had gone missing while scouting. The party maintained their innocence as the orc grew increasingly agitated, eventually demanding a toll for passage through "their" territory. When [entity:7763295|Bruldin] refused, his **slayer tattoos** glowing faintly with battle-fury, the orc slammed his maul against the gate with such force that the chains snapped.
 
@@ -39,7 +39,7 @@ The surviving goblins fled as [entity:7763866|Lyn Chong] and the caravan healers
 
 Two days of travel through primeval forest followed, the ground occasionally shaking from the footfalls of distant giants and mammoths. At a more secure caravanserai, the party gathered around the evening fire. [entity:7763296|Qotal] played simple folk songs on his lute while [entity:7763290|Arnór] accompanied on flute. [entity:7763866|Lyn] offered flower tea and hummed along while [entity:7763693|Sylvia] sat with perfect noble posture, commending the party's martial prowess.
 
-As they shared their stories, deeper purposes emerged. [entity:7763296|Qotal] revealed he sought a **moss-eaten carving of a warrior clutching a broken blade**, believing the broken sword's story would end somewhere beyond these hills. [entity:7763295|Bruldin] grew noticeably quiet at this description. [entity:7763866|Lyn Chong] spoke of his mission to restore an abandoned shrine near Teghrim's Crossing, one rumored to possess great healing power. [entity:7763693|Sylvia], clearly not the eldest child, admitted she had been "voluntold" to secure her family's trade interests. [entity:7763294|Aurelia] remained cryptic, mentioning only that she investigated something for "a friend" while folding origami animals. [entity:7763290|Arnór] simply sought his fortune in foreign lands, though his connection to the mysterious [entity:7763867|Natvig] suggested deeper mysteries.
+As they shared their stories, deeper purposes emerged. [entity:7763296|Qotal] revealed he sought a **moss-eaten carving of a warrior clutching a broken blade**, believing the [entity:7763873|broken sword's story] would end somewhere beyond these hills. [entity:7763295|Bruldin] grew noticeably quiet at this description. [entity:7763866|Lyn Chong] spoke of his [entity:7763874|mission to restore an abandoned shrine] near Teghrim's Crossing, one rumored to possess great healing power. [entity:7763693|Sylvia], clearly not the eldest child, admitted she had been "voluntold" to secure her family's trade interests. [entity:7763294|Aurelia] remained cryptic, mentioning only that she investigated something for "a friend" while folding origami animals. [entity:7763290|Arnór] simply sought his fortune in foreign lands, though his connection to the mysterious [entity:7763867|Natvig] suggested deeper mysteries.
 
 The increasingly organized [entity:7763864|goblin raiders] struck again during the final stretch. First came a roadside ambush with sling-stones raining from the forest. [entity:7763290|Arnór's] **evil eye** symbol and [entity:7763295|Bruldin's] fearsome reputation sent many fleeing in panic. But worse followed - goblin riders mounted on **giant spiders** pursued the caravan, accompanied by **squigs**, bizarre bouncing creatures that were essentially mouths with legs. In the chaotic running battle, [entity:7763294|Aurelia] fell unconscious twice, saved only by [entity:7763866|Lyn's] healing touch. The party barely escaped, utilizing every skill at their disposal to discourage pursuit.
 
@@ -61,9 +61,9 @@ Historical context emerged about the **Norn Terror**, a period when [entity:7763
 
 ## Quest Updates
 
-- **Caravan Guard Contract** - Successfully completed the journey from [entity:7763870|Menoth-Derith] to [entity:7763187|Teghrim's Crossing], earning 10 gold pieces each
-- **[entity:7763296|Qotal's] Broken Blade Mystery** - Seeking a dwarven warrior's broken weapon carving that should conclude its story in this region
-- **[entity:7763866|Lyn's] Shrine Restoration** - Planning to locate and restore an abandoned eastern shrine near Teghrim's Crossing
+- **[entity:7763872|Caravan Guard Contract]** - Successfully completed the journey from [entity:7763870|Menoth-Derith] to [entity:7763187|Teghrim's Crossing], earning 10 gold pieces each
+- **[entity:7763873|Qotal's Broken Blade Mystery]** - Seeking a dwarven warrior's broken weapon carving that should conclude its story in this region
+- **[entity:7763874|Lyn's Shrine Restoration]** - Planning to locate and restore an abandoned eastern shrine near Teghrim's Crossing
 - **[entity:7763693|Sylvia's] Trade Mission** - Establishing [entity:7763863|Mournhold family] commercial interests in the frontier settlement
 - **[entity:7763294|Aurelia's] Investigation** - Pursuing an unspecified case for an unnamed friend
 

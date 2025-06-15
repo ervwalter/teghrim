@@ -5,7 +5,7 @@ tags:
 - Greater Deity
 entity_id: 7763143
 created: '2025-06-12T21:06:30.510021+00:00'
-updated: '2025-06-13T05:13:34.481617+00:00'
+updated: '2025-06-14T17:09:49.727400+00:00'
 ---
 
 # Malebolgia (aka Diablo)

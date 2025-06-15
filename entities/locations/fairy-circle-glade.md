@@ -3,7 +3,7 @@ name: Fairy Circle Glade
 type: Landmark
 is_hidden: false
 created: '2025-06-13T01:40:14.828304+00:00'
-updated: '2025-06-13T05:25:15.885083+00:00'
+updated: '2025-06-14T17:14:37.854948+00:00'
 entity_id: 7764105
 ---
 

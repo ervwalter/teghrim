@@ -3,7 +3,7 @@ name: Grey-Rock Clan (Duergar)
 type: Dwarf
 entity_id: 7763209
 created: '2025-06-12T21:07:14.576837+00:00'
-updated: '2025-06-13T05:53:19.236048+00:00'
+updated: '2025-06-14T17:20:22.602516+00:00'
 ---
 
 # Grey-Rock Clan (Duergar)

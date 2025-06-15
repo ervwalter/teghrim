@@ -4,7 +4,7 @@ name: Alrik Grimmelstang
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:19+00:00'
-updated: '2025-06-13T05:05:54.893855+00:00'
+updated: '2025-06-15T18:40:42.615540+00:00'
 ---
 
 # Alrik Grimmelstang
@@ -44,17 +44,17 @@ A chef whose culinary creations, particularly his "sandwishizzo" and custard pie
 ## Notable History
 
 - **The Recipe Pursuit**: Has been chased by fey for centuries seeking his secret sandwich and custard pie recipes
-- **The Basilisk Encounter**: Was turned to stone along with companions while "being wild" in forest areas near fairy circles
+- **The Basilisk Encounter**: Was turned to stone along with companions while "being wild" in forest areas near fairy circles, becoming a victim of the [entity:7764110|Basilisk Threat]
 - **The Petrification**: Spent unknown time as a statue until revived by Iridessa's magical strawberries
 - **The Fairy Queen Incident**: Refused to give up his "sandwishizzo" recipe to the Fairy Queen, leading to conflicts
-- **The Liberation**: Rescued by [entity:7763296|Qotal], [entity:7763294|Aurelia], and fairy allies including [entity:7764104|Iridessa] from the fairy circle glade
+- **The Liberation**: Rescued by [entity:7763296|Qotal], [entity:7763294|Aurelia], and fairy allies including [entity:7764104|Iridessa] from the fairy circle glade during [entity:7764108|The Great Willow Rescue] mission
 - **The Age Confrontation**: Initially dismissed [entity:7763295|Bruldin] as a young kid despite the dwarf being 250 years old
 - **The Mead Diplomacy**: Befriended [entity:7763295|Bruldin] after learning about quality mead availability, shifting from dismissive to friendly
 - **The Tactical Combat**: Provided combat support during Willow Glade battle using cover tactics and creative torch solutions
 - **The Dryad Mission**: Participated in successful rescue of the Great Willow's dryad from spider attackers
 - **The Petrification Investigation**: Determined his petrification lasted approximately 150 years through careful research
 - **The Alchemy Studies**: Began learning alchemical processes and principles from [entity:7764196|Rosencrantz] during downtime
-- **The Von Carstein Mansion**: Participated in clearing the mansion of undead creatures using needle gun magic and tactical positioning
+- **The Von Carstein Mansion**: Participated in [entity:7773183|Von Carstein Mansion Clearing] of undead creatures using needle gun magic and tactical positioning
 
 ## Current Status
 

@@ -3,7 +3,7 @@ name: Black Templars
 type: Religious Order
 entity_id: 7763126
 created: '2025-06-12T21:06:22.774960+00:00'
-updated: '2025-06-13T05:41:55.544311+00:00'
+updated: '2025-06-14T17:04:01.331592+00:00'
 ---
 
 # Black Templars

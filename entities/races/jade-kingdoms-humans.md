@@ -3,7 +3,7 @@ name: The Jade Kingdoms (Human)
 type: Human
 entity_id: 7763223
 created: '2025-06-12T21:07:20.560627+00:00'
-updated: '2025-06-13T05:54:27.946262+00:00'
+updated: '2025-06-14T17:21:36.251205+00:00'
 ---
 
 # The Jade Kingdoms (Human)

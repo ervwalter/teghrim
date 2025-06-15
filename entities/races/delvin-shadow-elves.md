@@ -4,7 +4,7 @@ name: Delvin (Shadow Elf or Grey Elf)
 type: Elf
 is_hidden: false
 created: '2025-06-12T21:07:11+00:00'
-updated: '2025-06-13T05:45:23+00:00'
+updated: '2025-06-14T17:19:14+00:00'
 ---
 
 # Delvin (Shadow Elf or Grey Elf)

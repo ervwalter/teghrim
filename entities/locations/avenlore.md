@@ -3,7 +3,7 @@ name: Avenlore
 type: Continent
 entity_id: 7763185
 created: '2025-06-12T21:07:04.367394+00:00'
-updated: '2025-06-13T05:25:21.723220+00:00'
+updated: '2025-06-14T17:16:55.848784+00:00'
 ---
 
 # Avenlore

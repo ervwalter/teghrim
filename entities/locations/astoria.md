@@ -3,7 +3,7 @@ name: Astoria
 type: Continent
 entity_id: 7763172
 created: '2025-06-12T21:06:58.890837+00:00'
-updated: '2025-06-13T05:25:16.710935+00:00'
+updated: '2025-06-14T17:15:40.789920+00:00'
 ---
 
 # Astoria

@@ -3,7 +3,7 @@ name: Sylvan (Wood Elves)
 type: Elf
 entity_id: 7763227
 created: '2025-06-12T21:07:22.269654+00:00'
-updated: '2025-06-13T05:54:31.203276+00:00'
+updated: '2025-06-14T17:22:41.262483+00:00'
 ---
 
 # Sylvan (Wood Elves)

@@ -6,7 +6,7 @@ tags:
 - Demigod
 is_hidden: false
 created: '2025-06-12T21:06:32+00:00'
-updated: '2025-06-13T05:13:36.206257+00:00'
+updated: '2025-06-14T17:10:59+00:00'
 ---
 
 # Isis

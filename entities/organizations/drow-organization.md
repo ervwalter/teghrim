@@ -3,7 +3,7 @@ name: Drow (Organization)
 type: Secret Society
 entity_id: 7763127
 created: '2025-06-12T21:06:23.204696+00:00'
-updated: '2025-06-13T05:41:56.290309+00:00'
+updated: '2025-06-14T17:04:02.190574+00:00'
 ---
 
 # Drow (Organization)

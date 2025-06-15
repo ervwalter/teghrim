@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:29+00:00'
-updated: '2025-06-13T05:21:54.284377+00:00'
+updated: '2025-06-14T17:08:47.525363+00:00'
 ---
 
 # Tzeentch

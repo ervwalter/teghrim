@@ -6,7 +6,7 @@ tags:
 - session-summary
 is_hidden: false
 created: '2025-06-13T04:38:09+00:00'
-updated: '2025-06-13T06:17:00.235996+00:00'
+updated: '2025-06-15T18:39:34.874965+00:00'
 ---
 
 # The Petrified Chef and Forest Alliances
@@ -19,19 +19,19 @@ The party split between goblin patrol duties and an urgent fey emergency, leadin
 
 After settling into [entity:7763187|Teghrim's Crossing], the party met with [entity:7764097|Captain Irka Spritzel], the Highland Dwarf authority who managed the delicate balance between [entity:7763122|orc] and Bovok territories on either side of the massive bridge. The captain's heart visibly warmed upon meeting [entity:7763295|Bruldin Grimstone], expressing how rare and welcome it was to see a member of the [entity:7763122|Dwarven Slayer Cults] at this frontier outpost.
 
-The captain explained the settlement's unique position and offered the party a patrol mission eastward to check for [entity:7763864|goblin raiders] stirred up by their caravan's arrival. Before assignments could be finalized, a guard burst in with urgent news - wild fey creatures claimed a dire emergency and desperately needed assistance. The party divided, with some heading east on patrol while [entity:7763296|Qotal] and [entity:7763294|Aurelia] volunteered for the mysterious fey crisis.
+The captain explained the settlement's unique position and offered the party a [entity:7764109|patrol mission] eastward to check for [entity:7763864|goblin raiders] stirred up by their caravan's arrival. Before assignments could be finalized, a guard burst in with urgent news - wild fey creatures claimed a dire emergency and desperately needed assistance. The party divided, with some heading east on patrol while [entity:7763296|Qotal] and [entity:7763294|Aurelia] volunteered for the mysterious fey crisis.
 
 Three fairies awaited them: [entity:7764098|Silvermist], a purple fairy who served as primary spokesperson; [entity:7764099|Fawn], an eager male fairy; and [entity:7764104|Iridessa], a pink fairy with a shy demeanor. The fey insisted on testing the party's worthiness before revealing their sacred locations. [entity:7764098|Silvermist] presented [entity:7763296|Qotal] with a scenario about helping a smelly skunk named Roderick, to which the monk responded with wisdom about restoring environmental harmony. [entity:7764104|Iridessa] challenged [entity:7763294|Aurelia] with a choice between strawberries and blueberries for a hungry rabbit - the dhampir's solution of offering both delighted the fairy beyond expectations.
 
 [entity:7764099|Fawn] departed to find additional help while [entity:7764098|Silvermist] led the successful candidates through winding forest paths to a small glade containing a [entity:7764105|fairy circle]. Within the ring stood an intact human statue surrounded by crumbled stone remains. [entity:7763296|Qotal's] keen observation revealed these weren't carved statues but petrified victims, their details too lifelike for mere sculpture. When [entity:7764104|Iridessa] fed the intact statue a magical strawberry, it underwent a carbonite-style revival.
 
-[entity:7763289|Alrik Grimmelstang] emerged from his stone prison with Doc Brown's appearance and immediate complaints about "damn kids" and a Fairy Queen who had tried to steal his secret "sandwishizzo" recipe. Alongside him, a small sprite named [entity:7764103|Vidia] also revived but initially couldn't speak. The crumbled statues briefly animated when fed strawberries but couldn't survive, leaving only their equipment behind. Through pantomime, [entity:7764103|Vidia] conveyed they had encountered a basilisk while "being wild" in the forest - not the fey persecution [entity:7763289|Alrik] initially blamed.
+[entity:7763289|Alrik Grimmelstang] emerged from his stone prison with Doc Brown's appearance and immediate complaints about "damn kids" and a Fairy Queen who had tried to steal his secret "sandwishizzo" recipe. Alongside him, a small sprite named [entity:7764103|Vidia] also revived but initially couldn't speak. The crumbled statues briefly animated when fed strawberries but couldn't survive, leaving only their equipment behind. Through pantomime, [entity:7764103|Vidia] conveyed they had encountered a [entity:7764110|basilisk] while "being wild" in the forest - not the fey persecution [entity:7763289|Alrik] initially blamed.
 
 Before further explanations, the forest itself seemed to turn hostile. Two boars charged from the underbrush while shambling vine creatures with noxious auras emerged from the vegetation. The ensuing battle tested the party's coordination as the plant guardians' rotting stench left combatants flat-footed and vulnerable. Critical strikes dropped multiple party members before [entity:7763289|Alrik's] healing magic and the combined efforts of the group destroyed the threats. [entity:7764104|Iridessa] explained these were normally peaceful grove guardians driven defensive by their dryad's distress.
 
 The fey urgently led the expanded group to gather more allies. At a remarkable [entity:7764106|treehouse] built within a massive redwood near the river, they met [entity:7764102|Aelysh], a Wood Elf who had accidentally fallen off her caravan and decided to make [entity:7763187|Teghrim's Crossing] her home despite the area's dangers. She recognized [entity:7763295|Bruldin] as a slayer, expressing no prejudice against the warrior tradition, and showed particular interest in learning about [entity:7763296|Qotal's] Slaan culture.
 
-[entity:7764099|Fawn] returned with [entity:7764100|Grimnar Bjornson], an older Norn archer he had dragged from his beekeeping activities. The gruff hermit glared at the fairy for subjecting him to the worthiness tests but agreed to help with the emergency. With their forces assembled - the original party, the newly freed [entity:7763289|Alrik], the local allies [entity:7764102|Aelysh] and [entity:7764100|Grimnar] - they approached the [entity:7764107|Willow Glade].
+[entity:7764099|Fawn] returned with [entity:7764100|Grimnar Bjornson], an older Norn archer he had dragged from his beekeeping activities. The gruff hermit glared at the fairy for subjecting him to the worthiness tests but agreed to help with the [entity:7764108|emergency]. With their forces assembled - the original party, the newly freed [entity:7763289|Alrik], the local allies [entity:7764102|Aelysh] and [entity:7764100|Grimnar] - they approached the [entity:7764107|Willow Glade].
 
 Dense spiderwebs filled the sacred clearing, with a dryad-like creature bound between posts by silken strands. Small spiders scurried through the webs while hostile vine creatures tangled in the sticky threads. [entity:7764100|Grimnar's] arrows, enhanced by [entity:7763295|Bruldin's] runic weapon spell, struck at the arachnid defenders. The party fought to reach the trapped dryad, with [entity:7764102|Aelysh] cutting through webbing while her thorn cloak retaliated against attacking spiders.
 
@@ -55,9 +55,9 @@ The wild fey maintain protective alliances with forest guardians like the [entit
 
 ## Quest Updates
 
-- **Goblin Patrol Mission** - Eastern patrol to check for [entity:7763864|goblin raider] activity proceeded without the full party
-- **The Great Willow Rescue** - Successfully freed the dryad from spriggan-controlled spider forces, earning magical rewards and fey gratitude
-- **Basilisk Threat** - Active danger in forest areas, responsible for [entity:7763289|Alrik's] petrification and other victims
+- **[entity:7764109|Goblin Patrol Mission]** - Eastern patrol to check for [entity:7763864|goblin raider] activity proceeded without the full party
+- **[entity:7764108|The Great Willow Rescue]** - Successfully freed the dryad from spriggan-controlled spider forces, earning magical rewards and fey gratitude
+- **[entity:7764110|Basilisk Threat]** - Active danger in forest areas, responsible for [entity:7763289|Alrik's] petrification and other victims
 - **[entity:7764100|Grimnar's] Bee Assistance** - Future opportunity to help the hermit archer with his mead-making operation
 
 ## Next Steps

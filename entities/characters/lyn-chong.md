@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:29:56+00:00'
-updated: '2025-06-13T05:05:53+00:00'
+updated: '2025-06-15T18:39:40.293324+00:00'
 ---
 
 # Lyn Chong
@@ -41,12 +41,12 @@ Hails from the [entity:7763168|Jade Kingdoms] where he studied religious traditi
 
 ## Notable History
 
-- **The Western Pilgrimage**: Departed the [entity:7763168|Jade Kingdoms] seeking a shrine of great healing power near [entity:7763187|Teghrim's Crossing]
-- **The Caravan Defense**: Proved his worth by healing fallen party members during goblin ambushes
+- **The Western Pilgrimage**: Departed the [entity:7763168|Jade Kingdoms] seeking a shrine of great healing power near [entity:7763187|Teghrim's Crossing] as part of his [entity:7763874|Shrine Restoration] quest
+- **The Caravan Defense**: Proved his worth by healing fallen party members during goblin ambushes while serving on [entity:7763872|Caravan Guard Duty]
 
 ## Current Status
 
-Recently arrived at [entity:7763187|Teghrim's Crossing] with the caravan. Preparing to search for and restore the abandoned oriental shrine rumored to possess divine healing powers.
+Recently arrived at [entity:7763187|Teghrim's Crossing] with the caravan. Preparing to search for and restore the abandoned oriental shrine rumored to possess divine healing powers as part of his [entity:7763874|Shrine Restoration] quest.
 
 ## Secrets & Mysteries
 

@@ -3,7 +3,7 @@ name: Teghrim's Crossing
 type: Settlement
 entity_id: 7763187
 created: '2025-06-12T21:07:05.138825+00:00'
-updated: '2025-06-13T05:44:16.155706+00:00'
+updated: '2025-06-14T17:16:58.402818+00:00'
 ---
 
 # Teghrim's Crossing

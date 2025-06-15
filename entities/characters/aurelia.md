@@ -4,7 +4,7 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-06-13T14:32:30.956224+00:00'
+updated: '2025-06-15T18:40:43.541368+00:00'
 ---
 
 # Aurelia
@@ -44,14 +44,14 @@ As a dhampir (half-vampire), Aurelia occupies a unique position in society, part
 
 - **The Investigation Assignment**: Accepted a mysterious case from an unnamed friend requiring travel to frontier territories
 - **The Snotling Encounter**: First demonstrated her combat prowess by eliminating three young goblins at the caravanserai
-- **The Life-Saving Shots**: Delivered multiple critical hits during goblin encounters, including the killing blow against the orc leader
+- **The Life-Saving Shots**: Delivered multiple critical hits during goblin encounters on [entity:7763872|Caravan Guard Duty], including the killing blow against the orc leader
 - **The Near-Death Experiences**: Fell unconscious twice during the spider cavalry battle, saved by [entity:7763866|Lyn's] healing
 - **The Compassion Test**: Passed [entity:7764104|Iridessa's] worthiness trial by offering both strawberry and blueberry options to hungry rabbit George
-- **The Fey Alliance**: Responded to emergency call and participated in dryad rescue mission
+- **The Fey Alliance**: Responded to emergency call and participated in [entity:7764108|The Great Willow Rescue] mission
 - **The Spider Combat**: Fought plant guardians and spider creatures alongside expanded party alliance
 - **The Blood Token Success**: Rolled exceptional blood tokens (12) during downtime recovery period
 - **The Goblin Network**: Spent downtime with [entity:7764195|Gaz] learning about local goblin communities and their rumors
-- **The Von Carstein Mansion**: Participated in mansion clearing using ranged combat and tactical positioning
+- **The Von Carstein Mansion**: Participated in [entity:7773183|Von Carstein Mansion Clearing] using ranged combat and tactical positioning
 
 ## Current Status
 

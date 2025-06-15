@@ -4,7 +4,7 @@ name: Norn
 type: Other
 is_hidden: false
 created: '2025-06-12T21:07:15+00:00'
-updated: '2025-06-13T05:53:19+00:00'
+updated: '2025-06-14T17:20:24.299477+00:00'
 ---
 
 # Norn

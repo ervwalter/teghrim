@@ -6,7 +6,7 @@ tags:
 - active
 is_hidden: false
 created: '2025-06-13T00:30:00.413649+00:00'
-updated: '2025-06-13T05:46:34.669933+00:00'
+updated: '2025-06-15T18:46:21.205035+00:00'
 ---
 
 # Lyn's Shrine Restoration
@@ -46,3 +46,7 @@ Active. [entity:7763866|Lyn] has arrived at [entity:7763187|Teghrim's Crossing] 
 - Why the shrine was abandoned originally
 - What specific healing powers it once possessed
 - What materials or rituals will be required for restoration
+
+## Related Quests
+- **[entity:7763872|Caravan Guard Duty]**: The quest that brought [entity:7763866|Lyn] safely to [entity:7763187|Teghrim's Crossing] to begin his search
+- **[entity:7763875|Qotal's Broken Blade Quest]**: Fellow traveler [entity:7763296|Qotal] also seeks ancient mysteries in the same region

@@ -4,7 +4,7 @@ name: Fawn
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:12+00:00'
-updated: '2025-06-13T05:08:32.400864+00:00'
+updated: '2025-06-14T17:11:00.929313+00:00'
 ---
 
 # Fawn

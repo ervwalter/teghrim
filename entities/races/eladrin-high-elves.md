@@ -3,7 +3,7 @@ name: Eladrin (High Elves)
 type: Elf
 entity_id: 7763220
 created: '2025-06-12T21:07:19.355185+00:00'
-updated: '2025-06-13T05:45:27.404334+00:00'
+updated: '2025-06-14T17:21:33.629065+00:00'
 ---
 
 # Eladrin (High Elves)

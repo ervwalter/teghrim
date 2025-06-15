@@ -4,7 +4,7 @@ name: Hades Shrine
 type: Shrine
 is_hidden: false
 created: '2025-06-13T02:25:44+00:00'
-updated: '2025-06-13T05:42:01+00:00'
+updated: '2025-06-14T17:14:36.110960+00:00'
 ---
 
 # Hades Shrine

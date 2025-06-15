@@ -64,6 +64,12 @@ Where they are now and what they're doing
 GM-only information if is_hidden: true
 ```
 
+### Entity Types and Tags
+- **ALWAYS read metadata.json first** before creating or updating any entity
+- Use only types and tags defined in metadata.json for that entity type
+- If a new type or tag seems necessary, suggest it but wait for user confirmation before using
+- metadata.json is the authoritative source for controlled vocabulary
+
 ### Writing Principles
 - **Wikipedia-style**: In-world perspective, no meta-game references
 - **Accumulative**: Never delete content, only add new information
@@ -82,11 +88,19 @@ GM-only information if is_hidden: true
 - Structured extraction from session transcripts
 - Tagged chronological events (SCENE, ACTION, DIALOGUE, COMBAT, etc.)
 - Source material for entity updates and session summaries
+- **IMPORTANT**: Digests should NEVER contain entity links - they are raw source material
 
 **Session Summaries** (`entities/journals/session-summary-YYYY-MM-DD.md`):
 - Narrative retellings of game sessions
 - Player-facing documents
 - Generated from digests with entity context
+- Should include entity links to relevant quests in quest update sections
+
+**Session Narratives** (`entities/journals/session-narrative-YYYY-MM-DD.md`):
+- Literary retellings of game sessions
+- Focus on narrative flow and storytelling
+- Entity links should be used sparingly and ONLY where they enhance rather than disrupt the narrative
+- Quest links are appropriate when quests are explicitly mentioned in dialogue or pivotal moments
 
 **Player Characters**:
 - Tracked in `entities/notes/players.md` for player-to-character mapping
@@ -107,3 +121,25 @@ Local files and Kanka work together:
 - Kanka: Online access, player viewing, relationship visualization
 - Conflicts resolved intelligently, preserving content from both sources
 - Entity IDs connect the two systems
+
+## Quest Management Guidelines
+
+### Quest Creation
+When creating quests from session content:
+- Check existing quests to avoid duplication
+- Include all participants who were actually present (verify against digests/summaries)
+- Create quests for all major events, not just explicitly named missions
+
+### Quest Linking
+Add quest entity links in appropriate places:
+- **Session Summaries**: Link quests in the Quest Updates section
+- **Session Narratives**: Only link quests where naturally mentioned in narrative flow
+- **Character Files**: Link quests in Notable History or Current Status sections
+- **Location/Organization Files**: Link relevant quests in history entries
+- **Quest Files**: Add "Related Quests" sections for interconnected storylines
+- **Creature Files**: Link quests where creatures play significant roles
+
+### Common Corrections
+- Hobs ≠ Hobgoblins (hobs are domesticated goblins, hobgoblins are a larger goblinoid race)
+- Verify participant lists against actual session attendance
+- The Goblin King is a goblin, not a hobgoblin

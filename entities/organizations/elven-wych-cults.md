@@ -3,7 +3,7 @@ name: Elven Wych Cults
 type: Secret Society
 entity_id: 7763123
 created: '2025-06-12T21:06:21.473536+00:00'
-updated: '2025-06-13T05:40:47.576360+00:00'
+updated: '2025-06-14T17:02:53.170476+00:00'
 ---
 
 # Elven Wych Cults

@@ -6,7 +6,7 @@ tags:
 - active
 is_hidden: false
 created: '2025-06-13T00:30:00.867302+00:00'
-updated: '2025-06-13T05:46:35.512211+00:00'
+updated: '2025-06-15T18:46:22.081184+00:00'
 ---
 
 # Qotal's Broken Blade Quest
@@ -46,3 +46,7 @@ Active. [entity:7763296|Qotal] has arrived at [entity:7763187|Teghrim's Crossing
 - The nature of the weapon's breaking and its significance
 - Why [entity:7763295|Bruldin] became quiet when hearing the description
 - What specific location holds the quest's conclusion
+
+## Related Quests
+- **[entity:7763872|Caravan Guard Duty]**: The quest that brought [entity:7763296|Qotal] to [entity:7763187|Teghrim's Crossing] to pursue his research
+- **[entity:7763874|Lyn's Shrine Restoration]**: Fellow traveler [entity:7763866|Lyn Chong] also pursues a personal spiritual quest in the same region

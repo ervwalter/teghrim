@@ -3,7 +3,7 @@ name: Highland Clan (Mountain Dwarves)
 type: Dwarf
 entity_id: 7763200
 created: '2025-06-12T21:07:10.835126+00:00'
-updated: '2025-06-13T05:52:11.401052+00:00'
+updated: '2025-06-14T17:19:13.289244+00:00'
 ---
 
 # Highland Clan (Mountain Dwarves)

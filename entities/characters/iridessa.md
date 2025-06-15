@@ -3,7 +3,7 @@ name: Iridessa
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:14.375229+00:00'
-updated: '2025-06-13T05:11:24.826442+00:00'
+updated: '2025-06-14T17:14:30.998952+00:00'
 entity_id: 7764104
 ---
 

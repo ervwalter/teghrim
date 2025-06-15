@@ -6,7 +6,7 @@ tags:
 - session-summary
 is_hidden: false
 created: '2025-06-13T04:50:03+00:00'
-updated: '2025-06-13T14:13:11.170090+00:00'
+updated: '2025-06-15T18:39:35.817867+00:00'
 ---
 
 # Vampire Property and Bridge Politics
@@ -19,17 +19,17 @@ The reunited party settled into Teghrim's Crossing routines, building relationsh
 
 Morning found the party gathered in the bridge settlement's humid mess hall, where [entity:7763289|Alrik Grimmelstang] continued adjusting to his freedom after 150 years of petrification. The chef extraordinaire, accompanied by his sprite companion [entity:7764103|Vidia], marveled at how [entity:7763187|Teghrim's Crossing] had sprouted where once only wilderness existed. When [entity:7763294|Aurelia] touched cold iron to prove her non-fey nature, [entity:7763289|Alrik] relaxed slightly, though he maintained his wariness of fairy folk seeking his legendary recipes.
 
-[entity:7763289|Alrik] regaled the group with exaggerated tales of their forest victory: "We slew the beast! We killed the dragon! Returned with the treasure hoard!" His enthusiasm drew the attention of [entity:7764195|Gaz], the hob server who quickly established herself as someone who "knew a guy" for anything. [entity:7764195|The helpful hob] explained the crucial distinction between civilized "hobs" like herself and the evil goblins plaguing trade routes, offering supply delivery missions to two upriver camps when the next caravan arrived.
+[entity:7763289|Alrik] regaled the group with exaggerated tales of their forest victory: "We slew the beast! We killed the dragon! Returned with the treasure hoard!" His enthusiasm drew the attention of [entity:7764195|Gaz], the hob server who quickly established herself as someone who "knew a guy" for anything. [entity:7764195|The helpful hob] explained the crucial distinction between civilized "hobs" like herself and the evil goblins plaguing trade routes, offering [entity:7773182|supply delivery missions] to two upriver camps when the next caravan arrived.
 
-[entity:7764102|Aelysh] arrived seeking financial help for seeds, mentioning the captain had a proposition. The wood elf also requested discrete assistance procuring elderberries from "Old Willy" - rare alchemical plants that "three flying little shits" had stolen. The party's nature knowledge revealed these legendary berries possessed remarkable alchemical properties.
+[entity:7764102|Aelysh] arrived seeking financial help for seeds, mentioning the captain had a proposition. The wood elf also requested discrete assistance [entity:7773180|procuring elderberries] from "Old Willy" - rare alchemical plants that "three flying little shits" had stolen. The party's nature knowledge revealed these legendary berries possessed remarkable alchemical properties.
 
-[entity:7764097|Captain Irka Spritzel] soon summoned them for an urgent assignment. She introduced [entity:7764196|Rosencrantz], a Spanish-looking mechamagician whose [entity:7764199|laboratory] occupied a southern island complete with fishing hut, barracks, and converted tower filled with da Vinci-esque contraptions. The mission proved straightforward yet critical: clear the [entity:7764198|Von Carstein mansion] before its new owners arrived between the 12th and 14th of Astra Orpheus. Built by a previous commander twenty years ago and finished seven to eight years past, the elaborate estate had stood empty since its creator's death two to three years prior.
+[entity:7764097|Captain Irka Spritzel] soon summoned them for an urgent assignment. She introduced [entity:7764196|Rosencrantz], a Spanish-looking mechamagician whose [entity:7764199|laboratory] occupied a southern island complete with fishing hut, barracks, and converted tower filled with da Vinci-esque contraptions. The mission proved straightforward yet critical: [entity:7773183|clear the Von Carstein mansion] before its new owners arrived between the 12th and 14th of Astra Orpheus. Built by a previous commander twenty years ago and finished seven to eight years past, the elaborate estate had stood empty since its creator's death two to three years prior.
 
 [entity:7763296|Qotal] privately confided to [entity:7764097|the captain] about his quest, describing a six or seven story dwarven statue clutching a broken weapon from his homeland. [entity:7763295|Bruldin] grew noticeably quiet at this description, suggesting deeper connections to the mystery.
 
 During their two-day rest period, the party pursued personal interests. [entity:7763296|Qotal] spent time playing his lute and deepening his relationship with [entity:7763866|Lyn Chong]. [entity:7763289|Alrik] investigated his petrification duration - approximately 150 years - while learning alchemy from [entity:7764196|Rosencrantz]. [entity:7763294|Aurelia] sought blood tokens, gaining twelve, then networked with [entity:7764195|Gaz] about local goblin communities and their rumors.
 
-[entity:7763290|Arnór] searched for witch covens, his exceptional investigation leading him to the [entity:7764201|Hades shrine] built into the settlement structure. Maintained by the Church of [entity:7763137|Pharasma], the shrine honored Hades as "purveyor of the undead" who shepherded deceased souls. Finding no existing practitioners, [entity:7763290|the Norn] placed witch marks at sunset to signal his presence to potential contacts, then checked on his familiar [entity:7763867|Natvig].
+[entity:7763290|Arnór] [entity:7773181|searched for witch covens], his exceptional investigation leading him to the [entity:7764201|Hades shrine] built into the settlement structure. Maintained by the Church of [entity:7763137|Pharasma], the shrine honored Hades as "purveyor of the undead" who shepherded deceased souls. Finding no existing practitioners, [entity:7763290|the Norn] placed witch marks at sunset to signal his presence to potential contacts, then checked on his familiar [entity:7763867|Natvig].
 
 During preparations, [entity:7763290|Arnór] encountered [entity:7764194|Sigrid], a fellow Norn who had fled Solstheim and now worked with caravans and the general store. Their conversation in the Skald language revealed she was [entity:7764100|Grimnar's] niece, and they planned an Old Lughnass festival for September 22nd to maintain their cultural traditions.
 
@@ -55,11 +55,11 @@ The [entity:7764201|Hades shrine] reveals how frontier settlements adapt traditi
 
 ## Quest Updates
 
-- **Von Carstein Mansion Clearing** - Successfully eliminated undead threats and secured property before vampire owners' arrival
-- **Supply Delivery Mission** - [entity:7764195|Gaz] offered future work delivering supplies to two hobgoblin camps upriver
-- **Elderberry Procurement** - [entity:7764102|Aelysh] seeks help recovering rare alchemical plants from "Old Willy"
+- **[entity:7773183|Von Carstein Mansion Clearing]** - Successfully eliminated undead threats and secured property before vampire owners' arrival
+- **[entity:7773182|Supply Delivery Mission]** - [entity:7764195|Gaz] offered future work delivering supplies to two hob camps upriver
+- **[entity:7773180|Elderberry Procurement]** - [entity:7764102|Aelysh] seeks help recovering rare alchemical plants from "Old Willy"
 - **[entity:7763296|Qotal's] Broken Blade Mystery** - Shared details with [entity:7764097|Captain Irka] about the massive dwarven statue
-- **Witch Coven Search** - [entity:7763290|Arnór] placed markers to attract potential magical contacts
+- **[entity:7773181|Witch Coven Search]** - [entity:7763290|Arnór] placed markers to attract potential magical contacts
 
 ## Next Steps
 
