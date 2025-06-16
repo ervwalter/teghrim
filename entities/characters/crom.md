@@ -1,30 +1,36 @@
 ---
+entity_id: 7763153
 name: Crom
 type: Deity
 tags:
 - Demigod
-entity_id: 7763153
-created: '2025-06-12T21:06:34.826977+00:00'
-updated: '2025-06-14T17:11:06.464999+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:34+00:00'
+updated: '2025-06-16T01:25:55+00:00'
+image_thumb: https://th.kanka.io/w1BtYSA59KgichY2dB-k5fjwAS0=/40x40/smart/src/campaigns/322885/9f0da608-732b-43b9-bdb5-335992506216.png
 ---
 
 # Crom
 
 ## Basic Information
+
 - **Type**: Demigod - Drune
 - **Title**: Demigod of Steel, Warfare, Battle
 - **Domain**: Steel weapons, warfare, battle prowess
 
 ## Description
+
 Crom is a [entity:7763222|Drune] demigod of steel and warfare, representing the martial traditions of the [entity:7763222|Drune] people. He embodies the strength of steel, both in weapons and in spirit. Unlike gods who grant blessings, Crom believes mortals should rely on their own strength and the steel they forge.
 
 ## Worship & Influence
+
 - [entity:7763222|Drune] warriors
 - Weapon smiths
 - Battle-hardened veterans
 - Those who trust in steel
 
 ## Divine Portfolio
+
 - Steel weapons
 - Personal strength
 - Battle prowess
@@ -33,12 +39,14 @@ Crom is a [entity:7763222|Drune] demigod of steel and warfare, representing the 
 - Strength of will
 
 ## Relations with Other Deities
+
 - Drune demigod
 - Works with [entity:7763163|Morvahna]
 - Respects strength
 - Disdains weakness
 
 ## Followers
+
 - [entity:7763222|Drune] warriors
 - [entity:7763211|Norn] also worship
 - [entity:7763210|Celtos] warriors
@@ -46,6 +54,7 @@ Crom is a [entity:7763222|Drune] demigod of steel and warfare, representing the 
 - Battle veterans
 
 ## Divine Principles
+
 - Trust in steel
 - Rely on your strength
 - Gods help those who help themselves
@@ -54,12 +63,15 @@ Crom is a [entity:7763222|Drune] demigod of steel and warfare, representing the 
 - No prayers in battle
 
 ## Divine Limitations
+
 As a demigod:
+
 - Grants no blessings
 - Expects self-reliance
 - Judges by deeds
 
 ## Common Symbols
+
 - Naked steel blade
 - Iron mountain
 - Forge and sword

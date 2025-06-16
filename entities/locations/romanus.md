@@ -1,23 +1,28 @@
 ---
+entity_id: 7763188
 name: Romanus
 type: Region
-entity_id: 7763188
-created: '2025-06-12T21:07:05.580666+00:00'
-updated: '2025-06-14T17:18:00.558652+00:00'
+is_hidden: false
+created: '2025-06-12T21:07:05+00:00'
+updated: '2025-06-16T01:38:21+00:00'
+image_thumb: https://th.kanka.io/NHKsVjdGctKBFPFWG5WVGWaTkbI=/40x40/smart/src/campaigns/322885/9f0da587-c99f-411b-9158-dddd2ea04ec8.png
 ---
 
 # Romanus
 
 ## Basic Information
+
 - **Type**: Southern Kingdom
 - **Location**: Far south of [entity:7763182|Aegyptus]
 - **Climate**: Mediterranean-like
 - **Importance**: Largest single kingdom, [entity:7763223|Leonen] homeland
 
 ## Description
+
 The Romanus lands exist to the far south of the land of the Aegyptians. During the Dark Times, the [entity:7763223|Leonen] were pushed to the edge of extinction on several occasions. In recent centuries, they have begun to rebuild their kingdom, and it is probably the largest single kingdom in Septerra. However, they are geographically isolated, and their expansion into new lands has been slow.
 
 ## Geography
+
 - Isolated southern position
 - Natural boundaries
 - Fertile lands
@@ -25,6 +30,7 @@ The Romanus lands exist to the far south of the land of the Aegyptians. During t
 - Defensive terrain
 
 ## Government
+
 - Unified kingdom
 - Greco-Roman structure
 - Centralized power
@@ -32,6 +38,7 @@ The Romanus lands exist to the far south of the land of the Aegyptians. During t
 - Organized military
 
 ## Culture
+
 - Greco-Roman inspired
 - Law and order focus
 - Classical architecture
@@ -39,12 +46,14 @@ The Romanus lands exist to the far south of the land of the Aegyptians. During t
 - Martial excellence
 
 ## Major Inhabitants
+
 - **[entity:7763227|Romanus Leonen]**: Dominant population
 - **Limited others**: Due to isolation
 - **Traders**: Growing presence
 - **Scholars**: Attracted to learning
 
 ## Achievements
+
 - Largest single kingdom
 - Survived near-extinction
 - Rebuilt civilization
@@ -52,6 +61,7 @@ The Romanus lands exist to the far south of the land of the Aegyptians. During t
 - Cultural preservation
 
 ## Limitations
+
 - Geographic isolation
 - Slow expansion
 - Limited diversity
@@ -59,6 +69,7 @@ The Romanus lands exist to the far south of the land of the Aegyptians. During t
 - Resource constraints
 
 ## Current Status
+
 - Seeking trade partners
 - Exploring northward
 - Diplomatic missions
@@ -66,6 +77,7 @@ The Romanus lands exist to the far south of the land of the Aegyptians. During t
 - Slow modernization
 
 ## Relations
+
 - Trade with [entity:7763182|Aegyptus]
 - Distant from others
 - Respected for size
@@ -73,6 +85,7 @@ The Romanus lands exist to the far south of the land of the Aegyptians. During t
 - Peaceful expansion
 
 ## Historical Significance
+
 - Pre-Dark Times presence
 - Multiple near-extinctions
 - Remarkable recovery

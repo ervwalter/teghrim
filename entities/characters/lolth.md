@@ -1,30 +1,36 @@
 ---
+entity_id: 7763140
 name: Lolth
 type: Deity
 tags:
 - Demigod
-entity_id: 7763140
-created: '2025-06-12T21:06:29.174488+00:00'
-updated: '2025-06-14T17:08:45.737298+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:29+00:00'
+updated: '2025-06-16T01:23:35+00:00'
+image_thumb: https://th.kanka.io/w1BtYSA59KgichY2dB-k5fjwAS0=/40x40/smart/src/campaigns/322885/9f0da608-732b-43b9-bdb5-335992506216.png
 ---
 
 # Lolth
 
 ## Basic Information
+
 - **Type**: Demigod - Elven
 - **Title**: Demigod of Elven Survival at Any Cost
 - **Domain**: Elven preservation, manipulation, necessary evils
 
 ## Description
+
 Lolth is an elven demigod dedicated to ensuring elven survival by any means necessary. She guides the Drow in their shadow work - assassinating threats, manipulating politics, and even making deals with enemies like vampires to protect elven peoples. She represents the dark sacrifices made for racial survival.
 
 ## Worship & Influence
+
 - [entity:7763231|Drow] exclusively
 - Secret elven protectors
 - Shadow manipulators
 - Desperate elves
 
 ## Divine Portfolio
+
 - Racial survival
 - Necessary evils
 - Political manipulation
@@ -33,18 +39,21 @@ Lolth is an elven demigod dedicated to ensuring elven survival by any means nece
 - Spider symbolism
 
 ## Relations with Other Deities
+
 - Elven demigod
 - Other elven gods tolerate her
 - Uses any means
 - Makes dark bargains
 
 ## Followers
+
 - [entity:7763231|Drow] operatives
 - Secret cells
 - Transformed elves
 - Shadow agents
 
 ## Organizations
+
 - **[entity:7763127|Drow]**: Secret organization ensuring elven survival
   - Assassinate threats
   - Manipulate politics
@@ -52,6 +61,7 @@ Lolth is an elven demigod dedicated to ensuring elven survival by any means nece
   - Transform worthy elves
 
 ## Divine Principles
+
 - Survival justifies all
 - Work in shadows
 - Sacrifice for the race
@@ -60,12 +70,15 @@ Lolth is an elven demigod dedicated to ensuring elven survival by any means nece
 - Spiders weave fate
 
 ## Divine Limitations
+
 As a demigod:
+
 - Only transforms elves
 - Works through [entity:7763231|Drow]
 - Cannot act openly
 
 ## Common Symbols
+
 - Black spider
 - Web patterns
 - Hidden blades

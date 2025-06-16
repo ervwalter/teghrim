@@ -1,23 +1,28 @@
 ---
+entity_id: 7763179
 name: Golgorun Plains
 type: Region
-entity_id: 7763179
-created: '2025-06-12T21:07:01.902100+00:00'
-updated: '2025-06-14T17:15:47.728169+00:00'
+is_hidden: false
+created: '2025-06-12T21:07:01+00:00'
+updated: '2025-06-16T01:30:36+00:00'
+image_thumb: https://th.kanka.io/NHKsVjdGctKBFPFWG5WVGWaTkbI=/40x40/smart/src/campaigns/322885/9f0da587-c99f-411b-9158-dddd2ea04ec8.png
 ---
 
 # Golgorun Plains
 
 ## Basic Information
+
 - **Type**: Plains Region
 - **Location**: South of Astoria (X5)
 - **Climate**: Temperate grasslands
 - **Importance**: Nagaji kingdom location
 
 ## Description
+
 The Golgorun plains lie south of [entity:7763172|Astoria], where about four hundred years ago, a clutch of magically preserved [entity:7763226|Nagaji] eggs awakened in the nearby mountains. The newly emerged [entity:7763226|Nagaji] took refuge in abandoned forts on the plain and have since built a thriving harbor kingdom that has become a major player in southern trade routes.
 
 ## Geography
+
 - Wide grasslands
 - Mountain borders
 - Natural harbors
@@ -25,6 +30,7 @@ The Golgorun plains lie south of [entity:7763172|Astoria], where about four hund
 - Ancient ruins
 
 ## Major Features
+
 - Abandoned ancient forts
 - New Nagaji harbor
 - Trade route nexus
@@ -32,6 +38,7 @@ The Golgorun plains lie south of [entity:7763172|Astoria], where about four hund
 - Coastal access
 
 ## Inhabitants
+
 - **[entity:7763226|Nagaji]**: Dominant population
 - **Traders**: Various races
 - **[entity:7763230|Slaan] advisors**: Mystical guides
@@ -39,6 +46,7 @@ The Golgorun plains lie south of [entity:7763172|Astoria], where about four hund
 - **Merchants**: International
 
 ## Strategic Importance
+
 - Southern trade route hub
 - Connects [entity:7763168|Oceanus] to [entity:7763185|Avenlore]
 - Links to [entity:7763186|Hyboria]/[entity:7763182|Aegyptus]
@@ -46,6 +54,7 @@ The Golgorun plains lie south of [entity:7763172|Astoria], where about four hund
 - Growing influence
 
 ## History
+
 - Ancient abandoned forts
 - [entity:7763226|Nagaji] awakening site
 - Rapid development
@@ -53,6 +62,7 @@ The Golgorun plains lie south of [entity:7763172|Astoria], where about four hund
 - Diplomatic success
 
 ## Current Status
+
 - Major trade center
 - Expanding influence
 - Searching for more eggs
@@ -60,6 +70,7 @@ The Golgorun plains lie south of [entity:7763172|Astoria], where about four hund
 - Economic powerhouse
 
 ## Unique Aspects
+
 - Reborn civilization
 - Mystical origins
 - Slaan connection
@@ -67,6 +78,7 @@ The Golgorun plains lie south of [entity:7763172|Astoria], where about four hund
 - Modern success
 
 ## Relations
+
 - [entity:7763174|Primordia] contact
 - [entity:7763230|Slaan] alliance
 - Trade partnerships
@@ -74,6 +86,7 @@ The Golgorun plains lie south of [entity:7763172|Astoria], where about four hund
 - Diplomatic center
 
 ## Future
+
 - Continued growth
 - Egg clutch searches
 - Trade expansion

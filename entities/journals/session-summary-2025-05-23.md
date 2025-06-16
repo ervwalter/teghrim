@@ -6,7 +6,11 @@ tags:
 - session-summary
 is_hidden: false
 created: '2025-06-13T04:38:09+00:00'
-updated: '2025-06-15T18:39:34.874965+00:00'
+updated: '2025-06-16T01:21:17+00:00'
+image_full: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ae6a-2302-490d-ba78-3fd49e80f6fa.png
+image_thumb: https://th.kanka.io/88E6I9TfaIzc-UOFwQzbpdzfnzI=/40x40/smart/src/campaigns/322885/9f25ae6a-2302-490d-ba78-3fd49e80f6fa.png
+image_uuid: 9f25ae6a-2302-490d-ba78-3fd49e80f6fa
+header_uuid: 9f25ae6a-9d40-4116-acb0-975dd0169d85
 ---
 
 # The Petrified Chef and Forest Alliances

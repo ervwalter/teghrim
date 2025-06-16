@@ -1,23 +1,28 @@
 ---
+entity_id: 7763181
 name: Cimmeria
 type: Region
-entity_id: 7763181
-created: '2025-06-12T21:07:02.771212+00:00'
-updated: '2025-06-14T17:16:50.741384+00:00'
+is_hidden: false
+created: '2025-06-12T21:07:02+00:00'
+updated: '2025-06-16T01:30:38+00:00'
+image_thumb: https://th.kanka.io/NHKsVjdGctKBFPFWG5WVGWaTkbI=/40x40/smart/src/campaigns/322885/9f0da587-c99f-411b-9158-dddd2ea04ec8.png
 ---
 
 # Cimmeria
 
 ## Basic Information
+
 - **Type**: Mountain Region
 - **Location**: Northern mountainous area
 - **Climate**: Cold, harsh
 - **Importance**: Drune homeland
 
 ## Description
+
 Cimmeria is the ancestral homeland of the [entity:7763222|Drune], a tall and strong humanoid race that predates human expansion. This mountainous region has been inhabited by the [entity:7763222|Drune] since before humans left [entity:7763182|Aegyptus], making them one of the truly indigenous peoples of the northern lands.
 
 ## Geography
+
 - Harsh mountain terrain
 - Hidden valleys
 - Defensive positions
@@ -25,12 +30,14 @@ Cimmeria is the ancestral homeland of the [entity:7763222|Drune], a tall and str
 - Natural fortifications
 
 ## Major Inhabitants
+
 - **[entity:7763222|Drune]**: Original inhabitants
 - **Mount Cimmeria**: [entity:7763197|Fire-Bearer Dwarves]
 - **Wildlife**: Hardy mountain species
 - **Spirits**: Shamanic entities
 
 ## Culture
+
 - Shamanic traditions
 - Warrior society
 - Mountain survival
@@ -38,6 +45,7 @@ Cimmeria is the ancestral homeland of the [entity:7763222|Drune], a tall and str
 - Pre-human origins
 
 ## Religion
+
 - Shamanism dominant
 - Spirit worship
 - Connection to land
@@ -45,6 +53,7 @@ Cimmeria is the ancestral homeland of the [entity:7763222|Drune], a tall and str
 - Warrior spirits
 
 ## Resources
+
 - Mountain minerals
 - Hardy livestock
 - Warrior expertise
@@ -52,6 +61,7 @@ Cimmeria is the ancestral homeland of the [entity:7763222|Drune], a tall and str
 - Defensive terrain
 
 ## Relations
+
 - Proud independence
 - Limited outside contact
 - Mercenary work
@@ -59,6 +69,7 @@ Cimmeria is the ancestral homeland of the [entity:7763222|Drune], a tall and str
 - Defensive posture
 
 ## Historical Significance
+
 - Pre-human settlement
 - Survived Dark Times
 - Never conquered
@@ -66,6 +77,7 @@ Cimmeria is the ancestral homeland of the [entity:7763222|Drune], a tall and str
 - Indigenous rights
 
 ## Current Status
+
 - Maintaining independence
 - Some outside trade
 - Mercenary exports
@@ -73,6 +85,7 @@ Cimmeria is the ancestral homeland of the [entity:7763222|Drune], a tall and str
 - Slow modernization
 
 ## Language
+
 - Cimmerian tongue
 - Ancient dialect
 - Shamanic terms

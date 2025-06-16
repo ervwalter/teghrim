@@ -2,11 +2,11 @@
 entity_id: 7764108
 name: The Great Willow Rescue
 type: Combat
-tags:
-- completed
 is_hidden: false
 created: '2025-06-13T01:40:15+00:00'
-updated: '2025-06-15T18:40:48.214225+00:00'
+updated: '2025-06-16T02:44:35.982426+00:00'
+is_completed: true
+image_thumb: https://th.kanka.io/QfX-Dl9W48kYr88okP5BRkBKPYY=/40x40/smart/src/campaigns/322885/9f2486ba-55b0-44ec-8394-af0e75cd31dc.png
 ---
 
 # The Great Willow Rescue
@@ -89,6 +89,7 @@ Restored forest balance by relieving dryad's stress, causing plant guardians to 
 This mission established the party's reputation with fey allies and demonstrated their capability for ecosystem-wide problem solving beyond simple combat resolution.
 
 ## Related Quests
+
 - **[entity:7773180|Elderberry Procurement]**: [entity:7764102|Aelysh's] request hints at ongoing fey-mortal tensions and magical resource politics
 - **[entity:7764110|Basilisk Threat]**: Discovered during rescue mission when party found petrified [entity:7763289|Alrik] and companions
 - **[entity:7764109|Goblin Patrol Mission]**: Occurred simultaneously as party split to handle both fey emergency and security concerns

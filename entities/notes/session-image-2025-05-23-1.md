@@ -1,18 +1,20 @@
 ---
+entity_id: 7766575
 name: 2025-05-23 Image 1 - Alrik's Stone Liberation
 type: Image Prompt
 is_hidden: true
-created: '2025-06-13T14:49:56.676701+00:00'
-updated: '2025-06-14T17:23:58.354291+00:00'
-entity_id: 7766575
+created: '2025-06-13T14:49:56+00:00'
+updated: '2025-06-16T01:46:23+00:00'
+image_thumb: https://th.kanka.io/g73Ma-s-w3GhHhMbe0-yOA4ctJY=/40x40/smart/src/campaigns/322885/9f0da5ac-b391-4aa6-9d30-5dea11cfe639.png
 ---
 
 # The Fairy's Kiss of Freedom
 
 ## Prompt
 
-```prompt
+```
 Epic fantasy digital painting, magical transformation scene as a small pink fairy (female fairy with gossamer wings and luminous glow) holds a glowing magical strawberry to the stone lips of a petrified man (elderly human male with wild hair frozen mid-gesture, weathered adventuring gear visible in stone). The strawberry's magic spreads like watercolor paint, stone becoming flesh starting from the mouth, color bleeding outward in luminous ripples. Around them, a perfect mushroom fairy ring encircles other broken stone figures. A tiny sprite (small fairy companion) is visible on the man's stone shoulder, also beginning to transform. Forest light filters through ancient trees, catching on fairy dust and the magical transformation. Art style: ethereal, painterly, magical realism with flowing color transitions, ArtStation quality. Close-up focusing on the moment of transformation.
+
 ```
 
 ## Context

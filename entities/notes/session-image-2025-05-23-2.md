@@ -1,18 +1,20 @@
 ---
+entity_id: 7766573
 name: 2025-05-23 Image 2 - Fairies Testing the Heroes
 type: Image Prompt
 is_hidden: true
-created: '2025-06-13T14:49:55.847059+00:00'
-updated: '2025-06-14T17:23:56.682431+00:00'
-entity_id: 7766573
+created: '2025-06-13T14:49:55+00:00'
+updated: '2025-06-16T01:45:20+00:00'
+image_thumb: https://th.kanka.io/g73Ma-s-w3GhHhMbe0-yOA4ctJY=/40x40/smart/src/campaigns/322885/9f0da5ac-b391-4aa6-9d30-5dea11cfe639.png
 ---
 
 # The Wisdom of Small Things
 
 ## Prompt
 
-```prompt
+```
 Epic fantasy digital painting, three tiny fairies hover before two battle-worn adventurers at a forest settlement's edge. In the center, a purple fairy (female fairy with twilight-colored wings, serious expression) gestures while speaking. To her left, a pink fairy (female fairy with shy demeanor) and to her right, a male fairy readying to dart away. Facing them: a green-scaled reptilian monk (male Slaan with jade scales, simple robes, bo staff) listens thoughtfully, while a pale aristocratic woman (female dhampir with dark hair, leather armor, rapiers at her sides) observes with calculating eyes. Behind them, the massive wooden bridge of Teghrim's Crossing spans waters wide as a river. Afternoon sunlight makes the fairy wings translucent like stained glass. Art style: whimsical yet serious, detailed character expressions, soft lighting, ArtStation quality. Mid-shot showing the contrast between tiny fairies and humanoid adventurers.
+
 ```
 
 ## Context

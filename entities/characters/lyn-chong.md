@@ -6,7 +6,8 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:29:56+00:00'
-updated: '2025-06-15T18:39:40.293324+00:00'
+updated: '2025-06-16T01:22:28+00:00'
+image_thumb: https://th.kanka.io/w1BtYSA59KgichY2dB-k5fjwAS0=/40x40/smart/src/campaigns/322885/9f0da608-732b-43b9-bdb5-335992506216.png
 ---
 
 # Lyn Chong

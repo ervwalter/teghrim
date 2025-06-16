@@ -1,18 +1,20 @@
 ---
+entity_id: 7766574
 name: 2025-05-30 Image 3 - The Von Carstein Discovery
 type: Image Prompt
 is_hidden: true
-created: '2025-06-13T14:49:56.242798+00:00'
-updated: '2025-06-14T17:23:57.512683+00:00'
-entity_id: 7766574
+created: '2025-06-13T14:49:56+00:00'
+updated: '2025-06-16T01:46:22+00:00'
+image_thumb: https://th.kanka.io/g73Ma-s-w3GhHhMbe0-yOA4ctJY=/40x40/smart/src/campaigns/322885/9f0da5ac-b391-4aa6-9d30-5dea11cfe639.png
 ---
 
 # Uncovering Ancient Vampire Secrets
 
 ## Prompt
 
-```prompt
+```
 Epic fantasy digital painting, tense discovery scene in an ornate Gothic study filled with expensive furnishings and scattered documents, where a pale dhampir investigator (female with aristocratic bearing, dark hair, leather armor) holds up an official document bearing the Von Carstein vampire house seal, her expression showing shock and dread. Around her, adventuring companions react with concern - a green-scaled monk gathering scattered papers, a scarred dwarf warrior gripping his maul defensively, an elderly chef with a glowing sprite companion, and a mysterious Norn man examining maps on the desk. The study features dark wood paneling, elaborate candelabras casting flickering shadows, and Gothic windows filtering afternoon sunlight that creates stark contrasts. The Von Carstein seal glows with subtle malevolent energy. Art style: atmospheric, rich detail, emphasis on character reactions and ominous mood. Medium shot composition focusing on the document reveal and the party's worried expressions.
+
 ```
 
 ## Context

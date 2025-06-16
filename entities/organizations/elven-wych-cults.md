@@ -1,25 +1,30 @@
 ---
+entity_id: 7763123
 name: Elven Wych Cults
 type: Secret Society
-entity_id: 7763123
-created: '2025-06-12T21:06:21.473536+00:00'
-updated: '2025-06-14T17:02:53.170476+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:21+00:00'
+updated: '2025-06-16T01:20:03+00:00'
+image_thumb: https://th.kanka.io/oTpR0UIdEf51m3cnm0cdaZvr2KU=/40x40/smart/src/campaigns/322885/9f0da5ba-1ac5-43f5-8f90-76405d3ddca4.png
 ---
 
 # Elven Wych Cults
 
 ## Basic Information
+
 - **Type**: Religious Warrior Society
 - **Affiliation**: Followers of Morathi
 - **Membership**: All-female elven order
 - **Scope**: Roam throughout Septerra
 
 ## Description
+
 Wych cults are an ancient and all-female elven order dedicated to the Elven demi-god, [entity:7763164|Morathi]. The blood of worthy enemies plays a large part in their religious ceremonies. Only the best blood will do and must be gained from defeating a foe in battle. These rituals heal their wounds and keep them young.
 
 While this aspect of their religion should make them unpopular, Wych elves embrace this, and are actually highly respected throughout [entity:7763144|Septerra].
 
 ## Primary Purpose
+
 - Worship [entity:7763164|Morathi] through blood rituals
 - Eliminate threats to communities
 - Preserve elven martial traditions
@@ -27,6 +32,7 @@ While this aspect of their religion should make them unpopular, Wych elves embra
 - Maintain youth and vitality through blood magic
 
 ## Activities
+
 - Travel from town to town performing
 - Put on gladiatorial and acrobatic shows
 - Build trust with local populations
@@ -35,6 +41,7 @@ While this aspect of their religion should make them unpopular, Wych elves embra
 - Train adopted children in martial arts
 
 ## Membership Requirements
+
 - Female Elf only
 - Follower of Morathi
 - Trained in Acrobatics
@@ -42,6 +49,7 @@ While this aspect of their religion should make them unpopular, Wych elves embra
 - Must embrace minimal armor tradition
 
 ## Traditions
+
 - Derived from ancient Battle Dancers
 - Wear minimal armor to display skill
 - Poison blades with foe's blood
@@ -49,18 +57,21 @@ While this aspect of their religion should make them unpopular, Wych elves embra
 - Allow adjuncts to follow any deity
 
 ## Structure
+
 - Small traveling troupes
 - Led by experienced Wych Mothers
 - Include adopted adjuncts
 - Coordinate for major threats
 
 ## Relations
+
 - Highly respected despite blood practices
 - Welcomed in most communities
 - Trusted to handle local threats
 - Known for keeping their bargains
 
 ## Identifying Features
+
 - Minimal, ornate armor
 - Acrobatic combat style
 - Poisoned blades

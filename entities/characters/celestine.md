@@ -1,30 +1,36 @@
 ---
+entity_id: 7763132
 name: Celestine
 type: Deity
 tags:
 - Greater Deity
-entity_id: 7763132
-created: '2025-06-12T21:06:25.501602+00:00'
-updated: '2025-06-14T17:05:19.302695+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:25+00:00'
+updated: '2025-06-16T01:22:24+00:00'
+image_thumb: https://th.kanka.io/w1BtYSA59KgichY2dB-k5fjwAS0=/40x40/smart/src/campaigns/322885/9f0da608-732b-43b9-bdb5-335992506216.png
 ---
 
 # Celestine
 
 ## Basic Information
+
 - **Type**: Deity - Prime Guardian
 - **Title**: Archangel of Righteous Warfare, Purity, Honor, Redemption
 - **Domain**: Just war, honor, purity, redemption
 
 ## Description
+
 Celestine is one of the three Prime Guardian deities of Septerra. As the Archangel of Righteous Warfare, she represents justified conflict, martial honor, and the possibility of redemption through righteous action. She is the patron of paladins, honorable warriors, and those seeking to redeem themselves or others.
 
 ## Worship & Influence
+
 - Popular among military orders
 - Patron of paladins and champions
 - Invoked before just battles
 - Guides those seeking redemption
 
 ## Divine Portfolio
+
 - Righteous warfare (not conquest)
 - Personal and martial honor
 - Purity of purpose and action
@@ -32,12 +38,14 @@ Celestine is one of the three Prime Guardian deities of Septerra. As the Archang
 - Protection of innocents
 
 ## Relations with Other Deities
+
 - Prime Guardian with [entity:7763134|Avacyn] and [entity:7763138|Stendarr]
 - Opposed to [entity:7763145|Khorn] (violence without honor)
 - Works with [entity:7763165|Tyrael] (justice)
 - Opposes the Prime Evils
 
 ## Followers
+
 - Paladins and champions
 - Honorable warriors
 - Military orders
@@ -45,6 +53,7 @@ Celestine is one of the three Prime Guardian deities of Septerra. As the Archang
 - [entity:7763226|Nagaji] particularly devoted
 
 ## Divine Principles
+
 - War only when justified
 - Honor above victory
 - Protect the innocent
@@ -52,12 +61,15 @@ Celestine is one of the three Prime Guardian deities of Septerra. As the Archang
 - Purity of purpose
 
 ## Divine Limitations
+
 Subject to the "Decree Passive":
+
 - Cannot directly intervene in battles
 - Works through chosen champions
 - Grants powers to righteous warriors
 
 ## Common Symbols
+
 - Sword pointed downward
 - White wings around a blade
 - Scales balanced on sword point

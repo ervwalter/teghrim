@@ -1,31 +1,39 @@
 ---
+entity_id: 7764104
 name: Iridessa
 type: NPC
 is_hidden: false
-created: '2025-06-13T01:40:14.375229+00:00'
-updated: '2025-06-14T17:14:30.998952+00:00'
-entity_id: 7764104
+created: '2025-06-13T01:40:14+00:00'
+updated: '2025-06-16T01:28:18+00:00'
+image_thumb: https://th.kanka.io/w1BtYSA59KgichY2dB-k5fjwAS0=/40x40/smart/src/campaigns/322885/9f0da608-732b-43b9-bdb5-335992506216.png
 ---
 
 # Iridessa
 
 ## Overview
+
 Iridessa is a pink fairy with a shy personality who serves as one of the wisdom testers for the wild fey alliance. Despite her reserved nature, she plays a crucial role in evaluating potential allies through compassion-focused scenarios, ensuring only those with proper character gain access to sacred fey locations.
 
 ## Description
+
 ### Physical Appearance
+
 Pink-colored fairy with typical fey magical presence and flight capabilities.
 
 ### Personality & Demeanor
+
 Shy and reserved compared to her companion fairies, but shows genuine delight when encountering exceptional compassion. Cautious about trusting newcomers, questioning whether strangers can be deemed trustworthy. Squeals with glee when her tests reveal particularly good character.
 
 ### Abilities & Skills
+
 Flight and fairy magic. Skilled at creating character-revealing test scenarios focused on compassion and choice. Able to revive petrified beings through magical strawberry feeding. Provides magical healing strawberries equivalent to healing potions. Possesses wisdom to evaluate trustworthiness and moral character and understands forest ecosystem relationships.
 
 ## Background
+
 Member of the wild fey alliance protecting forest areas around [entity:7763187|Teghrim's Crossing]. Specializes in character evaluation through wisdom tests, working alongside [entity:7764098|Silvermist] and [entity:7764099|Fawn] to maintain sacred site security.
 
 ## Relationships
+
 - **[entity:7764098|Silvermist]**: Fellow fairy and alliance companion
 - **[entity:7764099|Fawn]**: Works together in emergency response missions
 - **[entity:7763294|Aurelia]**: Successfully tested with the hungry rabbit scenario, exceeded expectations
@@ -33,6 +41,7 @@ Member of the wild fey alliance protecting forest areas around [entity:7763187|T
 - **[entity:7763289|Alrik Grimmelstang]**: Helped revive him from petrification using magical strawberries
 
 ## Notable History
+
 - **The Trust Concerns**: Questioned whether strangers could be deemed trustworthy before allowing access to sacred glade
 - **The Rabbit Test**: Evaluated [entity:7763294|Aurelia] through scenario about feeding hungry rabbit George, testing for compassion and choice-giving
 - **The Joyful Response**: Squealed with glee when [entity:7763294|Aurelia's] answer exceeded expectations by offering both options
@@ -41,4 +50,5 @@ Member of the wild fey alliance protecting forest areas around [entity:7763187|T
 - **The Ecological Explanation**: Explained that plant guardians went defensive due to dryad's stress from spider attacks
 
 ## Current Status
+
 Active member of wild fey alliance around [entity:7763187|Teghrim's Crossing], continuing to evaluate potential allies through wisdom tests focused on compassion and moral character.

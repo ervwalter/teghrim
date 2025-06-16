@@ -1,23 +1,28 @@
 ---
+entity_id: 7763175
 name: Unak'Mel-Duin Aisles
 type: Island
-entity_id: 7763175
-created: '2025-06-12T21:07:00.199504+00:00'
-updated: '2025-06-14T17:15:44.267561+00:00'
+is_hidden: false
+created: '2025-06-12T21:07:00+00:00'
+updated: '2025-06-16T01:30:32+00:00'
+image_thumb: https://th.kanka.io/NHKsVjdGctKBFPFWG5WVGWaTkbI=/40x40/smart/src/campaigns/322885/9f0da587-c99f-411b-9158-dddd2ea04ec8.png
 ---
 
 # Unak'Mel-Duin Aisles
 
 ## Basic Information
+
 - **Type**: Island Chain
 - **Location**: Storm-wracked northern seas
 - **Climate**: Harsh, perpetual storms
 - **Importance**: [entity:7763209|Grey-Rock Dwarf] homeland
 
 ## Description
+
 The [entity:7763209|Grey-rock clan] are named for the Unakmel-duin Aisles in which they live. This harsh, storm ravaged chain of islands has been their home for as long as any of them know. The perpetual storms and dangerous waters have shaped both the landscape and the dour character of the dwarves who inhabit them.
 
 ## Geography
+
 - Rocky island chain
 - Perpetual storm systems
 - Treacherous waters
@@ -25,6 +30,7 @@ The [entity:7763209|Grey-rock clan] are named for the Unakmel-duin Aisles in whi
 - Barren landscapes
 
 ## Climate
+
 - Constant storms
 - High winds
 - Rough seas
@@ -32,12 +38,14 @@ The [entity:7763209|Grey-rock clan] are named for the Unakmel-duin Aisles in whi
 - Harsh winters
 
 ## Inhabitants
+
 - **[entity:7763209|Grey-Rock Dwarves]**: Sole civilized inhabitants
 - **Sea life**: Hardy species
 - **Storm birds**: Adapted wildlife
 - **Sea monsters**: Surrounding waters
 
 ## Culture
+
 - Shaped by environment
 - Dour disposition
 - Self-reliance
@@ -45,6 +53,7 @@ The [entity:7763209|Grey-rock clan] are named for the Unakmel-duin Aisles in whi
 - Isolationist tendencies
 
 ## History
+
 - Centuries of [entity:7763211|Norn] raids
 - [entity:7763231|Drow] slaver attacks
 - Forced isolation
@@ -52,6 +61,7 @@ The [entity:7763209|Grey-rock clan] are named for the Unakmel-duin Aisles in whi
 - Slow opening to trade
 
 ## Resources
+
 - Excellent fishing
 - Unique minerals
 - Storm-resistant crafts
@@ -59,6 +69,7 @@ The [entity:7763209|Grey-rock clan] are named for the Unakmel-duin Aisles in whi
 - Hardy ships
 
 ## Current Status
+
 - Reluctantly considering trade
 - Still deeply suspicious
 - Maintaining isolation
@@ -66,6 +77,7 @@ The [entity:7763209|Grey-rock clan] are named for the Unakmel-duin Aisles in whi
 - Slow change
 
 ## Defenses
+
 - Natural storm barriers
 - Treacherous approaches
 - Hidden harbors
@@ -73,6 +85,7 @@ The [entity:7763209|Grey-rock clan] are named for the Unakmel-duin Aisles in whi
 - Naval expertise
 
 ## Relations
+
 - Deep grudges ([entity:7763211|Norn], [entity:7763231|Drow])
 - Limited outside contact
 - Potential trade partner

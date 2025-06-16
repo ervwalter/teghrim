@@ -1,23 +1,28 @@
 ---
+entity_id: 7763173
 name: Moonshae Isles
 type: Island
-entity_id: 7763173
-created: '2025-06-12T21:06:59.338894+00:00'
-updated: '2025-06-14T17:15:42.547057+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:59+00:00'
+updated: '2025-06-16T01:30:31+00:00'
+image_thumb: https://th.kanka.io/NHKsVjdGctKBFPFWG5WVGWaTkbI=/40x40/smart/src/campaigns/322885/9f0da587-c99f-411b-9158-dddd2ea04ec8.png
 ---
 
 # Moonshae Isles
 
 ## Basic Information
+
 - **Type**: Island Chain
 - **Location**: Off the coast of Hyboria
 - **Climate**: Temperate maritime
 - **Importance**: Eladrin (High Elf) homeland
 
 ## Description
+
 Sometime in the middle of the Dark Times, Elves began to inhabit the Moonshae Isles, not far from the coasts of [entity:7763186|Hyboria]. They quickly gained dominion, and did quite well for the remainder of the Dark Times. While they were able to drive out any threats, they were not able to build much of a kingdom due to the relatively small size of the Isles.
 
 ## Geography
+
 - Multiple islands
 - Limited land area
 - Natural harbors
@@ -25,12 +30,14 @@ Sometime in the middle of the Dark Times, Elves began to inhabit the Moonshae Is
 - Close to [entity:7763186|Hyboria]
 
 ## Major Inhabitants
+
 - **[entity:7763220|Eladrin (High Elves)]**: Dominant population
 - **Sea life**: Abundant
 - **Fey creatures**: Some presence
 - **Limited others**: Island constraints
 
 ## Culture
+
 - High magical tradition
 - Seafaring expertise
 - Isolated development
@@ -38,6 +45,7 @@ Sometime in the middle of the Dark Times, Elves began to inhabit the Moonshae Is
 - Limited by space
 
 ## Historical Notes
+
 - Settled mid-Dark Times
 - Survived through isolation
 - Failed mainland expansion
@@ -45,6 +53,7 @@ Sometime in the middle of the Dark Times, Elves began to inhabit the Moonshae Is
 - Created [entity:7763192|Celadrin] colonies
 
 ## Current Status
+
 - Established but limited
 - Cannot expand on islands
 - [entity:7763192|Celadrin] colonies on mainland
@@ -52,6 +61,7 @@ Sometime in the middle of the Dark Times, Elves began to inhabit the Moonshae Is
 - Cultural influence
 
 ## Unique Features
+
 - High magic concentration
 - Excellent harbors
 - Ancient elf architecture
@@ -59,6 +69,7 @@ Sometime in the middle of the Dark Times, Elves began to inhabit the Moonshae Is
 - Strategic location
 
 ## Relations
+
 - [entity:7763192|Celadrin] colonies ([entity:7763186|Hyboria])
 - Limited mainland ties
 - Trade partnerships
@@ -66,6 +77,7 @@ Sometime in the middle of the Dark Times, Elves began to inhabit the Moonshae Is
 - Defensive posture
 
 ## Limitations
+
 - Small land area
 - Resource constraints
 - Population limits
@@ -73,6 +85,7 @@ Sometime in the middle of the Dark Times, Elves began to inhabit the Moonshae Is
 - Isolation issues
 
 ## Contributions
+
 - Seafaring innovations
 - Navigation expertise
 - Sparked exploration age

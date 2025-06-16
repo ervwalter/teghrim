@@ -66,10 +66,6 @@
         "Party Quest",
         "Personal Quest",
         "Combat"
-      ],
-      "tags": [
-        "active",
-        "completed"
       ]
     }
   },
@@ -79,7 +75,7 @@
     "organizations": "Type indicates the organization's primary function",
     "locations": "Type indicates the scale/nature of the location",
     "creatures": "Type distinguishes natural animals from supernatural/monstrous beings",
-    "quests": "Type indicates quest category. Tags track current status",
+    "quests": "Type indicates quest category. Use the native is_completed boolean field to track completion status",
     "notes": "Type indicates note category. Rules Reference type provides important campaign mechanics and context to agents. Tags control categorization and processing status"
   }
 }

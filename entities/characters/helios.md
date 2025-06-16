@@ -1,30 +1,36 @@
 ---
+entity_id: 7763147
 name: Helios
 type: Deity
 tags:
 - Greater Deity
-entity_id: 7763147
-created: '2025-06-12T21:06:32.221241+00:00'
-updated: '2025-06-14T17:09:55.156649+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:32+00:00'
+updated: '2025-06-16T01:24:44+00:00'
+image_thumb: https://th.kanka.io/w1BtYSA59KgichY2dB-k5fjwAS0=/40x40/smart/src/campaigns/322885/9f0da608-732b-43b9-bdb5-335992506216.png
 ---
 
 # Helios
 
 ## Basic Information
+
 - **Type**: Deity - Scion of Nature
 - **Title**: Spirit of the Sun
 - **Domain**: The sun, light, day, warmth
 
 ## Description
+
 Helios is the spirit of the sun itself, one of the Scions of Nature. He represents the life-giving warmth of the sun, the cycle of day and night, and the power of light over darkness. As a nature deity, Helios is neither good nor evil but is essential to life on Septerra.
 
 ## Worship & Influence
+
 - Worshipped by agricultural societies
 - Important in desert kingdoms
 - Invoked at dawn
 - Festivals at solstices
 
 ## Divine Portfolio
+
 - The sun's journey
 - Life-giving warmth
 - Banishing darkness
@@ -33,12 +39,14 @@ Helios is the spirit of the sun itself, one of the Scions of Nature. He represen
 - Solar magic
 
 ## Relations with Other Deities
+
 - Scion of Nature with [entity:7763144|Gia] and [entity:7763154|Luna]
 - Neutral to most conflicts
 - Essential to life
 - Works in harmony with [entity:7763154|Luna]
 
 ## Followers
+
 - Farmers and agriculturalists
 - Desert dwellers (Sand Kingdoms)
 - Dawn priests
@@ -46,6 +54,7 @@ Helios is the spirit of the sun itself, one of the Scions of Nature. He represen
 - [entity:7763196|Khem-ri] particularly devoted
 
 ## Divine Practices
+
 - Dawn prayers
 - Noon celebrations
 - Solstice festivals
@@ -53,12 +62,15 @@ Helios is the spirit of the sun itself, one of the Scions of Nature. He represen
 - Agricultural blessings
 
 ## Divine Limitations
+
 Subject to the "Decree Passive":
+
 - Cannot alter sun's path
 - Works through natural cycles
 - Grants power through sunlight
 
 ## Common Symbols
+
 - Solar disk
 - Rising sun
 - Golden rays

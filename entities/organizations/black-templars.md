@@ -1,14 +1,17 @@
 ---
+entity_id: 7763126
 name: Black Templars
 type: Religious Order
-entity_id: 7763126
-created: '2025-06-12T21:06:22.774960+00:00'
-updated: '2025-06-14T17:04:01.331592+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:22+00:00'
+updated: '2025-06-16T01:21:11+00:00'
+image_thumb: https://th.kanka.io/oTpR0UIdEf51m3cnm0cdaZvr2KU=/40x40/smart/src/campaigns/322885/9f0da5ba-1ac5-43f5-8f90-76405d3ddca4.png
 ---
 
 # Black Templars
 
 ## Basic Information
+
 - **Type**: Religious Military Order
 - **Affiliation**: [entity:7763130|Divine Synod]
 - **Membership**: Human zealots
@@ -16,9 +19,11 @@ updated: '2025-06-14T17:04:01.331592+00:00'
 - **Note**: NOT PLAYABLE - Antagonist organization
 
 ## Description
+
 Similar to the [entity:7763121|Lions of Ahlan], the Black Templars are active outside of their own lands. Though they originated in the [entity:7763865|Iron Kingdom], they have become more active in other human lands. They are followers of the [entity:7763130|Divine Synod], and have an apostolic zeal for their deity, [entity:7763167|Sanguineus]. They seek to proactively eliminate anything they consider a threat, and are not always known for getting along with other races. They are not playable, as they tend to have an antagonistic relationship with others.
 
 ## Primary Purpose
+
 - Spread [entity:7763130|Divine Synod] faith
 - Eliminate perceived threats
 - Convert or destroy
@@ -26,6 +31,7 @@ Similar to the [entity:7763121|Lions of Ahlan], the Black Templars are active ou
 - Oppose other faiths
 
 ## Membership
+
 - Human only
 - [entity:7763130|Divine Synod] fanatics
 - Military training
@@ -33,6 +39,7 @@ Similar to the [entity:7763121|Lions of Ahlan], the Black Templars are active ou
 - Intolerant worldview
 
 ## Activities
+
 - Forced conversions
 - Witch hunts
 - Destroying "false" temples
@@ -41,6 +48,7 @@ Similar to the [entity:7763121|Lions of Ahlan], the Black Templars are active ou
 - Inquisitions
 
 ## Beliefs
+
 - [entity:7763167|Sanguineus] is only true god
 - Other gods are false/demons
 - Non-humans are lesser
@@ -49,6 +57,7 @@ Similar to the [entity:7763121|Lions of Ahlan], the Black Templars are active ou
 - No compromise
 
 ## Structure
+
 - High Inquisitor
 - Regional Commanders
 - Templar Knights
@@ -56,6 +65,7 @@ Similar to the [entity:7763121|Lions of Ahlan], the Black Templars are active ou
 - Zealot soldiers
 
 ## Relations
+
 - Feared by non-humans
 - Opposed by other faiths
 - Cause of conflicts
@@ -63,6 +73,7 @@ Similar to the [entity:7763121|Lions of Ahlan], the Black Templars are active ou
 - Create religious strife
 
 ## Identifying Features
+
 - Black armor
 - Synod symbols
 - Burning torch emblem
@@ -71,6 +82,7 @@ Similar to the [entity:7763121|Lions of Ahlan], the Black Templars are active ou
 - Weapons always ready
 
 ## Threat Level
+
 - High to non-humans
 - High to other faiths
 - Medium to human pagans

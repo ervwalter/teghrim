@@ -4,7 +4,10 @@ name: Qotal
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:37:10+00:00'
-updated: '2025-06-15T18:40:45.501404+00:00'
+updated: '2025-06-16T01:25:54+00:00'
+image_full: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25af8c-87ef-460a-9fa0-367d6acdb65e.png
+image_thumb: https://th.kanka.io/r5_KKPcnz_HS51_3ZlLrNiyZ-M4=/40x40/smart/src/campaigns/322885/9f25af8c-87ef-460a-9fa0-367d6acdb65e.png
+image_uuid: 9f25af8c-87ef-460a-9fa0-367d6acdb65e
 ---
 
 # Qotal

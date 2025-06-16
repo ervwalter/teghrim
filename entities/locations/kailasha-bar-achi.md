@@ -1,23 +1,28 @@
 ---
+entity_id: 7763180
 name: Kailasha / Bar-Achi
 type: Continent
-entity_id: 7763180
-created: '2025-06-12T21:07:02.395023+00:00'
-updated: '2025-06-14T17:15:48.634288+00:00'
+is_hidden: false
+created: '2025-06-12T21:07:02+00:00'
+updated: '2025-06-16T01:30:37+00:00'
+image_thumb: https://th.kanka.io/NHKsVjdGctKBFPFWG5WVGWaTkbI=/40x40/smart/src/campaigns/322885/9f0da587-c99f-411b-9158-dddd2ea04ec8.png
 ---
 
 # Kailasha / Bar-Achi
 
 ## Basic Information
+
 - **Type**: Jungle Continent
 - **Location**: Southern hemisphere
 - **Climate**: Tropical with severe monsoons
 - **Importance**: Khajit homeland
 
 ## Description
+
 Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent with large seasonal monsoons. It's a verdant land with danger around every tree. Many jokingly refer to it as the only place on Septerra where the Dark Times did not end. The hostile environment has prevented the cat-like [entity:7763198|Khajit] from forming unified kingdoms.
 
 ## Geography
+
 - Dense tropical jungles
 - Coastal settlements
 - Major river systems
@@ -25,6 +30,7 @@ Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent 
 - Hidden ruins
 
 ## Major Inhabitants
+
 - **[entity:7763198|Khajit]**: Tiger and leopard people
 - **Dangerous wildlife**: Everywhere
 - **Ancient ruins**: Throughout jungle
@@ -32,6 +38,7 @@ Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent 
 - **Coastal traders**: Mixed populations
 
 ## Unique Features
+
 - "Dark Times never ended"
 - Ancient [entity:7763198|Khajit] ruins
 - Hostile environment
@@ -39,6 +46,7 @@ Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent 
 - Archaeological sites
 
 ## Culture
+
 - Hindu-inspired ([entity:7763198|Khajit])
 - Small principalities
 - River/coastal focus
@@ -46,6 +54,7 @@ Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent 
 - Survival focused
 
 ## Challenges
+
 - No unified kingdom
 - Constant dangers
 - Monsoon destruction
@@ -53,6 +62,7 @@ Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent 
 - Territorial conflicts
 
 ## Resources
+
 - Exotic goods
 - Ancient artifacts
 - Jungle products
@@ -60,6 +70,7 @@ Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent 
 - Archaeological treasures
 
 ## Current Status
+
 - Slow civilization growth
 - Increasing exploration
 - Archaeological expeditions
@@ -67,6 +78,7 @@ Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent 
 - Internal divisions
 
 ## Historical Significance
+
 - Ancient [entity:7763198|Khajit] civilization
 - Pre-Dark Times ruins
 - Continuous habitation
@@ -74,6 +86,7 @@ Bar-Achi (which contains the region of Kailasha) is a tropical jungle continent 
 - Cultural continuity
 
 ## Relations
+
 - Coastal trade networks
 - Guide services
 - Limited external contact

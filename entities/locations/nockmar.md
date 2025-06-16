@@ -1,23 +1,28 @@
 ---
+entity_id: 7763169
 name: Nock'Maar
 type: Region
-entity_id: 7763169
-created: '2025-06-12T21:06:57.664561+00:00'
-updated: '2025-06-14T17:14:33.611089+00:00'
+is_hidden: false
+created: '2025-06-12T21:06:57+00:00'
+updated: '2025-06-16T01:29:22+00:00'
+image_thumb: https://th.kanka.io/NHKsVjdGctKBFPFWG5WVGWaTkbI=/40x40/smart/src/campaigns/322885/9f0da587-c99f-411b-9158-dddd2ea04ec8.png
 ---
 
 # Nock'Maar
 
 ## Basic Information
+
 - **Type**: Celtic Forest Region
 - **Location**: Within [entity:7763183|Lindon]
 - **Climate**: Temperate forest
 - **Importance**: [entity:7763210|Celtos] homeland
 
 ## Description
+
 Nock'Maar is the traditional homeland of the [entity:7763210|Celtos] within the greater forest continent of [entity:7763183|Lindon]. These Celtic-inspired humans have lived in harmony with the [entity:7763217|Sylvan Elves] and forest spirits for generations, developing their own unique culture that blends human traditions with deep respect for nature.
 
 ## Geography
+
 - Dense forests
 - Celtic settlements
 - Sacred groves
@@ -25,6 +30,7 @@ Nock'Maar is the traditional homeland of the [entity:7763210|Celtos] within the 
 - Defensive positions
 
 ## Culture
+
 - Celtic traditions
 - Shamanic practices
 - Warrior culture
@@ -32,6 +38,7 @@ Nock'Maar is the traditional homeland of the [entity:7763210|Celtos] within the 
 - Oral traditions
 
 ## Society
+
 - Clan structure
 - Druid leadership
 - Warrior bands
@@ -39,6 +46,7 @@ Nock'Maar is the traditional homeland of the [entity:7763210|Celtos] within the 
 - Insular communities
 
 ## Relations
+
 - Allied with Sylvan Elves
 - Conflict with Iron Kingdom settlers
 - [entity:7763205|Halfling] trade
@@ -46,6 +54,7 @@ Nock'Maar is the traditional homeland of the [entity:7763210|Celtos] within the 
 - Defensive posture
 
 ## Current Tensions
+
 - Settler encroachment
 - Land disputes
 - Cultural clashes
@@ -53,6 +62,7 @@ Nock'Maar is the traditional homeland of the [entity:7763210|Celtos] within the 
 - Border conflicts
 
 ## Resources
+
 - Forest products
 - Herbal knowledge
 - Warrior traditions
@@ -60,6 +70,7 @@ Nock'Maar is the traditional homeland of the [entity:7763210|Celtos] within the 
 - Natural defenses
 
 ## Sacred Sites
+
 - Stone circles
 - Druid groves
 - Ancestor grounds
@@ -67,6 +78,7 @@ Nock'Maar is the traditional homeland of the [entity:7763210|Celtos] within the 
 - Battle sites
 
 ## Future Concerns
+
 - Maintaining independence
 - Preserving culture
 - Resisting expansion
