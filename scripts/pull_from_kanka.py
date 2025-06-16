@@ -120,17 +120,9 @@ class EntityPuller:
         if entity.get("entity_type") == "quest" and "is_completed" in entity:
             frontmatter["is_completed"] = entity.get("is_completed", False)
         
-        # Add image properties if they exist
-        if entity.get("image"):
-            frontmatter["image"] = entity["image"]
+        # Store image_full as image in frontmatter (ignore API's image property)
         if entity.get("image_full"):
-            frontmatter["image_full"] = entity["image_full"]
-        if entity.get("image_thumb"):
-            frontmatter["image_thumb"] = entity["image_thumb"]
-        if entity.get("image_uuid"):
-            frontmatter["image_uuid"] = entity["image_uuid"]
-        if entity.get("header_uuid"):
-            frontmatter["header_uuid"] = entity["header_uuid"]
+            frontmatter["image"] = entity["image_full"]
         
         # Remove empty values
         frontmatter = {k: v for k, v in frontmatter.items() if v or v is False}
