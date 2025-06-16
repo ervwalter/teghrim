@@ -135,6 +135,10 @@ class EntityPusher:
                 "is_hidden": frontmatter.get("is_hidden", False)
             }
             
+            # Add quest-specific fields
+            if entity_data["entity_type"] == "quest" and "is_completed" in frontmatter:
+                create_data["is_completed"] = frontmatter.get("is_completed", False)
+            
             # Create entity
             result = await self.operations.create_entities([create_data])
             
@@ -202,6 +206,10 @@ class EntityPusher:
                 "tags": frontmatter.get("tags", []),
                 "is_hidden": frontmatter.get("is_hidden", False)
             }
+            
+            # Add quest-specific fields
+            if entity_data["entity_type"] == "quest" and "is_completed" in frontmatter:
+                update_data["is_completed"] = frontmatter.get("is_completed", False)
             
             # Update entity
             result = await self.operations.update_entities([update_data])

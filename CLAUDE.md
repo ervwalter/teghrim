@@ -64,6 +64,19 @@ Where they are now and what they're doing
 GM-only information if is_hidden: true
 ```
 
+**Quest-specific structure**:
+```yaml
+---
+name: Quest Name
+entity_id: 1234567
+type: Party Quest  # or "Personal Quest", "Combat"
+is_hidden: false
+is_completed: false  # true when quest is complete
+created: '2025-01-01T00:00:00+00:00'
+updated: '2025-01-01T00:00:00+00:00'
+---
+```
+
 ### Entity Types and Tags
 - **ALWAYS read metadata.json first** before creating or updating any entity
 - Use only types and tags defined in metadata.json for that entity type
@@ -138,6 +151,14 @@ Add quest entity links in appropriate places:
 - **Location/Organization Files**: Link relevant quests in history entries
 - **Quest Files**: Add "Related Quests" sections for interconnected storylines
 - **Creature Files**: Link quests where creatures play significant roles
+
+### Quest Completion Status
+- **DO NOT use tags** to track quest status (no "active" or "completed" tags)
+- Use the native `is_completed` boolean field in quest frontmatter:
+  - `is_completed: false` for active/ongoing quests
+  - `is_completed: true` for completed quests
+- This field syncs with Kanka's native quest completion tracking
+- When updating quest status, only change the `is_completed` field
 
 ### Common Corrections
 - Hobs ≠ Hobgoblins (hobs are domesticated goblins, hobgoblins are a larger goblinoid race)

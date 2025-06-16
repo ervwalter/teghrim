@@ -39,12 +39,13 @@ def normalize_filename(name: str) -> str:
 class EntityPuller:
     """Handles pulling entities from Kanka to local filesystem."""
     
-    def __init__(self, base_path: Path, preserve_local: bool = False):
+    def __init__(self, base_path: Path, preserve_local: bool = False, force_update: bool = False):
         self.base_path = base_path
         self.entities_path = base_path / "entities"
         self.deleted_path = self.entities_path / ".deleted"
         self.operations: Optional[KankaOperations] = None
         self.preserve_local = preserve_local
+        self.force_update = force_update
         self.report: Dict[str, List[Dict[str, Any]]] = {
             "new": [],
             "updated": [],
@@ -114,6 +115,22 @@ class EntityPuller:
             frontmatter["created"] = entity["created_at"]
         if entity.get("updated_at"):
             frontmatter["updated"] = entity["updated_at"]
+        
+        # Add quest-specific fields
+        if entity.get("entity_type") == "quest" and "is_completed" in entity:
+            frontmatter["is_completed"] = entity.get("is_completed", False)
+        
+        # Add image properties if they exist
+        if entity.get("image"):
+            frontmatter["image"] = entity["image"]
+        if entity.get("image_full"):
+            frontmatter["image_full"] = entity["image_full"]
+        if entity.get("image_thumb"):
+            frontmatter["image_thumb"] = entity["image_thumb"]
+        if entity.get("image_uuid"):
+            frontmatter["image_uuid"] = entity["image_uuid"]
+        if entity.get("header_uuid"):
+            frontmatter["header_uuid"] = entity["header_uuid"]
         
         # Remove empty values
         frontmatter = {k: v for k, v in frontmatter.items() if v or v is False}
@@ -422,7 +439,7 @@ class EntityPuller:
                         "type": remote["entity_type"]
                     })
             elif abs(local_mtime - last_pull_timestamp) < 60:  # File not modified locally
-                if abs(remote_updated - last_pull_timestamp) < 1:  # Remote also unchanged
+                if abs(remote_updated - last_pull_timestamp) < 1 and not self.force_update:  # Remote also unchanged
                     self.report["unchanged"].append({
                         "name": remote["name"],
                         "type": remote["entity_type"]
@@ -658,8 +675,9 @@ async def main():
     import base64
     import json
     
-    # Check for --preserve-local flag
+    # Check for flags
     preserve_local = "--preserve-local" in sys.argv
+    force_update = "--force-update" in sys.argv
     
     # Get the teghrim project root
     script_dir = Path(__file__).parent
@@ -684,9 +702,12 @@ async def main():
     if preserve_local:
         print("  ⚠️  Preserve-local mode: Will NOT delete entities missing from Kanka")
         print("     (Use this when Kanka campaign has been reset/cleared)")
+    if force_update:
+        print("  🔄 Force-update mode: Will update ALL entities with latest structure")
+        print("     (Use this to add new fields like is_completed and image properties)")
     
     # Create puller and run
-    puller = EntityPuller(project_root, preserve_local=preserve_local)
+    puller = EntityPuller(project_root, preserve_local=preserve_local, force_update=force_update)
     await puller.initialize()
     await puller.pull_entities()
 

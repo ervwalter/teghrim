@@ -84,6 +84,8 @@ Process raw RPG session transcripts into structured digests that preserve all me
 
 ## Processing Instructions
 
+$arguments
+
 ### Context Understanding
 - These are tabletop RPG (D&D/Pathfinder) session transcripts
 - Speaker numbers (Speaker 1, Speaker 2, etc.) are NOT consistent across the transcript due to concatenation of ~2 hour segments
