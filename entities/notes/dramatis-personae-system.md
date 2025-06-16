@@ -5,7 +5,6 @@ type: Rules Reference
 is_hidden: false
 created: '2025-06-13T00:30:02+00:00'
 updated: '2025-06-16T01:46:25+00:00'
-image_thumb: https://th.kanka.io/g73Ma-s-w3GhHhMbe0-yOA4ctJY=/40x40/smart/src/campaigns/322885/9f0da5ac-b391-4aa6-9d30-5dea11cfe639.png
 ---
 
 # Dramatis Personae System

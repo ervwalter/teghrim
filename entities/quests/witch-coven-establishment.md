@@ -4,9 +4,8 @@ name: Witch Coven Establishment
 type: Personal Quest
 is_hidden: false
 created: '2025-06-15T18:14:04+00:00'
-updated: '2025-06-16T02:44:38.643658+00:00'
+updated: '2025-06-16T02:44:38+00:00'
 is_completed: false
-image_thumb: https://th.kanka.io/QfX-Dl9W48kYr88okP5BRkBKPYY=/40x40/smart/src/campaigns/322885/9f2486ba-55b0-44ec-8394-af0e75cd31dc.png
 ---
 
 # Witch Coven Establishment

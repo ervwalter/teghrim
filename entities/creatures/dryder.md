@@ -5,7 +5,6 @@ type: Monstrous
 is_hidden: false
 created: '2025-06-12T21:06:24+00:00'
 updated: '2025-06-16T01:22:22+00:00'
-image_thumb: https://th.kanka.io/hoaTGXoWfLoO4jCUcii4QSNNJwg=/40x40/smart/src/campaigns/322885/9f0da53f-6654-4462-a494-296376baaab2.png
 ---
 
 # Dryder

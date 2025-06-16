@@ -5,7 +5,6 @@ type: Landmark
 is_hidden: false
 created: '2025-06-13T00:29:57+00:00'
 updated: '2025-06-16T01:38:17+00:00'
-image_thumb: https://th.kanka.io/NHKsVjdGctKBFPFWG5WVGWaTkbI=/40x40/smart/src/campaigns/322885/9f0da587-c99f-411b-9158-dddd2ea04ec8.png
 ---
 
 # Caravanserai

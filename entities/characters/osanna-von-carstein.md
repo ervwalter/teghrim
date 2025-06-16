@@ -7,7 +7,6 @@ tags:
 is_hidden: false
 created: '2025-06-13T02:25:40+00:00'
 updated: '2025-06-16T01:22:27+00:00'
-image_thumb: https://th.kanka.io/w1BtYSA59KgichY2dB-k5fjwAS0=/40x40/smart/src/campaigns/322885/9f0da608-732b-43b9-bdb5-335992506216.png
 ---
 
 # Osanna Von Carstein

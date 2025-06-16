@@ -5,7 +5,6 @@ type: Goblinoid
 is_hidden: false
 created: '2025-06-12T21:07:06+00:00'
 updated: '2025-06-16T01:39:25+00:00'
-image_thumb: https://th.kanka.io/PBtBtMWEJGUPMJeFcvzYnnXawLw=/40x40/smart/src/campaigns/322885/9f0da5c9-7e5c-43a2-bfb3-dbae385d05e1.png
 ---
 
 # Hobgoblin

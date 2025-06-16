@@ -5,7 +5,6 @@ type: Military Order
 is_hidden: false
 created: '2025-06-12T21:06:20+00:00'
 updated: '2025-06-16T01:20:03+00:00'
-image_thumb: https://th.kanka.io/oTpR0UIdEf51m3cnm0cdaZvr2KU=/40x40/smart/src/campaigns/322885/9f0da5ba-1ac5-43f5-8f90-76405d3ddca4.png
 ---
 
 # Dwarven Slayer Cults

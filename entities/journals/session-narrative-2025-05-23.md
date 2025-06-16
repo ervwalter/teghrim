@@ -5,7 +5,6 @@ type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:53:12+00:00'
 updated: '2025-06-16T01:21:15+00:00'
-image_thumb: https://th.kanka.io/idmGhUSgWtpVqi5IB_7taxfAMmw=/40x40/smart/src/campaigns/322885/9f0da579-1f7d-4f79-ad2c-1d43b498769b.png
 ---
 
 # Chapter 2 - Stone Hearts and Fairy Rings

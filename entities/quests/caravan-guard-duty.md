@@ -4,9 +4,8 @@ name: Caravan Guard Duty
 type: Combat
 is_hidden: false
 created: '2025-06-13T00:29:59+00:00'
-updated: '2025-06-16T02:44:36.858920+00:00'
+updated: '2025-06-16T02:44:36+00:00'
 is_completed: true
-image_thumb: https://th.kanka.io/QfX-Dl9W48kYr88okP5BRkBKPYY=/40x40/smart/src/campaigns/322885/9f2486ba-55b0-44ec-8394-af0e75cd31dc.png
 ---
 
 # Caravan Guard Duty

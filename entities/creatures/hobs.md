@@ -8,7 +8,6 @@ tags:
 is_hidden: false
 created: '2025-06-13T14:13:10+00:00'
 updated: '2025-06-16T01:22:23+00:00'
-image_thumb: https://th.kanka.io/hoaTGXoWfLoO4jCUcii4QSNNJwg=/40x40/smart/src/campaigns/322885/9f0da53f-6654-4462-a494-296376baaab2.png
 ---
 
 # Hobs

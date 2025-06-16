@@ -7,10 +7,7 @@ tags:
 is_hidden: false
 created: '2025-06-13T04:18:13+00:00'
 updated: '2025-06-16T01:21:19+00:00'
-image_full: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ae3a-a855-454f-889f-ef044a6cfbc8.png
-image_thumb: https://th.kanka.io/XQfWya57fbMG_igoRyo8xzScEmk=/40x40/smart/src/campaigns/322885/9f25ae3a-a855-454f-889f-ef044a6cfbc8.png
-image_uuid: 9f25ae3a-a855-454f-889f-ef044a6cfbc8
-header_uuid: 9f25ae3a-36d1-4f79-b6e6-bd6d4981454b
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ae3a-a855-454f-889f-ef044a6cfbc8.png
 ---
 
 # Roads Through Goblin Territory

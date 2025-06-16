@@ -4,9 +4,8 @@ name: The Great Willow Rescue
 type: Combat
 is_hidden: false
 created: '2025-06-13T01:40:15+00:00'
-updated: '2025-06-16T02:44:35.982426+00:00'
+updated: '2025-06-16T02:44:35+00:00'
 is_completed: true
-image_thumb: https://th.kanka.io/QfX-Dl9W48kYr88okP5BRkBKPYY=/40x40/smart/src/campaigns/322885/9f2486ba-55b0-44ec-8394-af0e75cd31dc.png
 ---
 
 # The Great Willow Rescue

@@ -7,10 +7,7 @@ tags:
 is_hidden: false
 created: '2025-06-13T04:50:03+00:00'
 updated: '2025-06-16T01:21:18+00:00'
-image_full: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ad5e-ebfd-43de-b52c-d1c903df44c7.png
-image_thumb: https://th.kanka.io/G3ZkCkpwgJd_7a4JaalptwT-0Is=/40x40/smart/src/campaigns/322885/9f25ad5e-ebfd-43de-b52c-d1c903df44c7.png
-image_uuid: 9f25ad5e-ebfd-43de-b52c-d1c903df44c7
-header_uuid: 9f25ad5e-885a-4853-a01b-98a9f187d120
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ad5e-ebfd-43de-b52c-d1c903df44c7.png
 ---
 
 # Vampire Property and Bridge Politics

@@ -5,7 +5,6 @@ type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:12+00:00'
 updated: '2025-06-16T01:24:49+00:00'
-image_thumb: https://th.kanka.io/w1BtYSA59KgichY2dB-k5fjwAS0=/40x40/smart/src/campaigns/322885/9f0da608-732b-43b9-bdb5-335992506216.png
 ---
 
 # Fawn
