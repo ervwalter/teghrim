@@ -62,7 +62,6 @@ is_hidden: false
 
 # Entity Name
 
-## Overview
 [One paragraph summary of who/what this is and why they matter - the "evergreen" description that captures their current state and significance]
 
 ## Description
@@ -179,7 +178,6 @@ When information changes or evolves:
 ```markdown
 # Teghrim's Crossing
 
-## Overview
 Teghrim's Crossing is a bustling bridge-city built upon an ancient dwarven bridge spanning a massive river canyon. The settlement serves as a crucial trade hub connecting eastern and western lands, with the entire town constructed along and around the bridge structure itself.
 
 ## Description

@@ -36,6 +36,42 @@ def normalize_filename(name: str) -> str:
     return safe_name
 
 
+def strip_h1_if_matches_name(content: str, name: str, entity_type: str) -> str:
+    """Strip the first H1 header if it matches the entity name.
+    
+    Only strip for certain entity types (not journals or notes).
+    """
+    # Don't strip H1 from journals or notes
+    if entity_type in ["journal", "note"]:
+        return content
+    
+    lines = content.split('\n')
+    if not lines:
+        return content
+    
+    # Find the first non-empty line
+    first_line_idx = 0
+    for i, line in enumerate(lines):
+        if line.strip():
+            first_line_idx = i
+            break
+    
+    # Check if it's an H1 that matches the name
+    if first_line_idx < len(lines):
+        line = lines[first_line_idx].strip()
+        if line.startswith('# '):
+            h1_text = line[2:].strip()
+            # Check if H1 matches the entity name (case-insensitive)
+            if h1_text.lower() == name.lower():
+                # Remove the H1 line and any empty lines immediately after
+                lines.pop(first_line_idx)
+                while first_line_idx < len(lines) and not lines[first_line_idx].strip():
+                    lines.pop(first_line_idx)
+                return '\n'.join(lines)
+    
+    return content
+
+
 class EntityPusher:
     """Handles pushing local entities to Kanka."""
     
@@ -126,10 +162,17 @@ class EntityPusher:
             # Use name from frontmatter, fallback to stem
             name = frontmatter.get("name", file_path.stem)
             
+            # Strip H1 if it matches the entity name
+            content = strip_h1_if_matches_name(
+                entity_data["content"], 
+                name, 
+                entity_data["entity_type"]
+            )
+            
             create_data = {
                 "entity_type": entity_data["entity_type"],
                 "name": name,
-                "entry": entity_data["content"],
+                "entry": content,
                 "type": frontmatter.get("type"),
                 "tags": frontmatter.get("tags", []),
                 "is_hidden": frontmatter.get("is_hidden", False)
@@ -198,10 +241,17 @@ class EntityPusher:
             # Use name from frontmatter, fallback to stem
             name = frontmatter.get("name", file_path.stem)
             
+            # Strip H1 if it matches the entity name
+            content = strip_h1_if_matches_name(
+                entity_data["content"], 
+                name, 
+                entity_data["entity_type"]
+            )
+            
             update_data = {
                 "entity_id": entity_id,
                 "name": name,
-                "entry": entity_data["content"],
+                "entry": content,
                 "type": frontmatter.get("type"),
                 "tags": frontmatter.get("tags", []),
                 "is_hidden": frontmatter.get("is_hidden", False)

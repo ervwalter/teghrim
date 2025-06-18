@@ -47,8 +47,7 @@ updated: '2025-01-01T00:00:00+00:00'
 
 # Entity Name
 
-## Overview
-Current state summary - the "evergreen" description
+Current state summary - the "evergreen" description that captures their current state and significance in the campaign world.
 
 ## Description  
 Physical appearance, personality, defining characteristics
@@ -85,8 +84,9 @@ updated: '2025-01-01T00:00:00+00:00'
 
 ### Writing Principles
 - **Wikipedia-style**: In-world perspective, no meta-game references
+- **No Overview heading**: The lead paragraph appears directly after the title (like Wikipedia)
 - **Accumulative**: Never delete content, only add new information
-- **Evergreen Overview**: Keep the Overview section current
+- **Evergreen lead**: Keep the opening paragraph current with the entity's present state
 - **Chronological History**: Add events as they happen
 - **Cross-linked**: Use `[entity:ID|display text]` to connect entities
 

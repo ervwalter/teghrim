@@ -133,9 +133,29 @@ class EntityPuller:
         content_parts.append("---")
         content_parts.append("")
         
+        # Check if we need to add an H1 header
+        entity_type = entity.get("entity_type", "")
+        entry_content = entity.get("entry", "").strip()
+        
+        # Don't touch journals or notes
+        if entity_type not in ["journal", "note"] and entry_content:
+            # Check if content already starts with an H1
+            lines = entry_content.split('\n')
+            has_h1 = False
+            for line in lines:
+                if line.strip():  # First non-empty line
+                    if line.strip().startswith('# '):
+                        has_h1 = True
+                    break
+            
+            # Only add H1 if there isn't one already
+            if not has_h1:
+                content_parts.append(f"# {entity['name']}")
+                content_parts.append("")
+        
         # Add entity content
-        if entity.get("entry"):
-            content_parts.append(entity["entry"].strip())
+        if entry_content:
+            content_parts.append(entry_content)
         
         return "\n".join(content_parts)
     

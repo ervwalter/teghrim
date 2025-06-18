@@ -125,7 +125,6 @@ updated: '2024-12-31T15:30:00+00:00'
 
 # Moradin
 
-## Overview
 The Forge Father and chief deity of the dwarven pantheon, Moradin represents creation, smithing, and protection.
 
 ## Description
