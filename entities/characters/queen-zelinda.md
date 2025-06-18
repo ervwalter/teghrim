@@ -4,12 +4,9 @@ name: Queen Zelinda
 type: NPC
 is_hidden: false
 created: '2025-06-13T02:25:42+00:00'
-updated: '2025-06-16T01:28:16+00:00'
+updated: '2025-06-17T02:14:46.782748+00:00'
 ---
-
 # Queen Zelinda
-
-## Overview
 
 Queen Zelinda is a [entity:7763190|hobgoblin] queen who rules alongside the Goblin King at [entity:7763187|Teghrim's Crossing]. Known for her elaborate pop culture reference titles, she represents the civilized [entity:7763190|hobgoblin] royal presence in the frontier settlement.
 

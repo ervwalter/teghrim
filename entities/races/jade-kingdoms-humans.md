@@ -4,7 +4,7 @@ name: The Jade Kingdoms (Human)
 type: Human
 is_hidden: false
 created: '2025-06-12T21:07:20+00:00'
-updated: '2025-06-16T01:42:57+00:00'
+updated: '2025-06-17T02:04:45.487215+00:00'
 ---
 
 # The Jade Kingdoms (Human)

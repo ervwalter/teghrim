@@ -6,12 +6,9 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:12+00:00'
-updated: '2025-06-16T01:25:58+00:00'
+updated: '2025-06-17T02:14:41.720586+00:00'
 ---
-
 # Grimnar Bjornson
-
-## Overview
 
 Grimnar Bjornson is an older [entity:7763211|Norn] archer classified as "dramatis personae" who operates near [entity:7763187|Teghrim's Crossing]. Known for his beekeeping operation and mead production, he provides both combat support and local expertise while maintaining a skeptical but helpful attitude toward fey recruitment methods.
 

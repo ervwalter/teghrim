@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:27+00:00'
-updated: '2025-06-16T01:23:32+00:00'
+updated: '2025-06-17T02:00:52.819664+00:00'
 ---
 
 # Diablo

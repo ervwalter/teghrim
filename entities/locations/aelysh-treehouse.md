@@ -4,12 +4,9 @@ name: Aelysh's Treehouse
 type: Landmark
 is_hidden: false
 created: '2025-06-13T01:40:15+00:00'
-updated: '2025-06-16T01:29:29+00:00'
+updated: '2025-06-17T02:15:39.521659+00:00'
 ---
-
 # Aelysh's Treehouse
-
-## Overview
 
 Aelysh's Treehouse is a full-sized house constructed within a massive redwood-like tree near the river bank close to [entity:7763187|Teghrim's Crossing]. This unique dwelling serves as both a comfortable residence and a strategic base for forest activities, demonstrating the harmony between elven architecture and natural growth.
 

@@ -4,7 +4,7 @@ name: 03 - Necromancer's Welcome
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T14:13:08+00:00'
-updated: '2025-06-16T01:21:16+00:00'
+updated: '2025-06-17T02:27:38+00:00'
 ---
 
 # Chapter 3 - Necromancer's Welcome
@@ -61,9 +61,9 @@ The mechamagician turned, revealing features that suggested [entity:7763216|Iber
 
 [entity:7764097|Irka] nodded, dismissing [entity:7764196|Rosencrantz] with a gesture.
 
-"In my homeland, there stands a statue. Six, perhaps seven stories tall. A [entity:7763200|dwarf] warrior clutching a broken weapon." [entity:7763296|Qotal's] voice carried the weight of prophecy. "The whispers that guide me suggest its story ends somewhere near."
+"In my homeland, there stands a statue. Six, perhaps seven stories tall. A [entity:7763200|dwarf] warrior clutching a broken hammer." [entity:7763296|Qotal's] voice carried the weight of prophecy. "The whispers that guide me suggest its story ends somewhere near."
 
-The captain's expression shifted—interest mixed with something else. "Broken weapon, you say? I'll... make inquiries. Such monuments aren't common."
+The captain's expression shifted—interest mixed with something else. "Broken hammer, you say? I'll... make inquiries. Such monuments aren't common."
 
 As [entity:7763296|Qotal] departed, he noticed [entity:7763295|Bruldin] waiting in the hallway, the slayer's usual boisterousness replaced by thoughtful silence. Whatever the broken blade meant, it resonated with more than just [entity:7763296|the Slaan monk].
 

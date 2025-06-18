@@ -6,12 +6,9 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:11+00:00'
-updated: '2025-06-16T01:22:26+00:00'
+updated: '2025-06-17T02:14:31.179333+00:00'
 ---
-
 # Irka Spritzel
-
-## Overview
 
 Irka Spritzel is a [entity:7763200|Highland Dwarf] captain who serves as the primary authority figure at [entity:7763187|Teghrim's Crossing]. As commander of the dwarf guards maintaining order in this strategic bridge settlement, she demonstrates both military competence and diplomatic sensitivity in managing the delicate balance between neighboring Bovok and Orc territories.
 

@@ -4,12 +4,9 @@ name: Sigrid
 type: NPC
 is_hidden: false
 created: '2025-06-13T02:25:41+00:00'
-updated: '2025-06-16T01:23:33+00:00'
+updated: '2025-06-17T02:14:34.732641+00:00'
 ---
-
 # Sigrid
-
-## Overview
 
 Sigrid is a [entity:7763211|Norn] woman who fled [entity:7763178|Solstheim] and now works with caravans and the general store at [entity:7763187|Teghrim's Crossing]. As [entity:7764100|Grimnar's] niece, she maintains family connections while helping coordinate traditional festivals and serving as a cultural bridge for other [entity:7763211|Norn] travelers.
 

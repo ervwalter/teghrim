@@ -4,13 +4,10 @@ name: The Great Willow Rescue
 type: Combat
 is_hidden: false
 created: '2025-06-13T01:40:15+00:00'
-updated: '2025-06-16T02:44:35+00:00'
+updated: '2025-06-17T02:15:44.695008+00:00'
 is_completed: true
 ---
-
 # The Great Willow Rescue
-
-## Overview
 
 The Great Willow Rescue was an emergency fey mission to save a trapped dryad from spider attackers controlled by a spriggan. Successfully completed through coordinated efforts between party members and local allies, this mission established strong relationships with the wild fey alliance and demonstrated the interconnected nature of forest ecosystems.
 

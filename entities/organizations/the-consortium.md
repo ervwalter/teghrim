@@ -4,12 +4,9 @@ name: The Consortium
 type: Trade Alliance
 is_hidden: false
 created: '2025-06-13T02:25:39+00:00'
-updated: '2025-06-16T01:20:05+00:00'
+updated: '2025-06-17T02:14:26.875784+00:00'
 ---
-
 # The Consortium
-
-## Overview
 
 The Consortium is a powerful trade alliance comprising the [entity:7763865|Iron Kingdoms], dwarven territories, and [entity:7763204|Jade Kingdoms] that funds major trade route development across frontier territories. This international coalition represents one of the most significant economic forces driving expansion and infrastructure development in the region.
 

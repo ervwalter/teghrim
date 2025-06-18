@@ -4,12 +4,9 @@ name: Alrik Grimmelstang
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:19+00:00'
-updated: '2025-06-16T01:22:29+00:00'
+updated: '2025-06-17T02:14:33.834015+00:00'
 ---
-
 # Alrik Grimmelstang
-
-## Overview
 
 Alrik Grimmelstang is a chef extraordinaire and devotee of Talos who recently joined the party after being rescued from petrification. Known for his secret recipes that have attracted fey attention for centuries, he combines culinary expertise with surprising combat abilities and healing magic, calling himself "Alrik the Chef Extraordinaire" despite his practical adventuring skills.
 

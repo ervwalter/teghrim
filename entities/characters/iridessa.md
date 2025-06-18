@@ -4,12 +4,9 @@ name: Iridessa
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:14+00:00'
-updated: '2025-06-16T01:28:18+00:00'
+updated: '2025-06-17T02:14:48.522590+00:00'
 ---
-
 # Iridessa
-
-## Overview
 
 Iridessa is a pink fairy with a shy personality who serves as one of the wisdom testers for the wild fey alliance. Despite her reserved nature, she plays a crucial role in evaluating potential allies through compassion-focused scenarios, ensuring only those with proper character gain access to sacred fey locations.
 

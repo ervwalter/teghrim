@@ -4,12 +4,9 @@ name: Vanguard Mercenaries
 type: Military Order
 is_hidden: false
 created: '2025-06-13T00:29:55+00:00'
-updated: '2025-06-16T01:20:08+00:00'
+updated: '2025-06-17T02:14:29.418234+00:00'
 ---
-
 # Vanguard Mercenaries
-
-## Overview
 
 The Vanguard Mercenaries are a professional military company specializing in caravan protection along dangerous frontier routes. Known for their distinctive Renaissance-era aesthetic and practical approach to combat, they represent the rough edges of frontier security work.
 

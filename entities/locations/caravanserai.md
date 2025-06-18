@@ -4,12 +4,9 @@ name: Caravanserai
 type: Landmark
 is_hidden: false
 created: '2025-06-13T00:29:57+00:00'
-updated: '2025-06-16T01:38:17+00:00'
+updated: '2025-06-17T02:15:41.239679+00:00'
 ---
-
 # Caravanserai
-
-## Overview
 
 The caravanserai are fortified waystations scattered along the trade routes between [entity:7763870|Menoth-Derith] and [entity:7763187|Teghrim's Crossing]. These essential rest stops provide varying degrees of protection for travelers braving the dangerous frontier roads, though their effectiveness depends greatly on maintenance and location.
 

@@ -4,13 +4,10 @@ name: Lyn's Shrine Restoration
 type: Personal Quest
 is_hidden: false
 created: '2025-06-13T00:30:00+00:00'
-updated: '2025-06-16T02:44:42+00:00'
+updated: '2025-06-17T02:27:45.306324+00:00'
 is_completed: false
 ---
-
 # Lyn's Shrine Restoration
-
-## Overview
 
 [entity:7763866|Lyn Chong] seeks to locate and restore an abandoned oriental shrine near [entity:7763187|Teghrim's Crossing] that is rumored to possess great healing and divine power. This spiritual mission drives him from the Jade Kingdoms to the frontier territories.
 
@@ -59,4 +56,4 @@ Active. [entity:7763866|Lyn] has arrived at [entity:7763187|Teghrim's Crossing] 
 ## Related Quests
 
 - **[entity:7763872|Caravan Guard Duty]**: The quest that brought [entity:7763866|Lyn] safely to [entity:7763187|Teghrim's Crossing] to begin his search
-- **[entity:7763875|Qotal's Broken Blade Quest]**: Fellow traveler [entity:7763296|Qotal] also seeks ancient mysteries in the same region
+- **[entity:7763875|Qotal's Broken Hammer Quest]**: Fellow traveler [entity:7763296|Qotal] also seeks ancient mysteries in the same region

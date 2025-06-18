@@ -4,7 +4,7 @@ name: 01 - The Bridge and the Bloodline
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:43:12+00:00'
-updated: '2025-06-16T01:22:21+00:00'
+updated: '2025-06-17T02:27:41.892950+00:00'
 ---
 
 # Chapter 1 - The Bridge and the Bloodline
@@ -103,9 +103,9 @@ Firelight danced across gathered faces as [entity:7763296|Qotal] produced his lu
 
 [entity:7763295|Bruldin] launched into his tale with gusto. "Yes, I once killed a troll myself. One of my arms was tied behind my back, but I had my hand in a beard and I wrapped it around its neck and strangled it!"
 
-As introductions deepened into revelations, [entity:7763296|Qotal] spoke of his quest. "A moss-eaten carving of a warrior clutching a broken blade... I believe that the whispers hint that the broken sword's story ends somewhere beyond these hills."
+As introductions deepened into revelations, [entity:7763296|Qotal] spoke of his quest. "A moss-eaten statue of a dwarven warrior clutching a broken hammer... I believe that the whispers hint that the broken hammer's story ends somewhere beyond these hills."
 
-The change in [entity:7763295|Bruldin] was immediate—his boisterous nature retreating like tide from shore. Whatever the broken blade meant, it struck deeper than any goblin's dagger.
+The change in [entity:7763295|Bruldin] was immediate—his boisterous nature retreating like tide from shore. Whatever the broken hammer meant, it struck deeper than any goblin's dagger.
 
 [entity:7763866|Lyn] filled the sudden silence with his own purpose. "I am seeking [entity:7763187|Teghrim's Crossing]. The [entity:7763168|Jade Kingdoms] had helped build the road... rumors of shrine of great healing and divine power."
 

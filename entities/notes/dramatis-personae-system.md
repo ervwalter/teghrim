@@ -4,7 +4,7 @@ name: Dramatis Personae System
 type: Rules Reference
 is_hidden: false
 created: '2025-06-13T00:30:02+00:00'
-updated: '2025-06-16T01:46:25+00:00'
+updated: '2025-06-17T02:05:55.729650+00:00'
 ---
 
 # Dramatis Personae System

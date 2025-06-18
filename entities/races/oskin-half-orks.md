@@ -4,7 +4,7 @@ name: Oskin (Half-Orks)
 type: Other
 is_hidden: false
 created: '2025-06-12T21:07:18+00:00'
-updated: '2025-06-16T01:42:54+00:00'
+updated: '2025-06-17T02:04:42.222367+00:00'
 ---
 
 # Oskin (Half-Orks)

@@ -4,7 +4,7 @@ name: Kel-Duin Mountains
 type: Region
 is_hidden: false
 created: '2025-06-12T21:07:00+00:00'
-updated: '2025-06-16T01:30:33+00:00'
+updated: '2025-06-17T02:03:17.409095+00:00'
 ---
 
 # Kel-Duin Mountains

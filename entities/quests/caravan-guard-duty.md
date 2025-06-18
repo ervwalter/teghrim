@@ -4,13 +4,10 @@ name: Caravan Guard Duty
 type: Combat
 is_hidden: false
 created: '2025-06-13T00:29:59+00:00'
-updated: '2025-06-16T02:44:36+00:00'
+updated: '2025-06-17T02:27:44.441916+00:00'
 is_completed: true
 ---
-
 # Caravan Guard Duty
-
-## Overview
 
 A protective escort mission from [entity:7763870|Menoth-Derith] to [entity:7763187|Teghrim's Crossing], where the party served as rear guard for a merchant caravan traveling the dangerous frontier trade route. Despite multiple goblin attacks, the mission concluded successfully with all merchants reaching their destination.
 
@@ -57,7 +54,7 @@ The mission's success demonstrated the party's combat effectiveness and establis
 
 ## Related Quests
 
-- **[entity:7763875|Qotal's Broken Blade Quest]**: Meeting [entity:7763296|Qotal] during the caravan journey led to learning about his scholarly quest
+- **[entity:7763875|Qotal's Broken Hammer Quest]**: Meeting [entity:7763296|Qotal] during the caravan journey led to learning about his scholarly quest
 - **[entity:7763874|Lyn's Shrine Restoration]**: [entity:7763866|Lyn Chong] joined the caravan specifically to reach [entity:7763187|Teghrim's Crossing] for his spiritual mission
 - **[entity:7764109|Goblin Patrol Mission]**: The caravan's arrival triggered security concerns about stirred up goblin activity
 - **[entity:7773182|Supply Delivery Mission]**: Establishes ongoing trade connections between settlements for future hob camp deliveries

@@ -4,12 +4,10 @@ name: Fawn
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:12+00:00'
-updated: '2025-06-16T01:24:49+00:00'
+updated: '2025-06-17T02:14:38+00:00'
 ---
 
 # Fawn
-
-## Overview
 
 Fawn is a male fairy who demonstrates remarkable bravery and initiative within the wild fey alliance. Despite his playful nature, he volunteers for dangerous missions and serves as a key coordinator for emergency responses, bridging the gap between fey concerns and mortal assistance.
 

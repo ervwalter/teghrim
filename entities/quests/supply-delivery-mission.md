@@ -4,13 +4,10 @@ name: Supply Delivery Mission
 type: Party Quest
 is_hidden: false
 created: '2025-06-15T18:14:05+00:00'
-updated: '2025-06-16T02:44:39+00:00'
+updated: '2025-06-17T02:15:48.175519+00:00'
 is_completed: false
 ---
-
 # Supply Delivery Mission
-
-## Overview
 
 A future delivery contract offered by [entity:7764195|Gaz], the well-connected hob server at [entity:7763187|Teghrim's Crossing], to transport supplies to two hob camps upriver when the next caravan arrives. This mission represents an opportunity to establish positive relations with the civilized hob communities while earning payment.
 

@@ -4,12 +4,9 @@ name: Fairy Circle Glade
 type: Landmark
 is_hidden: false
 created: '2025-06-13T01:40:14+00:00'
-updated: '2025-06-16T01:29:26+00:00'
+updated: '2025-06-17T02:15:38.688685+00:00'
 ---
-
 # Fairy Circle Glade
-
-## Overview
 
 The Fairy Circle Glade is a small forest clearing on the west side of the river near [entity:7763187|Teghrim's Crossing], marked by a natural fairy ring that serves as a site of fey significance. The glade became notorious as the location where a basilisk petrified multiple adventurers, leaving their stone forms within the protective circle.
 

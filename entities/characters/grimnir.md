@@ -6,7 +6,7 @@ tags:
 - Demigod
 is_hidden: false
 created: '2025-06-12T21:06:29+00:00'
-updated: '2025-06-16T01:23:36+00:00'
+updated: '2025-06-17T02:00:56+00:00'
 ---
 
 # Grimnir

@@ -4,12 +4,9 @@ name: Von Carstein Mansion
 type: Mansion
 is_hidden: false
 created: '2025-06-13T02:25:43+00:00'
-updated: '2025-06-16T01:28:19+00:00'
+updated: '2025-06-17T02:14:49.362584+00:00'
 ---
-
 # Von Carstein Mansion
-
-## Overview
 
 The Von Carstein Mansion is an elaborate estate on an island upstream from [entity:7763187|Teghrim's Crossing], built by a previous military commander and recently acquired by the vampire noble [entity:7764193|Osanna Von Carstein]. The mansion features expensive furnishings, secret passages, and served as a base for undead creatures until recently cleared by adventurers.
 

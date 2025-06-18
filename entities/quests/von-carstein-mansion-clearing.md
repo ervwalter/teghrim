@@ -4,13 +4,10 @@ name: Von Carstein Mansion Clearing
 type: Combat
 is_hidden: false
 created: '2025-06-15T18:14:05+00:00'
-updated: '2025-06-16T02:44:41+00:00'
+updated: '2025-06-17T02:15:49.872240+00:00'
 is_completed: true
 ---
-
 # Von Carstein Mansion Clearing
-
-## Overview
 
 An urgent contract from [entity:7764097|Captain Irka Spritzel] to clear the [entity:7764198|Von Carstein mansion] of undead threats before its new vampire owners arrived. What began as simple property maintenance evolved into discovering the troubling expansion of [entity:7764192|Von Carstein vampire house] influence into frontier territories.
 

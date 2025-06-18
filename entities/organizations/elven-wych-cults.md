@@ -4,7 +4,7 @@ name: Elven Wych Cults
 type: Secret Society
 is_hidden: false
 created: '2025-06-12T21:06:21+00:00'
-updated: '2025-06-16T01:20:03+00:00'
+updated: '2025-06-17T01:59:42+00:00'
 ---
 
 # Elven Wych Cults

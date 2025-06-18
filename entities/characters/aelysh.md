@@ -6,12 +6,10 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-06-16T01:28:14+00:00'
+updated: '2025-06-17T02:14:44+00:00'
 ---
 
 # Aelysh
-
-## Overview
 
 Aelysh is a Wood Elf from Aes Piosayn who has made her home in a treehouse near [entity:7763187|Teghrim's Crossing] after an accidental separation from her caravan. Despite finding the area dangerous, she has established herself as a local resident and ally, providing magical support and knowledge of the surrounding wilderness.
 

@@ -4,7 +4,7 @@ name: 2025-05-30 Image 3 - The Von Carstein Discovery
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:49:56+00:00'
-updated: '2025-06-16T01:46:22+00:00'
+updated: '2025-06-17T02:05:52.411949+00:00'
 ---
 
 # Uncovering Ancient Vampire Secrets

@@ -4,12 +4,9 @@ name: Natvig
 type: NPC
 is_hidden: false
 created: '2025-06-13T00:29:57+00:00'
-updated: '2025-06-16T01:23:39+00:00'
+updated: '2025-06-17T02:14:35.594616+00:00'
 ---
-
 # Natvig
-
-## Overview
 
 Natvig is a mysterious flying entity that responds to [entity:7763290|Arnór Josefson's] call for help. Appearing briefly during combat to aid the party, this creature demonstrates both intelligence and loyalty while maintaining an enigmatic presence.
 

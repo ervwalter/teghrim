@@ -4,12 +4,9 @@ name: Willow Glade
 type: Landmark
 is_hidden: false
 created: '2025-06-13T01:40:15+00:00'
-updated: '2025-06-16T01:39:24+00:00'
+updated: '2025-06-17T02:15:42.927939+00:00'
 ---
-
 # Willow Glade
-
-## Overview
 
 The Willow Glade is a forest clearing home to the Great Willow and its dryad guardian. This sacred location was temporarily overrun by spider attackers under spriggan control, becoming the battleground for a crucial rescue mission that freed the [entity:7764101|Willow Dryad] and restored balance to the forest ecosystem.
 

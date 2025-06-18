@@ -4,7 +4,7 @@ name: The Sand Kingdoms (Human)
 type: Human
 is_hidden: false
 created: '2025-06-12T21:07:14+00:00'
-updated: '2025-06-16T01:41:43+00:00'
+updated: '2025-06-17T02:04:33.178476+00:00'
 ---
 
 # The Sand Kingdoms (Human)

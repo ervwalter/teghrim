@@ -6,12 +6,9 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:02:53+00:00'
-updated: '2025-06-16T01:27:08+00:00'
+updated: '2025-06-17T02:14:43.433840+00:00'
 ---
-
 # Sylvia Mournhold
-
-## Overview
 
 Sylvia Mournhold is a young noble from the [entity:7763865|Iron Kingdoms], sent by her family to secure trade interests at [entity:7763187|Teghrim's Crossing]. As a non-eldest child tasked with expanding the family's mercantile reach, she carries herself with practiced nobility while harboring her own ambitions beyond her assigned duties.
 

@@ -4,7 +4,7 @@ name: Astoria
 type: Continent
 is_hidden: false
 created: '2025-06-12T21:06:58+00:00'
-updated: '2025-06-16T01:29:28+00:00'
+updated: '2025-06-17T02:02:26+00:00'
 ---
 
 # Astoria

@@ -4,7 +4,7 @@ name: Teghrim's Crossing
 type: Settlement
 is_hidden: false
 created: '2025-06-12T21:07:05+00:00'
-updated: '2025-06-16T01:38:21+00:00'
+updated: '2025-06-17T02:03:28.961426+00:00'
 ---
 
 # Teghrim's Crossing

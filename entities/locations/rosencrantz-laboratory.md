@@ -4,12 +4,9 @@ name: Rosencrantz's Laboratory
 type: Laboratory
 is_hidden: false
 created: '2025-06-13T02:25:43+00:00'
-updated: '2025-06-16T01:29:23+00:00'
+updated: '2025-06-17T02:14:50.192230+00:00'
 ---
-
 # Rosencrantz's Laboratory
-
-## Overview
 
 Rosencrantz's Laboratory is a comprehensive research facility located on a southern island near [entity:7763187|Teghrim's Crossing], where the mechamagician conducts his experimental work combining magic and mechanical engineering. The converted structures house everything from basic living quarters to advanced magical-mechanical research equipment.
 

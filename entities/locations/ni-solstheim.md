@@ -4,12 +4,9 @@ name: Ni, Solstheim
 type: City
 is_hidden: false
 created: '2025-06-13T00:29:57+00:00'
-updated: '2025-06-16T01:38:16+00:00'
+updated: '2025-06-17T02:15:40.385447+00:00'
 ---
-
 # Ni, Solstheim
-
-## Overview
 
 Ni is a Norse port city in [entity:7763178|Solstheim] where trading boats depart for various destinations across the seas. As part of the [entity:7763211|Norn] maritime network, it serves as a departure point for those seeking fortune in distant lands.
 

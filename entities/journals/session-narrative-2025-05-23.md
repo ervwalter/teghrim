@@ -4,7 +4,7 @@ name: 02 - Stone Hearts and Fairy Rings
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:53:12+00:00'
-updated: '2025-06-16T01:21:15+00:00'
+updated: '2025-06-17T01:59:53.464170+00:00'
 ---
 
 # Chapter 2 - Stone Hearts and Fairy Rings

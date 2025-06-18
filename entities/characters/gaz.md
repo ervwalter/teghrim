@@ -6,12 +6,9 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:41+00:00'
-updated: '2025-06-16T01:25:53+00:00'
+updated: '2025-06-17T02:14:39.948299+00:00'
 ---
-
 # Gaz
-
-## Overview
 
 Gaz is a female [entity:7766459|hob] (domesticated [entity:7763229|goblin]) server working at the mess hall in [entity:7763187|Teghrim's Crossing] who serves as an invaluable local information broker and logistics coordinator. Known for "knowing a guy" for anything, she bridges the gap between the civilized hob community and the broader settlement while offering various side missions to adventurers.
 

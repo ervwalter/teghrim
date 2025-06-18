@@ -4,7 +4,7 @@ name: Highland Clan (Mountain Dwarves)
 type: Dwarf
 is_hidden: false
 created: '2025-06-12T21:07:10+00:00'
-updated: '2025-06-16T01:40:35+00:00'
+updated: '2025-06-17T02:04:26.508670+00:00'
 ---
 
 # Highland Clan (Mountain Dwarves)

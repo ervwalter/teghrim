@@ -4,13 +4,10 @@ name: Witch Coven Establishment
 type: Personal Quest
 is_hidden: false
 created: '2025-06-15T18:14:04+00:00'
-updated: '2025-06-16T02:44:38+00:00'
+updated: '2025-06-17T02:15:47.274229+00:00'
 is_completed: false
 ---
-
 # Witch Coven Establishment
-
-## Overview
 
 [entity:7763290|Arnór Josefson's] personal quest to establish contact with or create a witch coven at [entity:7763187|Teghrim's Crossing]. After finding no existing practitioners at the [entity:7764201|Hades shrine], the Norn witch has begun placing markers to attract potential magical contacts.
 

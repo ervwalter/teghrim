@@ -4,7 +4,7 @@ name: The Obsidian Kingdoms (Human)
 type: Human
 is_hidden: false
 created: '2025-06-12T21:07:23+00:00'
-updated: '2025-06-16T01:44:05+00:00'
+updated: '2025-06-17T02:05:37.314334+00:00'
 ---
 
 # The Obsidian Kingdoms (Human)

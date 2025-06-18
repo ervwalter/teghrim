@@ -1,24 +1,24 @@
 ---
 entity_id: 7763875
-name: Qotal's Broken Blade Quest
+name: Qotal's Broken Hammer Quest
 type: Personal Quest
 is_hidden: false
 created: '2025-06-13T00:30:00+00:00'
-updated: '2025-06-16T02:45:44+00:00'
+updated: '2025-06-17T02:34:43+00:00'
 is_completed: false
 ---
 
-# Qotal's Broken Blade Quest
+# Qotal's Broken Hammer Quest
 
-## Overview
+[entity:7763296|Qotal] seeks to uncover the story behind a moss-eaten statue of a dwarven warrior clutching a broken hammer. As a scholar, he believes the broken hammer's tale concludes somewhere beyond the hills near [entity:7763187|Teghrim's Crossing], following clues that led him westward.
 
-[entity:7763296|Qotal] seeks to uncover the story behind a moss-eaten carving of a warrior clutching a broken blade. As a scholar, he believes the broken sword's tale concludes somewhere beyond the hills near [entity:7763187|Teghrim's Crossing], following clues that led him westward.
+![9f2c55a8-27de-4c84-8c2e-1138aa6a17fc.png](https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f2c55a8-27de-4c84-8c2e-1138aa6a17fc.png)
 
 ## Description
 
 ### Objective
 
-Discover the complete story of the broken blade depicted in an ancient carving through scholarly research and investigation in the frontier lands.
+Discover the complete story of the broken hammer depicted in an ancient dwarven statue through scholarly research and investigation in the frontier lands.
 
 ### Stakes
 
@@ -30,7 +30,7 @@ The quest intertwines historical research with potentially ancient dwarven histo
 
 ## Background
 
-[entity:7763296|Qotal] discovered clues about this ancient carving through his scholarly studies. The evidence led him to believe that "a line carved in stone" ends somewhere beyond the current frontier. The moss-eaten carving suggests ancient origins, predating current civilizations.
+[entity:7763296|Qotal] discovered clues about this ancient carving through his scholarly studies. The evidence led him to believe that "a line carved in stone" ends somewhere beyond the current frontier. The moss-eaten statue of a dwarf suggests ancient origins, predating current civilizations.
 
 ## Relationships
 
@@ -41,7 +41,7 @@ The quest intertwines historical research with potentially ancient dwarven histo
 
 ## Notable History
 
-- **The Scholarly Discovery**: Research led [entity:7763296|Qotal] westward to seek the broken blade's complete story
+- **The Scholarly Discovery**: Research led [entity:7763296|Qotal] westward to seek the broken hammer's complete story
 - **The Caravan Journey**: Quest brought [entity:7763296|Qotal] to join others traveling toward [entity:7763187|Teghrim's Crossing]
 - **The Dwarven Connection**: [entity:7763295|Bruldin's] reaction suggests potential link to dwarven heritage or legend
 

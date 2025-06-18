@@ -4,13 +4,10 @@ name: Goblin Patrol Mission
 type: Combat
 is_hidden: false
 created: '2025-06-13T01:40:16+00:00'
-updated: '2025-06-16T02:44:37+00:00'
+updated: '2025-06-17T02:15:46.456459+00:00'
 is_completed: true
 ---
-
 # Goblin Patrol Mission
-
-## Overview
 
 The Goblin Patrol Mission was a security operation organized by Captain [entity:7764097|Irka Spritzel] to check for stirred up goblin activity east of [entity:7763187|Teghrim's Crossing] following the caravan's arrival. While some party members participated in this mission off-screen, it represents the ongoing security concerns and proactive measures taken to maintain trade route safety.
 

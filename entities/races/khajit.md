@@ -4,7 +4,7 @@ name: Khajit
 type: Beastkin
 is_hidden: false
 created: '2025-06-12T21:07:09+00:00'
-updated: '2025-06-16T01:40:33+00:00'
+updated: '2025-06-17T02:03:38.837708+00:00'
 ---
 
 # Khajit

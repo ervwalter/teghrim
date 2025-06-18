@@ -4,12 +4,9 @@ name: "Arn\xF3r Josefson"
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:52+00:00'
-updated: '2025-06-16T01:27:06+00:00'
+updated: '2025-06-17T02:14:42.567312+00:00'
 ---
-
 # Arnór Josefson
-
-## Overview
 
 Arnór Josefson is a [entity:7763211|Norn] wanderer from [entity:7763178|Solstheim] seeking his fortune in distant lands. His mysterious connection to otherworldly entities makes him a unique figure among adventurers, combining practical combat magic with enigmatic supernatural allies.
 

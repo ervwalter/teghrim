@@ -4,12 +4,9 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-06-16T01:24:43+00:00'
+updated: '2025-06-17T02:14:36.484270+00:00'
 ---
-
 # Aurelia
-
-## Overview
 
 Aurelia is a dhampir investigator pursuing a mysterious case on behalf of "a friend." Her vampiric heritage grants her enhanced combat abilities and survival instincts, while her investigative skills and artistic talents make her a valuable asset to any adventuring party.
 

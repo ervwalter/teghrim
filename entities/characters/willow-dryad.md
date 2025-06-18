@@ -4,12 +4,9 @@ name: Willow Dryad
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-06-16T01:28:13+00:00'
+updated: '2025-06-17T02:14:44.236480+00:00'
 ---
-
 # Willow Dryad
-
-## Overview
 
 The Willow Dryad is the spiritual guardian of the Great Willow who was rescued from spider attackers and their spriggan controller. Grateful for her liberation, she provides magical rewards to her rescuers and maintains an accessible location for future aid, speaking in the ancient Sylvan tongue of the forest.
 

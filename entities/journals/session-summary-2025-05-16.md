@@ -6,7 +6,7 @@ tags:
 - session-summary
 is_hidden: false
 created: '2025-06-13T04:18:13+00:00'
-updated: '2025-06-16T01:21:19+00:00'
+updated: '2025-06-17T02:27:40.941898+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ae3a-a855-454f-889f-ef044a6cfbc8.png
 ---
 
@@ -40,7 +40,7 @@ The surviving goblins fled as [entity:7763866|Lyn Chong] and the caravan healers
 
 Two days of travel through primeval forest followed, the ground occasionally shaking from the footfalls of distant giants and mammoths. At a more secure caravanserai, the party gathered around the evening fire. [entity:7763296|Qotal] played simple folk songs on his lute while [entity:7763290|Arnór] accompanied on flute. [entity:7763866|Lyn] offered flower tea and hummed along while [entity:7763693|Sylvia] sat with perfect noble posture, commending the party's martial prowess.
 
-As they shared their stories, deeper purposes emerged. [entity:7763296|Qotal] revealed he sought a **moss-eaten carving of a warrior clutching a broken blade**, believing the [entity:7763873|broken sword's story] would end somewhere beyond these hills. [entity:7763295|Bruldin] grew noticeably quiet at this description. [entity:7763866|Lyn Chong] spoke of his [entity:7763874|mission to restore an abandoned shrine] near Teghrim's Crossing, one rumored to possess great healing power. [entity:7763693|Sylvia], clearly not the eldest child, admitted she had been "voluntold" to secure her family's trade interests. [entity:7763294|Aurelia] remained cryptic, mentioning only that she investigated something for "a friend" while folding origami animals. [entity:7763290|Arnór] simply sought his fortune in foreign lands, though his connection to the mysterious [entity:7763867|Natvig] suggested deeper mysteries.
+As they shared their stories, deeper purposes emerged. [entity:7763296|Qotal] revealed he sought a **moss-eaten statue of a dwarven warrior clutching a broken hammer**, believing the [entity:7763875|broken hammer's story] would end somewhere beyond these hills. [entity:7763295|Bruldin] grew noticeably quiet at this description. [entity:7763866|Lyn Chong] spoke of his [entity:7763874|mission to restore an abandoned shrine] near Teghrim's Crossing, one rumored to possess great healing power. [entity:7763693|Sylvia], clearly not the eldest child, admitted she had been "voluntold" to secure her family's trade interests. [entity:7763294|Aurelia] remained cryptic, mentioning only that she investigated something for "a friend" while folding origami animals. [entity:7763290|Arnór] simply sought his fortune in foreign lands, though his connection to the mysterious [entity:7763867|Natvig] suggested deeper mysteries.
 
 The increasingly organized [entity:7763864|goblin raiders] struck again during the final stretch. First came a roadside ambush with sling-stones raining from the forest. [entity:7763290|Arnór's] **evil eye** symbol and [entity:7763295|Bruldin's] fearsome reputation sent many fleeing in panic. But worse followed - goblin riders mounted on **giant spiders** pursued the caravan, accompanied by **squigs**, bizarre bouncing creatures that were essentially mouths with legs. In the chaotic running battle, [entity:7763294|Aurelia] fell unconscious twice, saved only by [entity:7763866|Lyn's] healing touch. The party barely escaped, utilizing every skill at their disposal to discourage pursuit.
 

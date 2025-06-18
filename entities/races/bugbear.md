@@ -4,7 +4,7 @@ name: Bugbear
 type: Goblinoid
 is_hidden: false
 created: '2025-06-12T21:07:18+00:00'
-updated: '2025-06-16T01:42:53+00:00'
+updated: '2025-06-17T02:04:41.415341+00:00'
 ---
 
 # Bugbear

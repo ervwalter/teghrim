@@ -4,13 +4,10 @@ name: Elderberry Procurement
 type: Party Quest
 is_hidden: false
 created: '2025-06-15T18:14:04+00:00'
-updated: '2025-06-16T02:44:34+00:00'
+updated: '2025-06-17T02:15:43.834310+00:00'
 is_completed: false
 ---
-
 # Elderberry Procurement
-
-## Overview
 
 A discrete procurement mission from [entity:7764102|Aelysh], the Wood Elf Grove Warden, to recover rare elderberries that were stolen by "three flying little shits" (fairies). The berries possess legendary alchemical properties and must be obtained from someone called "Old Willy."
 

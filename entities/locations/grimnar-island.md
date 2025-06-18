@@ -4,12 +4,10 @@ name: Grimnar's Island
 type: Island
 is_hidden: false
 created: '2025-06-13T02:25:43+00:00'
-updated: '2025-06-16T01:29:24+00:00'
+updated: '2025-06-17T02:15:36+00:00'
 ---
 
 # Grimnar's Island
-
-## Overview
 
 Grimnar's Island is a rocky outcropping south of [entity:7763187|Teghrim's Crossing] where the hermit beekeeper [entity:7764100|Grimnar Bjornson] maintains his residence and beekeeping operation. This isolated location provides the perfect environment for his solitary lifestyle and specialized honey production.
 

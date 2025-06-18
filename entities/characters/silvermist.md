@@ -4,12 +4,9 @@ name: Silvermist
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:11+00:00'
-updated: '2025-06-16T01:24:46+00:00'
+updated: '2025-06-17T02:14:37.320746+00:00'
 ---
-
 # Silvermist
-
-## Overview
 
 Silvermist is a purple fairy who serves as the primary spokesperson for the wild fey alliance protecting the forest areas near [entity:7763187|Teghrim's Crossing]. Known for her wisdom tests and leadership during emergencies, she coordinates rescue missions and evaluates potential allies for their worthiness to enter sacred fey locations.
 

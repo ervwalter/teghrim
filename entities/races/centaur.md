@@ -4,7 +4,7 @@ name: Centaur
 type: Beastkin
 is_hidden: false
 created: '2025-06-12T21:07:10+00:00'
-updated: '2025-06-16T01:40:34+00:00'
+updated: '2025-06-17T02:03:39.637795+00:00'
 ---
 
 # Centaur

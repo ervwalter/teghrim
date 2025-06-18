@@ -4,12 +4,9 @@ name: Mournhold Noble Family
 type: Guild
 is_hidden: false
 created: '2025-06-13T00:29:54+00:00'
-updated: '2025-06-16T01:20:04+00:00'
+updated: '2025-06-17T02:14:25.984739+00:00'
 ---
-
 # Mournhold Noble Family
-
-## Overview
 
 The Mournhold Noble Family is an established noble house from the [entity:7763865|Iron Kingdoms] with expanding commercial interests across frontier territories. Known for strategic placement of family members in developing trade markets, they represent the intersection of aristocratic privilege and mercantile ambition.
 

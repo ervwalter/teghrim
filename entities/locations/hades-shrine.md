@@ -4,12 +4,9 @@ name: Hades Shrine
 type: Shrine
 is_hidden: false
 created: '2025-06-13T02:25:44+00:00'
-updated: '2025-06-16T01:29:24+00:00'
+updated: '2025-06-17T02:15:37.850305+00:00'
 ---
-
 # Hades Shrine
-
-## Overview
 
 The Hades Shrine is a religious site built into the structure of [entity:7763187|Teghrim's Crossing] and maintained by the Church of [entity:7763137|Pharasma]. Dedicated to Hades as the "purveyor of the undead" who shepherds deceased souls, it serves as a place where people leave coins hoping for proper care of their departed loved ones.
 

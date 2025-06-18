@@ -4,7 +4,7 @@ name: Fetchling
 type: Fey
 is_hidden: false
 created: '2025-06-12T21:07:15+00:00'
-updated: '2025-06-16T01:41:47+00:00'
+updated: '2025-06-17T02:04:36.496454+00:00'
 ---
 
 # Fetchling

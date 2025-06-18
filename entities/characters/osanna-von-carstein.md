@@ -6,12 +6,10 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:40+00:00'
-updated: '2025-06-16T01:22:27+00:00'
+updated: '2025-06-17T02:14:31+00:00'
 ---
 
 # Osanna Von Carstein
-
-## Overview
 
 Osanna Von Carstein is a vampire noble and member of an ancient vampire dynasty from the [entity:7763172|Astoria] continent who has recently acquired property near [entity:7763187|Teghrim's Crossing]. As part of the [entity:7764192|Von Carstein vampire house], she represents the expansion of Astorian vampire influence into frontier territories.
 

@@ -6,12 +6,9 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:29:56+00:00'
-updated: '2025-06-16T01:22:28+00:00'
+updated: '2025-06-17T02:14:32.950776+00:00'
 ---
-
 # Lyn Chong
-
-## Overview
 
 Lyn Chong is an elderly gentleman from the [entity:7763168|Jade Kingdoms], traveling west to restore an abandoned shrine near [entity:7763187|Teghrim's Crossing]. Unlike the stereotypical ascetic monks of his homeland, he presents a warm, personable demeanor that puts others at ease while carrying deep spiritual knowledge and healing abilities.
 

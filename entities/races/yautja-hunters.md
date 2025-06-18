@@ -4,7 +4,7 @@ name: Yautja (Hunters, Predators)
 type: Other
 is_hidden: false
 created: '2025-06-12T21:07:17+00:00'
-updated: '2025-06-16T01:41:51+00:00'
+updated: '2025-06-17T02:04:40.606165+00:00'
 ---
 
 # Yautja (Hunters, Predators)

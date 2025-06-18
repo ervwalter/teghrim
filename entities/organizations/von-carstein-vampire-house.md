@@ -4,12 +4,9 @@ name: Von Carstein Vampire House
 type: Vampire Dynasty
 is_hidden: false
 created: '2025-06-13T02:25:40+00:00'
-updated: '2025-06-16T01:20:08+00:00'
+updated: '2025-06-17T02:14:28.575157+00:00'
 ---
-
 # Von Carstein Vampire House
-
-## Overview
 
 The Von Carstein Vampire House is an ancient vampire dynasty from the [entity:7763172|Astoria] continent with complex political relationships to other vampire families. Known for their expansion into frontier territories, they represent one of the major vampire political powers extending influence beyond their traditional Astorian strongholds.
 

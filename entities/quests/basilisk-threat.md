@@ -4,13 +4,11 @@ name: Basilisk Threat
 type: Party Quest
 is_hidden: false
 created: '2025-06-13T01:40:16+00:00'
-updated: '2025-06-16T02:46:10+00:00'
+updated: '2025-06-17T02:15:48+00:00'
 is_completed: false
 ---
 
 # Basilisk Threat
-
-## Overview
 
 The Basilisk Threat represents an ongoing dangerous situation in the forest areas near [entity:7763187|Teghrim's Crossing], where basilisk creatures have been petrifying adventurers and travelers. While the immediate victims have been rescued, the basilisk responsible remains at large, posing continued risk to anyone venturing into the affected areas.
 

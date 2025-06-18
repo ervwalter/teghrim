@@ -7,12 +7,9 @@ tags:
 - Domesticated
 is_hidden: false
 created: '2025-06-13T14:13:10+00:00'
-updated: '2025-06-16T01:22:23+00:00'
+updated: '2025-06-17T02:14:30.294277+00:00'
 ---
-
 # Hobs
-
-## Overview
 
 Hobs are domesticated [entity:7763229|goblins] who have integrated into civilized society, forming mutually beneficial relationships with frontier settlements. Unlike their wild cousins who raid caravans and terrorize travelers, hobs work honest jobs and contribute to local communities through labor and specialized services.
 

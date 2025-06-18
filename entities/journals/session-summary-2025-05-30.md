@@ -6,7 +6,7 @@ tags:
 - session-summary
 is_hidden: false
 created: '2025-06-13T04:50:03+00:00'
-updated: '2025-06-16T01:21:18+00:00'
+updated: '2025-06-17T02:27:39+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ad5e-ebfd-43de-b52c-d1c903df44c7.png
 ---
 
@@ -26,7 +26,7 @@ Morning found the party gathered in the bridge settlement's humid mess hall, whe
 
 [entity:7764097|Captain Irka Spritzel] soon summoned them for an urgent assignment. She introduced [entity:7764196|Rosencrantz], a Spanish-looking mechamagician whose [entity:7764199|laboratory] occupied a southern island complete with fishing hut, barracks, and converted tower filled with da Vinci-esque contraptions. The mission proved straightforward yet critical: [entity:7773183|clear the Von Carstein mansion] before its new owners arrived between the 12th and 14th of Astra Orpheus. Built by a previous commander twenty years ago and finished seven to eight years past, the elaborate estate had stood empty since its creator's death two to three years prior.
 
-[entity:7763296|Qotal] privately confided to [entity:7764097|the captain] about his quest, describing a six or seven story dwarven statue clutching a broken weapon from his homeland. [entity:7763295|Bruldin] grew noticeably quiet at this description, suggesting deeper connections to the mystery.
+[entity:7763296|Qotal] privately confided to [entity:7764097|the captain] about his quest, describing a six or seven story tall dwarven statue clutching a broken hammer from his homeland. [entity:7763295|Bruldin] grew noticeably quiet at this description, suggesting deeper connections to the mystery.
 
 During their two-day rest period, the party pursued personal interests. [entity:7763296|Qotal] spent time playing his lute and deepening his relationship with [entity:7763866|Lyn Chong]. [entity:7763289|Alrik] investigated his petrification duration - approximately 150 years - while learning alchemy from [entity:7764196|Rosencrantz]. [entity:7763294|Aurelia] sought blood tokens, gaining twelve, then networked with [entity:7764195|Gaz] about local goblin communities and their rumors.
 

@@ -6,12 +6,9 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:42+00:00'
-updated: '2025-06-16T01:28:15+00:00'
+updated: '2025-06-17T02:14:45.938095+00:00'
 ---
-
 # Rosencrantz
-
-## Overview
 
 Rosencrantz is a Spanish-looking mechamagician who operates an experimental laboratory on a southern island near [entity:7763187|Teghrim's Crossing]. Known for creating da Vinci-esque contraptions that blend magic and mechanical engineering, he serves as the settlement's resident inventor and alchemical expert.
 

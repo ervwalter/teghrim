@@ -4,7 +4,7 @@ name: Minotaur
 type: Beastkin
 is_hidden: false
 created: '2025-06-12T21:07:13+00:00'
-updated: '2025-06-16T01:40:40+00:00'
+updated: '2025-06-17T02:04:31.432972+00:00'
 ---
 
 # Minotaur

@@ -4,7 +4,7 @@ name: Sprite / Fairy / Pixie
 type: Fey
 is_hidden: false
 created: '2025-06-12T21:07:19+00:00'
-updated: '2025-06-16T01:42:56+00:00'
+updated: '2025-06-17T02:04:43.836171+00:00'
 ---
 
 # Sprite / Fairy / Pixie

@@ -4,12 +4,10 @@ name: Menoth-Derith
 type: Settlement
 is_hidden: false
 created: '2025-06-13T00:29:58+00:00'
-updated: '2025-06-16T01:38:19+00:00'
+updated: '2025-06-17T02:15:41+00:00'
 ---
 
 # Menoth-Derith
-
-## Overview
 
 Menoth-Derith is a new [entity:7763209|Duergar] trading port built within the last decade, serving as a crucial maritime gateway for overland trade routes. With its Wild West atmosphere and strategic defensive position, it exemplifies the frontier spirit of expanding dwarven commerce.
 

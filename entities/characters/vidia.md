@@ -4,12 +4,9 @@ name: Vidia
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-06-16T01:28:16+00:00'
+updated: '2025-06-17T02:14:47.647491+00:00'
 ---
-
 # Vidia
-
-## Overview
 
 Vidia is a small sprite who serves as [entity:7763289|Alrik Grimmelstang's] loyal companion and utility support. After being petrified alongside [entity:7763289|Alrik] during a basilisk encounter, she now permanently accompanies the party, providing practical assistance through light generation and carrying capabilities while remaining unable to speak.
 

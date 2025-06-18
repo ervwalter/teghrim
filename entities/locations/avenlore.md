@@ -4,7 +4,7 @@ name: Avenlore
 type: Continent
 is_hidden: false
 created: '2025-06-12T21:07:04+00:00'
-updated: '2025-06-16T01:38:18+00:00'
+updated: '2025-06-17T02:03:26.517528+00:00'
 ---
 
 # Avenlore

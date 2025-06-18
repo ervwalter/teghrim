@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:56+00:00'
-updated: '2025-06-16T01:28:17+00:00'
+updated: '2025-06-17T02:02:17+00:00'
 ---
 
 # Sanguineous

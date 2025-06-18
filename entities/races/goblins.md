@@ -4,7 +4,7 @@ name: Goblins
 type: Goblinoid
 is_hidden: false
 created: '2025-06-12T21:07:23+00:00'
-updated: '2025-06-16T01:44:04+00:00'
+updated: '2025-06-17T02:04:50.391291+00:00'
 ---
 
 # Goblins
