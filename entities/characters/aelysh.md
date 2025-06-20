@@ -6,7 +6,8 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-06-17T02:14:44+00:00'
+updated: '2025-06-20T15:41:46.048770+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336aa1-5468-4d8b-8260-84d5dac9fe5c.jpg
 ---
 
 # Aelysh
@@ -17,7 +18,7 @@ Aelysh is a Wood Elf from Aes Piosayn who has made her home in a treehouse near 
 
 ### Physical Appearance
 
-Wood Elf with typical Sylvan heritage characteristics.
+A striking Wood Elf with warm bronze skin and luminous green eyes that seem to glow with an inner light. Her long, flowing black hair cascades past her waist, adorned with a crown of living vines and leaves that features small red berries or flowers. Her pointed elven ears are prominent, and her features are delicate yet fierce, with high cheekbones and full lips. She wears form-fitting clothing made from natural materials - primarily deep green fabric that appears to be woven from leaves or plant fibers. The outfit reveals her athletic build while incorporating living vines that wrap around her body as both decoration and armor. She carries a wooden staff adorned with small white flowers, suggesting her connection to nature magic.
 
 ### Personality & Demeanor
 

@@ -4,8 +4,10 @@ name: Vidia
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-06-17T02:14:47.647491+00:00'
+updated: '2025-06-20T15:41:47.854438+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336c62-c9fc-40f8-98e5-c3dbd735ce46.jpg
 ---
+
 # Vidia
 
 Vidia is a small sprite who serves as [entity:7763289|Alrik Grimmelstang's] loyal companion and utility support. After being petrified alongside [entity:7763289|Alrik] during a basilisk encounter, she now permanently accompanies the party, providing practical assistance through light generation and carrying capabilities while remaining unable to speak.
@@ -14,7 +16,7 @@ Vidia is a small sprite who serves as [entity:7763289|Alrik Grimmelstang's] loya
 
 ### Physical Appearance
 
-Small sprite with typical fey characteristics, compact enough to serve as a portable light source and companion.
+A ethereal sprite with delicate features and luminous yellow-green eyes that glow with inner light. Her long hair flows in shades of purple and pink, adorned with vibrant flowers that seem to grow naturally from her tresses. Her pointed ears and fox-like features mark her fey heritage, while her skin has a soft lavender hue with subtle patterns resembling leaves or scales. She wears flowing garments in pink and purple that seem woven from flower petals and moonlight. Small enough to perch on [entity:7763289|Alrik's] shoulder, she radiates a gentle luminescence that serves as the party's light source.
 
 ### Personality & Demeanor
 

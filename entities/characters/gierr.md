@@ -1,22 +1,24 @@
 ---
 entity_id: 7764100
-name: Grimnar Bjornson
+name: Gierr Bjornson
 type: NPC
 tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:12+00:00'
-updated: '2025-06-17T02:14:41.720586+00:00'
+updated: '2025-06-20T15:41:43.415455+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336b20-26d1-4e2b-8384-538c3327c1ca.jpg
 ---
-# Grimnar Bjornson
 
-Grimnar Bjornson is an older [entity:7763211|Norn] archer classified as "dramatis personae" who operates near [entity:7763187|Teghrim's Crossing]. Known for his beekeeping operation and mead production, he provides both combat support and local expertise while maintaining a skeptical but helpful attitude toward fey recruitment methods.
+# Gierr Bjornson
+
+Gierr Bjornson is an older [entity:7763211|Norn] archer classified as "dramatis personae" who operates near [entity:7763187|Teghrim's Crossing]. Known for his beekeeping operation and mead production, he provides both combat support and local expertise while maintaining a skeptical but helpful attitude toward fey recruitment methods.
 
 ## Description
 
 ### Physical Appearance
 
-Older-looking [entity:7763211|Norn] with bow, showing the weathered appearance of someone who has spent considerable time in frontier wilderness areas.
+A grizzled [entity:7763211|Norn] warrior whose weathered face tells of decades spent in harsh frontier conditions. His long gray hair is partially braided in traditional Nordic style, with a magnificent beard flowing down his chest. Dark tattoos or war paint mark his forehead and face in tribal patterns. He dresses in practical black leather and furs suitable for wilderness survival, with studded armor pieces providing protection without hindering his archery. A well-worn axe hangs at his side alongside his primary weapon - a sturdy bow that has clearly seen many battles. His bearing is that of a seasoned woodsman and fighter, someone who has survived where others have fallen.
 
 ### Personality & Demeanor
 

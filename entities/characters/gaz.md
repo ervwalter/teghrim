@@ -6,8 +6,10 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:41+00:00'
-updated: '2025-06-17T02:14:39.948299+00:00'
+updated: '2025-06-20T15:41:42.465064+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336ad2-c537-4a28-9ff9-f2c74115517a.png
 ---
+
 # Gaz
 
 Gaz is a female [entity:7766459|hob] (domesticated [entity:7763229|goblin]) server working at the mess hall in [entity:7763187|Teghrim's Crossing] who serves as an invaluable local information broker and logistics coordinator. Known for "knowing a guy" for anything, she bridges the gap between the civilized hob community and the broader settlement while offering various side missions to adventurers.
@@ -16,7 +18,7 @@ Gaz is a female [entity:7766459|hob] (domesticated [entity:7763229|goblin]) serv
 
 ### Physical Appearance
 
-A female hob with the typical features of domesticated [entity:7763229|goblins], including their distinctive "football-shaped" heads. She is easily distinguishable from the evil wild [entity:7763229|goblins] that plague the trade routes.
+A cheerful female hob with green-gray skin and bright golden eyes that sparkle with mischief and intelligence. Her short, vibrant green hair is styled in a practical bob that frames her pointed ears. She wears the traditional server's outfit of [entity:7763187|Teghrim's Crossing] - a teal apron dress over a white blouse with puffy sleeves, complete with a dark bow at the collar. Her small stature and delicate features mark her as one of the domesticated hobs rather than their wild cousins. She moves with practiced efficiency through the mess hall, often balancing multiple plates of food with ease, her friendly smile putting nervous travelers at ease about dining alongside a [entity:7763229|goblin].
 
 ### Personality & Demeanor
 

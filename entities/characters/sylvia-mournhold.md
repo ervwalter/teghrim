@@ -6,8 +6,10 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:02:53+00:00'
-updated: '2025-06-17T02:14:43.433840+00:00'
+updated: '2025-06-20T15:41:45.160249+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336bf8-9c36-4054-8fb5-95d42d379e20.jpg
 ---
+
 # Sylvia Mournhold
 
 Sylvia Mournhold is a young noble from the [entity:7763865|Iron Kingdoms], sent by her family to secure trade interests at [entity:7763187|Teghrim's Crossing]. As a non-eldest child tasked with expanding the family's mercantile reach, she carries herself with practiced nobility while harboring her own ambitions beyond her assigned duties.
@@ -16,7 +18,7 @@ Sylvia Mournhold is a young noble from the [entity:7763865|Iron Kingdoms], sent 
 
 ### Physical Appearance
 
-Sylvia presents a refined appearance with well-maintained armor that speaks more to wealth than battlefield experience. She carries a matched pair of rapiers at her sides and maintains perfect posture at all times, even when seated around campfires or in rough caravan conditions.
+A striking young noblewoman with short, platinum-white hair styled in a practical yet elegant cut that frames her delicate features. Her ornate black and silver armor combines protection with aristocratic aesthetics, featuring elaborate pauldrons and perfectly fitted pieces that emphasize both her noble status and warrior training. She carries matched rapiers with ornate guards, weapons that are clearly functional art pieces rather than mere tools. Her lithe build and graceful movements speak to years of formal dueling instruction, while her pale complexion and refined features mark her as pure nobility. Even in combat stance, she maintains the poise of one raised in courts, making every gesture appear choreographed.
 
 ### Personality & Demeanor
 

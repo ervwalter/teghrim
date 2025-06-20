@@ -6,7 +6,8 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:40+00:00'
-updated: '2025-06-17T02:14:31+00:00'
+updated: '2025-06-20T15:41:36.256085+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336ba7-04b3-46e7-ac82-354e9a75d720.png
 ---
 
 # Osanna Von Carstein
@@ -17,7 +18,7 @@ Osanna Von Carstein is a vampire noble and member of an ancient vampire dynasty 
 
 ### Physical Appearance
 
-[Physical description to be determined through future encounters]
+A strikingly beautiful vampire with porcelain-pale skin and lustrous black hair styled in elaborate curls that frame her face. Her features are classically aristocratic with high cheekbones and full, crimson lips often curved in a knowing smile that reveals the barest hint of fangs. She dresses in the height of gothic elegance - a black and red corset dress with white puffy sleeves that expose her shoulders, combining sensuality with noble refinement. Red gemstone earrings dangle from her ears, catching light like drops of blood. Her eyes hold centuries of secrets and predatory calculation, while her entire bearing exudes the confidence of ancient nobility. Even in casual moments, she maintains the poise of one born to rule, making it clear why the Von Carstein name commands both fear and respect.
 
 ### Personality & Demeanor
 

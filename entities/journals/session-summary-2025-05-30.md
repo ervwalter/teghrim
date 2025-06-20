@@ -6,7 +6,7 @@ tags:
 - session-summary
 is_hidden: false
 created: '2025-06-13T04:50:03+00:00'
-updated: '2025-06-17T02:27:39+00:00'
+updated: '2025-06-20T15:41:34.440897+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ad5e-ebfd-43de-b52c-d1c903df44c7.png
 ---
 
@@ -32,7 +32,7 @@ During their two-day rest period, the party pursued personal interests. [entity:
 
 [entity:7763290|Arnór] [entity:7773181|searched for witch covens], his exceptional investigation leading him to the [entity:7764201|Hades shrine] built into the settlement structure. Maintained by the Church of [entity:7763137|Pharasma], the shrine honored Hades as "purveyor of the undead" who shepherded deceased souls. Finding no existing practitioners, [entity:7763290|the Norn] placed witch marks at sunset to signal his presence to potential contacts, then checked on his familiar [entity:7763867|Natvig].
 
-During preparations, [entity:7763290|Arnór] encountered [entity:7764194|Sigrid], a fellow Norn who had fled Solstheim and now worked with caravans and the general store. Their conversation in the Skald language revealed she was [entity:7764100|Grimnar's] niece, and they planned an Old Lughnass festival for September 22nd to maintain their cultural traditions.
+During preparations, [entity:7763290|Arnór] encountered [entity:7764194|Sigrid], a fellow Norn who had fled Solstheim and now worked with caravans and the general store. Their conversation in the Skald language revealed she was [entity:7764100|Gierr's] niece, and they planned an Old Lughnass festival for September 22nd to maintain their cultural traditions.
 
 The party traveled by boat toward the upstream island mansion, spotting movement as they approached. Waves of skeps - small undead goblin-like creatures - erupted from the grounds while a necromancer on the balcony raised reinforcements from fallen enemies. [entity:7763296|Qotal] attempted an acrobatic climb to reach the balcony threat while the party engaged in desperate ranged combat. [entity:7763289|Alrik's] needle gun magic combined with [entity:7764102|Aelysh's] acrobatic vine whip attacks as [entity:7763290|Arnór] flanked enemy positions.
 

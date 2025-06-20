@@ -4,8 +4,10 @@ name: "Arn\xF3r Josefson"
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:52+00:00'
-updated: '2025-06-17T02:14:42.567312+00:00'
+updated: '2025-06-20T15:41:44.306082+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369fe-110e-4695-8960-7254b8b5c619.jpg
 ---
+
 # Arnór Josefson
 
 Arnór Josefson is a [entity:7763211|Norn] wanderer from [entity:7763178|Solstheim] seeking his fortune in distant lands. His mysterious connection to otherworldly entities makes him a unique figure among adventurers, combining practical combat magic with enigmatic supernatural allies.
@@ -14,7 +16,7 @@ Arnór Josefson is a [entity:7763211|Norn] wanderer from [entity:7763178|Solsthe
 
 ### Physical Appearance
 
-A tall, weathered [entity:7763211|Norn] wanderer whose features speak of northern mysteries and old magic. His white skin and strong build mark him as typical of his people, while his hair—whether black, light brown, or touched with orange—frames a face carved by wind and fortune-seeking. Arnór dresses practically for his travels, his clothing bearing the wear of long roads and many adventures. An evil eye symbol serves as both protection and warning, hinting at the witch's power that flows through him. Despite his imposing Norn stature, he often keeps to shadows and margins, observing more than he reveals, his flute never far from hand.
+A handsome [entity:7763211|Norn] man with long, dark hair that flows past his shoulders and a well-groomed beard framing a warm, genuine smile. His weathered face shows both strength and kindness, with bright eyes that hold secrets. He wears elaborate Nordic-patterned clothing in deep blues decorated with golden mystical symbols - circular designs resembling Viking compasses or runic wheels adorn his chest. Most striking is the bird skull pendant hanging from a leather cord around his neck, likely that of a raven or crow, marking him as one who walks between worlds. His attire suggests both practicality for travel and ceremonial significance, with intricate embroidery that speaks to his cultural heritage and mystical practices.
 
 ### Personality & Demeanor
 

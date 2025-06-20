@@ -4,7 +4,7 @@ name: Fawn
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:12+00:00'
-updated: '2025-06-17T02:14:38+00:00'
+updated: '2025-06-20T15:41:41.607220+00:00'
 ---
 
 # Fawn
@@ -33,7 +33,7 @@ Active member of the wild fey alliance protecting forest areas around [entity:77
 
 - **[entity:7764098|Silvermist]**: Fellow fairy and mission coordinator
 - **[entity:7764104|Iridessa]**: Companion in the wild fey alliance
-- **[entity:7764100|Grimnar]**: Successfully recruited him despite some testing irregularities
+- **[entity:7764100|Gierr]**: Successfully recruited him despite some testing irregularities
 - **Wild Fey Alliance**: Key member specializing in recruitment and dangerous missions
 - **Old Willy**: Attempted to recruit but failed due to poor test performance
 
@@ -42,7 +42,7 @@ Active member of the wild fey alliance protecting forest areas around [entity:77
 - **The Dangerous Volunteer**: Offered to retrieve "old Willy" and acquire boysenberries despite mission urgency
 - **The Bridge Journey**: Flew east across [entity:7763187|Teghrim's Crossing], playfully zipping under bridge spans during emergency mission
 - **The Oil Acquisition**: Successfully obtained oil of potency in apple-like gourd for party use
-- **The Recruitment Mission**: Found and recruited [entity:7764100|Grimnar], though with less rigorous testing than companions preferred
+- **The Recruitment Mission**: Found and recruited [entity:7764100|Gierr], though with less rigorous testing than companions preferred
 
 ## Current Status
 

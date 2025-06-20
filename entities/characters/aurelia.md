@@ -4,8 +4,10 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-06-17T02:14:36.484270+00:00'
+updated: '2025-06-20T15:41:39.861239+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a37-767e-430b-a504-4208c9ba294d.jpg
 ---
+
 # Aurelia
 
 Aurelia is a dhampir investigator pursuing a mysterious case on behalf of "a friend." Her vampiric heritage grants her enhanced combat abilities and survival instincts, while her investigative skills and artistic talents make her a valuable asset to any adventuring party.
@@ -14,7 +16,7 @@ Aurelia is a dhampir investigator pursuing a mysterious case on behalf of "a fri
 
 ### Physical Appearance
 
-Aurelia carries herself with the unmistakable bearing of old nobility, her dhampir heritage evident in her pale complexion and subtle predatory grace. Her movements are precise and controlled, whether she's crafting delicate origami animals or unleashing swift violence with her hand crossbow. Though she dresses practically for her work as an investigator, the quality of her gear and refined manner of speech betray her aristocratic background. Her enhanced senses and vampiric nature manifest in small ways—the occasional glimpse of slightly elongated canines, the way she seems to track movement others miss, and her comfort operating in darkness.
+Porcelain-pale skin and crimson eyes immediately mark Aurelia's dhampir heritage. Her sleek black hair is cut in a sharp bob with straight bangs, framing an elegant face adorned with dark lipstick and multiple piercings. She dresses in gothic punk fashion - a black leather jacket worn over elaborate corsets and straps, combining practicality with dark elegance. A choker featuring a small skull pendant encircles her throat, while cross earrings dangle from pointed ears. Her outfit incorporates gold-scaled armor pieces that catch the light, suggesting both protection and style. She holds a blade with casual confidence, her entire appearance balancing aristocratic refinement with dangerous edge. Small details like her slightly elongated canines and the predatory grace of her movements constantly remind observers of her vampiric nature.
 
 ### Personality & Demeanor
 

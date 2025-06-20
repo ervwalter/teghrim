@@ -4,7 +4,7 @@ name: The Great Willow Rescue
 type: Combat
 is_hidden: false
 created: '2025-06-13T01:40:15+00:00'
-updated: '2025-06-17T02:15:44.695008+00:00'
+updated: '2025-06-20T15:41:49.631337+00:00'
 is_completed: true
 ---
 # The Great Willow Rescue
@@ -22,7 +22,7 @@ Emergency response to fey distress call regarding the Great Willow's dryad being
 - **[entity:7763296|Qotal] & [entity:7763294|Aurelia]**: Initial responders who passed fey worthiness tests
 - **[entity:7763289|Alrik Grimmelstang]**: Recently liberated from petrification, joined as permanent party member
 - **[entity:7764102|Aelysh]**: Wood elf ally providing translation and magical support
-- **[entity:7764100|Grimnar]**: [entity:7763211|Norn] archer recruited by fey for additional combat strength
+- **[entity:7764100|Gierr]**: [entity:7763211|Norn] archer recruited by fey for additional combat strength
 - **Wild Fey Alliance**: [entity:7764098|Silvermist], [entity:7764099|Fawn], [entity:7764104|Iridessa] coordinating and supporting
 
 ### Objectives
@@ -45,7 +45,7 @@ Discovered and rescued petrified [entity:7763289|Alrik] and sprite [entity:77641
 
 ### Phase 4: Force Assembly
 
-Gathered expanded party including local allies [entity:7764102|Aelysh], [entity:7764100|Grimnar], and Ulric to provide sufficient combat strength for the rescue mission.
+Gathered expanded party including local allies [entity:7764102|Aelysh], [entity:7764100|Gierr], and Ulric to provide sufficient combat strength for the rescue mission.
 
 ### Phase 5: Combat Resolution
 

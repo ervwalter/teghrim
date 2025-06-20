@@ -4,8 +4,10 @@ name: Alrik Grimmelstang
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:19+00:00'
-updated: '2025-06-17T02:14:33.834015+00:00'
+updated: '2025-06-20T15:41:38.028330+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369aa-0dbb-4245-8e1e-25c3f63f81ec.jpg
 ---
+
 # Alrik Grimmelstang
 
 Alrik Grimmelstang is a chef extraordinaire and devotee of Talos who recently joined the party after being rescued from petrification. Known for his secret recipes that have attracted fey attention for centuries, he combines culinary expertise with surprising combat abilities and healing magic, calling himself "Alrik the Chef Extraordinaire" despite his practical adventuring skills.
@@ -14,7 +16,7 @@ Alrik Grimmelstang is a chef extraordinaire and devotee of Talos who recently jo
 
 ### Physical Appearance
 
-Resembles Doc Brown in appearance, with the severely weathered look of someone who has lived an exceptionally hard adventurous life. Appears to be around 75 years old despite being chronologically only 30, showing the dramatic aging effects of his dangerous lifestyle. His exact heritage remains unclear, though he considers a 250-year-old dwarf to be a "young'un."
+Wild white hair erupts from his head in an unruly cloud, creating an unmistakable silhouette reminiscent of Doc Brown. Deep lines and wrinkles map his weathered face, telling tales of countless adventures and hardships. His wide, expressive eyes hold both manic energy and surprising wisdom. He dresses practically in a worn leather vest over a simple white shirt, with various pouches, vials, and equipment hanging from his belt and pack - the tools of both chef and adventurer. A wooden staff serves as both walking aid and weapon. Despite appearing to be in his seventies, he moves with surprising vitality, though his exact heritage remains unclear as he considers a 250-year-old dwarf to be a "young'un."
 
 ### Personality & Demeanor
 

@@ -6,8 +6,10 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:11+00:00'
-updated: '2025-06-17T02:14:31.179333+00:00'
+updated: '2025-06-20T15:41:35.363596+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336b4b-0d98-44b0-a807-a7adf686e48b.jpg
 ---
+
 # Irka Spritzel
 
 Irka Spritzel is a [entity:7763200|Highland Dwarf] captain who serves as the primary authority figure at [entity:7763187|Teghrim's Crossing]. As commander of the dwarf guards maintaining order in this strategic bridge settlement, she demonstrates both military competence and diplomatic sensitivity in managing the delicate balance between neighboring Bovok and Orc territories.
@@ -16,7 +18,7 @@ Irka Spritzel is a [entity:7763200|Highland Dwarf] captain who serves as the pri
 
 ### Physical Appearance
 
-[[entity:7763200|Highland Dwarf] features to be detailed through future interactions]
+A stout and powerfully built [entity:7763200|Highland Dwarf] with rich brown hair flowing past his shoulders and an impressively long beard that reaches nearly to his belt. His weathered face speaks of years of military service, with keen eyes that miss nothing. He wears quilted teal armor over leather, the colors of [entity:7763187|Teghrim's Crossing], trimmed with fur befitting his rank. His belt bears decorative metalwork featuring dwarven faces, likely honoring fallen comrades or ancestors. Brown leather gauntlets protect his hands, ready for either administrative duties or combat. Despite his official position, he maintains the practical appearance of a frontier commander rather than a ceremonial officer.
 
 ### Personality & Demeanor
 

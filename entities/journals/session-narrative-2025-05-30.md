@@ -4,7 +4,7 @@ name: 03 - Necromancer's Welcome
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T14:13:08+00:00'
-updated: '2025-06-17T02:27:38+00:00'
+updated: '2025-06-20T15:41:32.488733+00:00'
 ---
 
 # Chapter 3 - Necromancer's Welcome
@@ -91,7 +91,7 @@ Later, checking on [entity:7763867|Natvig] through their familiar bond, he found
 
 "Uncle's a difficult man," [entity:7764194|Sigrid] admitted as she showed [entity:7763290|Arnór] the better goods in the general store's back room. They'd been speaking [entity:7763223|Skald] for several minutes, the familiar rhythm of homeland speech warming them both like good mead.
 
-"But [entity:7764100|Grimnar] keeps the best honey in three territories. His mead..." She kissed her fingers. "Worth dealing with his moods."
+"But [entity:7764100|Gierr] keeps the best honey in three territories. His mead..." She kissed her fingers. "Worth dealing with his moods."
 
 "You fled [entity:7763178|Solstheim] too," [entity:7763290|Arnór] observed, not quite making it a question.
 

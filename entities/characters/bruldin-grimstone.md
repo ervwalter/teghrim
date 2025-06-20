@@ -4,8 +4,10 @@ name: Bruldin Grimstone
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:58+00:00'
-updated: '2025-06-17T02:27:42.775280+00:00'
+updated: '2025-06-20T15:41:40.781642+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a6f-a267-4620-bbe6-2c21abbbb323.jpg
 ---
+
 # Bruldin Grimstone
 
 Bruldin Grimstone is a dwarven slayer seeking the thrill of battle and glorious death in combat. A member of the prestigious [entity:7763122|dwarven slayer cults], he displays his scars as badges of courage while pursuing ever more dangerous foes across the frontier lands.
@@ -14,7 +16,7 @@ Bruldin Grimstone is a dwarven slayer seeking the thrill of battle and glorious 
 
 ### Physical Appearance
 
-Displays the traditional scars and tattoos of the dwarven slayer cult, with markings that glow faintly when entering combat rage. His appearance immediately commands respect from other dwarves who recognize his warrior status.
+A powerfully built dwarf with an impressive white beard that flows down to his chest, braided in the traditional slayer style. His weathered skin bears the scars of countless battles, and his eyes burn with an intense red glow - the mark of one sworn to [entity:7763141|Grimnir]. His muscular torso is bare save for leather straps and bracers, displaying his battle scars proudly as is the way of slayers. He wears fur-trimmed boots and minimal armor, trusting in his skill and seeking glorious death rather than protection. His massive warhammer is always within reach, its weight requiring both his considerable strength and battle-hardened hands to wield effectively. The overall impression is of barely contained violence wrapped in dwarven tradition.
 
 ### Personality & Demeanor
 

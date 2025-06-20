@@ -4,7 +4,7 @@ name: 02 - Stone Hearts and Fairy Rings
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:53:12+00:00'
-updated: '2025-06-17T01:59:53.464170+00:00'
+updated: '2025-06-20T15:41:31.534509+00:00'
 ---
 
 # Chapter 2 - Stone Hearts and Fairy Rings
@@ -107,13 +107,13 @@ When the last creature fell, [entity:7764104|Iridessa] hovered over the carnage 
 
 [entity:7764099|Fawn] chose that moment to return, another figure in tow. "Willie's not gonna join us. He tested poorly again." He brightened. "But I found someone better!"
 
-[entity:7764100|Grimnar Bjornson] emerged from the forest path like a piece of it given legs. The older [entity:7763211|Norn] carried his bow with the ease of long practice, fixing [entity:7764099|Fawn] with a glare that could have curdled milk.
+[entity:7764100|Gierr Bjornson] emerged from the forest path like a piece of it given legs. The older [entity:7763211|Norn] carried his bow with the ease of long practice, fixing [entity:7764099|Fawn] with a glare that could have curdled milk.
 
 "This little thing grabbed me. Says there's trouble. I'm guessing they grabbed you too?"
 
 "Yes, they tested us and now we're here to deal with whatever is bothering them," [entity:7763295|Bruldin] confirmed.
 
-"You were tested too, huh?" [entity:7764100|Grimnar's] glare intensified. [entity:7764099|Fawn] had the grace to look sheepish.
+"You were tested too, huh?" [entity:7764100|Gierr's] glare intensified. [entity:7764099|Fawn] had the grace to look sheepish.
 
 "Well, technically he passed."
 
@@ -123,7 +123,7 @@ The [entity:7764107|Willow Glade] writhed in silk. Webs stretched between trees 
 
 Spiders moved through their creation with horrific grace—some small and red as fresh blood, others bearing skull patterns on their backs. And from the shadows between trees came something worse: a spriggan, its form a mockery of natural growth, orchestrating the assault with gestures that made the spiders dance.
 
-[entity:7764100|Grimnar's] bow sang first, arrows enhanced by [entity:7763295|Bruldin's] runic magic striking deep. The party spread out, each finding their role in the chaotic ballet of combat. [entity:7764102|Aelysh] rushed forward, her blade parting webs like morning mist, working steadily toward the trapped dryad.
+[entity:7764100|Gierr's] bow sang first, arrows enhanced by [entity:7763295|Bruldin's] runic magic striking deep. The party spread out, each finding their role in the chaotic ballet of combat. [entity:7764102|Aelysh] rushed forward, her blade parting webs like morning mist, working steadily toward the trapped dryad.
 
 A skull spider dropped from above, mandibles seeking her throat. The elf twisted aside, and her cloak—woven of thorns and moonlight—retaliated, driving spines deep into the creature's eyes. Its death scream brought its fellows running.
 
@@ -139,7 +139,7 @@ The dryad reached up to the Great Willow's lowest branch, whispered something th
 
 "For the brave ones," [entity:7764102|Aelysh] translated. "The willow remembers."
 
-Sapphires followed, blue as deep water, and acorns that would ensure safe passage through her domain. [entity:7764100|Grimnar] pointed toward the lake where he kept his hives, mentioning his mead might need protecting soon. [entity:7764102|Aelysh] offered her tree as sanctuary. Bonds were forming, the first strands of alliance in this frontier place.
+Sapphires followed, blue as deep water, and acorns that would ensure safe passage through her domain. [entity:7764100|Gierr] pointed toward the lake where he kept his hives, mentioning his mead might need protecting soon. [entity:7764102|Aelysh] offered her tree as sanctuary. Bonds were forming, the first strands of alliance in this frontier place.
 
 ---
 

@@ -6,8 +6,10 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:42+00:00'
-updated: '2025-06-17T02:14:45.938095+00:00'
+updated: '2025-06-20T15:41:46.957923+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336bce-c81c-4d42-ba6f-25df0910e73c.jpg
 ---
+
 # Rosencrantz
 
 Rosencrantz is a Spanish-looking mechamagician who operates an experimental laboratory on a southern island near [entity:7763187|Teghrim's Crossing]. Known for creating da Vinci-esque contraptions that blend magic and mechanical engineering, he serves as the settlement's resident inventor and alchemical expert.
@@ -16,7 +18,7 @@ Rosencrantz is a Spanish-looking mechamagician who operates an experimental labo
 
 ### Physical Appearance
 
-Spanish-looking individual with the distinctive appearance of someone deeply involved in mechanical and magical experimentation.
+A distinguished older gentleman with a completely bald head and magnificent white mustache that extends well past his cheeks. Dark goggles rest on his forehead, ready to be lowered for his experimental work. He dresses in practical layers - a long gray coat over a brown leather apron and vest, with a golden scarf adding a touch of refinement. His clothing shows signs of workshop wear, with various tools and implements tucked into pockets and hanging from his belt. His weathered face and hands bear the marks of countless experiments, while his posture and bearing suggest both scholarly dedication and the confidence of a master craftsman.
 
 ### Personality & Demeanor
 

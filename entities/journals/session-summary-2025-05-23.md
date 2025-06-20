@@ -6,7 +6,7 @@ tags:
 - session-summary
 is_hidden: false
 created: '2025-06-13T04:38:09+00:00'
-updated: '2025-06-17T01:58:34+00:00'
+updated: '2025-06-20T15:41:33.477243+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ae6a-2302-490d-ba78-3fd49e80f6fa.png
 ---
 
@@ -32,13 +32,13 @@ Before further explanations, the forest itself seemed to turn hostile. Two boars
 
 The fey urgently led the expanded group to gather more allies. At a remarkable [entity:7764106|treehouse] built within a massive redwood near the river, they met [entity:7764102|Aelysh], a Wood Elf who had accidentally fallen off her caravan and decided to make [entity:7763187|Teghrim's Crossing] her home despite the area's dangers. She recognized [entity:7763295|Bruldin] as a slayer, expressing no prejudice against the warrior tradition, and showed particular interest in learning about [entity:7763296|Qotal's] Slaan culture.
 
-[entity:7764099|Fawn] returned with [entity:7764100|Grimnar Bjornson], an older Norn archer he had dragged from his beekeeping activities. The gruff hermit glared at the fairy for subjecting him to the worthiness tests but agreed to help with the [entity:7764108|emergency]. With their forces assembled - the original party, the newly freed [entity:7763289|Alrik], the local allies [entity:7764102|Aelysh] and [entity:7764100|Grimnar] - they approached the [entity:7764107|Willow Glade].
+[entity:7764099|Fawn] returned with [entity:7764100|Gierr Bjornson], an older Norn archer he had dragged from his beekeeping activities. The gruff hermit glared at the fairy for subjecting him to the worthiness tests but agreed to help with the [entity:7764108|emergency]. With their forces assembled - the original party, the newly freed [entity:7763289|Alrik], the local allies [entity:7764102|Aelysh] and [entity:7764100|Gierr] - they approached the [entity:7764107|Willow Glade].
 
-Dense spiderwebs filled the sacred clearing, with a dryad-like creature bound between posts by silken strands. Small spiders scurried through the webs while hostile vine creatures tangled in the sticky threads. [entity:7764100|Grimnar's] arrows, enhanced by [entity:7763295|Bruldin's] runic weapon spell, struck at the arachnid defenders. The party fought to reach the trapped dryad, with [entity:7764102|Aelysh] cutting through webbing while her thorn cloak retaliated against attacking spiders.
+Dense spiderwebs filled the sacred clearing, with a dryad-like creature bound between posts by silken strands. Small spiders scurried through the webs while hostile vine creatures tangled in the sticky threads. [entity:7764100|Gierr's] arrows, enhanced by [entity:7763295|Bruldin's] runic weapon spell, struck at the arachnid defenders. The party fought to reach the trapped dryad, with [entity:7764102|Aelysh] cutting through webbing while her thorn cloak retaliated against attacking spiders.
 
 The battle intensified when a large spriggan emerged from the trees with an eerie screech, shooting webs to immobilize defenders. [entity:7763296|Qotal], despite being stuck fast, delivered a devastating strike that ended the creature. With their controller dead, the remaining spiders lost focus and fled while the freed [entity:7764101|Willow Dryad] expressed gratitude in Sylvan, which [entity:7764102|Aelysh] translated.
 
-The dryad broke a branch from the Great Willow, presenting the party with a **+1 potency mace** whose enchantment could transfer to other weapons, making them grow woody and leafy when attached. Additional rewards of sapphires and protective acorns followed. [entity:7764100|Grimnar] invited the party to visit his [entity:7764200|island] where he kept bees for mead production, hinting at future assistance needs. The grateful fey led them to recover equipment from the basilisk victims' remains, including a battle axe with transferable enchantment and a **reading ring** for dim light conditions.
+The dryad broke a branch from the Great Willow, presenting the party with a **+1 potency mace** whose enchantment could transfer to other weapons, making them grow woody and leafy when attached. Additional rewards of sapphires and protective acorns followed. [entity:7764100|Gierr] invited the party to visit his [entity:7764200|island] where he kept bees for mead production, hinting at future assistance needs. The grateful fey led them to recover equipment from the basilisk victims' remains, including a battle axe with transferable enchantment and a **reading ring** for dim light conditions.
 
 ## Combat & Challenges
 
@@ -59,7 +59,7 @@ The wild fey maintain protective alliances with forest guardians like the [entit
 - **[entity:7764109|Goblin Patrol Mission]** - Eastern patrol to check for [entity:7763864|goblin raider] activity proceeded without the full party
 - **[entity:7764108|The Great Willow Rescue]** - Successfully freed the dryad from spriggan-controlled spider forces, earning magical rewards and fey gratitude
 - **[entity:7764110|Basilisk Threat]** - Active danger in forest areas, responsible for [entity:7763289|Alrik's] petrification and other victims
-- **[entity:7764100|Grimnar's] Bee Assistance** - Future opportunity to help the hermit archer with his mead-making operation
+- **[entity:7764100|Gierr's] Bee Assistance** - Future opportunity to help the hermit archer with his mead-making operation
 
 ## Next Steps
 

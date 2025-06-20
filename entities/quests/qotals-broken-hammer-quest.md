@@ -4,15 +4,14 @@ name: Qotal's Broken Hammer Quest
 type: Personal Quest
 is_hidden: false
 created: '2025-06-13T00:30:00+00:00'
-updated: '2025-06-17T02:34:43+00:00'
+updated: '2025-06-17T02:38:27+00:00'
 is_completed: false
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f2c5731-bc25-40cc-a966-c0ad3f92e107.png
 ---
 
 # Qotal's Broken Hammer Quest
 
 [entity:7763296|Qotal] seeks to uncover the story behind a moss-eaten statue of a dwarven warrior clutching a broken hammer. As a scholar, he believes the broken hammer's tale concludes somewhere beyond the hills near [entity:7763187|Teghrim's Crossing], following clues that led him westward.
-
-![9f2c55a8-27de-4c84-8c2e-1138aa6a17fc.png](https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f2c55a8-27de-4c84-8c2e-1138aa6a17fc.png)
 
 ## Description
 
