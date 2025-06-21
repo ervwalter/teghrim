@@ -4,7 +4,7 @@ name: Von Carstein Mansion Clearing
 type: Combat
 is_hidden: false
 created: '2025-06-15T18:14:05+00:00'
-updated: '2025-06-17T02:15:49.872240+00:00'
+updated: '2025-06-21T21:25:01.891588+00:00'
 is_completed: true
 ---
 # Von Carstein Mansion Clearing
@@ -19,7 +19,7 @@ An urgent contract from [entity:7764097|Captain Irka Spritzel] to clear the [ent
 
 ### Initial Briefing
 
-Clear the abandoned [entity:7764198|Von Carstein mansion] on an upstream island before the new owners - [entity:7764193|Osanna Von Carstein] - arrived between the 12th and 14th of Astra Orpheus. The elaborate estate had been built by a previous commander twenty years ago, finished seven to eight years past, and stood empty since its creator's death two to three years prior.
+Clear the abandoned [entity:7764198|Von Carstein mansion] on an upstream island before the new owners - [entity:7764193|Osanna Von Carstein] - arrived between the 12th and 14th of Aestra-Orpheus. The elaborate estate had been built by a previous commander twenty years ago, finished seven to eight years past, and stood empty since its creator's death two to three years prior.
 
 ### Objectives
 
@@ -31,11 +31,11 @@ Clear the abandoned [entity:7764198|Von Carstein mansion] on an upstream island 
 
 ### Initial Preparation
 
-The party received the assignment on 10 Astra Orpheus, with a two-day preparation period before the mission. Party members used this time to pursue personal interests and gather resources while [entity:7764196|Rosencrantz] provided mission details about his [entity:7764199|laboratory] on the southern island.
+The party received the assignment on 10 Aestra-Orpheus, with a two-day preparation period before the mission. Party members used this time to pursue personal interests and gather resources while [entity:7764196|Rosencrantz] provided mission details about his [entity:7764199|laboratory] on the southern island.
 
 ### Mansion Assault
 
-The party traveled by boat to the upstream island mansion on 12 Astra Orpheus. Upon approach, they encountered:
+The party traveled by boat to the upstream island mansion on 12 Aestra-Orpheus. Upon approach, they encountered:
 
 - Waves of skeps (small undead goblin-like creatures) erupting from the grounds
 - A necromancer on the balcony raising reinforcements from fallen enemies
@@ -77,7 +77,7 @@ Inside the elaborate estate, the party discovered:
 
 ## Quest Status
 
-**Completed** - Mansion successfully cleared on 12 Astra Orpheus before the vampires' arrival window
+**Completed** - Mansion successfully cleared on 12 Aestra-Orpheus before the vampires' arrival window
 
 ## Related Events
 

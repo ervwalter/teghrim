@@ -4,7 +4,7 @@ name: 01 - The Bridge and the Bloodline
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:43:12+00:00'
-updated: '2025-06-17T02:27:41.892950+00:00'
+updated: '2025-06-21T22:10:19+00:00'
 ---
 
 # Chapter 1 - The Bridge and the Bloodline

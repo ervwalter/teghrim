@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:40+00:00'
-updated: '2025-06-20T15:41:36.256085+00:00'
+updated: '2025-06-21T21:24:51.979463+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336ba7-04b3-46e7-ac82-354e9a75d720.png
 ---
 
@@ -22,11 +22,11 @@ A strikingly beautiful vampire with porcelain-pale skin and lustrous black hair 
 
 ### Personality & Demeanor
 
-[Personality traits to be revealed through direct interaction]
+Playful and urbane, Osanna displays the confidence of centuries-old nobility mixed with dry humor. She refers to her mortal attendant Silas as her "familiar" with obvious amusement, suggesting she enjoys the irony of reversing traditional vampire-familiar relationships. Despite her predatory nature, she appears approachable to those who interest her.
 
 ### Abilities & Skills
 
-As a vampire noble from an ancient dynasty, she presumably possesses the typical vampiric powers along with political acumen and resources befitting her noble status.
+As a vampire noble from an ancient dynasty, she presumably possesses the typical vampiric powers along with political acumen and resources befitting her noble status. Serves as a knowledgeable source about Astoria, demonstrating extensive familiarity with the vampire-controlled continent's politics, culture, and history.
 
 ## Background
 
@@ -37,16 +37,20 @@ Member of the [entity:7764192|Von Carstein vampire house], an ancient dynasty fr
 - **[entity:7764192|Von Carstein Vampire House]**: Member of the ancient vampire dynasty with complex political connections
 - **[entity:7763172|Astoria Continent]**: Connected to the mysterious vampire-controlled continent and its political structures
 - **Other Vampire Families**: Part of intricate political relationships between vampire dynasties
+- **[entity:7766571|Silas]**: Her mortal attendant whom she jokingly refers to as her "familiar," currently overseeing mansion restoration
+- **[entity:7763290|Arnór Josefson]**: Visited during downtime to learn about Astorian culture and politics
 
 ## Notable History
 
 - **The Property Acquisition**: Recently became owner of the former commander's mansion near [entity:7763187|Teghrim's Crossing]
 - **The Correspondence**: Left documents in the mansion that revealed Von Carstein ownership to the party during the [entity:7773183|Von Carstein Mansion Clearing]
 - **The Expansion**: Represents Von Carstein family extension into frontier territories beyond Astoria
+- **The Mansion Restoration**: Currently having [entity:7766571|Silas] oversee cleanup and restoration of the property after undead were cleared
+- **The Knowledge Sharing**: Established herself as local expert on Astorian matters during downtime interactions with adventurers
 
 ## Current Status
 
-New property owner in the [entity:7763187|Teghrim's Crossing] area with a mansion recently cleared during the [entity:7773183|Von Carstein Mansion Clearing] quest, though her specific plans and timeline for arrival remain unclear.
+Actively present in the [entity:7763187|Teghrim's Crossing] area, overseeing the restoration of her recently cleared mansion through her attendant [entity:7766571|Silas]. Available for consultation on Astorian matters while establishing her presence in the frontier region.
 
 ## Secrets & Mysteries
 

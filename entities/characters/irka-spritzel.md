@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:11+00:00'
-updated: '2025-06-20T15:41:35.363596+00:00'
+updated: '2025-06-21T21:24:50+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336b4b-0d98-44b0-a807-a7adf686e48b.jpg
 ---
 
@@ -43,6 +43,8 @@ Serves as captain of the [entity:7763200|Highland Dwarf] guards at [entity:77631
 - **The Caravan Welcome**: Greeted the party upon their arrival, providing accommodation information and settlement orientation
 - **The Slayer Recognition**: Expressed heartfelt pleasure at seeing a dwarven slayer arrive at the crossing
 - **The Mission Coordination**: Organized both [entity:7764109|Goblin Patrol Mission] eastward and fey emergency response
+- **The Wagon Recovery Quest**: Assigned party to investigate abandoned wagons west of town, offering gold for information or goods recovery
+- **The Successful Rescue**: Paid 40 gold reward when party returned with rescued caravan guards, expressing relief that some survived the bulvak attack
 
 ## Current Status
 

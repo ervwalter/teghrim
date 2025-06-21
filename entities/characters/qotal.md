@@ -4,7 +4,7 @@ name: Qotal
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:37:10+00:00'
-updated: '2025-06-17T02:27:43.623956+00:00'
+updated: '2025-06-21T21:24:56.556075+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25af8c-87ef-460a-9fa0-367d6acdb65e.png
 ---
 # Qotal
@@ -23,7 +23,7 @@ Qotal speaks with a distinctive western accent and approaches challenges with ca
 
 ### Abilities & Skills
 
-Proficient with a bo staff and demonstrates exceptional combat coordination through flurry attacks and acrobatic positioning. Skilled musician who plays simple, plot-driven songs about millers, werewolves, and maidens. His acrobatic training allows for tactical movement through enemy positions.
+Proficient with a bo staff and demonstrates exceptional combat coordination through flurry attacks and acrobatic positioning. Skilled musician who plays simple, plot-driven songs about millers, werewolves, and maidens. His acrobatic training allows for tactical movement through enemy positions. Possesses Crafter's Appraisal ability, allowing identification of magical items. Capable of transferring magical runes between weapons during repairs.
 
 ## Background
 
@@ -55,6 +55,10 @@ Raised in a monastery in [entity:7763174|Primordia] where pupils learn to hear e
 - **The Musical Downtime**: Spent rest period playing lute and deepening friendship with [entity:7763866|Lyn Chong]
 - **The Statue Confidence**: Privately informed Captain Irka about the 6-7 story tall dwarven statue with broken hammer from his homeland
 - **The Von Carstein Mansion**: Led aggressive acrobatic leap attacks on balcony during [entity:7764198|mansion] clearing combat as part of [entity:7773183|Von Carstein Mansion Clearing] mission
+- **The Magical Identification**: Used Crafter's Appraisal to identify dwarven clan dagger (+1 potency), missive mint (25-word message delivery), and concealed sheath (+1 stealth) for party
+- **The Weapon Support**: Offered temporary use of dwarven clan dagger to [entity:7763294|Aurelia] while her rapier underwent rune transfer
+- **The Nature Studies**: Spent downtime learning about [entity:7764102|Aelysh's] scientific approach to botanical research
+- **The Wagon Recovery**: Participated in [entity:7766572|Wagon Recovery Mission], using flurry attacks against bulvaks and helping rescue caravan guards
 
 ## Current Status
 

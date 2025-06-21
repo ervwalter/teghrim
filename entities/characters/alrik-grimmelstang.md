@@ -4,7 +4,7 @@ name: Alrik Grimmelstang
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:19+00:00'
-updated: '2025-06-20T15:41:38.028330+00:00'
+updated: '2025-06-21T21:24:52.861965+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369aa-0dbb-4245-8e1e-25c3f63f81ec.jpg
 ---
 
@@ -54,6 +54,9 @@ A chef whose culinary creations, particularly his "sandwishizzo" and custard pie
 - **The Petrification Investigation**: Determined his petrification lasted approximately 150 years through careful research
 - **The Alchemy Studies**: Began learning alchemical processes and principles from [entity:7764196|Rosencrantz] during downtime
 - **The Von Carstein Mansion**: Participated in [entity:7773183|Von Carstein Mansion Clearing] of undead creatures using needle gun magic and tactical positioning
+- **The Scientific Studies**: Connected with [entity:7764196|Rosencrantz] over shared appreciation for scientific methodology and engineering, rolling natural 20 on learning check
+- **The Moon Ritual**: Fell asleep snoring during [entity:7763290|Arnór's] waning moon ceremony despite initial attendance
+- **The Wagon Recovery**: Provided healing support and combat assistance during [entity:7766572|Wagon Recovery Mission], fighting bulvaks with maul attacks
 
 ## Current Status
 

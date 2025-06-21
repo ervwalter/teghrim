@@ -4,8 +4,9 @@ name: Iridessa
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:14+00:00'
-updated: '2025-06-17T02:14:48.522590+00:00'
+updated: '2025-06-21T21:25:00+00:00'
 ---
+
 # Iridessa
 
 Iridessa is a pink fairy with a shy personality who serves as one of the wisdom testers for the wild fey alliance. Despite her reserved nature, she plays a crucial role in evaluating potential allies through compassion-focused scenarios, ensuring only those with proper character gain access to sacred fey locations.
@@ -44,6 +45,7 @@ Member of the wild fey alliance protecting forest areas around [entity:7763187|T
 - **The Revival Assistance**: Fed magical strawberry to petrified [entity:7763289|Alrik], facilitating his carbonite-style revival
 - **The Healing Support**: Provided magical strawberries for party healing after plant guardian battle
 - **The Ecological Explanation**: Explained that plant guardians went defensive due to dryad's stress from spider attacks
+- **The Tea Bath Incident**: Was kicked out of the dining hall for using tea as a bath, later found the party to deliver [entity:7764102|Aelysh's] request for help
 
 ## Current Status
 

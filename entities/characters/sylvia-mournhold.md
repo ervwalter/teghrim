@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:02:53+00:00'
-updated: '2025-06-20T15:41:45.160249+00:00'
+updated: '2025-06-21T21:24:58.304922+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336bf8-9c36-4054-8fb5-95d42d379e20.jpg
 ---
 
@@ -26,7 +26,7 @@ Formal and observant, Sylvia approaches situations with measured consideration. 
 
 ### Abilities & Skills
 
-Trained in noble combat arts focusing on finesse over brute force. Her rapier technique emphasizes proper form and defensive positioning. Possesses diplomatic training and merchant family knowledge of trade routes and negotiations.
+Trained in noble combat arts focusing on finesse over brute force, with a duelist style reminiscent of legendary swordsmen like Inigo Montoya. Her ornate rapier technique emphasizes proper form and defensive positioning. Possesses diplomatic training and extensive knowledge of the Iron Kingdoms, serving as a specialist in this area. Well-versed in merchant family knowledge of trade routes and negotiations.
 
 ## Background
 
@@ -41,10 +41,11 @@ Born into the Mournhold noble family, Sylvia was raised with all the privileges 
 
 - **The Eastern Assignment**: Tasked by family elders to establish trade connections at [entity:7763187|Teghrim's Crossing]
 - **The Caravan Journey**: Witnessed the party's combat prowess during goblin attacks on [entity:7763872|Caravan Guard Duty], gaining appreciation for frontier dangers
+- **The Iron Kingdoms Expert**: Established herself as the local authority on Iron Kingdoms politics, history, and culture during downtime interactions
 
 ## Current Status
 
-Traveling with the caravan to [entity:7763187|Teghrim's Crossing] to establish her family's trade presence in the growing settlement. Recently arrived after surviving multiple goblin ambushes alongside the party.
+Successfully established at [entity:7763187|Teghrim's Crossing] and actively building her family's trade presence. Now serves as a local resource for information about the Iron Kingdoms while pursuing the Mournhold family's mercantile interests.
 
 ## Secrets & Mysteries
 

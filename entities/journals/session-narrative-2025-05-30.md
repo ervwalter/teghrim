@@ -4,7 +4,7 @@ name: 03 - Necromancer's Welcome
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T14:13:08+00:00'
-updated: '2025-06-20T15:41:32.488733+00:00'
+updated: '2025-06-21T21:24:49.247836+00:00'
 ---
 
 # Chapter 3 - Necromancer's Welcome
@@ -51,7 +51,7 @@ The mechamagician turned, revealing features that suggested [entity:7763216|Iber
 
 "Get to the point," [entity:7764097|Irka] prompted.
 
-"Yes, well. The commander died two, three years past. Natural causes, they say, though at his age and with his habits..." [entity:7764196|Rosencrantz] shrugged. "The property stood empty until last month when new owners purchased it. They arrive between the twelfth and fourteenth of Astra Orpheus."
+"Yes, well. The commander died two, three years past. Natural causes, they say, though at his age and with his habits..." [entity:7764196|Rosencrantz] shrugged. "The property stood empty until last month when new owners purchased it. They arrive between the twelfth and fourteenth of Aestra-Orpheus."
 
 "That's in six days," [entity:7763295|Bruldin] calculated.
 

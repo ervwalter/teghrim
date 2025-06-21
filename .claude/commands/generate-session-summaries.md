@@ -51,6 +51,8 @@ Summary Generation Instructions:
 
 ## Summary Generation Instructions
 
+$arguments
+
 You are creating comprehensive summaries of Pathfinder 2e tabletop roleplaying sessions based on pre-processed digests. Each digest contains:
 - **Session Overview**: Date, previous session recap, key events, party status
 - **Chronological Events**: Numbered entries tagged as SCENE, ACTION, DIALOGUE, COMBAT, DISCOVERY, NPC, LOCATION, ITEM, PLANNING, REACTION, SKILL, LORE, CREATURE

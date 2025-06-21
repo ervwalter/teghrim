@@ -2,6 +2,8 @@
 
 Process session digests to create new entity files and update existing ones with new information.
 
+$arguments
+
 ## Task
 
 1. **Find First Unprocessed Digest**

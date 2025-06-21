@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:42+00:00'
-updated: '2025-06-20T15:41:46.957923+00:00'
+updated: '2025-06-21T21:24:59+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336bce-c81c-4d42-ba6f-25df0910e73c.jpg
 ---
 
@@ -22,7 +22,7 @@ A distinguished older gentleman with a completely bald head and magnificent whit
 
 ### Personality & Demeanor
 
-Scholarly and inventive, focused on his research and contraptions. Welcoming to fellow researchers and willing to share knowledge with those interested in alchemy and magical mechanics.
+Scholarly and inventive, focused on his research and contraptions while maintaining strong disdain for society, gossip, and city politics. Prefers the isolation of his laboratory where he can pursue scientific methodology without social distractions. Welcoming to fellow researchers and willing to share knowledge with those interested in alchemy and magical mechanics, especially those who share his appreciation for empirical approaches.
 
 ### Abilities & Skills
 
@@ -43,6 +43,7 @@ Established his laboratory operation on the southern island, converting existing
 - **The Laboratory Establishment**: Set up comprehensive research facility on southern island with fishing hut, barracks, and converted tower
 - **The Teaching Role**: Began providing alchemy instruction to interested party members during downtime
 - **The Integration**: Became recognized expert supporting [entity:7763187|Teghrim's Crossing] community needs
+- **The Scientific Bond**: Connected particularly well with [entity:7763289|Alrik] over shared appreciation for scientific methodology and engineering principles
 
 ## Current Status
 

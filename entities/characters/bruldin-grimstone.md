@@ -4,7 +4,7 @@ name: Bruldin Grimstone
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:58+00:00'
-updated: '2025-06-20T15:41:40.781642+00:00'
+updated: '2025-06-21T21:24:55.529800+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a6f-a267-4620-bbe6-2c21abbbb323.jpg
 ---
 
@@ -50,6 +50,8 @@ A proud member of the [entity:7763122|dwarven slayer cults], organizations that 
 - **The Mysterious Recognition**: Reminded [entity:7764102|Aelysh] of someone from her past, though she did not elaborate
 - **The Mead Diplomacy**: Connected with [entity:7763289|Alrik Grimmelstang] through discussion of quality mead availability
 - **The Spider Combat**: Participated in [entity:7764108|The Great Willow Rescue] mission, demonstrating combat prowess against forest creatures
+
+- **The Fungus Investigation**: Became infected by myconid spores during cave battle but was quickly cured by [entity:7764102|Aelysh's] remedy, demonstrating dwarven resilience in facing mind-controlling fungal threat
 
 ## Current Status
 

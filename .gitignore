@@ -3,6 +3,9 @@ session-recordings/
 .digests_temp/
 transcripts/*
 !transcripts/.gitkeep
+/videos/
+/audiobooks/
+/images/
 
 # Environment variables
 .env

@@ -59,6 +59,8 @@ Narrative Generation Instructions:
 
 ## Narrative Generation Instructions
 
+$arguments
+
 You are crafting compelling narrative chapters for a Pathfinder 2e campaign, transforming session digests into engaging fantasy prose. Each digest contains:
 - **Session Overview**: Date, previous session recap, key events, party status
 - **Chronological Events**: Numbered entries tagged as SCENE, ACTION, DIALOGUE, COMBAT, etc.

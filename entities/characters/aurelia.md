@@ -4,7 +4,7 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-06-20T15:41:39.861239+00:00'
+updated: '2025-06-21T21:24:54.650198+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a37-767e-430b-a504-4208c9ba294d.jpg
 ---
 
@@ -24,7 +24,7 @@ Practical and direct in her approach to problems, with a philosophical streak ev
 
 ### Abilities & Skills
 
-Expert markswoman with hand crossbow, capable of critical hits that dispatch enemies instantly. Possesses vampiric abilities including blood consumption from defeated foes to sustain herself, rolling blood tokens during downtime (recently achieved 12). Skilled in recall knowledge and tactical analysis of opponents. Creates intricate origami animals as a form of artistic expression.
+Expert markswoman with hand crossbow, capable of critical hits that dispatch enemies instantly. Possesses vampiric abilities including blood consumption from defeated foes to sustain herself, rolling blood tokens during downtime (recently achieved 12). Skilled in recall knowledge and tactical analysis of opponents. Creates intricate origami animals as a form of artistic expression. Wields a cold iron rapier with recently added +1 potency rune.
 
 ## Background
 
@@ -51,6 +51,12 @@ As a dhampir (half-vampire), Aurelia occupies a unique position in society, part
 - **The Blood Token Success**: Rolled exceptional blood tokens (12) during downtime recovery period
 - **The Goblin Network**: Spent downtime with [entity:7764195|Gaz] learning about local goblin communities and their rumors
 - **The Von Carstein Mansion**: Participated in [entity:7773183|Von Carstein Mansion Clearing] using ranged combat and tactical positioning
+- **The Fungus Investigation**: Responded to urgent call to investigate fungal infection spreading through forest creatures, fought rust oozes at bridge crossing and participated in defeating mind-controlling myconid in cave
+- **The Weapon Enhancement**: Paid 4 gold to transfer +1 potency rune from dwarven clan dagger to her cold iron rapier during downtime
+- **The Knowledge Gathering**: Spent downtime with [entity:7763693|Sylvia Mournhold] learning about Iron Kingdoms politics and culture
+- **The Moon Ritual**: Joined [entity:7763290|Arnór's] waning moon ceremony in the woods, appreciating the night atmosphere
+- **The Wagon Recovery**: Delivered critical hits during [entity:7766572|Wagon Recovery Mission], including killing blow on bulvak leader Gore
+- **The Secret Feeding**: Discreetly fed on Gore's blood while appearing to loot his corpse after the battle
 
 ## Current Status
 
