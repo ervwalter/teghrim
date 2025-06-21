@@ -3,7 +3,7 @@ elevenlabs==2.3.0
 pydub==0.25.1
 
 # Image generation requirements  
-openai==1.86.0
+openai==1.88.0
 
 # Entity sync requirements
 mcp-kanka==1.0.1
