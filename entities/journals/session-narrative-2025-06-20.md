@@ -3,8 +3,9 @@ name: 05 - The One-Eyed Witness
 type: Session Narrative
 is_hidden: false
 created: '2025-06-21T21:24:39.807568+00:00'
-updated: '2025-06-22T13:20:38.410815+00:00'
+updated: '2025-06-22T14:28:22.749223+00:00'
 entity_id: 7797905
+youtube_url: hhttps://youtu.be/rWisFEPzq7Q?si=E7bNxo9hOvZzUgZq
 ---
 
 # Chapter 5 - The One-Eyed Witness

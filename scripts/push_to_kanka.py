@@ -72,6 +72,42 @@ def strip_h1_if_matches_name(content: str, name: str, entity_type: str) -> str:
     return content
 
 
+def add_youtube_embed(content: str, youtube_url: str) -> str:
+    """Add YouTube embed iframe at the start of content."""
+    # Convert YouTube watch URL to embed URL
+    import re
+    
+    video_id = None
+    # Try to extract video ID from various YouTube URL formats
+    # These patterns only capture the video ID, ignoring any query parameters
+    patterns = [
+        r'youtube\.com/watch\?v=([^&]+)',
+        r'youtu\.be/([^?]+)',
+        r'youtube\.com/embed/([^?]+)'
+    ]
+    
+    for pattern in patterns:
+        match = re.search(pattern, youtube_url)
+        if match:
+            video_id = match.group(1)
+            # Clean the video ID in case it has any trailing parameters
+            video_id = video_id.split('&')[0].split('?')[0]
+            break
+    
+    if not video_id:
+        # If we can't extract video ID, just return content unchanged
+        return content
+    
+    # Create the iframe embed with just the video ID, no tracking parameters
+    embed = f'<iframe width="560" height="315" src="https://www.youtube.com/embed/{video_id}"></iframe>'
+    
+    # Add embed at the start with proper spacing
+    if content:
+        return f"{embed}\n\n{content}"
+    else:
+        return embed
+
+
 class EntityPusher:
     """Handles pushing local entities to Kanka."""
     
@@ -169,6 +205,10 @@ class EntityPusher:
                 entity_data["entity_type"]
             )
             
+            # Add YouTube embed if youtube_url is in frontmatter
+            if frontmatter.get("youtube_url"):
+                content = add_youtube_embed(content, frontmatter["youtube_url"])
+            
             create_data = {
                 "entity_type": entity_data["entity_type"],
                 "name": name,
@@ -247,6 +287,10 @@ class EntityPusher:
                 name, 
                 entity_data["entity_type"]
             )
+            
+            # Add YouTube embed if youtube_url is in frontmatter
+            if frontmatter.get("youtube_url"):
+                content = add_youtube_embed(content, frontmatter["youtube_url"])
             
             update_data = {
                 "entity_id": entity_id,

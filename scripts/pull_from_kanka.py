@@ -99,6 +99,39 @@ class EntityPuller:
         dt = datetime.fromisoformat(timestamp_str)
         return dt.timestamp()
     
+    def _extract_youtube_embed(self, content: str) -> Tuple[Optional[str], str]:
+        """Extract YouTube embed from content and return (url, content_without_embed)."""
+        import re
+        
+        # Look for YouTube iframe at the start of content
+        lines = content.split('\n')
+        youtube_url = None
+        content_start = 0
+        
+        # Check first few non-empty lines for YouTube embed
+        for i, line in enumerate(lines):
+            if line.strip():
+                # Match YouTube iframe embed
+                match = re.search(r'<iframe[^>]+src=["\']https://www\.youtube\.com/embed/([^"\'?]+)([^"\']*)["\'][^>]*></iframe>', line)
+                if match:
+                    video_id = match.group(1)
+                    query_params = match.group(2)
+                    # For watch URLs, we just need the video ID
+                    youtube_url = f"https://www.youtube.com/watch?v={video_id}"
+                    # Skip this line and any empty lines after it
+                    content_start = i + 1
+                    while content_start < len(lines) and not lines[content_start].strip():
+                        content_start += 1
+                    break
+                else:
+                    # First non-empty line is not a YouTube embed
+                    break
+        
+        # Return URL and content without the embed
+        if youtube_url:
+            return youtube_url, '\n'.join(lines[content_start:])
+        return None, content
+    
     def _format_entity_content(self, entity: Dict[str, Any]) -> str:
         """Format entity data as markdown with frontmatter."""
         # Build frontmatter
@@ -124,6 +157,13 @@ class EntityPuller:
         if entity.get("image_full"):
             frontmatter["image"] = entity["image_full"]
         
+        # Extract YouTube embed from content for any entity type
+        entry_content = entity.get("entry", "").strip()
+        if entry_content:
+            youtube_url, entry_content = self._extract_youtube_embed(entry_content)
+            if youtube_url:
+                frontmatter["youtube_url"] = youtube_url
+        
         # Remove empty values
         frontmatter = {k: v for k, v in frontmatter.items() if v or v is False}
         
@@ -135,7 +175,6 @@ class EntityPuller:
         
         # Check if we need to add an H1 header
         entity_type = entity.get("entity_type", "")
-        entry_content = entity.get("entry", "").strip()
         
         # Don't touch journals or notes
         if entity_type not in ["journal", "note"] and entry_content:

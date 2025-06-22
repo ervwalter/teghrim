@@ -4,7 +4,8 @@ name: 03 - Necromancer's Welcome
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T14:13:08+00:00'
-updated: '2025-06-22T13:20:32.974465+00:00'
+updated: '2025-06-22T14:28:20.837457+00:00'
+youtube_url: https://youtu.be/KSd5SyK5_hU?si=HeI7WpbEmsjMomly
 ---
 
 # Chapter 3 - Necromancer's Welcome

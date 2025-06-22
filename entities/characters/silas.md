@@ -1,10 +1,10 @@
 ---
+entity_id: 7797911
 name: Silas
 type: NPC
 is_hidden: false
-entity_id: 7797911
-created: '2025-06-21T21:24:42.444455+00:00'
-updated: '2025-06-22T13:21:48.001936+00:00'
+created: '2025-06-21T21:24:42+00:00'
+updated: '2025-06-22T13:21:47+00:00'
 ---
 
 # Silas

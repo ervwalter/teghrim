@@ -4,7 +4,7 @@ name: Hyboria
 type: Continent
 is_hidden: false
 created: '2025-06-12T21:07:04+00:00'
-updated: '2025-06-22T13:24:45.085195+00:00'
+updated: '2025-06-22T13:24:44+00:00'
 ---
 
 # Hyboria

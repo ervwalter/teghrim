@@ -4,7 +4,8 @@ name: 04 - The Spore and the Cure
 type: Session Narrative
 is_hidden: false
 created: '2025-06-21T21:24:38.939296+00:00'
-updated: '2025-06-22T13:20:33.793578+00:00'
+updated: '2025-06-22T14:28:21.776335+00:00'
+youtube_url: https://youtu.be/QcQ96_uh5ew?si=gHdCeBpnmYN1898X
 ---
 
 # Chapter 4 - The Spore and the Cure

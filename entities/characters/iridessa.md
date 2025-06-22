@@ -4,7 +4,7 @@ name: Iridessa
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:14+00:00'
-updated: '2025-06-22T13:24:21.033844+00:00'
+updated: '2025-06-22T13:24:20+00:00'
 ---
 
 # Iridessa

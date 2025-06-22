@@ -7,7 +7,7 @@ audioop-lts==0.2.1  # Required for pydub on Python 3.13+
 openai==1.86.0
 
 # Entity sync requirements
-mcp-kanka==1.0.1
+mcp-kanka==1.1.0
 pyyaml==6.0.2
 
 # Note: pydub requires ffmpeg or libav to be installed on the system
