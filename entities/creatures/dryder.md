@@ -4,7 +4,7 @@ name: Dryder
 type: Monstrous
 is_hidden: false
 created: '2025-06-12T21:06:24+00:00'
-updated: '2025-06-17T01:59:57+00:00'
+updated: '2025-06-22T13:20:43.692772+00:00'
 ---
 
 # Dryder

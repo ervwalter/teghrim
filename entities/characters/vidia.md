@@ -4,7 +4,7 @@ name: Vidia
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-06-20T15:41:47.854438+00:00'
+updated: '2025-06-22T13:23:33.180391+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336c62-c9fc-40f8-98e5-c3dbd735ce46.jpg
 ---
 

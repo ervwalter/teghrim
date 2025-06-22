@@ -4,7 +4,7 @@ name: Halflings
 type: Other
 is_hidden: false
 created: '2025-06-12T21:07:12+00:00'
-updated: '2025-06-17T02:04:30.583226+00:00'
+updated: '2025-06-22T13:25:48.611833+00:00'
 ---
 
 # Halflings

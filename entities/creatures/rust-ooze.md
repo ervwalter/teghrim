@@ -4,7 +4,7 @@ type: Monstrous
 is_hidden: false
 entity_id: 7797909
 created: '2025-06-21T21:24:41.554936+00:00'
-updated: '2025-06-21T21:24:41.554941+00:00'
+updated: '2025-06-22T13:21:31.462269+00:00'
 ---
 
 # Rust Ooze
@@ -28,7 +28,7 @@ Ambush predators that lurk in old structures, emerging when prey crosses above o
 ## Notable Encounters
 
 ### The Bridge Ambush
-Two rust oozes attacked [entity:7763294|Aurelia], [entity:7763290|Arnór Josefson], and [entity:7763295|Bruldin Grimstone] while crossing an old rickety bridge near [entity:7763187|Teghrim's Crossing]. The creatures emerged from between the bridge planks halfway across, forcing the party to rely on [entity:7763290|Arnór's] lightning magic after discovering their steel weapons were both ineffective and being damaged by contact with the oozes.
+Two rust oozes attacked [entity:7763294|Aurelia], [entity:7763290|Arnor Josefson], and [entity:7763295|Bruldin Grimstone] while crossing an old rickety bridge near [entity:7763187|Teghrim's Crossing]. The creatures emerged from between the bridge planks halfway across, forcing the party to rely on [entity:7763290|Arnor's] lightning magic after discovering their steel weapons were both ineffective and being damaged by contact with the oozes.
 
 ## Habitat
 Found in old, deteriorating structures where metal has begun to rust and decay. Bridges, abandoned buildings, and ancient ruins provide ideal hunting grounds for these creatures.

@@ -4,7 +4,7 @@ name: Von Carstein Vampire House
 type: Vampire Dynasty
 is_hidden: false
 created: '2025-06-13T02:25:40+00:00'
-updated: '2025-06-17T02:14:28.575157+00:00'
+updated: '2025-06-22T13:20:24.995678+00:00'
 ---
 # Von Carstein Vampire House
 

@@ -4,7 +4,7 @@ name: Mournhold Noble Family
 type: Guild
 is_hidden: false
 created: '2025-06-13T00:29:54+00:00'
-updated: '2025-06-17T02:14:25.984739+00:00'
+updated: '2025-06-22T13:20:21.537055+00:00'
 ---
 # Mournhold Noble Family
 

@@ -4,7 +4,7 @@ name: The Iron Kingdoms (Human)
 type: Human
 is_hidden: false
 created: '2025-06-12T21:07:11+00:00'
-updated: '2025-06-17T02:04:27.300346+00:00'
+updated: '2025-06-22T13:25:45.165425+00:00'
 ---
 
 # The Iron Kingdoms (Human)

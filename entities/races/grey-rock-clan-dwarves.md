@@ -4,7 +4,7 @@ name: Grey-Rock Clan (Duergar)
 type: Dwarf
 is_hidden: false
 created: '2025-06-12T21:07:14+00:00'
-updated: '2025-06-17T02:04:33+00:00'
+updated: '2025-06-22T13:25:52.011713+00:00'
 ---
 
 # Grey-Rock Clan (Duergar)

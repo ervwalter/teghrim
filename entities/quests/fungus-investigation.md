@@ -5,7 +5,7 @@ is_completed: true
 is_hidden: false
 entity_id: 7797914
 created: '2025-06-21T21:24:43.316685+00:00'
-updated: '2025-06-21T21:24:43.316690+00:00'
+updated: '2025-06-22T13:27:00.660425+00:00'
 ---
 
 # Fungus Investigation
@@ -22,7 +22,7 @@ Investigate and eliminate the source of a fungal infection affecting woodland cr
 
 ### Participants
 - [entity:7763294|Aurelia] - Dhampir investigator
-- [entity:7763290|Arnór Josefson] - Norn wanderer  
+- [entity:7763290|Arnor Josefson] - Norn wanderer  
 - [entity:7763295|Bruldin Grimstone] - Dwarven slayer
 - [entity:7764102|Aelysh] - Wood Elf druid (quest giver and participant)
 
@@ -35,7 +35,7 @@ Small cave near an old rickety bridge in the forest surrounding [entity:7763187|
 [entity:7764104|Iridessa] found the party (after being kicked out of the dining hall for using tea as a bath) to deliver [entity:7764102|Aelysh's] urgent request for assistance. Multiple woodland creatures were showing signs of fungal infection with strange growths emerging from their bodies.
 
 ### The Bridge Encounter
-While traveling to the infection source, the party crossed an old rickety bridge where rust oozes emerged from between the planks. The oozes proved resistant to steel weapons, causing weapon degradation, but were vulnerable to lightning magic employed by [entity:7763290|Arnór].
+While traveling to the infection source, the party crossed an old rickety bridge where rust oozes emerged from between the planks. The oozes proved resistant to steel weapons, causing weapon degradation, but were vulnerable to lightning magic employed by [entity:7763290|Arnor].
 
 ### The Cave Battle
 Inside the cave, the party discovered:

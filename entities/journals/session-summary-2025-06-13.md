@@ -4,7 +4,7 @@ name: 2025-06-13 - Fungal Crisis and Forest Cure
 type: Session Summary
 is_hidden: false
 created: '2025-06-21T21:24:40+00:00'
-updated: '2025-06-21T21:30:18+00:00'
+updated: '2025-06-22T13:20:41.168172+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f35f7c2-767a-43e8-90c1-db075b265de2.png
 ---
 
@@ -12,7 +12,7 @@ image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f35f7c2-767a-43e8
 
 ## Session Overview
 
-While half the party attended to other matters, [entity:7763294|Aurelia], [entity:7763290|Arnór], and [entity:7763295|Bruldin] answered an urgent call from [entity:7764102|Aelysh] to investigate a dangerous fungal infection threatening the forest ecosystem. The quest led them through rust-plagued bridges to confront a mind-controlling myconid, resulting in both victory and valuable lessons about frontier dangers.
+While half the party attended to other matters, [entity:7763294|Aurelia], [entity:7763290|Arnor], and [entity:7763295|Bruldin] answered an urgent call from [entity:7764102|Aelysh] to investigate a dangerous fungal infection threatening the forest ecosystem. The quest led them through rust-plagued bridges to confront a mind-controlling myconid, resulting in both victory and valuable lessons about frontier dangers.
 
 ## Story Developments
 
@@ -20,7 +20,7 @@ The morning of Aestra-Orpheus 13th began with an unexpected visitor to the dinin
 
 [entity:7764102|The wood elf druid] met the responding party members with visible concern. Multiple woodland creatures were showing disturbing signs of infection, with **weird fungus covering them and growing out of them**. Her familiar's condition had worsened rapidly, and she feared the infection would spread throughout the forest if left unchecked. Despite having researched a potential cure, she needed assistance dealing with the source.
 
-The journey to the cave led across an old rickety bridge spanning a forest ravine. Halfway across, the weathered planks began oozing strange substances. Two **rust oozes** emerged from between the boards, their corrosive forms immediately threatening the party's equipment. Steel weapons proved nearly useless against the creatures, degrading upon contact. [entity:7763290|Arnór], relying on his magical abilities rather than conventional arms, discovered that lightning proved devastatingly effective against the oozes. His electrical assault eventually destroyed both creatures, though not before significant damage to the party's weapons.
+The journey to the cave led across an old rickety bridge spanning a forest ravine. Halfway across, the weathered planks began oozing strange substances. Two **rust oozes** emerged from between the boards, their corrosive forms immediately threatening the party's equipment. Steel weapons proved nearly useless against the creatures, degrading upon contact. [entity:7763290|Arnor], relying on his magical abilities rather than conventional arms, discovered that lightning proved devastatingly effective against the oozes. His electrical assault eventually destroyed both creatures, though not before significant damage to the party's weapons.
 
 The cave itself proved surprisingly small and close to the bridge. Inside, they discovered the infection's source - a **myconid**, its mushroom body sprouting tentacles that pulsed with malevolent energy. [entity:7764102|Aelysh's] Leshy familiar stood unnaturally still alongside several bugs, all with fungus stalks growing from their heads. The mind-controlled creatures attacked in eerie coordination.
 
@@ -32,7 +32,7 @@ Grateful but apologetic about her limited resources, [entity:7764102|the druid] 
 
 ## Combat & Challenges
 
-The bridge encounter tested the party's adaptability when conventional weapons proved nearly useless against the rust oozes. The corrosive creatures' immunity to steel forced creative solutions, with [entity:7763290|Arnór's] lightning magic proving the key to victory. The cave battle required tactical thinking to identify and eliminate the controlling myconid while managing multiple mind-controlled opponents, complicated by the risk of fungal infection that ultimately affected [entity:7763295|Bruldin].
+The bridge encounter tested the party's adaptability when conventional weapons proved nearly useless against the rust oozes. The corrosive creatures' immunity to steel forced creative solutions, with [entity:7763290|Arnor's] lightning magic proving the key to victory. The cave battle required tactical thinking to identify and eliminate the controlling myconid while managing multiple mind-controlled opponents, complicated by the risk of fungal infection that ultimately affected [entity:7763295|Bruldin].
 
 ## Discoveries & Lore
 

@@ -4,7 +4,7 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-06-21T21:24:54.650198+00:00'
+updated: '2025-06-22T13:21:52.435897+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a37-767e-430b-a504-4208c9ba294d.jpg
 ---
 
@@ -54,7 +54,7 @@ As a dhampir (half-vampire), Aurelia occupies a unique position in society, part
 - **The Fungus Investigation**: Responded to urgent call to investigate fungal infection spreading through forest creatures, fought rust oozes at bridge crossing and participated in defeating mind-controlling myconid in cave
 - **The Weapon Enhancement**: Paid 4 gold to transfer +1 potency rune from dwarven clan dagger to her cold iron rapier during downtime
 - **The Knowledge Gathering**: Spent downtime with [entity:7763693|Sylvia Mournhold] learning about Iron Kingdoms politics and culture
-- **The Moon Ritual**: Joined [entity:7763290|Arnór's] waning moon ceremony in the woods, appreciating the night atmosphere
+- **The Moon Ritual**: Joined [entity:7763290|Arnor's] waning moon ceremony in the woods, appreciating the night atmosphere
 - **The Wagon Recovery**: Delivered critical hits during [entity:7766572|Wagon Recovery Mission], including killing blow on bulvak leader Gore
 - **The Secret Feeding**: Discreetly fed on Gore's blood while appearing to loot his corpse after the battle
 

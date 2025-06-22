@@ -4,7 +4,7 @@ name: 2025-05-30 Image 3 - The Von Carstein Discovery
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:49:56+00:00'
-updated: '2025-06-17T02:05:52.411949+00:00'
+updated: '2025-06-22T13:28:02.505821+00:00'
 ---
 
 # Uncovering Ancient Vampire Secrets
@@ -22,7 +22,7 @@ The party discovers documents revealing that the mansion's new owner is Osanna V
 
 ## Key Elements
 
-- **Characters**: Aurelia (female dhampir) with document, Qotal, Bruldin, Alrik, Arnór
+- **Characters**: Aurelia (female dhampir) with document, Qotal, Bruldin, Alrik, Arnor
 - **Location**: Von Carstein Mansion study
 - **Mood**: Ominous discovery, growing dread
 - **Visual Focus**: The Von Carstein document and the party's shocked reactions

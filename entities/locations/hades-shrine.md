@@ -4,7 +4,7 @@ name: Hades Shrine
 type: Shrine
 is_hidden: false
 created: '2025-06-13T02:25:44+00:00'
-updated: '2025-06-17T02:15:37.850305+00:00'
+updated: '2025-06-22T13:24:25.205653+00:00'
 ---
 # Hades Shrine
 
@@ -36,7 +36,7 @@ Established as part of the Church of [entity:7763137|Pharasma's] religious servi
 - **The Integration**: Built into [entity:7763187|Teghrim's Crossing] structure as permanent religious installation
 - **The Pharasma Connection**: Established under Church of [entity:7763137|Pharasma] maintenance and oversight
 - **The Community Service**: Became location where locals leave offerings for deceased family members
-- **The Witch Investigation**: Discovered by [entity:7763290|Arnór] during his search for local magical practitioners
+- **The Witch Investigation**: Discovered by [entity:7763290|Arnor] during his search for local magical practitioners
 
 ## Current Status
 

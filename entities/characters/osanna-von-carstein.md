@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T02:25:40+00:00'
-updated: '2025-06-21T21:24:51.979463+00:00'
+updated: '2025-06-22T13:21:37.032716+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336ba7-04b3-46e7-ac82-354e9a75d720.png
 ---
 
@@ -38,7 +38,7 @@ Member of the [entity:7764192|Von Carstein vampire house], an ancient dynasty fr
 - **[entity:7763172|Astoria Continent]**: Connected to the mysterious vampire-controlled continent and its political structures
 - **Other Vampire Families**: Part of intricate political relationships between vampire dynasties
 - **[entity:7766571|Silas]**: Her mortal attendant whom she jokingly refers to as her "familiar," currently overseeing mansion restoration
-- **[entity:7763290|Arnór Josefson]**: Visited during downtime to learn about Astorian culture and politics
+- **[entity:7763290|Arnor Josefson]**: Visited during downtime to learn about Astorian culture and politics
 
 ## Notable History
 

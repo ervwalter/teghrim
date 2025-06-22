@@ -4,7 +4,7 @@ name: Goblin Patrol Mission
 type: Combat
 is_hidden: false
 created: '2025-06-13T01:40:16+00:00'
-updated: '2025-06-17T02:15:46.456459+00:00'
+updated: '2025-06-22T13:27:01.535510+00:00'
 is_completed: true
 ---
 # Goblin Patrol Mission

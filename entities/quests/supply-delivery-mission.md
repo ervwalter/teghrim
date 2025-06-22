@@ -4,7 +4,7 @@ name: Supply Delivery Mission
 type: Party Quest
 is_hidden: false
 created: '2025-06-15T18:14:05+00:00'
-updated: '2025-06-17T02:15:48.175519+00:00'
+updated: '2025-06-22T13:27:04.200932+00:00'
 is_completed: false
 ---
 # Supply Delivery Mission

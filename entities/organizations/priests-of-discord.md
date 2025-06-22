@@ -4,7 +4,7 @@ name: Priests of Discord
 type: Religious Order
 is_hidden: false
 created: '2025-06-12T21:06:23+00:00'
-updated: '2025-06-17T01:59:51.562769+00:00'
+updated: '2025-06-22T13:20:30.118337+00:00'
 ---
 
 # Priests of Discord

@@ -4,7 +4,7 @@ name: Celtos
 type: Human
 is_hidden: false
 created: '2025-06-12T21:07:14+00:00'
-updated: '2025-06-17T02:04:34.810492+00:00'
+updated: '2025-06-22T13:25:52.881492+00:00'
 ---
 
 # Celtos

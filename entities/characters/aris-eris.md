@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:33+00:00'
-updated: '2025-06-17T02:01:09.799063+00:00'
+updated: '2025-06-22T13:23:09.841347+00:00'
 ---
 
 # Aris (Eris)

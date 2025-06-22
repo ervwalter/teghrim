@@ -4,7 +4,7 @@ name: Elderberry Procurement
 type: Party Quest
 is_hidden: false
 created: '2025-06-15T18:14:04+00:00'
-updated: '2025-06-17T02:15:43.834310+00:00'
+updated: '2025-06-22T13:26:57.990768+00:00'
 is_completed: false
 ---
 # Elderberry Procurement

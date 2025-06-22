@@ -4,7 +4,7 @@ name: Silvermist
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:11+00:00'
-updated: '2025-06-17T02:14:37.320746+00:00'
+updated: '2025-06-22T13:21:55.153052+00:00'
 ---
 # Silvermist
 

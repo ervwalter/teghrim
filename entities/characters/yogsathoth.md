@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:32+00:00'
-updated: '2025-06-17T02:01:04.745830+00:00'
+updated: '2025-06-22T13:21:54.247739+00:00'
 ---
 
 # Yogsathoth

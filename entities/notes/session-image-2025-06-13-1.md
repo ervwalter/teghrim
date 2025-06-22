@@ -3,7 +3,7 @@ name: 2025-06-13 Image 1 - Iridessa's Urgent Arrival
 type: Image Prompt
 is_hidden: true
 created: '2025-06-21T21:24:47.295043+00:00'
-updated: '2025-06-21T21:24:47.295049+00:00'
+updated: '2025-06-22T13:28:10.063878+00:00'
 entity_id: 7797924
 ---
 
@@ -21,7 +21,7 @@ Iridessa arrives at the mess hall in a panic to find the party, having been prev
 
 ## Key Elements
 
-- **Characters**: Iridessa (pink fairy), Aurelia (dhampir investigator), Arnór (Norn wanderer), Bruldin (dwarven slayer)
+- **Characters**: Iridessa (pink fairy), Aurelia (dhampir investigator), Arnor (Norn wanderer), Bruldin (dwarven slayer)
 - **Location**: Teghrim's Crossing mess hall
 - **Mood**: Urgent panic contrasting with peaceful breakfast
 - **Visual Focus**: Iridessa's dramatic entrance trailing tea droplets

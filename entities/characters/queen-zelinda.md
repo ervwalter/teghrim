@@ -4,7 +4,7 @@ name: Queen Zelinda
 type: NPC
 is_hidden: false
 created: '2025-06-13T02:25:42+00:00'
-updated: '2025-06-17T02:14:46.782748+00:00'
+updated: '2025-06-22T13:23:31.355596+00:00'
 ---
 # Queen Zelinda
 

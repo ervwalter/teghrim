@@ -4,7 +4,7 @@ name: Basilisk Threat
 type: Party Quest
 is_hidden: false
 created: '2025-06-13T01:40:16+00:00'
-updated: '2025-06-17T02:15:48+00:00'
+updated: '2025-06-22T13:27:05.095293+00:00'
 is_completed: false
 ---
 

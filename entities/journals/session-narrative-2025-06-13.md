@@ -4,12 +4,12 @@ name: 04 - The Spore and the Cure
 type: Session Narrative
 is_hidden: false
 created: '2025-06-21T21:24:38.939296+00:00'
-updated: '2025-06-21T21:24:38.939302+00:00'
+updated: '2025-06-22T13:20:33.793578+00:00'
 ---
 
 # Chapter 4 - The Spore and the Cure
 
-The morning of Aestra-Orpheus 13th dawned damp and close, mist rising from the river to wrap [entity:7763187|Teghrim's Crossing] in a shroud of uncertainty. In the mess hall, half the party lingered over breakfast, their companions having scattered to various pursuits across the settlement. [entity:7763294|Aurelia] traced patterns in spilled salt while [entity:7763290|Arnór] studied the grain of the wooden table as if it might reveal the future. [entity:7763295|Bruldin] simply ate, methodical and silent, his scarred hands steady around his tankard.
+The morning of Aestra-Orpheus 13th dawned damp and close, mist rising from the river to wrap [entity:7763187|Teghrim's Crossing] in a shroud of uncertainty. In the mess hall, half the party lingered over breakfast, their companions having scattered to various pursuits across the settlement. [entity:7763294|Aurelia] traced patterns in spilled salt while [entity:7763290|Arnor] studied the grain of the wooden table as if it might reveal the future. [entity:7763295|Bruldin] simply ate, methodical and silent, his scarred hands steady around his tankard.
 
 The relative peace shattered when a familiar pink form burst through the doorway, trailing droplets that smelled suspiciously of bergamot.
 
@@ -25,7 +25,7 @@ They found the [entity:7763217|wood elf] at the edge of the settlement, pacing a
 
 "Thank the forest spirits you've come." [entity:7764102|Aelysh's] usual composure had cracked, revealing raw concern beneath. "It started three days ago. Just a spot at first, but now..." She gestured helplessly at her companion. "I've tried every remedy I know. Nothing works."
 
-[entity:7763290|Arnór] knelt beside the creature, careful not to touch. His witch-sight revealed threads of something darker than disease—a malevolent intelligence spreading through the Leshy's wooden veins. "This isn't natural sickness. There's will behind it."
+[entity:7763290|Arnor] knelt beside the creature, careful not to touch. His witch-sight revealed threads of something darker than disease—a malevolent intelligence spreading through the Leshy's wooden veins. "This isn't natural sickness. There's will behind it."
 
 "My familiar went exploring yesterday." [entity:7764102|Aelysh] wrung her hands. "There's a cave not far from here, near the old bridge. It came back like this. But that's not the worst part."
 
@@ -45,7 +45,7 @@ The path to the cave wound through increasingly diseased forest. What should hav
 
 The old bridge appeared through the trees like a relic from a more innocent time. Weathered planks spanned a shallow ravine, rope railings frayed but functional. It might have been picturesque if not for the wrongness that hung in the air like an unspoken curse.
 
-[entity:7763290|Arnór] felt it first—a tremor through the wood that had nothing to do with their footsteps. "Stop," he commanded, one hand raised. "Something moves below."
+[entity:7763290|Arnor] felt it first—a tremor through the wood that had nothing to do with their footsteps. "Stop," he commanded, one hand raised. "Something moves below."
 
 They'd made it halfway across when the attack came. Not from below as expected, but from within the very structure itself. Planks split and warped as something oozed upward—not quite liquid, not quite solid, the color of old rust and rotten copper.
 
@@ -59,13 +59,13 @@ Two rust oozes emerged fully now, their amorphous bodies somehow both beautiful 
 
 But what else was there on a bare bridge with hungry oozes pressing close? [entity:7763295|Bruldin's] maul degraded with each strike, [entity:7763294|Aurelia's] sword grew duller by the moment, and the oozes seemed to swell with each metallic meal.
 
-[entity:7763290|Arnór] smiled then, the expression sharp as winter wind. "Then let them taste lightning instead of steel."
+[entity:7763290|Arnor] smiled then, the expression sharp as winter wind. "Then let them taste lightning instead of steel."
 
 Power gathered around the [entity:7763211|Norn], crackling between his fingers like captive stars. When he released it, the bolt struck the first ooze with the sound of divine judgment. The creature convulsed, its form rippling and sparking as electricity coursed through its alien anatomy.
 
 "Yes!" [entity:7764102|Aelysh] channeled her own magic, adding nature's fury to the assault. "Strike again while it's disrupted!"
 
-The battle became a desperate dance on degrading planks. [entity:7763290|Arnór's] lightning proved devastating but exhausting. Each bolt drained him while the oozes pressed closer, forcing the warriors to use their corroding weapons sparingly. [entity:7763295|Bruldin] took to using his maul as a club, accepting the damage for the chance to drive the creatures back.
+The battle became a desperate dance on degrading planks. [entity:7763290|Arnor's] lightning proved devastating but exhausting. Each bolt drained him while the oozes pressed closer, forcing the warriors to use their corroding weapons sparingly. [entity:7763295|Bruldin] took to using his maul as a club, accepting the damage for the chance to drive the creatures back.
 
 When the second ooze finally collapsed into a puddle of inert rust, they stood panting on a bridge that looked decades older than it had minutes before. Their weapons bore the scars of the encounter—pitted, dull, some barely functional.
 
@@ -87,7 +87,7 @@ The enslaved creatures attacked with coordinated precision. The beetles flanked 
 
 "They're being controlled!" The realization came as a beetle's mandibles scraped across his armor. "The mushroom's pulling their strings!"
 
-[entity:7763290|Arnór's] magic struck at the myconid directly, but the creature's flesh absorbed the damage like a sponge soaking up water. Its tentacles lashed out in response, catching [entity:7763295|Bruldin] across the chest. Where they touched, spores burrowed through armor and cloth, seeking skin.
+[entity:7763290|Arnor's] magic struck at the myconid directly, but the creature's flesh absorbed the damage like a sponge soaking up water. Its tentacles lashed out in response, catching [entity:7763295|Bruldin] across the chest. Where they touched, spores burrowed through armor and cloth, seeking skin.
 
 [entity:7763294|Aurelia] dispatched the beetles with efficient violence, her degraded blade still deadly in skilled hands. But even as they fell, she saw [entity:7763295|Bruldin] stagger, one hand clawing at his chest where an ugly pattern of fungal growth had already begun to spread.
 
@@ -123,7 +123,7 @@ At [entity:7763187|Teghrim's Crossing], they parted ways with [entity:7764102|Ae
 
 "So," [entity:7763294|Aurelia] said as they made their way to the smithy, her damaged blade across her shoulder. "A productive morning. Rust oozes, mind-controlling mushrooms, and fungal infection. What's next, do you think?"
 
-[entity:7763290|Arnór] consulted the sun's position. "It's barely past noon. Plenty of daylight left for new disasters."
+[entity:7763290|Arnor] consulted the sun's position. "It's barely past noon. Plenty of daylight left for new disasters."
 
 [entity:7763295|Bruldin] grunted agreement, absently rubbing his chest where the infection had taken hold. The smith's hammer rang out across the settlement—a sound of normalcy that seemed precious after their morning's work. Their weapons would be repaired, their mysterious rewards identified, and tomorrow would bring new challenges.
 

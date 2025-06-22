@@ -5,7 +5,7 @@ is_hidden: false
 is_completed: true
 entity_id: 7797916
 created: '2025-06-21T21:24:43.754736+00:00'
-updated: '2025-06-21T21:24:43.754742+00:00'
+updated: '2025-06-22T13:27:02.419278+00:00'
 ---
 
 # Wagon Recovery Mission
@@ -35,7 +35,7 @@ The party successfully defeated all bulvak raiders, with Gore and his companions
 ## Key Participants
 - **[entity:7763296|Qotal]**: Provided flank attacks and decisive strikes
 - **[entity:7763294|Aurelia]**: Delivered critical ranged attacks, including the killing blow on Gore
-- **[entity:7763290|Arnór Josefson]**: Supported with needle darts and magical assistance
+- **[entity:7763290|Arnor Josefson]**: Supported with needle darts and magical assistance
 - **[entity:7763289|Alrik Grimmelstang]**: Provided healing and combat support
 
 ## Notable Events

@@ -4,7 +4,7 @@ name: 2025-05-16 Image 3 - Arrival at Teghrim's Crossing
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:43:35+00:00'
-updated: '2025-06-17T02:05:50.139597+00:00'
+updated: '2025-06-22T13:27:58.128012+00:00'
 ---
 
 # The Bridge of New Beginnings
@@ -22,7 +22,7 @@ The party's first view of Teghrim's Crossing after surviving three weeks of dang
 
 ## Key Elements
 
-- **Characters**: Qotal, Bruldin Grimstone, Aurelia, Arnór Josefson, Lyn Chong
+- **Characters**: Qotal, Bruldin Grimstone, Aurelia, Arnor Josefson, Lyn Chong
 - **Location**: Approach to Teghrim's Crossing at sunrise
 - **Mood**: Awe, relief, anticipation, new beginnings
 - **Visual Focus**: The magnificent bridge settlement revealed in morning light

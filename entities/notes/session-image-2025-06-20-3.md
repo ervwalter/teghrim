@@ -4,7 +4,7 @@ name: 2025-06-20 Image 3 - The One-Eyed Witness
 type: Image Prompt
 is_hidden: true
 created: '2025-06-21T21:24:45+00:00'
-updated: '2025-06-21T21:24:45+00:00'
+updated: '2025-06-22T13:28:04.133398+00:00'
 ---
 
 # The Silent Observer
@@ -22,7 +22,7 @@ After defeating Gore and the bulvaks, the party notices a mysterious one-eyed fi
 
 ## Key Elements
 
-- **Characters**: One-eyed bird creature, Alrik (recognizing), Qotal, Aurelia, Arnór observing
+- **Characters**: One-eyed bird creature, Alrik (recognizing), Qotal, Aurelia, Arnor observing
 - **Location**: Edge of forest clearing after battle, creature in tree above
 - **Mood**: Mysterious, unsettling, otherworldly
 - **Visual Focus**: The single glowing eye looking down from the tree branch

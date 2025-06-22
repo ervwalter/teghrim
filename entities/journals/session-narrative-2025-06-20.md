@@ -3,7 +3,7 @@ name: 05 - The One-Eyed Witness
 type: Session Narrative
 is_hidden: false
 created: '2025-06-21T21:24:39.807568+00:00'
-updated: '2025-06-21T21:24:39.807574+00:00'
+updated: '2025-06-22T13:20:38.410815+00:00'
 entity_id: 7797905
 ---
 
@@ -27,17 +27,17 @@ The settlement's rhythm during enforced downtime took on a quality both languid 
 
 [entity:7763294|Aurelia] sought out [entity:7763693|Sylvia Mournhold], finding the [entity:7763865|Iron Kingdoms] noble practicing bladework in the courtyard. Her rapier moved like liquid silver, each thrust and parry flowing into the next with the precision of someone who'd made swordplay into art. Between bouts, they spoke of distant kingdoms and the weight of family expectations.
 
-[entity:7763290|Arnór's] path led to darker territories. The [entity:7764198|Von Carstein mansion] loomed on its island perch, and within its Gothic walls [entity:7764193|Osanna Von Carstein] held court. The vampire noble received him with amused courtesy, her knowledge of [entity:7763172|Astoria] flowing as freely as the wine she couldn't drink. Her attendant Silas hovered nearby, aspiring to undeath with the dedication of a true believer.
+[entity:7763290|Arnor's] path led to darker territories. The [entity:7764198|Von Carstein mansion] loomed on its island perch, and within its Gothic walls [entity:7764193|Osanna Von Carstein] held court. The vampire noble received him with amused courtesy, her knowledge of [entity:7763172|Astoria] flowing as freely as the wine she couldn't drink. Her attendant Silas hovered nearby, aspiring to undeath with the dedication of a true believer.
 
 For [entity:7763289|Alrik], the day meant more time in [entity:7764196|Rosencrantz's] laboratory. The mechamagician's enthusiasm for the scientific method matched the chef's own experimental approach to cuisine. Between discussions of gear ratios and flavor profiles, they found unexpected common ground in their mutual disdain for society's meaningless protocols.
 
-That evening, beneath a waning gibbous moon, [entity:7763290|Arnór] led his companions into the woods. The clearing he'd chosen held the quality of sacred space—not through any altar or marking, but through the weight of intention brought to bear upon it. 
+That evening, beneath a waning gibbous moon, [entity:7763290|Arnor] led his companions into the woods. The clearing he'd chosen held the quality of sacred space—not through any altar or marking, but through the weight of intention brought to bear upon it. 
 
 "This is Natvig," [entity:7763290|the Norn] said as his familiar landed on a nearby branch. The trash griffin fixed its bright eyes on the assembled party, head cocking with unmistakable intelligence. "He acts as my go-between with the spirits from whom I gain my spells."
 
 [entity:7763296|Qotal] tossed a scrap of dried meat toward the creature. [entity:7763867|Natvig] caught it mid-air with a pleased chirp-croak, then settled to watch the proceedings with heightened interest—particularly toward [entity:7763296|the generous monk].
 
-[entity:7763290|Arnór's] voice rose in ancient song, words in the old tongue spiraling up toward the moon's pale face. [entity:7763289|Alrik] lasted perhaps ten minutes before his snores joined the night chorus, while [entity:7763294|Aurelia] remained outside long after the ritual ended, savoring the darkness like wine.
+[entity:7763290|Arnor's] voice rose in ancient song, words in the old tongue spiraling up toward the moon's pale face. [entity:7763289|Alrik] lasted perhaps ten minutes before his snores joined the night chorus, while [entity:7763294|Aurelia] remained outside long after the ritual ended, savoring the darkness like wine.
 
 ---
 
@@ -55,7 +55,7 @@ The wagons, when they found them, told a story of violence without victors. Whee
 
 The tracks led away from the road into forest that grew darker with each step. When human screams echoed through the trees, the party exchanged glances that needed no words. They moved forward, attempting stealth that failed spectacularly when [entity:7763289|Alrik] stepped on what might have been the only dry branch in the entire wood.
 
-The creatures that burst from cover moved wrong—humanoid in shape but beast in motion, clutching spears while making sounds that belonged in no earthly throat. [entity:7763290|Arnór's] needle darts flew true, each one a sliver of focused will that struck with the force of conviction. [entity:7763294|Aurelia's] crossbow sang its own deadly song while [entity:7763296|Qotal] flowed between enemies like water finding its course.
+The creatures that burst from cover moved wrong—humanoid in shape but beast in motion, clutching spears while making sounds that belonged in no earthly throat. [entity:7763290|Arnor's] needle darts flew true, each one a sliver of focused will that struck with the force of conviction. [entity:7763294|Aurelia's] crossbow sang its own deadly song while [entity:7763296|Qotal] flowed between enemies like water finding its course.
 
 Three bodies later, the screaming continued. These hadn't been the source—merely guards for something worse.
 
@@ -67,7 +67,7 @@ Illusions rose like fever dreams—false paths, phantom enemies, bridges that we
 
 Gore stood seven feet of corrupted muscle and malevolent intelligence. The bulvak leader's horns swept back from a skull that seemed designed for destruction, and in his massive hands he held rope leads attached to beaten, bloodied humans. Two smaller bulvaks flanked him, their postures speaking of submission to his dominance.
 
-The battle erupted without preamble. [entity:7763290|Arnór's] opening salvo carried cold iron and silver, materials anathema to demon-spawn. [entity:7763294|Aurelia's] crossbow found the sweet spot between Gore's shoulder plates, her critical strike drawing a bellow that shook leaves from trees.
+The battle erupted without preamble. [entity:7763290|Arnor's] opening salvo carried cold iron and silver, materials anathema to demon-spawn. [entity:7763294|Aurelia's] crossbow found the sweet spot between Gore's shoulder plates, her critical strike drawing a bellow that shook leaves from trees.
 
 When Gore caught [entity:7763296|Qotal] in his massive hands, the horns following to pierce and hold, it seemed the monk's speed had finally met its match. But [entity:7763296|Qotal] moved like water given purpose, flowing out of the grab to deliver strikes that cracked bone despite the creature's supernatural resilience.
 
@@ -95,7 +95,7 @@ Then they too vanished, leaving only confused silence and rescued prisoners who 
 
 "Sometimes that's enough." The captain's gaze lingered on each of them, cataloguing injuries and exhaustion. "Rest. There'll be more work tomorrow. There always is."
 
-As they dispersed through the settlement, [entity:7763867|Natvig] landed once more on [entity:7763290|Arnór's] shoulder, casting one last hopeful glance toward [entity:7763296|Qotal]. The monk smiled and tossed a final morsel, which the trash griffin caught with a satisfied chirp-croak.
+As they dispersed through the settlement, [entity:7763867|Natvig] landed once more on [entity:7763290|Arnor's] shoulder, casting one last hopeful glance toward [entity:7763296|Qotal]. The monk smiled and tossed a final morsel, which the trash griffin caught with a satisfied chirp-croak.
 
 The afternoon sun beat down on [entity:7763187|Teghrim's Crossing] with the weight of summer's promise. Somewhere in the forest, wagons rotted into memory. Somewhere else, a one-eyed witness kept its vigil. And somewhere, perhaps, someone named Tessa waited for news only the fey understood.
 

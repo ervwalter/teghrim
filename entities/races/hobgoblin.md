@@ -4,7 +4,7 @@ name: Hobgoblin
 type: Goblinoid
 is_hidden: false
 created: '2025-06-12T21:07:06+00:00'
-updated: '2025-06-17T02:03:32.294540+00:00'
+updated: '2025-06-22T13:25:35.675210+00:00'
 ---
 
 # Hobgoblin

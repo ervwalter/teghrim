@@ -4,7 +4,7 @@ name: Sylvan (Wood Elves)
 type: Elf
 is_hidden: false
 created: '2025-06-12T21:07:22+00:00'
-updated: '2025-06-17T02:04:48.762100+00:00'
+updated: '2025-06-22T13:26:53.589652+00:00'
 ---
 
 # Sylvan (Wood Elves)

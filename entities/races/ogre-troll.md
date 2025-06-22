@@ -4,7 +4,7 @@ name: Ogre/Troll
 type: Other
 is_hidden: false
 created: '2025-06-12T21:07:09+00:00'
-updated: '2025-06-17T02:03:37+00:00'
+updated: '2025-06-22T13:25:41.662395+00:00'
 ---
 
 # Ogre/Troll

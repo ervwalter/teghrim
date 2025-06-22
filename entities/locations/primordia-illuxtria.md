@@ -4,7 +4,7 @@ name: Primordia / Illuxtria
 type: Continent
 is_hidden: false
 created: '2025-06-12T21:06:59+00:00'
-updated: '2025-06-17T02:03:15.763547+00:00'
+updated: '2025-06-22T13:24:31.222092+00:00'
 ---
 
 # Primordia / Illuxtria

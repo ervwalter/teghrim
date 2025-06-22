@@ -4,7 +4,7 @@ name: Stone-Bearer Clan (Hill Dwarves)
 type: Dwarf
 is_hidden: false
 created: '2025-06-12T21:07:06+00:00'
-updated: '2025-06-17T02:03:32+00:00'
+updated: '2025-06-22T13:25:36.539489+00:00'
 ---
 
 # Stone-Bearer Clan (Hill Dwarves)

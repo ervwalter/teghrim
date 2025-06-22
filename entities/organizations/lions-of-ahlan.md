@@ -4,7 +4,7 @@ name: Lions of Ahlan
 type: Military Order
 is_hidden: false
 created: '2025-06-12T21:06:20+00:00'
-updated: '2025-06-17T01:59:41.309648+00:00'
+updated: '2025-06-22T13:20:18.923375+00:00'
 ---
 
 # Lions of Ahlan

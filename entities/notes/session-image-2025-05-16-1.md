@@ -4,7 +4,7 @@ name: 2025-05-16 Image 1 - Bruldin's Rage Against the Orc
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:43:34+00:00'
-updated: '2025-06-17T02:05:49.340010+00:00'
+updated: '2025-06-22T13:27:57.353739+00:00'
 ---
 
 # The Slayer's Fury at the Broken Gate

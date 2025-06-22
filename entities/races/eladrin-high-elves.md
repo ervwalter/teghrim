@@ -4,7 +4,7 @@ name: Eladrin (High Elves)
 type: Elf
 is_hidden: false
 created: '2025-06-12T21:07:19+00:00'
-updated: '2025-06-17T02:04:42+00:00'
+updated: '2025-06-22T13:26:47.667324+00:00'
 ---
 
 # Eladrin (High Elves)

@@ -4,7 +4,7 @@ name: Qotal's Broken Hammer Quest
 type: Personal Quest
 is_hidden: false
 created: '2025-06-13T00:30:00+00:00'
-updated: '2025-06-17T02:38:27+00:00'
+updated: '2025-06-22T13:27:07.741960+00:00'
 is_completed: false
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f2c5731-bc25-40cc-a966-c0ad3f92e107.png
 ---

@@ -4,7 +4,7 @@ name: Von Carstein Mansion
 type: Mansion
 is_hidden: false
 created: '2025-06-13T02:25:43+00:00'
-updated: '2025-06-17T02:14:49.362584+00:00'
+updated: '2025-06-22T13:24:21.916665+00:00'
 ---
 # Von Carstein Mansion
 

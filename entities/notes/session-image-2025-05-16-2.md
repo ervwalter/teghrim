@@ -4,7 +4,7 @@ name: 2025-05-16 Image 2 - Natvig's Mysterious Intervention
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:43:34+00:00'
-updated: '2025-06-17T02:05:47.757949+00:00'
+updated: '2025-06-22T13:27:08.566551+00:00'
 ---
 
 # The Call for Aid Answered
@@ -18,11 +18,11 @@ Epic fantasy digital painting, a mysterious eagle-like winged creature bursts fr
 
 ## Context
 
-The pivotal moment when Arnór calls for Natvig's help during the caravanserai battle, with the mysterious creature appearing just as Qotal falls and Aurelia delivers the killing blow.
+The pivotal moment when Arnor calls for Natvig's help during the caravanserai battle, with the mysterious creature appearing just as Qotal falls and Aurelia delivers the killing blow.
 
 ## Key Elements
 
-- **Characters**: Arnór Josefson, Natvig (mysterious creature), Aurelia, Qotal (unconscious), dying orc
+- **Characters**: Arnor Josefson, Natvig (mysterious creature), Aurelia, Qotal (unconscious), dying orc
 - **Location**: Caravanserai courtyard at night
 - **Mood**: Desperate hope, supernatural mystery, turning tide
-- **Visual Focus**: The enigmatic creature responding to Arnór's call
+- **Visual Focus**: The enigmatic creature responding to Arnor's call

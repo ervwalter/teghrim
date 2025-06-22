@@ -4,7 +4,7 @@ name: Bruldin Grimstone
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:58+00:00'
-updated: '2025-06-21T21:24:55.529800+00:00'
+updated: '2025-06-22T13:21:55.990356+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a6f-a267-4620-bbe6-2c21abbbb323.jpg
 ---
 

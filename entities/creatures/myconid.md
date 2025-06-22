@@ -4,7 +4,7 @@ type: Monstrous
 is_hidden: false
 entity_id: 7797907
 created: '2025-06-21T21:24:40.710736+00:00'
-updated: '2025-06-21T21:24:40.710742+00:00'
+updated: '2025-06-22T13:20:42.013713+00:00'
 ---
 
 # Myconid
@@ -33,7 +33,7 @@ A myconid had established itself in a small cave near [entity:7763187|Teghrim's 
 - Multiple insects that sprouted fungal stalks from their heads
 - Other woodland creatures showing signs of infection
 
-The creature was destroyed by [entity:7763294|Aurelia], [entity:7763290|Arnór Josefson], and [entity:7763295|Bruldin Grimstone], with [entity:7763295|Bruldin] becoming infected during the battle but subsequently cured by [entity:7764102|Aelysh].
+The creature was destroyed by [entity:7763294|Aurelia], [entity:7763290|Arnor Josefson], and [entity:7763295|Bruldin Grimstone], with [entity:7763295|Bruldin] becoming infected during the battle but subsequently cured by [entity:7764102|Aelysh].
 
 ## Threat Assessment
 Myconids represent a severe ecological threat due to their ability to spread fungal infections and control other creatures. Quick action is required when they establish themselves near populated areas to prevent widespread contamination.

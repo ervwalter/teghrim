@@ -4,7 +4,7 @@ type: Monstrous
 is_hidden: false
 entity_id: 7797908
 created: '2025-06-21T21:24:41.137731+00:00'
-updated: '2025-06-21T21:24:41.137737+00:00'
+updated: '2025-06-22T13:20:42.836632+00:00'
 ---
 
 # Bulvak

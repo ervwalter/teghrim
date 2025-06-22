@@ -4,7 +4,7 @@ name: Kitsune (Fox-kin)
 type: Beastkin
 is_hidden: false
 created: '2025-06-12T21:07:21+00:00'
-updated: '2025-06-17T02:04:46+00:00'
+updated: '2025-06-22T13:26:51.892536+00:00'
 ---
 
 # Kitsune (Fox-kin)

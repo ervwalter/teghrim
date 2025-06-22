@@ -4,7 +4,7 @@ name: Golgorun Plains
 type: Region
 is_hidden: false
 created: '2025-06-12T21:07:01+00:00'
-updated: '2025-06-17T02:03:19.846591+00:00'
+updated: '2025-06-22T13:24:36.349800+00:00'
 ---
 
 # Golgorun Plains

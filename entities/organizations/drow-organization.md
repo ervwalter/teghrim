@@ -4,7 +4,7 @@ name: Drow (Organization)
 type: Secret Society
 is_hidden: false
 created: '2025-06-12T21:06:23+00:00'
-updated: '2025-06-17T01:59:50.745456+00:00'
+updated: '2025-06-22T13:20:29.265672+00:00'
 ---
 
 # Drow (Organization)

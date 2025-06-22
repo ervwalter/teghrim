@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:26+00:00'
-updated: '2025-06-17T02:00:01.546107+00:00'
+updated: '2025-06-22T13:21:35.201472+00:00'
 ---
 
 # Avacyn

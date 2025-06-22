@@ -4,7 +4,7 @@ name: Aegyptus
 type: Continent
 is_hidden: false
 created: '2025-06-12T21:07:03+00:00'
-updated: '2025-06-17T02:03:22.345207+00:00'
+updated: '2025-06-22T13:24:38.920825+00:00'
 ---
 
 # Aegyptus

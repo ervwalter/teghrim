@@ -4,7 +4,7 @@ name: Caravanserai
 type: Landmark
 is_hidden: false
 created: '2025-06-13T00:29:57+00:00'
-updated: '2025-06-17T02:15:41.239679+00:00'
+updated: '2025-06-22T13:24:42.462217+00:00'
 ---
 # Caravanserai
 

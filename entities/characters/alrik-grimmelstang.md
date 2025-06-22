@@ -4,7 +4,7 @@ name: Alrik Grimmelstang
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:19+00:00'
-updated: '2025-06-21T21:24:52.861965+00:00'
+updated: '2025-06-22T13:21:38.979415+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369aa-0dbb-4245-8e1e-25c3f63f81ec.jpg
 ---
 
@@ -35,6 +35,7 @@ A chef whose culinary creations, particularly his "sandwishizzo" and custard pie
 - **[entity:7763157|Talos]**: Worships this human demigod who ascended to the Nine Gods
 - **[entity:7764103|Vidia]**: Small sprite companion who was petrified alongside him, now serves as light source and bag carrier
 - **Fey Creatures**: Has been pursued by fey for centuries seeking his secret recipes
+- **One-Eyed Figure**: Mysterious observer who Alrik believes is following him for his recipes
 - **The Party**: Recently rescued companions, particularly grateful to those who freed him from petrification
 - **[entity:7763295|Bruldin Grimstone]**: Connected through shared appreciation for quality mead, overcoming initial dismissive attitude
 - **Wild Fey Alliance**: Tested by fairies and reluctantly accepted despite horrifying them with sautéing suggestions
@@ -55,8 +56,10 @@ A chef whose culinary creations, particularly his "sandwishizzo" and custard pie
 - **The Alchemy Studies**: Began learning alchemical processes and principles from [entity:7764196|Rosencrantz] during downtime
 - **The Von Carstein Mansion**: Participated in [entity:7773183|Von Carstein Mansion Clearing] of undead creatures using needle gun magic and tactical positioning
 - **The Scientific Studies**: Connected with [entity:7764196|Rosencrantz] over shared appreciation for scientific methodology and engineering, rolling natural 20 on learning check
-- **The Moon Ritual**: Fell asleep snoring during [entity:7763290|Arnór's] waning moon ceremony despite initial attendance
+- **The Moon Ritual**: Fell asleep snoring during [entity:7763290|Arnor's] waning moon ceremony despite initial attendance
 - **The Wagon Recovery**: Provided healing support and combat assistance during [entity:7766572|Wagon Recovery Mission], fighting bulvaks with maul attacks
+- **The Breakfast Preparation**: Used his medical tools to prepare breakfast for the party, demonstrating his unconventional culinary methods
+- **The One-Eyed Observer**: When mysterious one-eyed figure appeared after bulvak battle, nervously claimed "They're following me. They want my recipe"
 
 ## Current Status
 

@@ -4,7 +4,7 @@ name: Aurorin (Frost Elves)
 type: Elf
 is_hidden: false
 created: '2025-06-12T21:07:08+00:00'
-updated: '2025-06-17T02:03:36.426002+00:00'
+updated: '2025-06-22T13:25:39.944296+00:00'
 ---
 
 # Aurorin (Frost Elves)

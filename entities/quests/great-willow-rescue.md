@@ -4,7 +4,7 @@ name: The Great Willow Rescue
 type: Combat
 is_hidden: false
 created: '2025-06-13T01:40:15+00:00'
-updated: '2025-06-20T15:41:49.631337+00:00'
+updated: '2025-06-22T13:26:58.883966+00:00'
 is_completed: true
 ---
 # The Great Willow Rescue
@@ -89,4 +89,4 @@ This mission established the party's reputation with fey allies and demonstrated
 - **[entity:7773180|Elderberry Procurement]**: [entity:7764102|Aelysh's] request hints at ongoing fey-mortal tensions and magical resource politics
 - **[entity:7764110|Basilisk Threat]**: Discovered during rescue mission when party found petrified [entity:7763289|Alrik] and companions
 - **[entity:7764109|Goblin Patrol Mission]**: Occurred simultaneously as party split to handle both fey emergency and security concerns
-- **[entity:7773181|Witch Coven Establishment]**: The magical nature of the forest and fey alliances may attract practitioners like [entity:7763290|Arnór]
+- **[entity:7773181|Witch Coven Establishment]**: The magical nature of the forest and fey alliances may attract practitioners like [entity:7763290|Arnor]

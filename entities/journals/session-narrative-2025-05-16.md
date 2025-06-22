@@ -4,14 +4,14 @@ name: 01 - The Bridge and the Bloodline
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:43:12+00:00'
-updated: '2025-06-21T22:10:19+00:00'
+updated: '2025-06-22T13:20:39.374987+00:00'
 ---
 
 # Chapter 1 - The Bridge and the Bloodline
 
-Salt spray kissed the weathered planks of the trading vessel as it cut through iron-grey waters, carrying [entity:7763290|Arnór Josefson] away from the familiar shores of [entity:7763868|Ni]. The [entity:7763211|Norn] wanderer stood at the rail, his weathered features drawing curious glances from sailors who whispered of old magic and northern mysteries. Their superstitions seemed almost quaint compared to what awaited on distant shores.
+Salt spray kissed the weathered planks of the trading vessel as it cut through iron-grey waters, carrying [entity:7763290|Arnor Josefson] away from the familiar shores of [entity:7763868|Ni]. The [entity:7763211|Norn] wanderer stood at the rail, his weathered features drawing curious glances from sailors who whispered of old magic and northern mysteries. Their superstitions seemed almost quaint compared to what awaited on distant shores.
 
-Near the cabin, [entity:7763693|Sylvia Mournhold] adjusted her fine armor with practiced precision, the matched rapiers at her hips catching morning light. Everything about her spoke of wealth and purpose—from the noble bearing to the way she held herself apart from the common sailors. When [entity:7763290|Arnór] attempted to engage the crew in dice games, she watched with the detached interest of someone cataloging future assets.
+Near the cabin, [entity:7763693|Sylvia Mournhold] adjusted her fine armor with practiced precision, the matched rapiers at her hips catching morning light. Everything about her spoke of wealth and purpose—from the noble bearing to the way she held herself apart from the common sailors. When [entity:7763290|Arnor] attempted to engage the crew in dice games, she watched with the detached interest of someone cataloging future assets.
 
 Days blurred together on the voyage, marked only by the sailors' growing tension and the gradual appearance of [entity:7763870|Menoth-Derith's] cliff-carved harbor. The new [entity:7763209|Duergar] port rose from the coastline like a defiant fist, its fresh-hewn buildings declaring civilization's intent to tame the frontier.
 
@@ -37,7 +37,7 @@ In [entity:7763870|Menoth-Derith], [entity:7763295|Bruldin Grimstone] waited wit
 
 "Ah, yes, well we could definitely use one of your type." The caravan master's relief was palpable. [entity:7763122|Dwarven Slayers] commanded respect even among the [entity:7763865|Vanguard Mercenaries] with their ridiculous codpieces and impractical armor.
 
-As disparate groups converged—[entity:7763290|Arnór] and [entity:7763693|Sylvia] from the sea, [entity:7763296|Qotal] and [entity:7763866|Lyn] from the east, [entity:7763295|Bruldin] from his patient vigil—the caravan master made his proposition clear. Guard the rear for free passage and gold at journey's end. Simple terms for what would prove far from simple work.
+As disparate groups converged—[entity:7763290|Arnor] and [entity:7763693|Sylvia] from the sea, [entity:7763296|Qotal] and [entity:7763866|Lyn] from the east, [entity:7763295|Bruldin] from his patient vigil—the caravan master made his proposition clear. Guard the rear for free passage and gold at journey's end. Simple terms for what would prove far from simple work.
 
 ---
 
@@ -49,7 +49,7 @@ When the caravan arrived the next afternoon, she emerged from shadows to join th
 
 As twilight painted the sky crimson, the party worked to secure their shelter. [entity:7763295|Bruldin] drove stakes with rhythmic precision, each blow accompanied by fragments of dwarven drinking songs. "The ale was flat, the gold was cursed, but damn it I'd do it again!" His fortifications transformed the entrance into a bristling hedge of sharpened wood.
 
-[entity:7763296|Qotal] wove tripwires with an acrobat's precision while [entity:7763290|Arnór] struggled with damp wood that refused his attempts at trap-setting. [entity:7763866|Lyn] moved through the space spreading incense and murmuring prayers, his efforts complementing rather than replacing the martial preparations. [entity:7763693|Sylvia] directed repairs with the ease of someone accustomed to command, her workers responding to crisp orders that brooked no delay.
+[entity:7763296|Qotal] wove tripwires with an acrobat's precision while [entity:7763290|Arnor] struggled with damp wood that refused his attempts at trap-setting. [entity:7763866|Lyn] moved through the space spreading incense and murmuring prayers, his efforts complementing rather than replacing the martial preparations. [entity:7763693|Sylvia] directed repairs with the ease of someone accustomed to command, her workers responding to crisp orders that brooked no delay.
 
 ---
 
@@ -69,7 +69,7 @@ The orc's attention shifted to [entity:7763296|Qotal], confusion plain on his tu
 
 "It's not about the color of your skin but the content of your character," [entity:7763294|Aurelia] interjected, her voice carrying the weight of old nobility even as she tensed for violence.
 
-"I tend to stay in the shadow," [entity:7763290|Arnór] added, though whether he meant it as threat or explanation remained unclear.
+"I tend to stay in the shadow," [entity:7763290|Arnor] added, though whether he meant it as threat or explanation remained unclear.
 
 [entity:7763295|Bruldin] ended negotiations with dwarven directness, slamming his maul against his palm. "The only toll you'll get is from old Bessie here."
 
@@ -85,7 +85,7 @@ Goblins poured through the breach in pairs, their movements suggesting practiced
 
 [entity:7763296|Qotal] moved like water between enemies, his staff work precise as calligraphy. Each strike flowed into the next, dropping goblins with mechanical efficiency. Yet even his grace couldn't prevent the orc's massive maul from finding its mark, sending the monk sprawling into unconsciousness.
 
-[entity:7763290|Arnór] wove magic into the night, his **Needle Darts** carrying cold iron's bite to pierce the orc's thick hide. When both frontline fighters fell, desperation colored his voice. "Natvig, help!"
+[entity:7763290|Arnor] wove magic into the night, his **Needle Darts** carrying cold iron's bite to pierce the orc's thick hide. When both frontline fighters fell, desperation colored his voice. "Natvig, help!"
 
 The response defied explanation—a creature burst from the forest, its form indistinct as it swooped over the combatants. Whatever [entity:7763867|Natvig] was, its presence disrupted the orc's defenses at the crucial moment.
 
@@ -97,7 +97,7 @@ The response defied explanation—a creature burst from the forest, its form ind
 
 Days passed in wary travel through primeval forest where the ground trembled with distant footfalls of giants and mammoths. When they reached a more secure [entity:7763869|caravanserai], relief painted itself across every face. Here, with proper walls and vigilant guards, they could lower their shields slightly.
 
-Firelight danced across gathered faces as [entity:7763296|Qotal] produced his lute, fingers finding familiar melodies. Simple songs emerged—tales of millers and werewolves, of maidens fair and monsters foul. [entity:7763290|Arnór's] flute wove counterpoint while [entity:7763866|Lyn] hummed along, offering flower tea that tasted of distant mountains.
+Firelight danced across gathered faces as [entity:7763296|Qotal] produced his lute, fingers finding familiar melodies. Simple songs emerged—tales of millers and werewolves, of maidens fair and monsters foul. [entity:7763290|Arnor's] flute wove counterpoint while [entity:7763866|Lyn] hummed along, offering flower tea that tasted of distant mountains.
 
 [entity:7763693|Sylvia] watched with the same calculating gaze she'd worn aboard ship. "You guys had fought well. I had heard the prowess of the [entity:7763209|Duergar]. I had never seen you in action, however."
 
@@ -111,7 +111,7 @@ The change in [entity:7763295|Bruldin] was immediate—his boisterous nature ret
 
 "I'm just here on family business," [entity:7763693|Sylvia] added with the resignation of younger children everywhere. "I was voluntold to go here and see to our family's duties."
 
-[entity:7763290|Arnór] kept his words simple. "I'm Arnor Josefsson of [entity:7763178|Solstheim]. Looking for my fortune, wandering the world."
+[entity:7763290|Arnor] kept his words simple. "I'm Arnor Josefsson of [entity:7763178|Solstheim]. Looking for my fortune, wandering the world."
 
 [entity:7763294|Aurelia] folded origami with practiced fingers, each crane and flower perfect despite her divided attention. "Investigating. Looking into something for a friend."
 
@@ -119,7 +119,7 @@ The change in [entity:7763295|Bruldin] was immediate—his boisterous nature ret
 
 The [entity:7763864|goblin raiders] struck again as [entity:7763187|Teghrim's Crossing] drew near, their organization suggesting this was no random banditry. Sling stones rained from forest cover, forcing the party to return fire while racing wagons bounced over ancient [entity:7763209|dwarven] roads.
 
-[entity:7763290|Arnór's] evil eye symbol sent younger goblins fleeing in superstitious terror while [entity:7763295|Bruldin's] reputation preceded him like a wave. But true horror arrived on eight legs—goblin cavalry mounted on giant spiders, their approach heralded by the bizarre bouncing of squigs. These mouth-creatures defied description, essentially ambulatory maws with just enough leg to propel them toward prey.
+[entity:7763290|Arnor's] evil eye symbol sent younger goblins fleeing in superstitious terror while [entity:7763295|Bruldin's] reputation preceded him like a wave. But true horror arrived on eight legs—goblin cavalry mounted on giant spiders, their approach heralded by the bizarre bouncing of squigs. These mouth-creatures defied description, essentially ambulatory maws with just enough leg to propel them toward prey.
 
 [entity:7763294|Aurelia] fell twice in the running battle, her dhampir constitution the only thing standing between her and true death. [entity:7763866|Lyn's] healing touch proved as valuable as any warrior's blade, dragging her back from unconsciousness even as spider riders pressed their attack.
 
@@ -129,6 +129,6 @@ The party's escape came through desperation and skill combined—every trick emp
 
 [entity:7763187|Teghrim's Crossing] rose before them like a promise fulfilled. The bridge spanned waters wide as the Missouri, its length supporting not just passage but entire buildings that clung to its structure like barnacles to a ship's hull. After three weeks of danger and blood, they had arrived.
 
-Ten gold pieces each—a pittance for what they'd endured, a fortune for what they'd begun. As they crossed that mighty bridge, none could say what futures awaited in this frontier settlement. But bonds forged in goblin blood and midnight battles would prove stronger than any bridge's stone, and the mysteries each carried—[entity:7763296|Qotal's] broken blade, [entity:7763294|Aurelia's] investigation, [entity:7763290|Arnór's] connection to creatures that answered desperate calls—would soon demand answers.
+Ten gold pieces each—a pittance for what they'd endured, a fortune for what they'd begun. As they crossed that mighty bridge, none could say what futures awaited in this frontier settlement. But bonds forged in goblin blood and midnight battles would prove stronger than any bridge's stone, and the mysteries each carried—[entity:7763296|Qotal's] broken blade, [entity:7763294|Aurelia's] investigation, [entity:7763290|Arnor's] connection to creatures that answered desperate calls—would soon demand answers.
 
 The bridge beneath their feet thrummed with the passage of countless souls seeking fortune or fleeing failure. Among them now walked five more, their stories just beginning to interweave with the greater tapestry of [entity:7763187|Teghrim's Crossing] and the lands beyond.

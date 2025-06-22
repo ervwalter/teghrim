@@ -4,7 +4,7 @@ name: Gierr's Island
 type: Island
 is_hidden: false
 created: '2025-06-13T02:25:43+00:00'
-updated: '2025-06-20T15:41:48.718555+00:00'
+updated: '2025-06-22T13:24:34.594145+00:00'
 ---
 
 # Gierr's Island

@@ -4,7 +4,7 @@ name: The Consortium
 type: Trade Alliance
 is_hidden: false
 created: '2025-06-13T02:25:39+00:00'
-updated: '2025-06-17T02:14:26.875784+00:00'
+updated: '2025-06-22T13:20:22.392221+00:00'
 ---
 # The Consortium
 

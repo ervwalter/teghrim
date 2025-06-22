@@ -4,7 +4,7 @@ name: Children of Death
 type: Religious Order
 is_hidden: false
 created: '2025-06-12T21:06:22+00:00'
-updated: '2025-06-17T01:59:48+00:00'
+updated: '2025-06-22T13:20:26.711366+00:00'
 ---
 
 # Children of Death

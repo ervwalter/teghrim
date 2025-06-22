@@ -4,7 +4,7 @@ type: NPC
 is_hidden: false
 entity_id: 7797913
 created: '2025-06-21T21:24:42.867477+00:00'
-updated: '2025-06-21T21:24:42.867483+00:00'
+updated: '2025-06-22T13:23:32.267061+00:00'
 ---
 
 # One-Eyed Figure

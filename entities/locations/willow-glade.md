@@ -4,7 +4,7 @@ name: Willow Glade
 type: Landmark
 is_hidden: false
 created: '2025-06-13T01:40:15+00:00'
-updated: '2025-06-17T02:15:42.927939+00:00'
+updated: '2025-06-22T13:25:33.871381+00:00'
 ---
 # Willow Glade
 

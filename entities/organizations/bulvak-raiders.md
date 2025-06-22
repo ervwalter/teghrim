@@ -4,7 +4,7 @@ type: Military Order
 is_hidden: false
 entity_id: 7797901
 created: '2025-06-21T21:24:38.359996+00:00'
-updated: '2025-06-21T21:24:38.360002+00:00'
+updated: '2025-06-22T13:20:27.554839+00:00'
 ---
 
 # Bulvak Raiders

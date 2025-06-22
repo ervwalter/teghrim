@@ -4,7 +4,7 @@ name: Kobolds
 type: Other
 is_hidden: false
 created: '2025-06-12T21:07:11+00:00'
-updated: '2025-06-17T02:04:28.973793+00:00'
+updated: '2025-06-22T13:25:46.914557+00:00'
 ---
 
 # Kobolds

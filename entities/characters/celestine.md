@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:25+00:00'
-updated: '2025-06-17T01:59:59.780403+00:00'
+updated: '2025-06-22T13:21:33.220798+00:00'
 ---
 
 # Celestine

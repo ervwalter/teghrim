@@ -4,7 +4,7 @@ name: Qotal
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:37:10+00:00'
-updated: '2025-06-21T21:24:56.556075+00:00'
+updated: '2025-06-22T13:23:12.585961+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25af8c-87ef-460a-9fa0-367d6acdb65e.png
 ---
 # Qotal
@@ -58,7 +58,7 @@ Raised in a monastery in [entity:7763174|Primordia] where pupils learn to hear e
 - **The Magical Identification**: Used Crafter's Appraisal to identify dwarven clan dagger (+1 potency), missive mint (25-word message delivery), and concealed sheath (+1 stealth) for party
 - **The Weapon Support**: Offered temporary use of dwarven clan dagger to [entity:7763294|Aurelia] while her rapier underwent rune transfer
 - **The Nature Studies**: Spent downtime learning about [entity:7764102|Aelysh's] scientific approach to botanical research
-- **The Wagon Recovery**: Participated in [entity:7766572|Wagon Recovery Mission], using flurry attacks against bulvaks and helping rescue caravan guards
+- **The Wagon Recovery**: Participated in [entity:7766572|Wagon Recovery Mission], using flurry attacks against bulvaks despite being grabbed and gored by Gore during the battle, ultimately helping rescue caravan guards
 
 ## Current Status
 

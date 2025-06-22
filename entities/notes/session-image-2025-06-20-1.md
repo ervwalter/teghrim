@@ -3,7 +3,7 @@ name: "2025-06-20 Image 1 - Arn\xF3r's Moon Ritual"
 type: Image Prompt
 is_hidden: true
 created: '2025-06-21T21:24:46.473654+00:00'
-updated: '2025-06-21T21:24:46.473660+00:00'
+updated: '2025-06-22T13:28:06.595631+00:00'
 entity_id: 7797922
 ---
 
@@ -17,11 +17,11 @@ Epic fantasy digital painting, a mystical Nordic shaman (male human with long da
 
 ## Context
 
-Arnór performs a waning moon ritual in the woods outside Teghrim's Crossing, formally introducing his familiar Natvig to the party while invoking ancient Norse traditions.
+Arnor performs a waning moon ritual in the woods outside Teghrim's Crossing, formally introducing his familiar Natvig to the party while invoking ancient Norse traditions.
 
 ## Key Elements
 
-- **Characters**: Arnór (Norn ritualist), Natvig (trash griffin), Alrik (sleeping), Aurelia (observing)
+- **Characters**: Arnor (Norn ritualist), Natvig (trash griffin), Alrik (sleeping), Aurelia (observing)
 - **Location**: Sacred forest clearing at night
 - **Mood**: Mystical, reverent, ancient
 - **Visual Focus**: The ritual magic spiraling toward the moon

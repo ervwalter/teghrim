@@ -4,7 +4,7 @@ name: Frerheim
 type: Region
 is_hidden: false
 created: '2025-06-12T21:07:03+00:00'
-updated: '2025-06-17T02:03:23.950618+00:00'
+updated: '2025-06-22T13:24:40.659647+00:00'
 ---
 
 # Frerheim

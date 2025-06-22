@@ -1,16 +1,16 @@
 ---
 entity_id: 7763290
-name: "Arn\xF3r Josefson"
+name: Arnor Josefson
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:52+00:00'
-updated: '2025-06-21T21:24:57.436703+00:00'
+updated: '2025-06-22T13:23:13.497391+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369fe-110e-4695-8960-7254b8b5c619.jpg
 ---
 
-# Arnór Josefson
+# Arnor Josefson
 
-Arnór Josefson is a [entity:7763211|Norn] wanderer from [entity:7763178|Solstheim] seeking his fortune in distant lands. His mysterious connection to otherworldly entities makes him a unique figure among adventurers, combining practical combat magic with enigmatic supernatural allies.
+Arnor Josefson is a [entity:7763211|Norn] wanderer from [entity:7763178|Solstheim] seeking his fortune in distant lands. His mysterious connection to otherworldly entities makes him a unique figure among adventurers, combining practical combat magic with enigmatic supernatural allies.
 
 ## Description
 
@@ -32,7 +32,7 @@ Hails from [entity:7763178|Solstheim], the Norse island nation known for produci
 
 ## Relationships
 
-- **[entity:7763867|Natvig]**: Mysterious flying entity that responds to Arnór's calls for aid
+- **[entity:7763867|Natvig]**: His familiar, a trash griffin (crow-raccoon hybrid) who serves as intermediary with spirits for spell acquisition
 - **[entity:7763178|Solstheim]**: Native homeland and cultural foundation
 - **The Party**: Fellow adventurers who have witnessed his unusual abilities
 - **Mountain Stronghold**: Possesses enchanted stone that grants bonuses against certain foes
@@ -53,13 +53,13 @@ Hails from [entity:7763178|Solstheim], the Norse island nation known for produci
 - **The Fungus Investigation**: Employed lightning magic effectively against rust oozes that resisted steel weapons, participated in quest to eliminate fungal infection threatening forest ecosystem near [entity:7763187|Teghrim's Crossing]
 - **The Knowledge Gathering**: Visited [entity:7764193|Osanna Von Carstein] during downtime to learn about Astorian culture and politics
 - **The Moon Ritual**: Conducted waning moon ceremony in woods outside town, formally introducing [entity:7763867|Natvig] as his familiar to the party
-- **The Familiar Bond**: Revealed that Natvig serves as intermediary with spirits for spell acquisition
+- **The Familiar Bond**: Formally introduced [entity:7763867|Natvig] as his familiar to the party, revealing the trash griffin's role as intermediary with spirits for spell acquisition. Natvig makes distinctive chirping-croak sounds and shows particular interest in food scraps from [entity:7763296|Qotal]
 - **The Wagon Recovery**: Supported party during [entity:7766572|Wagon Recovery Mission] with needle darts using cold iron and silver materials
 
 ## Current Status
 
-Recently arrived at [entity:7763187|Teghrim's Crossing] with his mysterious abilities proven through multiple combats. His connection to [entity:7763867|Natvig] and possession of enchanted materials suggest deeper supernatural knowledge than most adventurers.
+Active at [entity:7763187|Teghrim's Crossing] with his abilities proven through multiple combats. His familiar [entity:7763867|Natvig] now openly accompanies the party on missions, no longer a hidden ally. His possession of enchanted materials and ritualistic practices mark him as a practitioner of ancient [entity:7763211|Norn] mystical traditions.
 
 ## Secrets & Mysteries
 
-The true nature of Arnór's relationship with [entity:7763867|Natvig] and the source of his supernatural abilities remain unexplored. His otherworldly connections suggest knowledge or heritage beyond typical [entity:7763211|Norn] experience.
+While Arnor has revealed [entity:7763867|Natvig] as his familiar who facilitates spirit communication for spell acquisition, the deeper source of his supernatural abilities and the specific nature of these spirit connections remain mysterious. His ritualistic moon ceremonies and ancient songs suggest knowledge or heritage beyond typical [entity:7763211|Norn] experience.

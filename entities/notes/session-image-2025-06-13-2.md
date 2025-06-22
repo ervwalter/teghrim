@@ -3,7 +3,7 @@ name: 2025-06-13 Image 2 - Lightning Versus Rust
 type: Image Prompt
 is_hidden: true
 created: '2025-06-21T21:24:46.887607+00:00'
-updated: '2025-06-21T21:24:46.887613+00:00'
+updated: '2025-06-22T13:28:07.436091+00:00'
 entity_id: 7797923
 ---
 
@@ -17,11 +17,11 @@ Epic fantasy digital painting, dramatic battle scene on a weathered wooden bridg
 
 ## Context
 
-The party battles two rust oozes on an old bridge while traveling to investigate the source of a fungal infection, with Arnór's lightning magic proving crucial against creatures that corrode metal weapons.
+The party battles two rust oozes on an old bridge while traveling to investigate the source of a fungal infection, with Arnor's lightning magic proving crucial against creatures that corrode metal weapons.
 
 ## Key Elements
 
-- **Characters**: Arnór (channeling lightning), Aurelia (evading with corroded sword), Bruldin (using maul as club), Aelysh (supporting with magic)
+- **Characters**: Arnor (channeling lightning), Aurelia (evading with corroded sword), Bruldin (using maul as club), Aelysh (supporting with magic)
 - **Location**: Old wooden bridge over shallow ravine
 - **Mood**: Desperate combat with deteriorating weapons
 - **Visual Focus**: Lightning strike illuminating the battle against rust oozes

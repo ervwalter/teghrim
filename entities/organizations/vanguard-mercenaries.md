@@ -4,7 +4,7 @@ name: Vanguard Mercenaries
 type: Military Order
 is_hidden: false
 created: '2025-06-13T00:29:55+00:00'
-updated: '2025-06-17T02:14:29.418234+00:00'
+updated: '2025-06-22T13:20:25.829655+00:00'
 ---
 # Vanguard Mercenaries
 

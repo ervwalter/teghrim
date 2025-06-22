@@ -4,7 +4,7 @@ name: Von Carstein Mansion Clearing
 type: Combat
 is_hidden: false
 created: '2025-06-15T18:14:05+00:00'
-updated: '2025-06-21T21:25:01.891588+00:00'
+updated: '2025-06-22T13:27:05.995565+00:00'
 is_completed: true
 ---
 # Von Carstein Mansion Clearing
@@ -58,7 +58,7 @@ Inside the elaborate estate, the party discovered:
 
 - [entity:7763296|Qotal]
 - [entity:7763294|Aurelia]
-- [entity:7763290|Arnór Josefson]
+- [entity:7763290|Arnor Josefson]
 - [entity:7763289|Alrik Grimmelstang]
 - [entity:7764102|Aelysh]
 

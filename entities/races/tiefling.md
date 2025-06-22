@@ -4,7 +4,7 @@ name: Tiefling
 type: Other
 is_hidden: false
 created: '2025-06-12T21:07:20+00:00'
-updated: '2025-06-17T02:04:46.271957+00:00'
+updated: '2025-06-22T13:26:51.020566+00:00'
 ---
 
 # Tiefling

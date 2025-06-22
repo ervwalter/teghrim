@@ -4,7 +4,7 @@ name: 03 - Necromancer's Welcome
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T14:13:08+00:00'
-updated: '2025-06-21T21:24:49.247836+00:00'
+updated: '2025-06-22T13:20:32.974465+00:00'
 ---
 
 # Chapter 3 - Necromancer's Welcome
@@ -79,21 +79,21 @@ The settlement's rhythm over the next two days took on the peculiar quality of e
 
 "The civilized camps upriver, they're cousins mostly," [entity:7764195|Gaz] explained over carefully watered wine. "But the raiders? They're getting organized. Used to be just tollgates and robbery. Now there's talk of something bigger. Someone's united several tribes."
 
-[entity:7763290|Arnór's] investigations took a different path. His search for witch covens or kindred practitioners led him through the settlement's less-traveled ways. Near sunset, he discovered the [entity:7764201|Hades shrine] built into the bridge's very structure—a somber alcove where travelers left coins for the ferryman.
+[entity:7763290|Arnor's] investigations took a different path. His search for witch covens or kindred practitioners led him through the settlement's less-traveled ways. Near sunset, he discovered the [entity:7764201|Hades shrine] built into the bridge's very structure—a somber alcove where travelers left coins for the ferryman.
 
 The shrine's caretaker, a severe woman in [entity:7763137|Pharasma's] colors, watched him examine the offerings. "Hades keeps the dead in their place," she said without prompting. "The purveyor of the undead, some call him. Though these days, with vampires buying property upstream..." She didn't finish the thought.
 
-Finding no existing practitioners, [entity:7763290|Arnór] took matters into his own hands. As twilight painted the sky purple, he carved subtle witch marks into wood and stone—signals to those who knew how to read them. "I walk among you," the symbols declared. "Let us speak."
+Finding no existing practitioners, [entity:7763290|Arnor] took matters into his own hands. As twilight painted the sky purple, he carved subtle witch marks into wood and stone—signals to those who knew how to read them. "I walk among you," the symbols declared. "Let us speak."
 
 Later, checking on [entity:7763867|Natvig] through their familiar bond, he found the creature agitated but safe, wheeling through night skies with purpose [entity:7763290|the Norn] couldn't quite discern.
 
 ---
 
-"Uncle's a difficult man," [entity:7764194|Sigrid] admitted as she showed [entity:7763290|Arnór] the better goods in the general store's back room. They'd been speaking [entity:7763223|Skald] for several minutes, the familiar rhythm of homeland speech warming them both like good mead.
+"Uncle's a difficult man," [entity:7764194|Sigrid] admitted as she showed [entity:7763290|Arnor] the better goods in the general store's back room. They'd been speaking [entity:7763223|Skald] for several minutes, the familiar rhythm of homeland speech warming them both like good mead.
 
 "But [entity:7764100|Gierr] keeps the best honey in three territories. His mead..." She kissed her fingers. "Worth dealing with his moods."
 
-"You fled [entity:7763178|Solstheim] too," [entity:7763290|Arnór] observed, not quite making it a question.
+"You fled [entity:7763178|Solstheim] too," [entity:7763290|Arnor] observed, not quite making it a question.
 
 "Different reasons than yours, I'd wager. But yes. The homeland's beauty couldn't balance its... limitations." She pulled out a ledger, switching to practicalities. "The ring you mentioned—I can offer half value now, or you could wait for the caravan. They'll give you two-thirds, maybe three-quarters if you haggle."
 
@@ -119,7 +119,7 @@ From the second-floor balcony, a figure in tattered robes began weaving patterns
 
 Below, chaos erupted. Skeps poured from doorways and cellar windows in waves. [entity:7763289|Alrik's] needle gun spat magical projectiles while [entity:7764103|Vidia] darted between enemies, her light disorienting their already-poor vision. [entity:7764102|Aelysh's] vine whips created a green barrier that the undead struggled to breach, buying precious moments for coordinated strikes.
 
-[entity:7763290|Arnór] flanked wide, his magic striking at unexpected angles. Each fallen skep that didn't rise again was a small victory, but the necromancer's power seemed inexhaustible.
+[entity:7763290|Arnor] flanked wide, his magic striking at unexpected angles. Each fallen skep that didn't rise again was a small victory, but the necromancer's power seemed inexhaustible.
 
 Then [entity:7763296|Qotal] reached the balcony.
 
@@ -139,7 +139,7 @@ The name hung in the air like incense at a funeral. Even those unfamiliar with [
 
 "Bridge building," [entity:7763295|Bruldin] summarized with dwarf practicality. "Not just the physical kind. Commercial. Political."
 
-"And now vampiric," [entity:7763290|Arnór] added.
+"And now vampiric," [entity:7763290|Arnor] added.
 
 They loaded their boat with everything portable and valuable, but the weight of knowledge pressed heavier than any gold. As they poled back toward [entity:7763187|Teghrim's Crossing], the mansion stood empty behind them—cleared of its immediate threats but pregnant with darker promises.
 

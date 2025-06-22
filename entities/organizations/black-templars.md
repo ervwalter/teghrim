@@ -4,7 +4,7 @@ name: Black Templars
 type: Religious Order
 is_hidden: false
 created: '2025-06-12T21:06:22+00:00'
-updated: '2025-06-17T01:59:49.858714+00:00'
+updated: '2025-06-22T13:20:28.438054+00:00'
 ---
 
 # Black Templars

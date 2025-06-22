@@ -6,7 +6,7 @@ tags:
 - Greater Deity
 is_hidden: false
 created: '2025-06-12T21:06:35+00:00'
-updated: '2025-06-17T02:01:14.224766+00:00'
+updated: '2025-06-22T13:23:16.169584+00:00'
 ---
 
 # Luna
