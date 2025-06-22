@@ -25,17 +25,14 @@ For each audiobook that needs a video:
 The audiobook filename format is: `audiobook-YYYY-MM-DD-NNN-Title.mp3`
 Extract the date portion (YYYY-MM-DD) using regex or string splitting.
 
-### 2.2 Get chapter info from the session narrative
+### 2.2 Get chapter info and image URL from the session narrative
 Read the file `entities/journals/session-narrative-YYYY-MM-DD.md` and extract:
-- From frontmatter `name` field: look for pattern "NN - Title" where NN is chapter number
-- Or from content: look for "# Chapter N - Title" or "# Chapter N: Title"
+- From frontmatter:
+  - `name` field: look for pattern "NN - Title" where NN is chapter number
+  - `image` field: contains the Kanka CDN URL
+- Or from content: look for "# Chapter N - Title" or "# Chapter N: Title" if not in frontmatter
 
-### 2.3 Get the image URL from session summary
-Read the file `entities/journals/session-summary-YYYY-MM-DD.md` and:
-- Extract the YAML frontmatter
-- Get the `image` field which contains the Kanka CDN URL
-
-### 2.4 Download the image temporarily
+### 2.3 Download the image temporarily
 ```bash
 # Create a temporary file for the image
 temp_image=$(mktemp /tmp/session-image-XXXXXX.png)
@@ -44,7 +41,7 @@ temp_image=$(mktemp /tmp/session-image-XXXXXX.png)
 curl -L -o "$temp_image" "$image_url"
 ```
 
-### 2.5 Generate the video
+### 2.4 Generate the video
 ```bash
 python3 scripts/generate_video_from_audio.py \
   "audiobooks/audiobook-YYYY-MM-DD-NNN-Title.mp3" \
@@ -67,8 +64,7 @@ After processing all audiobooks, report:
 ## Error handling
 
 - If session narrative is missing: skip with warning
-- If session summary is missing: skip with warning
-- If image URL is missing from summary: skip with warning
+- If image URL is missing from narrative: skip with warning
 - If image download fails: skip with warning
 - If video generation fails: report the error but continue with next audiobook
 
@@ -84,14 +80,14 @@ Found 5 audiobooks:
 
 Processing audiobook-2025-06-13-004-The_Spore_and_the_Cure.mp3:
   - Found chapter info: Chapter 4 - The Spore and the Cure
-  - Found image URL in session summary
+  - Found image URL in session narrative
   - Downloading image...
   - Generating video...
   ✓ Created video-2025-06-13-004-The_Spore_and_the_Cure.mp4
 
 Processing audiobook-2025-06-20-005-The_One-Eyed_Witness.mp3:
   - Found chapter info: Chapter 5 - The One-Eyed Witness
-  - Found image URL in session summary
+  - Found image URL in session narrative
   - Downloading image...
   - Generating video...
   ✓ Created video-2025-06-20-005-The_One-Eyed_Witness.mp4

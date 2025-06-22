@@ -1,11 +1,12 @@
 ---
+entity_id: 7797905
 name: 05 - The One-Eyed Witness
 type: Session Narrative
 is_hidden: false
-created: '2025-06-21T21:24:39.807568+00:00'
-updated: '2025-06-22T14:28:22.749223+00:00'
-entity_id: 7797905
-youtube_url: hhttps://youtu.be/rWisFEPzq7Q?si=E7bNxo9hOvZzUgZq
+created: '2025-06-21T21:24:39+00:00'
+updated: '2025-06-22T15:22:53.870063+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f35f844-c986-410f-b0c7-5bf47c92cfbf.png
+youtube_url: https://youtu.be/ZjqSNnTrd54?si=ijefz6d1NjrHWczH
 ---
 
 # Chapter 5 - The One-Eyed Witness
@@ -32,7 +33,7 @@ The settlement's rhythm during enforced downtime took on a quality both languid 
 
 For [entity:7763289|Alrik], the day meant more time in [entity:7764196|Rosencrantz's] laboratory. The mechamagician's enthusiasm for the scientific method matched the chef's own experimental approach to cuisine. Between discussions of gear ratios and flavor profiles, they found unexpected common ground in their mutual disdain for society's meaningless protocols.
 
-That evening, beneath a waning gibbous moon, [entity:7763290|Arnor] led his companions into the woods. The clearing he'd chosen held the quality of sacred space—not through any altar or marking, but through the weight of intention brought to bear upon it. 
+That evening, beneath a waning gibbous moon, [entity:7763290|Arnor] led his companions into the woods. The clearing he'd chosen held the quality of sacred space—not through any altar or marking, but through the weight of intention brought to bear upon it.
 
 "This is Natvig," [entity:7763290|the Norn] said as his familiar landed on a nearby branch. The trash griffin fixed its bright eyes on the assembled party, head cocking with unmistakable intelligence. "He acts as my go-between with the spirits from whom I gain my spells."
 

@@ -7,7 +7,9 @@ Works with the new entity-based narrative system.
 import os
 import sys
 import re
+import io
 import argparse
+import subprocess
 from pathlib import Path
 from typing import List, Tuple, Optional
 
@@ -16,6 +18,13 @@ try:
     from elevenlabs.client import ElevenLabs
 except ImportError:
     print("Error: ElevenLabs SDK not installed. Run: pip install elevenlabs")
+    sys.exit(1)
+
+try:
+    from pydub import AudioSegment
+except ImportError:
+    print("Error: pydub not installed. Run: pip install pydub")
+    print("Note: You may also need ffmpeg installed on your system")
     sys.exit(1)
 
 # Voice ID for audiobook narration
@@ -165,6 +174,63 @@ def split_text_into_chunks(text: str, max_chunk_size: int = 3000) -> List[str]:
     return chunks
 
 
+def normalize_audio(input_path: Path, output_path: Path) -> bool:
+    """
+    Normalize audio using ffmpeg to fix volume dropoff issues.
+    
+    Args:
+        input_path: Path to the input audio file
+        output_path: Path for the normalized output
+        
+    Returns:
+        bool: True if successful
+    """
+    try:
+        # Check if ffmpeg is available
+        result = subprocess.run(["ffmpeg", "-version"], capture_output=True, check=False)
+        if result.returncode != 0:
+            print("  Warning: ffmpeg not found. Audio normalization skipped.")
+            print("  Install ffmpeg to enable audio normalization: apt-get install ffmpeg")
+            return False
+        
+        # Create temporary file for normalization
+        temp_path = output_path.with_suffix('.temp.mp3')
+        
+        # Run ffmpeg normalization using compressor + loudnorm
+        # This approach handles the ElevenLabs volume dropoff issue better
+        # acompressor: Compress dynamic range to prevent gradual volume decrease
+        #   - threshold=-20dB: Compression threshold
+        #   - ratio=4: Compression ratio (4:1)
+        #   - attack=5: Attack time in ms
+        #   - release=50: Release time in ms
+        # loudnorm: EBU R128 loudness normalization for consistent overall level
+        #   - I=-23: Target integrated loudness (lowered from -20 for quieter output)
+        #   - LRA=7: Loudness range
+        #   - TP=-2: True peak
+        cmd = [
+            "ffmpeg", "-i", str(input_path),
+            "-af", "acompressor=threshold=-20dB:ratio=4:attack=5:release=50,loudnorm=I=-23:LRA=7:TP=-2",
+            "-codec:a", "libmp3lame", "-b:a", "192k",
+            "-y",  # Overwrite output
+            str(temp_path)
+        ]
+        
+        print("  Normalizing audio levels...")
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        
+        if result.returncode == 0:
+            # Replace original with normalized version
+            temp_path.rename(output_path)
+            return True
+        else:
+            print(f"  Warning: Audio normalization failed: {result.stderr}")
+            return False
+            
+    except Exception as e:
+        print(f"  Warning: Audio normalization error: {e}")
+        return False
+
+
 def generate_audiobook(client: ElevenLabs, narrative_content: str, 
                       output_path: Path, chapter_num: int, title: str) -> bool:
     """
@@ -231,13 +297,30 @@ def generate_audiobook(client: ElevenLabs, narrative_content: str,
             with open(output_path, "wb") as f:
                 f.write(audio_buffers[0])
         else:
-            # Multiple chunks - combine them
+            # Multiple chunks - combine them properly using pydub
             print(f"  Combining {len(audio_buffers)} audio chunks...")
-            combined_audio = b''.join(audio_buffers)
-            with open(output_path, "wb") as f:
-                f.write(combined_audio)
             
-        print(f"  ✅ Audiobook created: {output_path}")
+            # Convert each MP3 chunk to AudioSegment and combine
+            combined_audio = AudioSegment.empty()
+            for i, audio_buffer in enumerate(audio_buffers):
+                try:
+                    # Load MP3 data into AudioSegment
+                    audio_segment = AudioSegment.from_mp3(io.BytesIO(audio_buffer))
+                    combined_audio += audio_segment
+                except Exception as e:
+                    print(f"    Warning: Error processing chunk {i+1}: {e}")
+            
+            # Export the combined audio as MP3
+            combined_audio.export(output_path, format="mp3", bitrate="192k")
+        
+        # Normalize the audio to fix volume dropoff
+        normalized = normalize_audio(output_path, output_path)
+        if normalized:
+            print(f"  ✅ Audiobook created and normalized: {output_path}")
+        else:
+            print(f"  ✅ Audiobook created: {output_path}")
+            print("     (Audio normalization skipped - install ffmpeg for better quality)")
+        
         return True
         
     except Exception as e:
