@@ -5,18 +5,18 @@ is_completed: false
 is_hidden: false
 entity_id: 7888228
 created: '2025-07-13T06:58:25.640476+00:00'
-updated: '2025-07-13T06:58:25.640483+00:00'
+updated: '2025-07-13T14:30:09.255849+00:00'
 ---
 
 # The Jailor Hunt
 
-A dangerous pursuit to track down and eliminate the Jailor, a unique undead-construct creature that captures people alive in a chest cage built into its body. This threat to regional safety emerged during the investigation of the abandoned farm and represents an ongoing danger to travelers and settlers.
+A dangerous pursuit to track down and eliminate the Jailor, a massive twenty-foot-tall undead-construct creature that captures people alive in a chest cage built into its body. This colossal threat to regional safety emerged during the investigation of the abandoned farm and represents an ongoing danger to travelers and settlers.
 
 ## Description
 
 ### Objective
 
-Locate, confront, and destroy the Jailor creature while rescuing any victims trapped in its chest cage. The mission requires careful planning due to the creature's formidable defenses and capture-focused tactics.
+Locate, confront, and destroy the massive Jailor creature while rescuing any victims trapped in its enormous chest cage. The mission requires careful planning due to the giant creature's formidable defenses and capture-focused tactics.
 
 ### Scope
 
@@ -43,13 +43,13 @@ The Jailor was first encountered after it attacked a caravan, capturing the occu
 
 ### Intelligence Gathered
 - **Capture Mechanics**: Creature focuses on non-lethal damage for live capture
-- **Physical Capabilities**: Massive strength, high-speed movement, projectile attacks
+- **Physical Capabilities**: Colossal size (20+ feet), massive strength, high-speed movement, projectile attacks
 - **Magical Properties**: Cursed footprints that explode when exposed to divine energy
 - **Current Status**: Escaped with full chest cage, location unknown
 
 ## Challenges Encountered
 
-- **Overwhelming Physical Power**: Creature capable of massive non-lethal damage
+- **Overwhelming Physical Power**: Twenty-foot-tall creature capable of massive non-lethal damage
 - **Capture Compulsion**: Single-minded focus on acquiring victims
 - **Environmental Hazards**: Cursed substance footprints pose additional threats
 - **Unknown Base**: Creature's lair or resting place remains unlocated

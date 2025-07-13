@@ -110,6 +110,17 @@ Example opening style:
 - "blue scarecrow" → "the straw sentinel" or "another construct"
 - Use atmospheric, descriptive, or contextual references that enhance the narrative
 
+### Game Mechanics Transformation:
+**CRITICAL**: Never reference game mechanics directly in narratives. Transform all mechanical elements into cinematic prose:
+- **Damage numbers**: "20 points of damage" → "a crushing blow that left him reeling"
+- **Hit points**: "reduced to 2 hit points" → "barely clinging to life"
+- **Actions**: "three-action heal" → "channeled divine power in a desperate prayer"
+- **Conditions**: "clumsy 1 condition" → "fumbling with uncharacteristic clumsiness"
+- **Rolls/Saves**: "failed the save" → "succumbed to the creature's influence"
+- **Critical hits**: "critical hit for 38 damage" → "a bone-crushing blow that sent her sprawling"
+
+Focus on the **narrative effect** rather than the mechanical cause. Describe what characters see, feel, and experience - not the numbers or systems behind it.
+
 ### Processing the Digest:
 
 1. **Determine Chapter Number**:
@@ -212,8 +223,9 @@ Note: Use two-digit format in the frontmatter name (e.g., "01 - The Bridge and t
 - Make combat dynamic and cinematic
 
 **DON'T:**
-- Mention game mechanics or dice
-- Use meta-game terminology
+- Mention game mechanics, dice, or numbers
+- Reference damage amounts, hit points, or conditions
+- Use meta-game terminology (saves, checks, rolls, actions)
 - Include player names or table talk
 - List events mechanically
 - Rush through important moments

@@ -4,18 +4,18 @@ type: Monstrous
 is_hidden: false
 entity_id: 7888221
 created: '2025-07-13T06:58:22.341998+00:00'
-updated: '2025-07-13T06:58:22.342006+00:00'
+updated: '2025-07-13T14:30:08.394924+00:00'
 ---
 
 # The Jailor
 
-The Jailor is a large, unique undead-construct hybrid creature that roams the frontier territories, capturing people alive in a cage built into its chest. This horrifying entity combines aspects of undead animation with constructed resilience, making it a formidable threat to travelers and settlers in remote areas.
+The Jailor is a massive, unique undead-construct hybrid creature standing over twenty feet tall that roams the frontier territories, capturing people alive in a cage built into its chest. This horrifying giant combines aspects of undead animation with constructed resilience, making it a formidable threat to travelers and settlers in remote areas.
 
 ## Description
 
 ### Physical Appearance
 
-A towering, nightmarish figure standing well over human height with a skeletal, emaciated frame draped in tattered robes and chains. Its most horrifying feature is the large iron cage built directly into its ribcage, clearly visible through gaps in its decaying flesh and clothing. The creature's skull-like head is adorned with curved horns or bone protrusions, giving it a demonic appearance. Rusted chains and shackles hang from various points on its body, some trailing to the ground, creating an ominous rattling sound as it moves. Its arms end in clawed hands capable of grasping victims, while its lower body appears to merge into a mass of bones, chains, and tortured souls. The entire creature has a sickly greenish-pale coloration with areas of decay and corruption visible throughout. Its footprints measure approximately a foot and a half in circumference and appear misshapen, leaving behind thick black substance that drains color from nearby objects.
+A colossal, nightmarish figure towering over twenty feet in height with a skeletal, emaciated frame draped in tattered robes and chains. Its most horrifying feature is the massive iron cage built directly into its ribcage - large enough to hold multiple human-sized captives - clearly visible through gaps in its decaying flesh and clothing. The creature's skull-like head looms high above, adorned with curved horns or bone protrusions, giving it a demonic appearance. Rusted chains and shackles hang from various points on its enormous body, many trailing all the way to the ground, creating an ominous rattling sound as it moves. Its massive arms end in clawed hands easily capable of grasping human victims, while its lower body appears to merge into a writhing mass of bones, chains, and tortured souls. The entire creature has a sickly greenish-pale coloration with areas of decay and corruption visible throughout. Its footprints measure approximately a foot and a half in circumference and appear misshapen, leaving behind thick black substance that drains color from nearby objects.
 
 ### Personality & Demeanor
 
