@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:02:53+00:00'
-updated: '2025-06-22T13:23:24+00:00'
+updated: '2025-07-13T06:58:33.494351+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336bf8-9c36-4054-8fb5-95d42d379e20.jpg
 ---
 
@@ -26,7 +26,7 @@ Formal and observant, Sylvia approaches situations with measured consideration. 
 
 ### Abilities & Skills
 
-Trained in noble combat arts focusing on finesse over brute force, with a duelist style reminiscent of legendary swordsmen like Inigo Montoya. Her ornate rapier technique emphasizes proper form and defensive positioning. Possesses diplomatic training and extensive knowledge of the Iron Kingdoms, serving as a specialist in this area. Well-versed in merchant family knowledge of trade routes and negotiations.
+Trained in noble combat arts focusing on finesse over brute force, with a duelist style reminiscent of legendary swordsmen like Inigo Montoya. Her ornate rapier technique emphasizes proper form and defensive positioning. Possesses diplomatic training and extensive knowledge of the Iron Kingdoms, serving as a specialist in this area. Well-versed in merchant family knowledge of trade routes and negotiations. Capable healer with practical field medicine skills and hand crossbow proficiency for ranged combat support.
 
 ## Background
 
@@ -36,12 +36,17 @@ Born into the Mournhold noble family, Sylvia was raised with all the privileges 
 
 - **[entity:7763863|Mournhold Family]**: Dutiful daughter carrying out family business despite personal reservations
 - **Caravan Members**: Maintains professional distance while showing respect for proven warriors
+- **The Search Party**: Combat companion during Annie investigation mission
+- **Monster Economics**: Investigates gem-based trade patterns among regional creatures
 
 ## Notable History
 
 - **The Eastern Assignment**: Tasked by family elders to establish trade connections at [entity:7763187|Teghrim's Crossing]
 - **The Caravan Journey**: Witnessed the party's combat prowess during goblin attacks on [entity:7763872|Caravan Guard Duty], gaining appreciation for frontier dangers
 - **The Iron Kingdoms Expert**: Established herself as the local authority on Iron Kingdoms politics, history, and culture during downtime interactions
+- **The Gem Trade Investigation**: Researched monster economics and gem-based trading patterns among regional creatures
+- **The Annie Mission**: Joined search party as companion for farm investigation, providing combat and healing support
+- **The Jailor Encounter**: Participated in battle against unique undead-construct creature, witnessing supernatural threats firsthand
 
 ## Current Status
 

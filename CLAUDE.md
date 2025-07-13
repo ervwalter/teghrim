@@ -164,3 +164,73 @@ Add quest entity links in appropriate places:
 - Hobs ≠ Hobgoblins (hobs are domesticated goblins, hobgoblins are a larger goblinoid race)
 - Verify participant lists against actual session attendance
 - The Goblin King is a goblin, not a hobgoblin
+
+## Using Chunkhound Semantic Search
+
+The chunkhound MCP server provides powerful semantic search capabilities for finding relevant content across the codebase. Use it effectively by:
+
+### Path Filtering Issue
+**IMPORTANT**: The `path` parameter is currently non-functional in chunkhound. Path filtering returns no results regardless of the path format used. Until this is fixed, use the workarounds below.
+
+### Workaround Search Patterns
+Since path filtering doesn't work, use these strategies:
+
+1. **Character Research**: Search with character name + key traits
+   - Example: `"Bruldin dwarf slayer scars battle"`
+   - Manually filter results by checking `file_path` field for `entities/characters/`
+
+2. **Location Context**: Search with location name + notable features
+   - Example: `"Teghrim's Crossing bridge settlement trade"`
+   - Look for results with `file_path` containing `entities/locations/`
+
+3. **Quest Tracking**: Search for quest events or participants
+   - Example: `"wagon recovery goblin attack"`
+   - Filter for `file_path` containing `entities/quests/`
+
+4. **Cross-Entity Connections**: Search broadly without path restrictions
+   - Review all results and identify relevant files by their paths
+   - Use specific search terms to reduce noise
+
+5. **Session Processing**: When updating entities from new sessions
+   - Search without path restrictions for existing entity content
+   - Use character names, location names, and key events as search terms
+   - Verify entity IDs and existing history before making changes
+   - Manually check `file_path` to ensure you're looking at entity files
+
+### Performance Tips
+- Use smaller `page_size` (3-5) for initial searches to manage noise
+- Increase `page_size` when you need comprehensive results
+- Since you can't filter by path, use more specific search terms
+- The similarity threshold can help filter results, but start without it
+- Total results count helps gauge if your search is too broad or narrow
+
+### Required Parameters
+**IMPORTANT**: When using chunkhound semantic search, you MUST always specify:
+- `model`: Always use `"snowflake-arctic-embed2"`
+- `provider`: Always use `"openai-compatible"`
+
+Without these parameters, chunkhound will return no search results.
+
+## Combat Mini Color Coding System
+
+**IMPORTANT**: During live gameplay, enemies are distinguished using colored miniatures on the table (red orc, blue goblin, etc.). These color designations are **out-of-game table management only** and should NEVER appear in:
+
+- Session summaries
+- Session narratives  
+- Entity files
+- Any player-facing content
+
+### Digest Processing
+- Digests may retain color coding for accuracy in capturing raw transcript content
+- When creating summaries/narratives from digests, convert colors to:
+  - Generic descriptions: "the lead orc", "another goblin", "the wounded enemy"
+  - Positional references: "the orc near the fence", "the goblin behind cover"
+  - Distinguishing features: "the larger orc", "the archer", "the mounted goblin"
+  - Sequential numbering if needed: "first orc eliminated", "second wave of attackers"
+
+### Example Conversions
+- "red orc #2" → "the orc leader" or "another orc warrior"
+- "blue goblin archers" → "goblin archers" or "the mounted goblins"
+- "green scarecrow" → "the scarecrow" or "another straw construct"
+
+This maintains narrative immersion while preserving the tactical clarity needed for digest accuracy.

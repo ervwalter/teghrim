@@ -18,7 +18,7 @@ $arguments
    - **Read all Player Character files** for important context:
      - Read entities/characters/qotal.md
      - Read entities/characters/bruldin-grimstone.md  
-     - Read entities/characters/arnór-josefson.md
+     - Read entities/characters/arnor-josefson.md
      - Read entities/characters/aurelia.md
      - Read entities/characters/alrik-grimmelstang.md
      - These files contain crucial background, quests, relationships, and abilities needed for proper entity extraction
@@ -106,6 +106,13 @@ Special tags for characters:
 - **Dramatis Personae**: Major NPCs who are "main characters" of the campaign world (as defined by the campaign's social progression system)
 
 ## Processing Guidelines
+
+### Combat Color Coding Note
+**IMPORTANT**: Digests may contain color references like "red orc" or "blue goblin" - these are out-of-game miniature color codes for table management. **DO NOT include color designations in entity files.** When extracting information from digests, convert color-coded enemies to natural descriptions:
+- "red orc #2" → "the orc leader" or "another orc warrior"  
+- "blue scarecrow" → "the straw construct" or "another scarecrow"
+- Use descriptive, positional, or sequential references in entity content
+- Focus on the actual creature type, not the table management color
 
 ### Name Resolution
 1. **Use the entity overview output** from step 2 for quick reference

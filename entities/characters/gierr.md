@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:12+00:00'
-updated: '2025-06-22T13:23:15.265214+00:00'
+updated: '2025-07-13T06:58:32.644884+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336b20-26d1-4e2b-8384-538c3327c1ca.jpg
 ---
 
@@ -36,8 +36,9 @@ Established [entity:7763211|Norn] resident of the [entity:7763187|Teghrim's Cros
 
 - **[entity:7764099|Fawn]**: Recruited by this fairy, though he questions the testing standards
 - **Wild Fey Alliance**: Reluctant ally despite skepticism about their methods
-- **The Party**: Combat ally during dryad rescue mission
-- **Lake Area**: Maintains beekeeping operation and residence
+- **The Party**: Combat ally during dryad rescue mission and mission requester for Annie search
+- **[entity:7764194|Sigrid]**: Niece who works at [entity:7763187|Teghrim's Crossing] and serves as liaison for his requests
+- **Annie**: Missing farmer's daughter whom he spotted while hunting in eastern territories
 
 ## Notable History
 
@@ -45,6 +46,12 @@ Established [entity:7763211|Norn] resident of the [entity:7763187|Teghrim's Cros
 - **The Combat Coordination**: Provided effective archer support during [entity:7764107|Willow Glade] battle
 - **The Beekeeping Operation**: Maintains bees for mead production near lake area
 - **The Future Assistance**: Offered his location for party to visit and potentially request help
+- **The Annie Sighting**: Spotted missing farmer's daughter in forest while hunting in eastern territories
+- **The Mission Request**: Requested party assistance through [entity:7764194|Sigrid] to investigate mysterious lights and locate Annie
+- **The Smoke Response**: Recognized smoke signal from farm direction and accompanied Qotal to investigate party's situation
+- **The Combat Participation**: Provided archer support during large-scale battle against orc and goblin forces
+- **The Tragic Recognition**: Identified corrupted Annie and witnessed her transformation into vengeful necromancer
+- **The Quest Resolution**: Saw completion of search mission that revealed tragic fate of missing farm family
 
 ## Current Status
 

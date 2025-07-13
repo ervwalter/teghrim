@@ -19,7 +19,7 @@ Process raw RPG session transcripts into structured digests that preserve all me
    - **Read all Player Character files** for context:
      - Read entities/characters/qotal.md
      - Read entities/characters/bruldin-grimstone.md  
-     - Read entities/characters/arnór-josefson.md
+     - Read entities/characters/arnor-josefson.md
      - Read entities/characters/aurelia.md
      - Read entities/characters/alrik-grimmelstang.md
      - These provide crucial context for character names, abilities, quests, and relationships
@@ -382,7 +382,7 @@ Important guidelines:
 1. **Players vs Characters**:
    - Erv (player) → Qotal (character) for IN-CHARACTER actions/dialogue
    - Erv (player) → "Player discussion" for OUT-OF-CHARACTER comments
-   - Same for all players: Kent/Bruldin, Katie/Aurelia, Michael/Arnór, Matt/Alrik
+   - Same for all players: Kent/Bruldin, Katie/Aurelia, Michael/Arnor, Matt/Alrik
    
 2. **Context Clues for IC vs OOC**:
    - Third-person references ("Qotal's really good at...") = likely OOC

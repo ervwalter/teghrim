@@ -96,6 +96,12 @@ Outline new world information in clear paragraphs. Include both explicit lore an
 List known immediate objectives and upcoming challenges. Focus on concrete options rather than speculation.
 ```
 
+### Combat Color Coding Note:
+**IMPORTANT**: Digests may contain color references like "red orc" or "blue goblin" - these are out-of-game miniature color codes for table management. **DO NOT include color designations in summaries.** Convert them to natural descriptions:
+- "red orc #2" → "the orc leader" or "another orc warrior"  
+- "blue goblin archers" → "goblin archers" or "the mounted goblins"
+- Use positional, descriptive, or sequential references instead
+
 ### Processing the Digest:
 1. **Review previous session summaries** (if they exist) to understand:
    - Ongoing plot threads and unresolved quests
@@ -156,7 +162,7 @@ List known immediate objectives and upcoming challenges. Focus on concrete optio
 - Use the format `[entity:ID|display text]` 
 - NO EXCEPTIONS - if an entity has an ID, it gets linked
 - Examples of entities you MUST link:
-  - Characters: `[entity:7764102|Aelysh]`, `[entity:7763290|Arnór]`
+  - Characters: `[entity:7764102|Aelysh]`, `[entity:7763290|Arnor]`
   - Locations: `[entity:7763187|Teghrim's Crossing]`, `[entity:7763870|Menoth-Derith]`
   - Organizations: `[entity:7763122|Dwarven Slayer Cults]`, `[entity:7763864|Goblin Raiders]`
   - Races: `[entity:7763165|Slaan]`, `[entity:7763129|Norn]`

@@ -115,3 +115,8 @@ temp/
 # Generated files
 *.pyc
 *.pyo
+# ChunkHound config files
+.chunkhound.json
+*.chunkhound.json
+chunkhound.json
+.chunkhound

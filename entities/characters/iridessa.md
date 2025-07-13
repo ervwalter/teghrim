@@ -4,7 +4,8 @@ name: Iridessa
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:14+00:00'
-updated: '2025-06-22T13:24:20+00:00'
+updated: '2025-06-25T12:03:20.155108+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3c67e7-4d52-49e6-b5ed-a2abade375f0.jpg
 ---
 
 # Iridessa
@@ -15,7 +16,7 @@ Iridessa is a pink fairy with a shy personality who serves as one of the wisdom 
 
 ### Physical Appearance
 
-Pink-colored fairy with typical fey magical presence and flight capabilities.
+A petite fairy with vibrant coral-pink hair that flows dramatically around her. She has a youthful, innocent appearance with closed eyes suggesting contentment or shyness. Her pale skin has subtle pink undertones. She wears a dark dress with purple-pink accents and has large bat-like wings in shades of deep purple and black. Her overall appearance combines cuteness with a gothic fairy aesthetic, perched delicately as if resting on a flower stem.
 
 ### Personality & Demeanor
 

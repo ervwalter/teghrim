@@ -4,7 +4,7 @@ name: Qotal
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:37:10+00:00'
-updated: '2025-06-22T13:23:12.585961+00:00'
+updated: '2025-07-13T06:58:30.877990+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25af8c-87ef-460a-9fa0-367d6acdb65e.png
 ---
 # Qotal
@@ -59,6 +59,12 @@ Raised in a monastery in [entity:7763174|Primordia] where pupils learn to hear e
 - **The Weapon Support**: Offered temporary use of dwarven clan dagger to [entity:7763294|Aurelia] while her rapier underwent rune transfer
 - **The Nature Studies**: Spent downtime learning about [entity:7764102|Aelysh's] scientific approach to botanical research
 - **The Wagon Recovery**: Participated in [entity:7766572|Wagon Recovery Mission], using flurry attacks against bulvaks despite being grabbed and gored by Gore during the battle, ultimately helping rescue caravan guards
+- **The Smoke Signal Response**: Saw smoke rising from abandoned farm and joined Gierr Bjornson to investigate party's situation
+- **The Orc Battle**: Participated in large-scale combat against orc and goblin forces at Annie's ritual site
+- **The Fear Immunity**: Achieved natural 20 on fear save, becoming immune to fear effects for the entire day
+- **The Annie Confrontation**: Delivered killing blow to corrupted Annie after party disrupted her demonic defenses
+- **The Orc Diplomacy**: Earned respect from Grabnizog's orc tribe through impressive combat performance and "I am Qotal" declarations
+- **The Level Advancement**: Advanced to level 3 following successful completion of ritual combat
 
 ## Current Status
 

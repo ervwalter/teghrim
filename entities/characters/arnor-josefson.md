@@ -4,7 +4,7 @@ name: Arnor Josefson
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:52+00:00'
-updated: '2025-06-22T13:23:13.497391+00:00'
+updated: '2025-07-13T06:58:31.732932+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369fe-110e-4695-8960-7254b8b5c619.jpg
 ---
 
@@ -55,6 +55,12 @@ Hails from [entity:7763178|Solstheim], the Norse island nation known for produci
 - **The Moon Ritual**: Conducted waning moon ceremony in woods outside town, formally introducing [entity:7763867|Natvig] as his familiar to the party
 - **The Familiar Bond**: Formally introduced [entity:7763867|Natvig] as his familiar to the party, revealing the trash griffin's role as intermediary with spirits for spell acquisition. Natvig makes distinctive chirping-croak sounds and shows particular interest in food scraps from [entity:7763296|Qotal]
 - **The Wagon Recovery**: Supported party during [entity:7766572|Wagon Recovery Mission] with needle darts using cold iron and silver materials
+- **The Orc Warfare**: Engaged in large-scale combat against multiple orc and goblin groups using tactical spellcasting
+- **The Religious Expertise**: Applied deep religious knowledge to understand Annie's divine abandonment and Diablo worship
+- **The Chain Disruption**: Successfully broke free from Annie's demonic chains through superior religious understanding
+- **The Lilith Analysis**: Explained why Lilith wouldn't grant Annie vengeance since her family's killers were already dead
+- **The Occult Panache**: Impressed orc spectators with "weird glowing runes in the air" during combat
+- **The Level Advancement**: Advanced to level 3 following successful ritual combat completion
 
 ## Current Status
 

@@ -4,7 +4,7 @@ name: Sigrid
 type: NPC
 is_hidden: false
 created: '2025-06-13T02:25:41+00:00'
-updated: '2025-06-22T13:21:41.770027+00:00'
+updated: '2025-07-13T06:58:28.787911+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336c35-1d12-4648-98a9-b4a31295fed4.jpg
 ---
 
@@ -43,6 +43,7 @@ Originally from [entity:7763178|Solstheim], she fled her homeland for unknown re
 - **The Family Connection**: Established relationship with uncle [entity:7764100|Gierr] while building independent life
 - **The Cultural Bridge**: Began serving as connection point for [entity:7763211|Norn] travelers passing through the settlement
 - **The Festival Planning**: Started organizing Old Lughnass festival for September 22nd with fellow [entity:7763211|Norn] [entity:7763290|Arnor]
+- **The Uncle's Request**: Approached party at breakfast to relay her uncle's concerns about mysterious sightings near abandoned farm
 
 ## Current Status
 

@@ -4,7 +4,7 @@ name: Silas
 type: NPC
 is_hidden: false
 created: '2025-06-21T21:24:42+00:00'
-updated: '2025-06-22T13:21:47+00:00'
+updated: '2025-06-23T01:31:39+00:00'
 ---
 
 # Silas

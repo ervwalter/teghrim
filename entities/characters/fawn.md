@@ -4,7 +4,8 @@ name: Fawn
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:12+00:00'
-updated: '2025-06-22T13:23:07.969044+00:00'
+updated: '2025-06-25T12:03:19.248069+00:00'
+image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3c67ba-53d0-4a4f-82f6-a1bb01deb53c.jpg
 ---
 
 # Fawn
@@ -15,7 +16,7 @@ Fawn is a male fairy who demonstrates remarkable bravery and initiative within t
 
 ### Physical Appearance
 
-Male fairy with typical fey magical presence and flight capabilities.
+A handsome male fairy with tousled auburn hair and striking amber eyes. He has an athletic, lean build with sun-kissed skin. His large butterfly wings display vibrant patterns of yellow-green with blue accents. He wears ornate dark armor adorned with intricate metalwork and jeweled accessories, including dangling earrings and layered necklaces. His confident stance and slight smirk convey both charm and mischief.
 
 ### Personality & Demeanor
 

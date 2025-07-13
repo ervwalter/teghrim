@@ -104,6 +104,12 @@ Study the existing narratives to match their voice:
 Example opening style:
 > Golden evening spilled across the timbered bridges of Teghrim's Crossing as the caravan rolled in, the wagon wheels rattling a rhythm at the twilight edge of civilization.
 
+### Combat Color Coding Note:
+**IMPORTANT**: Digests may contain color references like "red orc" or "blue scarecrow" - these are out-of-game miniature color codes for table management. **DO NOT include color designations in narratives.** Convert them to evocative descriptions:
+- "red orc #2" → "the scarred orc leader" or "the larger warrior"
+- "blue scarecrow" → "the straw sentinel" or "another construct"
+- Use atmospheric, descriptive, or contextual references that enhance the narrative
+
 ### Processing the Digest:
 
 1. **Determine Chapter Number**:

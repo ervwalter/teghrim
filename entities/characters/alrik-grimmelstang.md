@@ -4,7 +4,7 @@ name: Alrik Grimmelstang
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:19+00:00'
-updated: '2025-06-22T13:21:38.979415+00:00'
+updated: '2025-07-13T06:58:27.880552+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369aa-0dbb-4245-8e1e-25c3f63f81ec.jpg
 ---
 
@@ -60,6 +60,12 @@ A chef whose culinary creations, particularly his "sandwishizzo" and custard pie
 - **The Wagon Recovery**: Provided healing support and combat assistance during [entity:7766572|Wagon Recovery Mission], fighting bulvaks with maul attacks
 - **The Breakfast Preparation**: Used his medical tools to prepare breakfast for the party, demonstrating his unconventional culinary methods
 - **The One-Eyed Observer**: When mysterious one-eyed figure appeared after bulvak battle, nervously claimed "They're following me. They want my recipe"
+- **The Orc Battle**: Provided crucial combat support with needle dart spells and electric arc magic
+- **The Healing Support**: Used medical abilities to stabilize wounded party members during extended combat
+- **The Religious Warning**: Identified dangerous effects of Annie's demonic chains and warned party of soul-draining risks
+- **The Chain Disruption**: Attempted to break demonic bindings through religious knowledge
+- **The Combat Magic**: Demonstrated effective spellcasting against both orc forces and animated constructs
+- **The Level Advancement**: Advanced to level 3 following successful ritual combat completion
 
 ## Current Status
 

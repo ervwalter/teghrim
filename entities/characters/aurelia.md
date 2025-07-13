@@ -4,7 +4,7 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-06-22T13:21:52.435897+00:00'
+updated: '2025-07-13T06:58:29.828199+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a37-767e-430b-a504-4208c9ba294d.jpg
 ---
 
@@ -57,6 +57,13 @@ As a dhampir (half-vampire), Aurelia occupies a unique position in society, part
 - **The Moon Ritual**: Joined [entity:7763290|Arnor's] waning moon ceremony in the woods, appreciating the night atmosphere
 - **The Wagon Recovery**: Delivered critical hits during [entity:7766572|Wagon Recovery Mission], including killing blow on bulvak leader Gore
 - **The Secret Feeding**: Discreetly fed on Gore's blood while appearing to loot his corpse after the battle
+- **The Orc Combat**: Participated in large-scale battle against multiple orc and goblin groups at Annie's ritual site
+- **The Stealth Tactics**: Used superior positioning and concealment to deliver critical shots during extended combat
+- **The Construct Weakness**: Discovered fire vulnerability in Annie's scarecrow constructs through experimentation
+- **The Religious Knowledge**: Applied religious understanding to identify divine-powered construct nature
+- **The Shield Disruption**: Successfully disrupted Annie's protective mist with religious expertise (rolled natural 20)
+- **The Orc Respect**: Earned panache points from orc spectators through acrobatic combat maneuvers
+- **The Level Advancement**: Advanced to level 3 following successful ritual combat completion
 
 ## Current Status
 
