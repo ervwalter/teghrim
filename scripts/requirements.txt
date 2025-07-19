@@ -1,10 +1,10 @@
 # Audio transcription requirements
-elevenlabs==2.3.0
+elevenlabs==2.7.1
 pydub==0.25.1
 audioop-lts==0.2.1  # Required for pydub on Python 3.13+
 
 # Image generation requirements  
-openai==1.86.0
+openai==1.97.0
 
 # Entity sync requirements
 mcp-kanka==1.1.0
