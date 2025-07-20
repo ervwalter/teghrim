@@ -32,7 +32,26 @@ Read the file `entities/journals/session-narrative-YYYY-MM-DD.md` and extract:
   - `image` field: contains the Kanka CDN URL
 - Or from content: look for "# Chapter N - Title" or "# Chapter N: Title" if not in frontmatter
 
-### 2.3 Download the image temporarily
+If the narrative doesn't have an `image` field:
+1. List only images that match the session date in the `images/` folder:
+   ```bash
+   ls -1 images/image-YYYY-MM-DD-*.png | nl -w2 -s'. '
+   ```
+   Where YYYY-MM-DD is extracted from the audiobook filename
+2. Show the user the numbered list and ask them to choose:
+   - Display: "Available images for [chapter title] (YYYY-MM-DD):"
+   - Show numbered list (1. filename1, 2. filename2, etc.)
+   - Ask: "Which image should be used? You can say 'the first one', 'the second one', 'number 3', 'the last one', etc."
+3. Parse user response to extract the selection:
+   - "first"/"the first one" → select item 1
+   - "second"/"the second one" → select item 2  
+   - "third"/"the third one" → select item 3
+   - "last"/"the last one" → select the final item
+   - "number N"/"N" → select item N
+4. Use the selected image file from the images/ folder
+
+### 2.3 Prepare the image
+If using an image URL from the narrative:
 ```bash
 # Create a temporary file for the image
 temp_image=$(mktemp /tmp/session-image-XXXXXX.png)
@@ -41,7 +60,14 @@ temp_image=$(mktemp /tmp/session-image-XXXXXX.png)
 curl -L -o "$temp_image" "$image_url"
 ```
 
+If using a local image from the images/ folder:
+```bash
+# Use the selected image file directly
+image_file="images/selected-filename.png"  # Use the actual selected filename
+```
+
 ### 2.4 Generate the video
+If using a downloaded image:
 ```bash
 python3 scripts/generate_video_from_audio.py \
   "audiobooks/audiobook-YYYY-MM-DD-NNN-Title.mp3" \
@@ -51,6 +77,17 @@ python3 scripts/generate_video_from_audio.py \
 
 # Clean up the temporary image
 rm "$temp_image"
+```
+
+If using a local image file:
+```bash
+python3 scripts/generate_video_from_audio.py \
+  "audiobooks/audiobook-YYYY-MM-DD-NNN-Title.mp3" \
+  "$image_file" \
+  --chapter CHAPTER_NUMBER \
+  --title "Chapter Title"
+
+# No cleanup needed for local files
 ```
 
 ## Step 3: Report results
@@ -64,8 +101,11 @@ After processing all audiobooks, report:
 ## Error handling
 
 - If session narrative is missing: skip with warning
-- If image URL is missing from narrative: skip with warning
+- If image URL is missing from narrative: prompt user to select from matching date images in images/ folder
+- If no matching date images found and no image URL: skip with warning
+- If user doesn't respond to image selection prompt: skip with warning
 - If image download fails: skip with warning
+- If selected local image file doesn't exist: skip with warning
 - If video generation fails: report the error but continue with next audiobook
 
 ## Example execution trace

@@ -4,7 +4,7 @@ name: Qotal
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:37:10+00:00'
-updated: '2025-07-13T06:58:30.877990+00:00'
+updated: '2025-07-20T03:58:07.959536+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25af8c-87ef-460a-9fa0-367d6acdb65e.png
 ---
 # Qotal
@@ -65,6 +65,13 @@ Raised in a monastery in [entity:7763174|Primordia] where pupils learn to hear e
 - **The Annie Confrontation**: Delivered killing blow to corrupted Annie after party disrupted her demonic defenses
 - **The Orc Diplomacy**: Earned respect from Grabnizog's orc tribe through impressive combat performance and "I am Qotal" declarations
 - **The Level Advancement**: Advanced to level 3 following successful completion of ritual combat
+- **The Aelysh Friendship**: Successfully befriended [entity:7764102|Aelysh] through shared forest lore and discussions of distant flora and fauna, gaining her as a permanent ally and investigation resource
+- **The Storm Investigation**: Participated in investigating recurring supernatural storms affecting the region, using search and investigation skills to locate the phenomenon's epicenter
+- **The One-Eyed Watcher**: Encountered mysterious one-eyed creature during camping expedition - third sighting of this enigmatic entity
+- **The Will-o-Wisp Battle**: Fought invisible Will-o-Wisp in supernatural fog, contributing flurry attacks and tactical positioning to eventual victory
+- **The Spirit Encounter**: Met the ghost of Echin at ancient forest ruins, engaging diplomatically before discovering the tragic truth
+- **The Midora Liberation**: Participated in divine ritual to free trapped spirits of Midora and Echin, helping end decades of supernatural storms
+- **The Striking Rune**: Made down payment of 32 gold toward purchasing striking rune enhancement from [entity:7764097|Irka Spritzel]
 
 ## Current Status
 

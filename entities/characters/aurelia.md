@@ -4,7 +4,7 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-07-13T06:58:29.828199+00:00'
+updated: '2025-07-20T03:58:06.913487+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a37-767e-430b-a504-4208c9ba294d.jpg
 ---
 
@@ -64,6 +64,13 @@ As a dhampir (half-vampire), Aurelia occupies a unique position in society, part
 - **The Shield Disruption**: Successfully disrupted Annie's protective mist with religious expertise (rolled natural 20)
 - **The Orc Respect**: Earned panache points from orc spectators through acrobatic combat maneuvers
 - **The Level Advancement**: Advanced to level 3 following successful ritual combat completion
+- **The Vampire Revelation**: Disclosed her dhampir heritage to [entity:7764193|Osanna Von Carstein], revealing family quest for her sister described as "Lamian" and "whole-blood Lamian"
+- **The Alseid Friendship**: Successfully befriended vampire attendant Alseid, learning her preferences for society topics, gossip, and heritage discussions
+- **The Storm Discovery**: Used exceptional perception and survival skills to identify unnatural storm patterns and help triangulate the supernatural phenomenon's center
+- **The Will-o-Wisp Combat**: Fought invisible creature in supernatural fog, using stealth and tactical positioning despite frightened condition
+- **The Mural Provocation**: Deliberately scratched Echin's magical mural to test reactions, triggering combat with the bound ghost
+- **The Spirit Diplomacy**: Used diplomatic skills to communicate with trapped spirit of Midora, helping uncover the truth behind the binding ritual
+- **The Lightning Javelin**: Identified recovered magical weapon as "javelin of lightning" through arcane knowledge
 
 ## Current Status
 

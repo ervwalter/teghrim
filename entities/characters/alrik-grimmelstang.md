@@ -4,7 +4,7 @@ name: Alrik Grimmelstang
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:19+00:00'
-updated: '2025-07-13T06:58:27.880552+00:00'
+updated: '2025-07-20T03:58:05.992134+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369aa-0dbb-4245-8e1e-25c3f63f81ec.jpg
 ---
 
@@ -66,6 +66,13 @@ A chef whose culinary creations, particularly his "sandwishizzo" and custard pie
 - **The Chain Disruption**: Attempted to break demonic bindings through religious knowledge
 - **The Combat Magic**: Demonstrated effective spellcasting against both orc forces and animated constructs
 - **The Level Advancement**: Advanced to level 3 following successful ritual combat completion
+- **The Rosencrantz Alliance**: Successfully befriended mechamagician [entity:7764196|Rosencrantz] through intellectual debate about religious crafts versus mechamagic, gaining access to his converted tower laboratory
+- **The Storm Recognition**: Used survival expertise to identify supernatural nature of recurring storm patterns, determining they were definitely unnatural phenomena
+- **The Supernatural Investigation**: Heard faint crying sounds during rest periods and discovered ancient stone ruins containing trapped spirits
+- **The Divine Detection**: Cast detect magic to reveal supernatural auras around the magical mural binding the spirits
+- **The Ghost Knowledge**: Applied religious knowledge to understand Echin's nature as a tied ghost, learning about spectral resistances and vulnerabilities
+- **The Liberation Ritual**: Performed complex divine ritual using multiple religion checks to break the magical binding holding both spirits captive
+- **The Spirit Mediation**: Used religious knowledge to approach Midora diplomatically and understand the supernatural binding's nature
 
 ## Current Status
 
