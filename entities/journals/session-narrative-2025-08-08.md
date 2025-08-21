@@ -1,10 +1,12 @@
 ---
+entity_id: 8051501
 name: 10 - Crowns and Waterfalls
 type: Session Narrative
 is_hidden: false
-created: '2025-08-21T16:12:39.297678+00:00'
-updated: '2025-08-21T16:12:39.297688+00:00'
-entity_id: 8051501
+created: '2025-08-21T16:12:38+00:00'
+updated: '2025-08-21T18:02:45.287472+00:00'
+image: https://cdn-ugc.kanka.io/campaigns/322885/9fb05ed8-086e-42b7-a67b-24b63e7e88e3.png
+youtube_url: https://youtu.be/ajOPqg9Jb9Y
 ---
 
 # Chapter 10 - Crowns and Waterfalls

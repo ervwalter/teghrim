@@ -1,10 +1,11 @@
 ---
+entity_id: 8051157
 name: 2025-08-08 - Guardians of the Highland Falls
 type: Session Summary
 is_hidden: false
-created: '2025-08-21T14:29:21.067491+00:00'
-updated: '2025-08-21T14:37:29.289581+00:00'
-entity_id: 8051157
+created: '2025-08-21T14:29:20+00:00'
+updated: '2025-08-21T18:02:15.368879+00:00'
+image: https://cdn-ugc.kanka.io/campaigns/322885/9fb05ed8-086e-42b7-a67b-24b63e7e88e3.png
 ---
 
 # Guardians of the Highland Falls

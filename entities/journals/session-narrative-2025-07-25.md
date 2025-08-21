@@ -4,8 +4,9 @@ name: 09 - Masks and Mirrors
 type: Session Narrative
 is_hidden: false
 created: '2025-08-20T14:18:02+00:00'
-updated: '2025-08-21T14:37:33.534657+00:00'
+updated: '2025-08-21T18:02:16.533464+00:00'
 image: https://cdn-ugc.kanka.io/campaigns/322885/9fae1152-0d7d-43b3-a90a-dd8ec5c01038.png
+youtube_url: https://youtu.be/i6E_8Gl-adY
 ---
 
 # Chapter 9 - Masks and Mirrors
