@@ -4,7 +4,7 @@ name: 2025-05-30 Image 1 - Aurelia's Cold Iron Test
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:49:55+00:00'
-updated: '2025-08-21T14:29:43.597841+00:00'
+updated: '2025-08-21T14:38:44.691853+00:00'
 ---
 
 # Dawn Meeting at the Mess Hall

@@ -3,7 +3,7 @@ name: Queen Zelinda's Settlement
 type: Settlement
 is_hidden: false
 created: '2025-08-21T14:29:23.864613+00:00'
-updated: '2025-08-21T14:29:23.864620+00:00'
+updated: '2025-08-21T14:37:42.947925+00:00'
 entity_id: 8051163
 ---
 

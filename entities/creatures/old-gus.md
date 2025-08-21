@@ -3,7 +3,7 @@ name: Old Gus
 type: Beast
 is_hidden: false
 created: '2025-08-21T14:29:21.520051+00:00'
-updated: '2025-08-21T14:29:21.520056+00:00'
+updated: '2025-08-21T14:37:34.438316+00:00'
 entity_id: 8051158
 ---
 

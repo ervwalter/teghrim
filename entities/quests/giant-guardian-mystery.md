@@ -4,7 +4,7 @@ name: Giant Guardian Mystery
 type: Personal Quest
 is_hidden: false
 created: '2025-06-13T00:30:00+00:00'
-updated: '2025-08-21T14:29:34.501002+00:00'
+updated: '2025-08-21T14:37:49.564614+00:00'
 is_completed: false
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f2c5731-bc25-40cc-a966-c0ad3f92e107.png
 ---

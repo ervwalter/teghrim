@@ -4,7 +4,7 @@ name: 2025-07-25 - Bonds Tested and Truths Revealed
 type: Session Summary
 is_hidden: false
 created: '2025-08-20T14:18:02+00:00'
-updated: '2025-08-21T14:29:27.705437+00:00'
+updated: '2025-08-21T14:37:32.315949+00:00'
 image: https://cdn-ugc.kanka.io/campaigns/322885/9fae1152-0d7d-43b3-a90a-dd8ec5c01038.png
 ---
 

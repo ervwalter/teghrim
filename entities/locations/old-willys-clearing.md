@@ -1,10 +1,10 @@
 ---
+entity_id: 8051162
 name: Old Willy's Clearing
 type: Landmark
 is_hidden: false
-created: '2025-08-21T14:29:23.388906+00:00'
-updated: '2025-08-21T14:29:23.388912+00:00'
-entity_id: 8051162
+created: '2025-08-21T14:29:23+00:00'
+updated: '2025-08-21T14:37:41+00:00'
 ---
 
 # Old Willy's Clearing

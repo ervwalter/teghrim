@@ -4,8 +4,8 @@ name: 02 - Stone Hearts and Fairy Rings
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:53:12+00:00'
-updated: '2025-08-20T14:18:06.279955+00:00'
-image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ae6a-2302-490d-ba78-3fd49e80f6fa.png
+updated: '2025-08-21T14:37:26+00:00'
+image: https://cdn-ugc.kanka.io/campaigns/322885/9f25ae6a-2302-490d-ba78-3fd49e80f6fa.png
 youtube_url: https://www.youtube.com/watch?v=EmAteaFbkTA
 ---
 

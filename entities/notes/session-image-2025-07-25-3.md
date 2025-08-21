@@ -3,7 +3,7 @@ name: 2025-07-25 Image 3 - Aurelia's Revelation
 type: Image Prompt
 is_hidden: true
 created: '2025-08-20T14:18:03.868723+00:00'
-updated: '2025-08-21T14:30:27.523929+00:00'
+updated: '2025-08-21T14:38:57.827697+00:00'
 entity_id: 8047942
 ---
 

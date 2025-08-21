@@ -3,7 +3,7 @@ name: 2025-08-08 - Guardians of the Highland Falls
 type: Session Summary
 is_hidden: false
 created: '2025-08-21T14:29:21.067491+00:00'
-updated: '2025-08-21T14:29:21.067499+00:00'
+updated: '2025-08-21T14:37:29.289581+00:00'
 entity_id: 8051157
 ---
 

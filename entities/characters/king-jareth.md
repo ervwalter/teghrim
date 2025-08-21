@@ -3,7 +3,7 @@ name: King Jareth
 type: NPC
 is_hidden: false
 created: '2025-08-21T14:29:22.923891+00:00'
-updated: '2025-08-21T14:29:22.923898+00:00'
+updated: '2025-08-21T14:37:40.218094+00:00'
 entity_id: 8051161
 ---
 

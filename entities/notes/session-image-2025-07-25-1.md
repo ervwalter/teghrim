@@ -3,7 +3,7 @@ name: 2025-07-25 Image 1 - Dwarven Warrior Recognition
 type: Image Prompt
 is_hidden: true
 created: '2025-08-20T14:18:05.142901+00:00'
-updated: '2025-08-21T14:30:40.097450+00:00'
+updated: '2025-08-21T14:39:48.346043+00:00'
 entity_id: 8047944
 ---
 

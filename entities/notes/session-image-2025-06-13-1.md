@@ -4,7 +4,7 @@ name: 2025-06-13 Image 1 - Iridessa's Urgent Arrival
 type: Image Prompt
 is_hidden: true
 created: '2025-06-21T21:24:47+00:00'
-updated: '2025-08-21T14:30:35.162180+00:00'
+updated: '2025-08-21T14:39:05.290792+00:00'
 ---
 
 # Iridessa's Tea-Soaked Entrance

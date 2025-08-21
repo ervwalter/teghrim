@@ -3,7 +3,7 @@ name: Grogug
 type: NPC
 is_hidden: false
 created: '2025-08-21T14:29:21.985476+00:00'
-updated: '2025-08-21T14:29:21.985482+00:00'
+updated: '2025-08-21T14:37:37.479246+00:00'
 entity_id: 8051159
 ---
 

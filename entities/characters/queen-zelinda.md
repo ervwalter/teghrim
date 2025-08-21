@@ -4,8 +4,9 @@ name: Queen Zelinda
 type: NPC
 is_hidden: false
 created: '2025-06-13T02:25:42+00:00'
-updated: '2025-08-21T14:29:31.789820+00:00'
+updated: '2025-08-21T14:37:40+00:00'
 ---
+
 # Queen Zelinda
 
 Queen Zelinda is a [entity:7763190|hobgoblin] queen who rules a hob settlement on the north side of the river near [entity:7763187|Teghrim's Crossing]. Known for her elaborate collection of titles and protective charms, she competes with King Jareth (the Goblin King) who rules a rival settlement on the opposite side of the river.

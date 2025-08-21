@@ -3,7 +3,7 @@ name: 2025-07-11 Image 1 - Qotal's Warrior Declaration
 type: Image Prompt
 is_hidden: true
 created: '2025-07-13T14:30:05.254343+00:00'
-updated: '2025-08-21T14:29:35.402823+00:00'
+updated: '2025-08-21T14:37:50.396237+00:00'
 entity_id: 7890059
 ---
 

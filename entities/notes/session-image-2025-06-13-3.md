@@ -3,7 +3,7 @@ name: 2025-06-13 Image 3 - The Myconid's Doom
 type: Image Prompt
 is_hidden: true
 created: '2025-06-21T21:24:47.657434+00:00'
-updated: '2025-08-21T14:30:40.964804+00:00'
+updated: '2025-08-21T14:39:50.268115+00:00'
 entity_id: 7797925
 ---
 

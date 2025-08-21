@@ -4,7 +4,7 @@ name: 2025-06-20 Image 3 - The One-Eyed Witness
 type: Image Prompt
 is_hidden: true
 created: '2025-06-21T21:24:45+00:00'
-updated: '2025-08-21T14:30:24.869678+00:00'
+updated: '2025-08-21T14:38:55.237799+00:00'
 ---
 
 # The Silent Observer

@@ -3,7 +3,7 @@ name: King Jareth's Settlement
 type: Settlement
 is_hidden: false
 created: '2025-08-21T14:29:25.223446+00:00'
-updated: '2025-08-21T14:29:25.223452+00:00'
+updated: '2025-08-21T14:37:45.733684+00:00'
 entity_id: 8051166
 ---
 

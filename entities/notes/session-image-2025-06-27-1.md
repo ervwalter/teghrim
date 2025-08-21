@@ -3,7 +3,7 @@ name: 2025-06-27 Image 1 - The Jailor's First Strike
 type: Image Prompt
 is_hidden: true
 created: '2025-07-13T14:30:06.456965+00:00'
-updated: '2025-08-21T14:30:23.970694+00:00'
+updated: '2025-08-21T14:38:54.336161+00:00'
 entity_id: 7890063
 ---
 

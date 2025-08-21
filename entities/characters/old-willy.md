@@ -3,7 +3,7 @@ name: Old Willy
 type: NPC
 is_hidden: false
 created: '2025-08-21T14:29:22.451599+00:00'
-updated: '2025-08-21T14:29:22.451605+00:00'
+updated: '2025-08-21T14:37:39.315266+00:00'
 entity_id: 8051160
 ---
 

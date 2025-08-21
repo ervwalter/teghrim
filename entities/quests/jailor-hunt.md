@@ -5,7 +5,7 @@ is_completed: false
 is_hidden: false
 entity_id: 7888228
 created: '2025-07-13T06:58:25.640476+00:00'
-updated: '2025-08-21T14:29:33.584491+00:00'
+updated: '2025-08-21T14:37:48.590820+00:00'
 ---
 
 # The Jailor Hunt

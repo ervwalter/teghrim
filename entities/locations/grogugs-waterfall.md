@@ -3,7 +3,7 @@ name: Grogug's Waterfall
 type: Landmark
 is_hidden: false
 created: '2025-08-21T14:29:24.316516+00:00'
-updated: '2025-08-21T14:29:24.316523+00:00'
+updated: '2025-08-21T14:37:43.961979+00:00'
 entity_id: 8051164
 ---
 
