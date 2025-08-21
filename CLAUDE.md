@@ -165,51 +165,71 @@ Add quest entity links in appropriate places:
 - Verify participant lists against actual session attendance
 - The Goblin King is a goblin, not a hobgoblin
 
-## Using Chunkhound Semantic Search
+## Using Claude Context Semantic Search
 
-The chunkhound MCP server provides powerful semantic search capabilities for finding relevant content across the codebase. Use it effectively by:
+The claude-context MCP server provides powerful semantic search capabilities for understanding existing campaign knowledge. **Use this strategically before making any entity updates or processing session content** to understand existing lore and relationships.
 
-### Path Filtering Issue
-**IMPORTANT**: The `path` parameter is currently non-functional in chunkhound. Path filtering returns no results regardless of the path format used. Until this is fixed, use the workarounds below.
+### When to Use Semantic Search
 
-### Workaround Search Patterns
-Since path filtering doesn't work, use these strategies:
+**ALWAYS search before**:
+1. **Creating new entities** - Check if similar entities already exist
+2. **Updating entities from digests** - Understand existing history and relationships
+3. **Processing session content** - Identify relevant entities and their current state
+4. **Writing session summaries/narratives** - Gather context about characters, locations, and ongoing plots
+
+### Strategic Search Patterns
+
+**Focus on markdown files** by using `.md` extension filter unless specifically searching for Python code:
 
 1. **Character Research**: Search with character name + key traits
    - Example: `"Bruldin dwarf slayer scars battle"`
-   - Manually filter results by checking `file_path` field for `entities/characters/`
+   - Use `extensionFilter: [".md"]` to focus on campaign content
+   - Review character files, session mentions, and related entities
 
 2. **Location Context**: Search with location name + notable features
    - Example: `"Teghrim's Crossing bridge settlement trade"`
-   - Look for results with `file_path` containing `entities/locations/`
+   - Find location files and all references across sessions and other entities
 
-3. **Quest Tracking**: Search for quest events or participants
-   - Example: `"wagon recovery goblin attack"`
-   - Filter for `file_path` containing `entities/quests/`
+3. **Quest Discovery**: Search for quest events or participants
+   - Example: `"wagon recovery goblin attack"` or `"Von Carstein vampire mansion"`
+   - Identify existing quests to avoid duplication
 
-4. **Cross-Entity Connections**: Search broadly without path restrictions
-   - Review all results and identify relevant files by their paths
-   - Use specific search terms to reduce noise
+4. **Relationship Mapping**: Search for entity connections
+   - Example: `"Dramatis Personae major NPCs"` or `"dwarven slayer cults"`
+   - Understand organizational and character relationships
 
-5. **Session Processing**: When updating entities from new sessions
-   - Search without path restrictions for existing entity content
-   - Use character names, location names, and key events as search terms
-   - Verify entity IDs and existing history before making changes
-   - Manually check `file_path` to ensure you're looking at entity files
+5. **Session Processing**: Before updating entities from new sessions
+   - Search for character names, locations, and key events mentioned in digests
+   - Verify existing entity IDs and established history
+   - Check for ongoing quests or storylines that might be affected
 
-### Performance Tips
-- Use smaller `page_size` (3-5) for initial searches to manage noise
-- Increase `page_size` when you need comprehensive results
-- Since you can't filter by path, use more specific search terms
-- The similarity threshold can help filter results, but start without it
-- Total results count helps gauge if your search is too broad or narrow
+### Search Best Practices
 
-### Required Parameters
-**IMPORTANT**: When using chunkhound semantic search, you MUST always specify:
-- `model`: Always use `"snowflake-arctic-embed2"`
-- `provider`: Always use `"openai-compatible"`
+**Limit to Campaign Content**:
+- Always use `extensionFilter: [".md"]` unless searching for Python scripts
+- Use `limit: 5-10` for initial exploration, increase if needed
+- Review `file_path` to identify entity types (characters/, locations/, quests/, etc.)
 
-Without these parameters, chunkhound will return no search results.
+**Progressive Search Strategy**:
+1. **Broad search** first to understand scope
+2. **Specific searches** for detailed information
+3. **Cross-reference** related entities found in results
+
+**Essential Pre-Processing Searches**:
+- Search for all character names mentioned in new digest
+- Search for all location names from the session
+- Search for quest-related keywords and ongoing storylines
+- Search for any organizations or factions mentioned
+
+### File Path Interpretation
+Results show file paths that help identify content types:
+- `entities/characters/` - Character entity files
+- `entities/locations/` - Location entity files  
+- `entities/quests/` - Quest entity files
+- `entities/journals/session-summary-` - Session summaries
+- `entities/notes/digest-` - Session digests
+- `docs/` - Process documentation
+- `scripts/` - Python automation tools
 
 ## Combat Mini Color Coding System
 

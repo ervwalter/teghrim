@@ -16,6 +16,11 @@ Process raw RPG session transcripts into structured digests that preserve all me
 2. **Process the Single Transcript Using Subagents**
    - **IMPORTANT**: Process ONLY the first unprocessed transcript
    - First, run `python scripts/get_entity_overview.py > .digests_temp/entity_overview.md` to create reference
+   - **Use semantic search to understand existing context** before processing:
+     - Search for session date or related timeframes to understand ongoing storylines
+     - Search for participant names to understand their current status
+     - Use `extensionFilter: [".md"]` to focus on campaign content
+     - Examples: "May 2025 sessions", "Bruldin Qotal Aurelia party", "recent quests"
    - **Read all Player Character files** for context:
      - Read entities/characters/qotal.md
      - Read entities/characters/bruldin-grimstone.md  
@@ -27,8 +32,8 @@ Process raw RPG session transcripts into structured digests that preserve all me
    - If a previous digest exists, copy its key information to `.digests_temp/previous_digest_summary.md`
    - **Subagent Strategy** (to manage context limits):
      - Check the transcript line count using `wc -l`
-     - For typical 4-hour transcripts (~8000 lines), create 8-10 subagent tasks
-     - Each subagent processes ~1000 lines with 200-line overlap:
+     - For typical 4-hour transcripts (~6000-8000 lines), create 8-10 subagent tasks
+     - Each subagent processes ~800 lines with 300-line overlap for better context preservation:
        - Task 1: "Process lines 1-1000 of transcripts/YYYY-MM-DD.md following the digest format below. Check .digests_temp/entity_overview.md for name resolution. Return a partial digest with events from this section."
        - Task 2: "Process lines 800-1800 of transcripts/YYYY-MM-DD.md..." (overlap for context)
        - Task 3: "Process lines 1600-2600 of transcripts/YYYY-MM-DD.md..."
@@ -71,20 +76,27 @@ Process raw RPG session transcripts into structured digests that preserve all me
    - Save to `digests/YYYY-MM-DD.md`
    - Clean up temp files: `rm -rf .digests_temp/`
    
-3. **Handle Ambiguities (IMPORTANT)**
-   - **BE PROACTIVE** about asking for clarification on uncertain elements
-   - If you encounter ANY ambiguities (character identity, spelling variations, unclear events, uncertain speaker mappings):
+3. **Handle Ambiguities (MANDATORY)**
+   - **STOP AND ASK** - This is a required step, not optional
+   - Before finalizing ANY digest:
      - Save a draft of the digest with clear [AMBIGUITY] markers
-     - **Ask ONE question at a time** - prioritize the most important ambiguity first
-     - Examples: "Is 'Lyn' and 'Lynn' the same character?", "Does 'the dwarf' refer to Bruldin or Alrik?", "Speaker 16 seems to be talking about divine quests - is this Qotal?"
-     - After receiving an answer, update the draft and ask about the next ambiguity if needed
-   - **Common ambiguities to watch for**:
-     - Character name variations or unclear speaker assignments
+     - **Ask the user about ALL ambiguities** before proceeding
+     - Start with: "I've completed the draft digest but need clarification on these items:"
+     - List all ambiguities found, grouped by type
+   - **Common ambiguities requiring verification**:
+     - Character name variations (Kortan vs Qotal, transcription errors)
+     - Which player left early (often misattributed)
+     - Spell casting attribution (who cast which spells based on class abilities)
+     - Speaker assignments in combat
      - Whether events are in-character or out-of-character
-     - Spell names, location names, or proper nouns that are unclear
-     - Timeline or sequence confusion
+     - Location/proper noun spellings
+   - **Class-specific verification** (for Pathfinder 2e):
+     - Monks: No spellcasting (only ki abilities, flurry)
+     - Witches: Hexes and occult spells
+     - Clerics: Divine magic and healing
+     - Check abilities match character classes
    - Continue this process until all significant ambiguities are resolved
-   - **Do not finalize the digest** until all ambiguities are resolved
+   - **Do not finalize the digest** until user confirms all corrections
    
 4. **Finalize**
    - After resolving any ambiguities, save the final digest to `entities/notes/digest-YYYY-MM-DD.md`
@@ -145,28 +157,36 @@ For Recap Sessions:
 - Tag with **RECAP** throughout
 - Don't abstract - include every mentioned detail
 
-### Name Resolution
-Use the `entities/` directory to help resolve spelling inconsistencies:
+### Name Resolution with Semantic Search
+Use semantic search and entity files to resolve spelling inconsistencies:
 - **RECOMMENDED**: First run `python scripts/get_entity_overview.py` to get a quick reference of all entities
   - This shows player-to-character mappings clearly (e.g., "Erv plays Qotal")
   - Provides entity names, types, and brief descriptions
   - Helps identify correct spellings quickly
-- If you need more detail, check specific directories:
-  - `entities/characters/` for PC, NPC, and deity names
-  - `entities/locations/` for place names
-  - `entities/races/` for ancestry/species names
-  - `entities/organizations/` for faction names
+- **Use semantic search for context-aware matching**:
+  - Search with phonetic or partial matches: "Moridan deity dwarf", "Lin Chong monk"
+  - Use `extensionFilter: [".md"]` to focus on campaign content
+  - Review file paths to understand entity types and relationships
+  - More effective than directory browsing for finding related entities
+- **For detailed verification**, semantic search is more efficient than browsing directories:
+  - Finds entities mentioned across multiple files
+  - Provides context about relationships and connections
+  - Helps identify correct spellings within narrative context
 - When you find a likely match (e.g., "Moridan" → "Moradin"), use the correct spelling from the entity files
 
 ### Common Transcription Errors
-- **ALWAYS check entity files for likely matches** before accepting unusual names
-- Common patterns:
-  - "Not-Vig" → Check for "Natvig" in entities
-  - "Kingram's Crossing" → Likely "Teghrim's Crossing"
-  - Character name variations (spelling/pronunciation)
-  - Hyphenated words that shouldn't be
-- **DO NOT assume jokes or wordplay** - check entities first
-- If a name seems unusual, it's probably a transcription error
+- **Use semantic search to verify unusual names** before accepting them
+- **Search with context clues** for likely matches:
+  - "Not-Vig" → Search "Natvig character NPC" to find correct entity
+  - "Kingram's Crossing" → Search "Teghrim's Crossing bridge settlement" 
+  - Character name variations → Search with descriptive traits
+  - Hyphenated words → Search for unhyphenated versions
+- **Semantic search advantages**:
+  - Finds phonetically similar names with context
+  - Identifies entities based on descriptive traits, not just names
+  - More forgiving of transcription errors than exact text matching
+- **DO NOT assume jokes or wordplay** - search for entities first
+- If a name seems unusual, use semantic search to find the likely intended entity
 
 ### Participant Verification Protocol
 1. **Start of transcript**: Identify who is physically present
@@ -302,7 +322,10 @@ Note: Include major battles, investigations, rescue missions, or any task requir
    - Character motivations should be specific, not general
    - Use exact quotes with context tags for emotions "(laughs)", "(sarcastically)"
 8. **Event Density**: Aim for comprehensive coverage - include minor actions, reactions, and atmospheric details
-   - A 4-hour session should typically produce 80-120+ events
+   - A 4-hour session should typically produce 100-150+ events (not 50-60)
+   - Social encounters should expand to 10-15 events capturing the back-and-forth
+   - Combat rounds should be detailed with specific attacks, not summarized
+   - NPC conversations need multiple DIALOGUE tags, not single LORE summaries
    - Break down complex scenes into multiple events
    - Capture the flow of conversation, not just outcomes
 9. **Continuity**: Reference previous digest to ensure:
@@ -334,6 +357,28 @@ Format: **[Character] Downtime**: Visited [NPC] → [activity] → [result]
 3. **Generic scene descriptions** - Include specific details shared in campfire/social scenes
 4. **Overlooking unique elements** - Note special creatures, weapons, or abilities (like squigs, spider mounts)
 5. **Assuming proper names** - "Caravan serai" is a type of building, not a specific place name
+6. **Compressing roleplay** - Losing personality and flavor in social encounters
+7. **Omitting failed attempts** - Comedy and failures are part of the story
+
+### Quality Examples
+
+**BAD (Too Compressed)**:
+"22. **SUCCESS**: Party impresses Queen Zelinda with title-giving ceremony"
+
+**GOOD (Preserves Personality)**:
+"22. **TITLE-GIVING**: Bruldin bestows 'Queen of the Starry River' using astrology lore (critical 27)
+23. **DIALOGUE**: Qotal adds 'Queen of the Ecliptic Veil': 'The energy of the night sky and day sky itself is in you, Your Majesty'
+24. **HUMOR**: Players joke about using ChatGPT for creative titles
+25. **COMEDY**: Alrik adds ironic title 'Lady of Lilies and Leeches' using deception
+26. **FAILURE**: Arnor tries to intimidate guards but hobs resist 'longshanks' (rolled 10)"
+
+**BAD (Missing NPC Personality)**:
+"The troll demands payment for passage"
+
+**GOOD (Captures Character)**:
+"Grogug emerges: 'Now, hey there. What you guys doing? Don't you know you can't... You're not welcome to go up there'
+Switches from Jotun to Common: 'Blimey, well, at least those little hobs was good for something. They taught me this'
+Dark humor about meals: 'If you die, drop your friend down the river. You get two things - he's dead and now you something to eat. We all win'"
 
 ### Chunk Processing Details
 When processing chunks, maintain consistency:
@@ -367,7 +412,7 @@ Instructions:
 4. Also create: .digests_temp/chunk_[N]_summary.md with a 2-3 sentence summary for the next chunk
 
 Important guidelines:
-1. Include ALL in-game events, even minor ones
+1. Include ALL in-game events, even minor ones - aim for 15-20+ events per 1000 lines
 2. **CRITICAL: Convert all speaker numbers to character names**
    - Check .digests_temp/entity_overview.md for player mappings
    - Speaker numbers change between segments - use context clues
@@ -375,8 +420,15 @@ Important guidelines:
    - NEVER leave "Speaker 16" in the final output - always resolve or mark ambiguous
 3. Mark ambiguities with [AMBIGUITY: description]
 4. Include creature descriptions in combat (e.g., "goblins riding giant spiders")
-5. Preserve specific details in dialogue and lore
-6. Note timestamp ranges covered
+5. **PRESERVE DIALOGUE AND ROLEPLAY**:
+   - Include EXACT quotes for important NPC speeches
+   - Capture HOW NPCs speak (accents, mannerisms, catchphrases)
+   - Include player humor, meta-jokes, and table banter that adds flavor
+   - For social encounters, detail the specific attempts, rolls, and responses
+   - NEVER compress roleplay - "Party succeeds" loses all personality
+6. **NPC PERSONALITY**: Note speech patterns, quirks, emotional reactions
+7. **SOCIAL ENCOUNTERS**: Expand diplomatic scenes to show the back-and-forth
+8. Note timestamp ranges covered
 
 ### Speaker Attribution Rules
 1. **Players vs Characters**:
@@ -430,8 +482,16 @@ Before finalizing digest, verify:
 - [ ] Items/spells match PF2e descriptions
 - [ ] IC/OOC properly distinguished
 - [ ] No assumed information added
-- [ ] All ambiguities resolved or marked
+- [ ] All ambiguities resolved or marked with user
 - [ ] Dates and timeline consistent
+- [ ] **Digest Quality Checks**:
+  - [ ] Digest is at least 60-70% length of similar session digests
+  - [ ] Major NPCs have 3-5+ dialogue quotes each
+  - [ ] Social encounters show actual roleplay exchanges
+  - [ ] Combat includes tactical details and positioning
+  - [ ] Player humor and meta-commentary preserved
+  - [ ] Failed attempts and comedy moments included
+  - [ ] Minimum 100+ events for 4-hour session
 
 ### Self-Testing Before Submission
 Ask yourself:

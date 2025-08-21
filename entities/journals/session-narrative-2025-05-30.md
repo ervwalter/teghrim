@@ -4,7 +4,7 @@ name: 03 - Necromancer's Welcome
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T14:13:08+00:00'
-updated: '2025-06-22T15:22:51.991742+00:00'
+updated: '2025-08-20T14:18:07.400334+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ad5e-ebfd-43de-b52c-d1c903df44c7.png
 youtube_url: https://youtu.be/2mZnIjsbyGQ?si=ieklQmGASxPwSfAF
 ---
@@ -45,9 +45,9 @@ The party exchanged glances. [entity:7763296|Qotal's] nature knowledge surfaced�
 
 ---
 
-[entity:7764097|Captain Irka Spritzel's] office occupied the tower's middle floor, its windows offering commanding views of both river approaches. Maps covered every surface not claimed by ledgers or patrol reports. The [entity:7763200|Highland Dwarf] studied them as she spoke, not bothering with pleasantries.
+[entity:7764097|Captain Irka Spritzel's] office occupied the tower's middle floor, its windows offering commanding views of both river approaches. Maps covered every surface not claimed by ledgers or patrol reports. The [entity:7763200|Highland Dwarf] studied them as he spoke, not bothering with pleasantries.
 
-"I'll be direct. We have a situation that needs handling before it becomes a problem." She gestured to a well-dressed man who'd been examining some sort of mechanical contraption in the corner. "This is [entity:7764196|Rosencrantz]. He'll explain the details."
+"I'll be direct. We have a situation that needs handling before it becomes a problem." He gestured to a well-dressed man who'd been examining some sort of mechanical contraption in the corner. "This is [entity:7764196|Rosencrantz]. He'll explain the details."
 
 The mechamagician turned, revealing features that suggested [entity:7763216|Iberian] ancestry and eyes that glittered with barely contained enthusiasm. "Ah, yes! The mansion clearance. You see, the previous military commander built himself quite the estate upstream. Twenty years in the making, finished seven or eight years ago. Beautiful work, really—I helped with some of the more intricate mechanisms."
 
@@ -153,6 +153,6 @@ They loaded their boat with everything portable and valuable, but the weight of 
 
 The bridge's mundane bustle—merchants hawking, workers hauling, children playing between the pilings—seemed both more precious and more fragile than it had that morning. They'd cleared a house of its haunts, but in doing so had uncovered a truth that would haunt them far longer than any skep or skeleton.
 
-[entity:7764097|Captain Irka Spritzel] waited in her office, maps already spread with new markings, new concerns. As the party began their report, [entity:7763295|Bruldin] noticed she'd placed a paperweight on one particular document—a sketch of a broken blade that looked remarkably like the one from [entity:7763296|Qotal's] vision.
+[entity:7764097|Captain Irka Spritzel] waited in his office, maps already spread with new markings, new concerns. As the party began their report, [entity:7763295|Bruldin] noticed he'd placed a paperweight on one particular document—a sketch of a broken blade that looked remarkably like the one from [entity:7763296|Qotal's] vision.
 
 But that was a mystery for another day. For now, they had vampires to worry about, and only six days to prepare for their arrival.

@@ -12,9 +12,14 @@ $arguments
    - Identify the FIRST digest without the "Processed" tag in chronological order
    - If all digests are processed, report "All digests have been processed"
 
-2. **Get Entity Context**
+2. **Get Entity Context with Semantic Search**
    - Run `python scripts/get_entity_overview.py` to see all existing entities
    - This provides a quick reference with correct spellings and file paths
+   - **Use semantic search strategically** to understand existing campaign knowledge:
+     - First search broadly for any character names, locations, or organizations mentioned in the digest
+     - Use `extensionFilter: [".md"]` to focus on campaign content only
+     - Search for key events or plot elements to understand ongoing storylines
+     - Examples: "Bruldin dwarf slayer", "Teghrim's Crossing bridge", "goblin raids combat"
    - **Read all Player Character files** for important context:
      - Read entities/characters/qotal.md
      - Read entities/characters/bruldin-grimstone.md  
@@ -114,17 +119,23 @@ Special tags for characters:
 - Use descriptive, positional, or sequential references in entity content
 - Focus on the actual creature type, not the table management color
 
-### Name Resolution
+### Name Resolution with Semantic Search
 1. **Use the entity overview output** from step 2 for quick reference
-2. **For potential matches**: Read the full entity file to understand context
-3. Common variations to check:
+2. **Use semantic search for potential matches**:
+   - Search for character/location names with context keywords
+   - Use `extensionFilter: [".md"]` to focus on campaign content
+   - Examples: "Lin Chong monk", "Grimstone dwarf", "Captain Smith guard"
+   - Review file paths to identify entity types
+3. **For potential matches**: Read the full entity file to understand context
+4. Common variations to check:
    - Spelling differences (e.g., "Lin" vs "Lyn")
    - Partial names (e.g., "Grimstone" vs "Bruldin Grimstone")
    - Titles (e.g., "Captain Smith" vs "Smith")
-4. **Use Grep tool** to search entity contents if unsure:
-   - `grep -i "search_term" entities/characters/*.md`
-   - Helps find entities mentioned in other files
-5. When uncertain, mark as [AMBIGUITY] for user confirmation
+5. **Use semantic search over Grep** for better context understanding:
+   - Semantic search finds related concepts and relationships
+   - Helps identify entities mentioned across different files
+   - More effective than text-only grep for campaign content
+6. When uncertain, mark as [AMBIGUITY] for user confirmation
 
 ### New Entity Creation
 1. **Confirm spelling first** - ask for clarification on any uncertain proper nouns
@@ -149,13 +160,16 @@ Special tags for characters:
    - Use descriptive event names (e.g., "The Goblin Toll Incident")
    - Keep chronological order
    - No session dates or meta-references
-6. **Cross-reference with related entities**:
-   - **Read related entity files** for context before making updates
-   - If updating a character, read locations they're associated with
-   - If updating an organization, read its members' files
-   - If updating a location, read characters and organizations connected to it
-   - If entities mention each other, read both files to ensure consistent information
-   - Use the Grep tool to find connections: `grep -i "entity_name" entities/*/*.md`
+6. **Cross-reference with related entities using semantic search**:
+   - **Use semantic search to find connections** before reading files
+   - Search for entity relationships: "Bruldin Slayer Cult", "Teghrim's Crossing residents"
+   - Use `extensionFilter: [".md"]` and review file paths to understand connections
+   - **Read related entity files** for context before making updates:
+     - If updating a character, read locations they're associated with
+     - If updating an organization, read its members' files
+     - If updating a location, read characters and organizations connected to it
+     - If entities mention each other, read both files to ensure consistent information
+   - **Semantic search is more effective than grep** for finding entity relationships
    - Ensure consistency across related entities
 7. **Refine existing sections**:
    - If new info contradicts old, note the change in history
@@ -248,22 +262,29 @@ When encountering ambiguities:
    - Spelling variations for names, locations, organizations
 6. **Always confirm spelling** for new proper nouns before creating files
 
-## Best Practices for Entity Research
+## Best Practices for Entity Research with Semantic Search
 
 When processing entities:
 1. **Use the entity overview** as your primary index
-2. **Read full files** for entities you're updating - don't rely on overview alone
-3. **Read related entities** before making updates:
-   - If updating Lyn Chong, also read files for Qotal (spiritual connection) and locations mentioned
-   - If updating Teghrim's Crossing, read files for characters who have been there
-   - If updating a quest, read files for all participants and relevant locations
-4. **Search for connections** using Grep:
-   - Find all mentions of a character: `grep -i "character_name" entities/*/*.md`
-   - Find related organizations: `grep -i "organization_name" entities/*/*.md`
-   - Search for location names to find all connected entities
-5. **Check multiple spellings** when searching
-6. **Build on existing content** rather than duplicating
-7. **Maintain narrative consistency** across all connected entities
+2. **Start with strategic semantic searches** before diving into specific files:
+   - Search for character names with context: "Lyn Chong monk spiritual"
+   - Search for locations with features: "Teghrim's Crossing bridge settlement"
+   - Search for organizations and relationships: "slayer cults dwarven"
+   - Always use `extensionFilter: [".md"]` to focus on campaign content
+3. **Read full files** for entities you're updating - don't rely on overview alone
+4. **Use semantic search to find related entities** before making updates:
+   - Search for entity relationships and connections
+   - Review file paths to identify types (characters/, locations/, quests/)
+   - If updating Lyn Chong, search "Qotal spiritual connection monastery"
+   - If updating Teghrim's Crossing, search "bridge settlement residents"
+   - If updating a quest, search for participant names and quest keywords
+5. **Semantic search advantages over grep**:
+   - Finds conceptual relationships, not just exact text matches
+   - Better at discovering cross-references and thematic connections
+   - More effective for understanding campaign context and lore
+6. **Check multiple spellings** when searching
+7. **Build on existing content** rather than duplicating
+8. **Maintain narrative consistency** across all connected entities
 
 ## Output
 

@@ -4,22 +4,22 @@ name: 02 - Stone Hearts and Fairy Rings
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:53:12+00:00'
-updated: '2025-06-22T15:22:50+00:00'
+updated: '2025-08-20T14:18:06.279955+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ae6a-2302-490d-ba78-3fd49e80f6fa.png
 youtube_url: https://www.youtube.com/watch?v=EmAteaFbkTA
 ---
 
 # Chapter 2 - Stone Hearts and Fairy Rings
 
-Morning light filtered through the bridge's timbers as [entity:7763187|Teghrim's Crossing] stirred to life. The caravan's arrival had brought fresh energy to the frontier settlement, but with it came fresh concerns. In the administrative tower, [entity:7764097|Captain Irka Spritzel] studied her newest arrivals with the practiced eye of someone who had seen too many travelers pass through—and too few return.
+Morning light filtered through the bridge's timbers as [entity:7763187|Teghrim's Crossing] stirred to life. The caravan's arrival had brought fresh energy to the frontier settlement, but with it came fresh concerns. In the administrative tower, [entity:7764097|Captain Irka Spritzel] studied his newest arrivals with the practiced eye of someone who had seen too many travelers pass through—and too few return.
 
 "I am called Qotal," the [entity:7763230|Slaan] monk introduced himself, his jade scales catching the lamplight.
 
 [entity:7763295|Bruldin Grimstone] stepped forward, his scarred flesh a testament to battles survived. "I'm Bruldin Grimstone. Pleasure to meet you, Irka."
 
-The change in the captain's demeanor was immediate—her weathered face softened, years of frontier hardship momentarily forgotten. "Well, in Grimnir's name, I'll help as I can," [entity:7763295|Bruldin] added, and something like hope flickered in Irka's eyes.
+The change in the captain's demeanor was immediate—his weathered face softened, years of frontier hardship momentarily forgotten. "Well, in Grimnir's name, I'll help as I can," [entity:7763295|Bruldin] added, and something like hope flickered in Irka's eyes.
 
-"You actually have no idea how it warms my heart to see a slayer here, no less." She gestured toward the eastern windows where orc territories stretched beyond the river. "We've been forty years building this bridge—Tegrim himself laid the first stones—but these past months..." She shook her head. "The [entity:7763864|goblin raiders] grow bolder. We need a patrol to check if your caravan's passage stirred them up."
+"You actually have no idea how it warms my heart to see a slayer here, no less." He gestured toward the eastern windows where orc territories stretched beyond the river. "We've been forty years building this bridge—Tegrim himself laid the first stones—but these past months..." He shook his head. "The [entity:7763864|goblin raiders] grow bolder. We need a patrol to check if your caravan's passage stirred them up."
 
 Before assignments could be made, boots thundered on the stairs. A guard burst through the door, breathless with urgency. "Captain! The wild fey—they're at the gates. Claim it's an emergency. Say they need help immediate-like."
 

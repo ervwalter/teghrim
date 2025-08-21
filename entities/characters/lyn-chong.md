@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:29:56+00:00'
-updated: '2025-06-22T13:21:37.949081+00:00'
+updated: '2025-08-21T14:29:29.866192+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336b77-b2ec-46d4-ab3a-80911595d0d0.png
 ---
 
@@ -26,7 +26,7 @@ Exceptionally personable and approachable, Lyn breaks the mold of the stoic east
 
 ### Abilities & Skills
 
-Proficient with eastern religious practices including the use of incense and prayers for protection. Demonstrated healing abilities during combat, able to stabilize and restore wounded companions. His staff suggests martial training, though he prefers peaceful solutions.
+Proficient with eastern religious practices including the use of incense and prayers for protection. Demonstrated healing abilities during combat, able to stabilize and restore wounded companions. Offers "Divine Rest" benefit to friends - helps with curse recovery by allowing them to roll twice and take the better result on recovery checks. His staff suggests martial training, though he prefers peaceful solutions. Currently busy setting up a zen temple at [entity:7763187|Teghrim's Crossing].
 
 ## Background
 
@@ -37,15 +37,20 @@ Hails from the [entity:7763168|Jade Kingdoms] where he studied religious traditi
 - **[entity:7763296|Qotal]**: Recognized their shared reverence for [entity:7763144|Gia], establishing spiritual kinship
 - **[entity:7763294|Aurelia]**: Provided critical healing during combat, saving her life multiple times
 - **Jade Kingdoms Trading Caravan**: Travels with eastern merchants as spiritual advisor
+- **[entity:7763289|Alrik Grimstone]**: Befriended through shared temple construction work and spiritual discussions about the Jailor threat
+- **[entity:7764101|Rosencrantz]**: Recommended as arcane expert for understanding construct threats
 
 ## Notable History
 
 - **The Western Pilgrimage**: Departed the [entity:7763168|Jade Kingdoms] seeking a shrine of great healing power near [entity:7763187|Teghrim's Crossing] as part of his [entity:7763874|Shrine Restoration] quest
 - **The Caravan Defense**: Proved his worth by healing fallen party members during goblin ambushes while serving on [entity:7763872|Caravan Guard Duty]
+- **The Temple Construction**: Currently building a zen temple at [entity:7763187|Teghrim's Crossing], receiving help from [entity:7763289|Alrik] in exchange for research assistance
+- **The Jailor Consultation**: Provided religious perspective on the Jailor threat, identifying it as arcane construct rather than divine entity
+- **The Friendship with Alrik**: Formed strong bond with [entity:7763289|Alrik] who achieved exceptional success (roll of 26) in befriending him through temple assistance
 
 ## Current Status
 
-Recently arrived at [entity:7763187|Teghrim's Crossing] with the caravan. Preparing to search for and restore the abandoned oriental shrine rumored to possess divine healing powers as part of his [entity:7763874|Shrine Restoration] quest.
+Actively constructing a zen temple at [entity:7763187|Teghrim's Crossing] while continuing to search for the abandoned oriental shrine. Provides spiritual guidance and healing support to the community, particularly offering Divine Rest benefits to those suffering from curses. Maintains close friendship with [entity:7763289|Alrik] following their successful collaboration on temple construction.
 
 ## Secrets & Mysteries
 

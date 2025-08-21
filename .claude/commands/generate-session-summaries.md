@@ -29,21 +29,27 @@ Generate a session summary for digest-YYYY-MM-DD.md
 
 Instructions:
 1. First, run `python scripts/get_entity_overview.py` to get entity names, IDs, and file paths
-2. Check if `entities/journals/session-summary-YYYY-MM-DD.md` already exists
-3. If it doesn't exist:
+2. **Use semantic search strategically** to understand session context:
+   - Search for the session date or related timeframes to understand ongoing storylines
+   - Search for key character names and locations mentioned in the digest
+   - Search for quest keywords and plot elements to understand context
+   - Always use `extensionFilter: [".md"]` to focus on campaign content
+   - Examples: "July 2025 sessions", "Von Carstein vampire mansion", "Teghrim's Crossing quests"
+3. Check if `entities/journals/session-summary-YYYY-MM-DD.md` already exists
+4. If it doesn't exist:
    - Find and read 2-3 session summaries from dates BEFORE YYYY-MM-DD for continuity
    - Read the digest from `entities/notes/digest-YYYY-MM-DD.md`
    - The entity overview already provides entity IDs for linking
-   - Optionally read select entity files to better understand:
-     * Character relationships and personalities
-     * Location descriptions and connections
-     * Organizational structures
-     * BUT REMEMBER: These files contain future events - only use for context, not content
+   - **Use semantic search to understand entity relationships** before writing:
+     * Search for character relationships and connections
+     * Search for location details and significance
+     * Search for organizational structures and conflicts
+     * Review results to understand context, but remember files contain future events
    - Generate a comprehensive session summary following the format below
    - BEFORE SAVING: Review your summary and verify EVERY entity against the overview
    - If any entity with an ID isn't linked, add the link
    - Create the summary as `entities/journals/session-summary-YYYY-MM-DD.md`
-4. Report completion or any issues encountered
+5. Report completion or any issues encountered
 
 Summary Generation Instructions:
 [Copy all content from "Summary Generation Instructions" section through the end of this document]
@@ -102,40 +108,44 @@ List known immediate objectives and upcoming challenges. Focus on concrete optio
 - "blue goblin archers" → "goblin archers" or "the mounted goblins"
 - Use positional, descriptive, or sequential references instead
 
-### Processing the Digest:
-1. **Review previous session summaries** (if they exist) to understand:
+### Processing the Digest with Semantic Search:
+1. **Use semantic search to understand context** before diving into files:
+   - Search for session participants to understand their current roles and relationships
+   - Search for locations mentioned to understand their significance
+   - Search for quest keywords to identify ongoing storylines
+   - Always use `extensionFilter: [".md"]` to focus on campaign content
+2. **Review previous session summaries** (if they exist) to understand:
    - Ongoing plot threads and unresolved quests
    - Character relationships and dynamics
    - Recent events that might influence this session
    - The party's current goals and situation
-2. **Read the digest thoroughly** to understand the session's flow and key events
-3. **Identify major story beats** by looking at:
+3. **Read the digest thoroughly** to understand the session's flow and key events
+4. **Identify major story beats** by looking at:
    - DISCOVERY and LORE entries for plot revelations
    - NPC entries for important character interactions
    - COMBAT entries for significant battles
    - PLANNING entries for party decisions
    - Quest/Task entries in Entities section
-4. **Cross-reference with local entities** to add context:
-   - Check if NPCs mentioned already exist in `entities/characters/`
-   - Look up locations in `entities/locations/` for additional details
-   - Review PC files to understand character abilities and relationships
-   - **Read entity files to understand**:
-     * Character personalities, motivations, and speaking styles
-     * Relationships between characters (allies, enemies, family)
-     * Location layouts, atmospheres, and connections
-     * Organizational hierarchies and goals
-     * Combat abilities and typical tactics
+5. **Use semantic search for efficient entity research**:
+   - Search for entity relationships and connections instead of reading all files
+   - Search for character personalities and motivations with context
+   - Search for location atmospheres and significance
+   - Search for organizational conflicts and alliances
+   - **Semantic search advantages**:
+     * Finds relevant information faster than reading entire entity files
+     * Identifies connections and relationships across the campaign
+     * Provides context about entities without spoiling future events
    - **IMPORTANT**: Entity files contain the full history including events that happen AFTER this session
-   - Use this knowledge to write better narrative (how characters would speak/act)
+   - Use semantic search results to understand context for better narrative writing
    - DO NOT include events or facts from entity files that aren't in the digest
    - The digest represents what was known/happened at that specific session date
-5. **Synthesize into narrative flow** rather than listing events
-6. **Focus on story impact** over mechanical details
-7. **Ensure continuity** with previous sessions:
+6. **Synthesize into narrative flow** rather than listing events
+7. **Focus on story impact** over mechanical details
+8. **Ensure continuity** with previous sessions:
    - Reference callbacks to earlier events when relevant
    - Note progress on ongoing quests
    - Show character development over time
-8. **VERIFY ENTITY LINKING**: As you write, constantly check:
+9. **VERIFY ENTITY LINKING**: As you write, constantly check:
    - Is this character in the overview? Link it.
    - Is this location in the overview? Link it.
    - Is this organization/race/deity in the overview? Link it.

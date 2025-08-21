@@ -4,7 +4,7 @@ name: 05 - The One-Eyed Witness
 type: Session Narrative
 is_hidden: false
 created: '2025-06-21T21:24:39+00:00'
-updated: '2025-06-22T15:22:53.870063+00:00'
+updated: '2025-08-20T14:18:09.263100+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f35f844-c986-410f-b0c7-5bf47c92cfbf.png
 youtube_url: https://youtu.be/ZjqSNnTrd54?si=ijefz6d1NjrHWczH
 ---
@@ -89,9 +89,9 @@ Then they too vanished, leaving only confused silence and rescued prisoners who 
 
 ---
 
-[entity:7764097|Captain Irka Spritzel] met them at the town's edge, her expression shifting from resignation to surprise as she counted the living guards.
+[entity:7764097|Captain Irka Spritzel] met them at the town's edge, his expression shifting from resignation to surprise as he counted the living guards.
 
-"Good, some of the guards are not dead. That is very good." She produced a purse with the practiced motion of someone who'd paid for both successes and failures. "Forty gold for the rescue. The wagons?"
+"Good, some of the guards are not dead. That is very good." He produced a purse with the practiced motion of someone who'd paid for both successes and failures. "Forty gold for the rescue. The wagons?"
 
 "Kindling," [entity:7763295|Bruldin] reported. "But the men live."
 

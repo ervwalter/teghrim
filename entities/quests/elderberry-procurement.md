@@ -4,8 +4,8 @@ name: Elderberry Procurement
 type: Party Quest
 is_hidden: false
 created: '2025-06-15T18:14:04+00:00'
-updated: '2025-06-22T13:26:57.990768+00:00'
-is_completed: false
+updated: '2025-08-21T14:29:32.710045+00:00'
+is_completed: true
 ---
 # Elderberry Procurement
 
@@ -40,17 +40,20 @@ The theft by fairies and [entity:7764102|Aelysh's] need for discretion hints at 
 
 ## Participants
 
-To be determined when quest becomes active
+- [entity:7763296|Qotal]
+- [entity:7763294|Aurelia] 
+- [entity:7763295|Bruldin Grimstone]
+- [entity:7763290|Arnor Josefson]
 
 ## Rewards
 
-- Payment or favor from [entity:7764102|Aelysh]
-- Potential access to alchemical resources
+- Healing potions and oils of unlife from [entity:7764102|Aelysh]
 - Improved relationship with the Wood Elf community
+- Access to alchemical resources
 
 ## Quest Status
 
-**Active** - Awaiting party action
+**Completed** - Elderberries successfully obtained through stealth during bear negotiations
 
 ## Related Events
 

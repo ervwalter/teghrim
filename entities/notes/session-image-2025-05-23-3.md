@@ -4,7 +4,7 @@ name: 2025-05-23 Image 3 - The Dryad's Liberation
 type: Image Prompt
 is_hidden: true
 created: '2025-06-13T14:49:57+00:00'
-updated: '2025-06-22T13:28:11.972281+00:00'
+updated: '2025-08-21T14:30:38.398789+00:00'
 ---
 
 # Breaking the Spider's Web

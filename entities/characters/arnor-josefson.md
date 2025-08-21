@@ -4,7 +4,7 @@ name: Arnor Josefson
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:52+00:00'
-updated: '2025-07-13T06:58:31.732932+00:00'
+updated: '2025-08-21T14:29:30.858894+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369fe-110e-4695-8960-7254b8b5c619.jpg
 ---
 
@@ -24,7 +24,7 @@ Describes himself as one who tends "to stay in the shadow," suggesting either a 
 
 ### Abilities & Skills
 
-Skilled spellcaster specializing in needle darts that can be imbued with special materials like cold iron and silver. Possesses musical talent with the flute and can provide magical support through spells like Nudge Fate. Notable for his evil eye symbol that can cause supernatural panic in enemies. Adept investigator capable of searching for magical practitioners and understanding occult sites.
+Arnor is a witch. Skilled occult spellcaster specializing in needle darts that can be imbued with special materials like cold iron and silver. Possesses musical talent with the flute and can provide magical support through spells like Nudge Fate. Notable for his evil eye symbol that can cause supernatural panic in enemies. Adept investigator capable of searching for magical practitioners and understanding occult sites.
 
 ## Background
 

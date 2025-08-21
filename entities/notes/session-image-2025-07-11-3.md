@@ -3,7 +3,7 @@ name: 2025-07-11 Image 3 - The Arena of Spectators
 type: Image Prompt
 is_hidden: true
 created: '2025-07-13T14:30:06.856500+00:00'
-updated: '2025-07-13T14:30:06.856507+00:00'
+updated: '2025-08-21T14:30:28.391100+00:00'
 entity_id: 7890064
 ---
 

@@ -6,13 +6,13 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:11+00:00'
-updated: '2025-06-22T13:21:35+00:00'
-image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336b4b-0d98-44b0-a807-a7adf686e48b.jpg
+updated: '2025-08-20T14:18:09+00:00'
+image: https://cdn-ugc.kanka.io/campaigns/322885/9f336b4b-0d98-44b0-a807-a7adf686e48b.jpg
 ---
 
 # Irka Spritzel
 
-Irka Spritzel is a [entity:7763200|Highland Dwarf] captain who serves as the primary authority figure at [entity:7763187|Teghrim's Crossing]. As commander of the dwarf guards maintaining order in this strategic bridge settlement, she demonstrates both military competence and diplomatic sensitivity in managing the delicate balance between neighboring Bovok and Orc territories.
+Irka Spritzel is a male [entity:7763200|Highland Dwarf] captain who serves as the primary authority figure at [entity:7763187|Teghrim's Crossing]. As commander of the dwarf guards maintaining order in this strategic bridge settlement, he demonstrates both military competence and diplomatic sensitivity in managing the delicate balance between neighboring Bovok and Orc territories.
 
 ## Description
 
@@ -22,7 +22,7 @@ A stout and powerfully built [entity:7763200|Highland Dwarf] with rich brown hai
 
 ### Personality & Demeanor
 
-Professional and duty-focused, Irka maintains the authority necessary to run a frontier settlement. She shows particular warmth toward fellow dwarves, especially when meeting members of the prestigious [entity:7763122|dwarven slayer cults]. Her heart visibly warms when encountering slayers, suggesting deep respect for the warrior tradition.
+Professional and duty-focused, Irka maintains the authority necessary to run a frontier settlement. He shows particular warmth toward fellow dwarves, especially when meeting members of the prestigious [entity:7763122|dwarven slayer cults]. His heart visibly warms when encountering slayers, suggesting deep respect for the warrior tradition.
 
 ### Abilities & Skills
 

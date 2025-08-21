@@ -4,7 +4,7 @@ name: Septerra Calendar System
 type: Lore
 is_hidden: false
 created: '2025-06-21T21:24:47+00:00'
-updated: '2025-06-22T13:28:13.596332+00:00'
+updated: '2025-08-21T14:30:41.836644+00:00'
 ---
 
 # Septerra Calendar System

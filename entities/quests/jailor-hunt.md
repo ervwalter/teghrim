@@ -5,7 +5,7 @@ is_completed: false
 is_hidden: false
 entity_id: 7888228
 created: '2025-07-13T06:58:25.640476+00:00'
-updated: '2025-07-13T14:30:09.255849+00:00'
+updated: '2025-08-21T14:29:33.584491+00:00'
 ---
 
 # The Jailor Hunt
@@ -45,7 +45,8 @@ The Jailor was first encountered after it attacked a caravan, capturing the occu
 - **Capture Mechanics**: Creature focuses on non-lethal damage for live capture
 - **Physical Capabilities**: Colossal size (20+ feet), massive strength, high-speed movement, projectile attacks
 - **Magical Properties**: Cursed footprints that explode when exposed to divine energy
-- **Current Status**: Escaped with full chest cage, location unknown
+- **Lair Discovery**: Located at Cursed Stone Formation with necrotic force field
+- **Weakness Confirmed**: Vulnerable to positive energy and slashing damage
 
 ## Challenges Encountered
 
@@ -60,6 +61,8 @@ The Jailor was first encountered after it attacked a caravan, capturing the occu
 - **The Forest Battle**: Direct confrontation resulted in party casualties
 - **The Escape**: Creature fled at high speed when unable to capture more victims
 - **The Investigation**: Analysis of cursed footprints revealed negative energy corruption
+- **The Lair Discovery**: Party found Cursed Stone Formation serving as creature's base
+- **The Failed Approach**: Nearly fatal attempt to reach central control rune due to necrotic field
 
 ## Current Objectives
 

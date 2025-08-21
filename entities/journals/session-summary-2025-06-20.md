@@ -4,7 +4,7 @@ name: 2025-06-20 - Wagon Wreckage and Bulvak Raiders
 type: Session Summary
 is_hidden: false
 created: '2025-06-21T21:24:39+00:00'
-updated: '2025-06-22T13:20:36.546646+00:00'
+updated: '2025-08-20T14:18:08.307423+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f35f844-c986-410f-b0c7-5bf47c92cfbf.png
 ---
 
@@ -38,7 +38,7 @@ The rescued caravan guards, beaten and dragged through brush during their captiv
 
 Strange fae creatures materialized from nowhere, tiny beings with annoying voices asking nonsensical riddles. Between queries about ravens and writing desks, one statement emerged clearly: **"It must be Tessa."** The reference meant nothing to the confused party, and the fae vanished as mysteriously as they'd appeared.
 
-Returning to [entity:7763187|Teghrim's Crossing] with the rescued guards, [entity:7764097|Captain Irka Spritzel] met them at the town entrance. **"Good, some of the guards are not dead. That is very good,"** she observed with characteristic practicality. The captain provided 40 gold pieces as reward for the successful rescue, though the destroyed wagons and their cargo remained lost to the wilderness.
+Returning to [entity:7763187|Teghrim's Crossing] with the rescued guards, [entity:7764097|Captain Irka Spritzel] met them at the town entrance. **"Good, some of the guards are not dead. That is very good,"** he observed with characteristic practicality. The captain provided 40 gold pieces as reward for the successful rescue, though the destroyed wagons and their cargo remained lost to the wilderness.
 
 ## Combat & Challenges
 

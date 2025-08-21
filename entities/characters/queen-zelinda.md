@@ -4,11 +4,11 @@ name: Queen Zelinda
 type: NPC
 is_hidden: false
 created: '2025-06-13T02:25:42+00:00'
-updated: '2025-06-22T13:23:31.355596+00:00'
+updated: '2025-08-21T14:29:31.789820+00:00'
 ---
 # Queen Zelinda
 
-Queen Zelinda is a [entity:7763190|hobgoblin] queen who rules alongside the Goblin King at [entity:7763187|Teghrim's Crossing]. Known for her elaborate pop culture reference titles, she represents the civilized [entity:7763190|hobgoblin] royal presence in the frontier settlement.
+Queen Zelinda is a [entity:7763190|hobgoblin] queen who rules a hob settlement on the north side of the river near [entity:7763187|Teghrim's Crossing]. Known for her elaborate collection of titles and protective charms, she competes with King Jareth (the Goblin King) who rules a rival settlement on the opposite side of the river.
 
 ## Description
 
@@ -18,28 +18,34 @@ A regal [entity:7763190|hobgoblin] with the bearing and appearance appropriate t
 
 ### Personality & Demeanor
 
-Royal and dignified, with a distinctive tendency toward elaborate titles that reference popular culture. Her partnership with the Goblin King suggests shared interests in performance and cultural activities.
+Royal and superstitious, with an insatiable appetite for elaborate titles including "Her Royal Eminence and Imperador Zelinda," "Queen of the Icenii," "Scion of the Eldrazi," "The Six-Hokage of the Leafy Village," "Duchess of Shale," "Lord of the North Land," "Queen of the Starry River," "Queen of the Ecliptic Veil," and "Divine Mistress and Guardian of the River Wild." She attempts to imitate noble behavior but lacks genuine understanding of courtly etiquette. Values protective charms and supernatural defenses.
 
 ### Abilities & Skills
 
-Possesses the political and social skills necessary for royal leadership within the [entity:7763190|hobgoblin] community, along with an apparent talent for creative titling and cultural references.
+Possesses political leadership over her settlement and extensive knowledge of protective charms, artifacts, and supernatural defenses. Has collected various magical items including a Duergar bektakor from a cursed lodge. Good with artifact identification.
 
 ## Background
 
-Established royal authority alongside the Goblin King as part of the civilized [entity:7763190|hobgoblin] community that has integrated into [entity:7763187|Teghrim's Crossing] society.
+Established royal authority over a hob settlement north of the river, competing with King Jareth's rival settlement. Part of the hob communities that migrated from the Eastern lands after a dark cloud forced their relocation.
 
 ## Relationships
 
-- **Goblin King**: Royal partner who shares leadership and performance interests
-- **Hobgoblin Community**: Queen of the civilized [entity:7763190|hobgoblin] population at [entity:7763187|Teghrim's Crossing]
-- **Settlement Leadership**: Part of the broader leadership structure maintaining order in the frontier community
+- **King Jareth (Goblin King)**: Rival ruler of competing hob settlement on opposite side of river
+- **[entity:7764195|Gaz]**: Gave protective curse pendant to the hob server
+- **Hobgoblin Community**: Queen of her specific settlement north of the river
+- **The Party**: Successfully impressed by their title-giving abilities during diplomatic encounter
 
 ## Notable History
 
-- **The Royal Partnership**: Established co-rulership with the Goblin King over the local hobgoblin community
-- **The Integration**: Successfully integrated [entity:7763190|hobgoblin] royal authority into the broader settlement governance
-- **The Cultural Leadership**: Developed distinctive style of elaborate pop culture reference titles
+- **The Hob Migration**: Part of the western migration from Eastern lands after dark cloud emergence
+- **The Settlement Rivalry**: Established competing royal authority against King Jareth's settlement
+- **The Guardian Knowledge**: Holds lore about giant guardian in cavern of waterfalls that killed hob scouts
+- **The Curse Pendants**: Created protective charms to make wearers appear cursed to supernatural threats
+- **The Title Collection**: Accumulated elaborate titles including references to various cultures and myths
+- **The Party Reception**: Successfully courted by party through title-giving ceremony and strategic title bestowal, particularly impressed by [entity:7763295|Bruldin's] "Queen of the Starry River" and [entity:7763289|Alrik's] "Divine Mistress and Guardian of the River Wild"
+- **The Guardian Revelation**: Explained to party that giant guardian was once a royal guard whose ego grew until he couldn't escape the cavern of waterfalls
+- **The Bektakor Warning**: Provided cake for Grogug the troll to ensure party's safe passage while warning of his appetite for eating travelers
 
 ## Current Status
 
-Actively serving as [entity:7763190|hobgoblin] queen while maintaining royal presence in the diverse leadership structure of [entity:7763187|Teghrim's Crossing].
+Actively ruling her hob settlement north of the river while competing with King Jareth's rival settlement. Maintains extensive collection of protective artifacts and continues distributing curse pendants to allies.
