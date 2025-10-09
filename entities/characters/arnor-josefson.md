@@ -4,7 +4,7 @@ name: Arnor Josefson
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:52+00:00'
-updated: '2025-10-08T04:22:20.789103+00:00'
+updated: '2025-10-09T04:52:46.507497+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369fe-110e-4695-8960-7254b8b5c619.jpg
 ---
 

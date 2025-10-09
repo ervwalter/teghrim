@@ -1,10 +1,10 @@
 ---
+entity_id: 8248773
 name: Observer Rats
 type: Monstrous
 is_hidden: false
-created: '2025-10-08T04:22:10.444617+00:00'
-updated: '2025-10-08T04:22:10.444624+00:00'
-entity_id: 8248773
+created: '2025-10-08T04:22:10+00:00'
+updated: '2025-10-09T04:52:33+00:00'
 ---
 
 # Observer Rats
@@ -48,9 +48,7 @@ Observer rats represent one of the most unsettling aspects of [entity:7763213|Sk
 ## Notable History
 
 - **The Bridge Raid** (Orpheus 2nd): Observer rats maintained command positions on windowsills and elevated rocks during massive coordinated assault on [entity:7763187|Teghrim's Crossing] mess hall. Nature check (27) determined their behavior was highly unusual and something unnatural was controlling them.
-
 - **The Coordinated Retreat**: After [entity:8244509|giant rats] had stolen sufficient supplies and faced mounting casualties, observer rats squeaked signals causing all remaining giant rats to use every action to climb through windows and flee. Observer rats then hopped down and disappeared.
-
 - **The Shrine Attack** (Orpheus 2nd): Separate observer rat presence confirmed at [entity:7763866|Lyn Chong's] shrine construction site, indicating multi-site coordination by [entity:7763213|Skaven] commanders.
 
 ## Current Status

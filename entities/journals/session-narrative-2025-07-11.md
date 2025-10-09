@@ -4,7 +4,7 @@ name: 07 - The Chain and the Chorus
 type: Session Narrative
 is_hidden: false
 created: '2025-07-13T14:30:04+00:00'
-updated: '2025-07-19T15:05:27.824789+00:00'
+updated: '2025-10-09T04:51:52.658809+00:00'
 image: https://cdn-ugc.kanka.io/campaigns/322885/9f61a4be-53b7-4483-b3ae-91f00202dff1.png
 youtube_url: https://youtu.be/3pqTP9f16Pc
 ---

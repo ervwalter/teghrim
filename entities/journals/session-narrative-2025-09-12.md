@@ -2,8 +2,9 @@
 name: 14 - Songs of Forgotten Spirits
 type: Session Narrative
 is_hidden: false
-created: '2025-10-08T22:30:00+00:00'
-updated: '2025-10-08T22:30:00+00:00'
+created: '2025-10-09T04:51:32.732576+00:00'
+updated: '2025-10-09T04:51:32.732583+00:00'
+entity_id: 8252862
 ---
 
 # Chapter 14 - Songs of Forgotten Spirits

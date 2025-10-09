@@ -4,7 +4,7 @@ name: Iridessa
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:14+00:00'
-updated: '2025-10-07T04:08:25.406463+00:00'
+updated: '2025-10-09T04:52:55.587041+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3c67e7-4d52-49e6-b5ed-a2abade375f0.jpg
 ---
 

@@ -3,7 +3,7 @@ name: The Fleshcrafter
 type: NPC
 is_hidden: true
 created: '2025-10-07T04:08:11.803521+00:00'
-updated: '2025-10-07T04:28:44.690882+00:00'
+updated: '2025-10-09T04:52:53.782714+00:00'
 entity_id: 8244510
 ---
 

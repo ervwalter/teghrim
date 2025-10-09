@@ -2,8 +2,9 @@
 name: 16 - Songs for Stone Sentinels
 type: Session Narrative
 is_hidden: false
-created: '2025-10-09T06:00:00+00:00'
-updated: '2025-10-09T06:00:00+00:00'
+created: '2025-10-09T04:51:29.821513+00:00'
+updated: '2025-10-09T04:51:29.821520+00:00'
+entity_id: 8252858
 ---
 
 # Chapter 16 - Songs for Stone Sentinels

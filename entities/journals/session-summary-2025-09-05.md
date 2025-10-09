@@ -3,7 +3,7 @@ name: 2025-09-05 - The Orc Moot
 type: Session Summary
 is_hidden: false
 created: '2025-10-07T12:57:17.353298+00:00'
-updated: '2025-10-07T12:57:17.353304+00:00'
+updated: '2025-10-09T04:51:37.736142+00:00'
 entity_id: 8245351
 ---
 

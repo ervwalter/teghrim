@@ -4,7 +4,7 @@ type: Undead
 is_hidden: false
 entity_id: 8244529
 created: '2025-10-07T04:18:17.947315+00:00'
-updated: '2025-10-07T04:18:17.947322+00:00'
+updated: '2025-10-09T04:51:55.339653+00:00'
 ---
 
 # Meat Puppets

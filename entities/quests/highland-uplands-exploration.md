@@ -5,7 +5,7 @@ is_hidden: false
 is_completed: true
 entity_id: 8248840
 created: '2025-10-08T05:05:11.952672+00:00'
-updated: '2025-10-08T05:05:11.952686+00:00'
+updated: '2025-10-09T04:53:54.863452+00:00'
 ---
 
 # Highland Uplands Exploration

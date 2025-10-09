@@ -2,8 +2,9 @@
 name: 13 - Blood and Brotherhood
 type: Session Narrative
 is_hidden: false
-created: '2025-10-08T19:30:00+00:00'
-updated: '2025-10-08T19:30:00+00:00'
+created: '2025-10-09T04:51:30.578288+00:00'
+updated: '2025-10-09T04:51:30.578295+00:00'
+entity_id: 8252859
 ---
 
 # Chapter 13 - Blood and Brotherhood

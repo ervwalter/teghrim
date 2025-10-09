@@ -4,7 +4,7 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-10-08T04:22:16.908055+00:00'
+updated: '2025-10-09T04:52:38.924497+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a37-767e-430b-a504-4208c9ba294d.jpg
 ---
 

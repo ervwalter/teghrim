@@ -4,7 +4,7 @@ type: Landmark
 is_hidden: false
 entity_id: 8248837
 created: '2025-10-08T05:05:10.417209+00:00'
-updated: '2025-10-08T05:05:10.417220+00:00'
+updated: '2025-10-09T04:53:49.445308+00:00'
 ---
 
 # Dragon Ogre Lair

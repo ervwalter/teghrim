@@ -4,8 +4,9 @@ name: Willow Dryad
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-10-08T03:42:20.529552+00:00'
+updated: '2025-10-09T04:52:50+00:00'
 ---
+
 # Willow Dryad
 
 The Willow Dryad is the spiritual guardian of the Great Willow who was rescued from spider attackers and their spriggan controller. As one of the three forest guardians protecting access to the [entity:TBD|Enchanted Forest], she tests worthy travelers and grants protective lanterns to those who prove themselves. A repository of ancient forest knowledge, she remembers Genovian the Espada from long ago and senses disturbing changes in the forest's natural balance.

@@ -3,7 +3,7 @@ name: Espada and Rhonqar
 type: Lore
 is_hidden: false
 created: '2025-10-08T03:42:17.818415+00:00'
-updated: '2025-10-08T03:42:17.818422+00:00'
+updated: '2025-10-09T04:54:02.692706+00:00'
 entity_id: 8248711
 ---
 

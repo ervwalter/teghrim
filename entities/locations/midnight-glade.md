@@ -3,7 +3,7 @@ name: Midnight Glade
 type: Landmark
 is_hidden: false
 created: '2025-10-07T04:28:34.388338+00:00'
-updated: '2025-10-07T04:28:34.388345+00:00'
+updated: '2025-10-09T04:53:51.220763+00:00'
 entity_id: 8244555
 ---
 

@@ -4,7 +4,7 @@ name: 06 - The Jailor's Hunger
 type: Session Narrative
 is_hidden: false
 created: '2025-07-13T14:30:03+00:00'
-updated: '2025-07-13T14:46:29.591456+00:00'
+updated: '2025-10-09T04:51:44.816064+00:00'
 image: https://cdn-ugc.kanka.io/campaigns/322885/9f61a446-1d29-43ed-a03f-766be84cad93.png
 youtube_url: https://youtu.be/RYfowqtJ1eI
 ---

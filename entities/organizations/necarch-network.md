@@ -3,7 +3,7 @@ name: Necarch Network
 type: Secret Society
 is_hidden: true
 created: '2025-10-07T04:28:30.449399+00:00'
-updated: '2025-10-07T04:28:30.449407+00:00'
+updated: '2025-10-09T04:51:34.671759+00:00'
 entity_id: 8244549
 ---
 

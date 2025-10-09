@@ -3,7 +3,7 @@ name: Georgette
 type: NPC
 is_hidden: false
 created: '2025-10-08T04:22:10.888627+00:00'
-updated: '2025-10-08T04:22:10.888632+00:00'
+updated: '2025-10-09T04:52:50.182639+00:00'
 entity_id: 8248774
 ---
 

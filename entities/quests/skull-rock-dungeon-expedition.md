@@ -1,11 +1,11 @@
 ---
+entity_id: 8244511
 name: Skull Rock Dungeon Expedition
 type: Party Quest
 is_hidden: false
+created: '2025-10-07T04:08:12+00:00'
+updated: '2025-10-09T04:53:52+00:00'
 is_completed: true
-created: '2025-10-07T04:08:12.592733+00:00'
-updated: '2025-10-07T04:18:27.174859+00:00'
-entity_id: 8244511
 ---
 
 # Skull Rock Dungeon Expedition
@@ -46,6 +46,7 @@ The party spent downtime gathering intelligence and befriending NPCs who could p
 - Bruldin managed witch activities and time with Sigrid
 
 During breakfast discussions, the party learned:
+
 - Arnor discovered Aelysh's familiar found an Eris medallion in the woods, suggesting Priests of Discord presence
 - Qotal shared the story of how a silver fox led him to his striking rune (rescued trapped fox in snare, fox dug up rune bundle as thanks)
 - Alrik predicted weather using Survival check (23) - clouds coming afternoon, cold front may linger
@@ -60,6 +61,7 @@ Qotal prepared four lesser elixirs of life for the party. Osanna successfully di
 ### Initial Exploration
 
 The party discovered:
+
 - Giant-sized carved tunnels (not natural, not dwarven construction)
 - Hundreds of rodent skeletons throughout the passages
 - Spider snake nests in ceiling holes
@@ -105,11 +107,13 @@ The party discovered:
 **Primary Objective Achieved**: The Jailor has been destroyed, eliminating the immediate threat to the region.
 
 **Secondary Objectives Partial Success**:
+
 - Dungeon cleared of immediate undead threats (skeleton warriors, meat puppets, undead troops all destroyed)
 - No living victims found - all jail cells empty, suggesting the Fleshcrafter had already processed recent captives
 - The Fleshcrafter herself escaped through secret passage, remaining at large
 
 **Ongoing Concerns**:
+
 - The Fleshcrafter's whereabouts unknown - she could establish new operations elsewhere
 - Fate of all victims delivered by the Jailor remains unclear
 - Soul orb and ritual chamber left intact, potentially still dangerous

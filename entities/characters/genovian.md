@@ -3,7 +3,7 @@ name: Genovian
 type: NPC
 is_hidden: false
 created: '2025-10-08T03:42:14.680808+00:00'
-updated: '2025-10-08T03:42:14.680814+00:00'
+updated: '2025-10-09T04:52:43.451995+00:00'
 entity_id: 8248706
 ---
 

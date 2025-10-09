@@ -4,7 +4,7 @@ type: Undead
 is_hidden: false
 entity_id: 8244530
 created: '2025-10-07T04:18:18.468315+00:00'
-updated: '2025-10-07T04:18:18.468321+00:00'
+updated: '2025-10-09T04:51:57.903899+00:00'
 ---
 
 # Undead Troops

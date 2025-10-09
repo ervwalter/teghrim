@@ -2,8 +2,9 @@
 name: 11 - The Necromancer's Welcome
 type: Session Narrative
 is_hidden: false
-created: '2025-10-08T12:00:00+00:00'
-updated: '2025-10-08T12:00:00+00:00'
+created: '2025-10-09T04:51:31.286178+00:00'
+updated: '2025-10-09T04:51:31.286185+00:00'
+entity_id: 8252860
 ---
 
 # Chapter 11 - The Necromancer's Welcome

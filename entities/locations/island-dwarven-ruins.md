@@ -4,7 +4,7 @@ type: Landmark
 is_hidden: false
 entity_id: 8248838
 created: '2025-10-08T05:05:10.849223+00:00'
-updated: '2025-10-08T05:05:10.849238+00:00'
+updated: '2025-10-09T04:53:50.354194+00:00'
 ---
 
 # Island Dwarven Ruins

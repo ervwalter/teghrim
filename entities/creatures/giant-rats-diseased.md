@@ -3,7 +3,7 @@ name: Giant Rats (Diseased)
 type: Monstrous
 is_hidden: false
 created: '2025-10-07T04:08:11.276199+00:00'
-updated: '2025-10-08T04:22:14.047796+00:00'
+updated: '2025-10-09T04:52:34.985612+00:00'
 entity_id: 8244509
 ---
 

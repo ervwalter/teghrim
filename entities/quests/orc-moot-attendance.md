@@ -4,7 +4,7 @@ type: Party Quest
 is_completed: true
 is_hidden: false
 created: '2025-10-07T04:28:35.117630+00:00'
-updated: '2025-10-07T04:28:35.117638+00:00'
+updated: '2025-10-09T04:53:53.970163+00:00'
 entity_id: 8244556
 ---
 

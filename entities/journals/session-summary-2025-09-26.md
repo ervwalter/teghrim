@@ -3,7 +3,7 @@ name: 2025-09-26 - Highland Depths and Waterfall Wonders
 type: Session Summary
 is_hidden: false
 created: '2025-10-09T04:03:48.808974+00:00'
-updated: '2025-10-09T04:03:48.808983+00:00'
+updated: '2025-10-09T04:51:45.942271+00:00'
 entity_id: 8252802
 ---
 

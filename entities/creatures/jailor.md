@@ -4,7 +4,7 @@ type: Monstrous
 is_hidden: false
 entity_id: 7888221
 created: '2025-07-13T06:58:22.341998+00:00'
-updated: '2025-10-07T04:18:20.324031+00:00'
+updated: '2025-10-09T04:51:59.579077+00:00'
 ---
 
 # The Jailor

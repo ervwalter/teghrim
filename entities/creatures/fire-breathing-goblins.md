@@ -3,7 +3,7 @@ name: Fire-Breathing Goblins
 type: Monstrous
 is_hidden: false
 created: '2025-10-07T04:28:31.545941+00:00'
-updated: '2025-10-07T04:28:31.545948+00:00'
+updated: '2025-10-09T04:52:01.266223+00:00'
 entity_id: 8244551
 ---
 

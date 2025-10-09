@@ -3,7 +3,7 @@ name: Goldgrin
 type: NPC
 is_hidden: true
 created: '2025-10-07T04:28:32.185455+00:00'
-updated: '2025-10-07T04:28:32.185462+00:00'
+updated: '2025-10-09T04:52:42.546835+00:00'
 entity_id: 8244552
 ---
 

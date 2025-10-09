@@ -3,7 +3,7 @@ name: Orc Moot Gathering Site
 type: Landmark
 is_hidden: false
 created: '2025-10-07T04:28:33.887737+00:00'
-updated: '2025-10-07T04:28:33.887746+00:00'
+updated: '2025-10-09T04:52:59.165677+00:00'
 entity_id: 8244554
 ---
 

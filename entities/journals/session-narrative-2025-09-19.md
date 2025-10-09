@@ -2,8 +2,9 @@
 name: 15 - Teeth and Towers
 type: Session Narrative
 is_hidden: false
-created: '2025-10-08T23:30:00+00:00'
-updated: '2025-10-08T23:30:00+00:00'
+created: '2025-10-09T04:51:31.987852+00:00'
+updated: '2025-10-09T04:51:31.987858+00:00'
+entity_id: 8252861
 ---
 
 # Chapter 15 - Teeth and Towers

@@ -4,7 +4,7 @@ type: Undead
 is_hidden: false
 entity_id: 8244531
 created: '2025-10-07T04:18:18.949453+00:00'
-updated: '2025-10-07T04:18:18.949459+00:00'
+updated: '2025-10-09T04:52:00.416076+00:00'
 ---
 
 # Skeleton Warriors

@@ -4,7 +4,7 @@ name: Alrik Grimmelstang
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:19+00:00'
-updated: '2025-10-08T05:05:14.175282+00:00'
+updated: '2025-10-09T04:52:37.984207+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369aa-0dbb-4245-8e1e-25c3f63f81ec.jpg
 ---
 

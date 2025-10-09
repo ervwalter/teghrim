@@ -3,7 +3,7 @@ name: Orc Rampagers
 type: Monstrous
 is_hidden: false
 created: '2025-10-07T04:28:31.049766+00:00'
-updated: '2025-10-07T04:28:31.049774+00:00'
+updated: '2025-10-09T04:51:54.497321+00:00'
 entity_id: 8244550
 ---
 

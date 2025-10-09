@@ -1,10 +1,10 @@
 ---
+entity_id: 8248835
 name: Dragon Ogres
 type: Monstrous
 is_hidden: false
-entity_id: 8248835
-created: '2025-10-08T05:05:09.381979+00:00'
-updated: '2025-10-08T05:05:09.381991+00:00'
+created: '2025-10-08T05:05:09+00:00'
+updated: '2025-10-09T04:52:32+00:00'
 ---
 
 # Dragon Ogres
@@ -42,7 +42,6 @@ The mutation process is poorly understood, with scholars debating whether it req
 ## Notable History
 
 - **The Highland Encounter** (Orpheus 5th-7th): Party discovered two dragon ogres tracking through the [entity:8248775|Highland Uplands] wilderness. After initial diplomatic attempts failed, combat ensued with [entity:7763296|Qotal], [entity:7763289|Alrik], [entity:7763295|Bruldin], and [entity:7764100|Gierr] defeating both creatures through coordinated tactics. The party learned about their energy mechanic through observation during the extended battle.
-
 - **The Lair Discovery** (Orpheus 8th): Party tracked the dragon ogres back to their canyon lair, discovering evidence of a previous ogre community. The presence of numerous pelts and ogre-ish equipment suggested these dragon ogres had originated from a larger ogre population that had been affected by draconic influence.
 
 ## Current Status

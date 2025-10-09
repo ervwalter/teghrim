@@ -3,7 +3,7 @@ name: Spider Snakes
 type: Monstrous
 is_hidden: false
 created: '2025-10-07T04:08:10.806253+00:00'
-updated: '2025-10-07T04:08:10.806263+00:00'
+updated: '2025-10-09T04:51:56.163952+00:00'
 entity_id: 8244508
 ---
 

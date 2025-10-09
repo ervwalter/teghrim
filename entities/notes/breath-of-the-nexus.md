@@ -3,7 +3,7 @@ name: Breath of the Nexus
 type: Lore
 is_hidden: false
 created: '2025-10-08T03:42:17.379048+00:00'
-updated: '2025-10-08T03:42:17.379055+00:00'
+updated: '2025-10-09T04:54:00.770916+00:00'
 entity_id: 8248710
 ---
 

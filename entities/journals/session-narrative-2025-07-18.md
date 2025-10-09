@@ -4,7 +4,7 @@ name: 08 - Bonds and Bindings
 type: Session Narrative
 is_hidden: false
 created: '2025-07-20T03:58:00+00:00'
-updated: '2025-07-20T03:58:00+00:00'
+updated: '2025-10-09T04:51:42.329432+00:00'
 image: https://cdn-ugc.kanka.io/campaigns/322885/9f6ed666-b992-4b47-9f02-5e2b5a6ed4be.png
 youtube_url: https://www.youtube.com/watch?v=Ru99Oufyo-w
 ---

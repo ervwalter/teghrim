@@ -4,7 +4,7 @@ name: 04 - The Spore and the Cure
 type: Session Narrative
 is_hidden: false
 created: '2025-06-21T21:24:38+00:00'
-updated: '2025-06-22T15:22:52.921131+00:00'
+updated: '2025-10-09T04:51:41.310876+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f35f7c2-767a-43e8-90c1-db075b265de2.png
 youtube_url: https://youtu.be/3KV4er-toVE?si=S3L_OdlsxZU04i8E
 ---

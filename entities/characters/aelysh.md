@@ -6,8 +6,8 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-10-07T04:08:24.361042+00:00'
-image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336aa1-5468-4d8b-8260-84d5dac9fe5c.jpg
+updated: '2025-10-09T04:52:51+00:00'
+image: https://cdn-ugc.kanka.io/campaigns/322885/9f336aa1-5468-4d8b-8260-84d5dac9fe5c.jpg
 ---
 
 # Aelysh

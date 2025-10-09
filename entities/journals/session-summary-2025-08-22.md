@@ -3,7 +3,7 @@ name: 2025-08-22 - Into the Necromancer's Lair
 type: Session Summary
 is_hidden: false
 created: '2025-10-07T12:57:18.765052+00:00'
-updated: '2025-10-07T12:57:18.765058+00:00'
+updated: '2025-10-09T04:51:53.619372+00:00'
 entity_id: 8245353
 ---
 

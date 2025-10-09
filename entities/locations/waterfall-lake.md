@@ -4,7 +4,7 @@ type: Landmark
 is_hidden: false
 entity_id: 8248836
 created: '2025-10-08T05:05:09.950270+00:00'
-updated: '2025-10-08T05:05:09.950281+00:00'
+updated: '2025-10-09T04:52:58.305470+00:00'
 ---
 
 # Waterfall Lake

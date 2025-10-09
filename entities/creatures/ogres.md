@@ -1,10 +1,10 @@
 ---
+entity_id: 8248772
 name: Ogres
 type: Monstrous
 is_hidden: false
-created: '2025-10-08T04:22:09.864809+00:00'
-updated: '2025-10-08T04:22:09.864815+00:00'
-entity_id: 8248772
+created: '2025-10-08T04:22:09+00:00'
+updated: '2025-10-09T04:51:56+00:00'
 ---
 
 # Ogres
@@ -51,9 +51,7 @@ As giant-kin who speak Jotun, ogres represent one of the more dangerous intellig
 ## Notable History
 
 - **The Highland Territory**: Established presence in Highland Uplands following the [entity:7766459|hob] migration downward approximately 50 years ago
-
 - **The Drum Signals**: Tribal drumming heard at dusk on Orpheus 4th, marking territory and warning intruders
-
 - **The Three Ogres** (Orpheus 5th): Party encountered three ogres in Highland Uplands—Sword Ogre (sword and javelin), Ax Ogre (axe and javelin), and Ogre Lady (leader with staff and greataxe). All three defeated in combat, with [entity:7763294|Aurelia] delivering all three killing blows, earning title "Ogre Killer" and "Aurelia, the Vampire Ogre Killer."
 
 ## Current Status

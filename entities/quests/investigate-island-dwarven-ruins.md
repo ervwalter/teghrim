@@ -1,11 +1,11 @@
 ---
+entity_id: 8248839
 name: Investigate Island Dwarven Ruins
 type: Party Quest
 is_hidden: false
+created: '2025-10-08T05:05:11+00:00'
+updated: '2025-10-09T04:53:51+00:00'
 is_completed: false
-entity_id: 8248839
-created: '2025-10-08T05:05:11.366248+00:00'
-updated: '2025-10-08T05:05:11.366258+00:00'
 ---
 
 # Investigate Island Dwarven Ruins
@@ -25,6 +25,7 @@ The investigation of the Island Dwarven Ruins represents a critical quest for th
 ## Participants
 
 Expected to include:
+
 - [entity:7763296|Qotal] (primary quest holder)
 - [entity:7763295|Bruldin] (dwarven expertise and identification)
 - [entity:7763289|Alrik]
@@ -45,6 +46,7 @@ Queen Zelinda previously shared lore about "a guardian trapped in a cavern of wa
 **Quest State**: Active, high priority, not yet begun
 
 **Obstacles**:
+
 - Distance: Many miles from [entity:7763187|Teghrim's Crossing] with mountains in between
 - Water Access: Requires boats or rafts to cross 3-4 miles of open water
 - Unknown Occupants: Current inhabitants of unknown disposition
@@ -52,6 +54,7 @@ Queen Zelinda previously shared lore about "a guardian trapped in a cavern of wa
 - Guardian Threat: Legendary guardian's nature and status unknown
 
 **Preparation Needed**:
+
 - Watercraft construction or acquisition
 - Expedition supplies for extended mission
 - Possibly underwater breathing equipment (party's Everair Masks don't work underwater)

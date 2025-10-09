@@ -1,10 +1,10 @@
 ---
+entity_id: 8051165
 name: Cursed Stone Formation
 type: Landmark
 is_hidden: false
-created: '2025-08-21T14:29:24.764233+00:00'
-updated: '2025-10-07T04:08:26.524952+00:00'
-entity_id: 8051165
+created: '2025-08-21T14:29:24+00:00'
+updated: '2025-10-09T04:52:59+00:00'
 ---
 
 # Cursed Stone Formation

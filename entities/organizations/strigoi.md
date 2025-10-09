@@ -3,7 +3,7 @@ name: Strigoi
 type: Secret Society
 is_hidden: true
 created: '2025-10-08T03:42:13.363423+00:00'
-updated: '2025-10-08T03:42:13.363431+00:00'
+updated: '2025-10-09T04:51:35.530825+00:00'
 entity_id: 8248704
 ---
 

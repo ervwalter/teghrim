@@ -1,10 +1,10 @@
 ---
+entity_id: 8248780
 name: 2025-09-19 - Rats, Relationships, and Highland Ruin
 type: Session Summary
 is_hidden: false
-created: '2025-10-08T04:28:34.086915+00:00'
-updated: '2025-10-08T04:28:34.086921+00:00'
-entity_id: 8248780
+created: '2025-10-08T04:28:33+00:00'
+updated: '2025-10-09T04:51:46+00:00'
 ---
 
 # Rats, Relationships, and Highland Ruin
@@ -106,15 +106,10 @@ The Skaven presence at [entity:7763187|Teghrim's Crossing] suggested either expa
 ## Quest Updates
 
 - **One-Eyed Creature Investigation** - Breakthrough achieved: Successfully communicated with Genovian's emanation using musical performance taught by [entity:7764101|Willow Dryad]. Creature responded with rhythmic dancing before flying southeast toward ravine valleys. Party now has direct guide to [entity:7763230|Espada's] location or answers about her persistence.
-
 - **[entity:8248772|Skaven Investigation]** - New quest added to mystery board: Two rat people clans (one male-led, one female-led) conducting coordinated raids on [entity:7763187|Teghrim's Crossing] and [entity:7763866|Lyn Chong's] shrine. Professional military organization using observer rats as tactical commanders. Unknown whether seeking peaceful integration or representing hostile threat. Investigation postponed until party returns from highland expedition.
-
 - **Fleshcrafter Hunt** - Intelligence gathered: [entity:8244510|The necromancer] passed through Grogug's checkpoint around Aestra-Orpheus 30th-31st, one to two days after escaping [entity:8051165|Skull Rock]. Trail now several days old but confirms she fled into highlands. Grogug offers free passage for bringing back her arm.
-
 - **Relationship Building** - Major successes: [entity:7763290|Arnor] and [entity:7764193|Osanna] became first Good Friends in campaign. [entity:7763296|Qotal] and [entity:7764102|Aelysh] achieved second Good Friends relationship. [entity:7763294|Aurelia] befriended [entity:7763693|Sylvia Mournhold]. [entity:7763295|Bruldin] befriended [entity:7764097|Captain Irka]. Multiple NPCs revealed teaching capabilities and benefits.
-
 - **Equipment Upgrades** - Completed for level five advancement: [entity:7763296|Qotal] ordered hand wraps of striking and occult pendant. [entity:7763289|Alrik] acquired half plate armor (six-point AC increase), minor sturdy shield, staff of healing. [entity:7763294|Aurelia] enhanced bow with potency and striking runes. Multiple party members purchased everair masks for underwater capability.
-
 - **Highland Exploration** - First hex above waterfall mapped: Ancient [entity:7766459|hob] settlement ruins discovered with burial ground. Three ogres defeated. Animal Staff recovered from disturbed grave. River confluence identified splitting toward lake and mountain passages.
 
 ## Next Steps
