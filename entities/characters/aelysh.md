@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T01:40:13+00:00'
-updated: '2025-06-22T13:23:29.554895+00:00'
+updated: '2025-10-07T04:08:24.361042+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336aa1-5468-4d8b-8260-84d5dac9fe5c.jpg
 ---
 
@@ -52,10 +52,11 @@ Originally from Aes Piosayn, was traveling by caravan when she fell asleep and t
 - **The Elderberry Quest**: Requested party assistance during the [entity:7773180|Elderberry Procurement] quest to discretely procure rare elderberries from Old Willy, stolen by fairies and needed for seeds
 - **The Fungus Crisis**: When her Leshy familiar contracted a dangerous fungal infection, developed a cure through extensive research. Successfully treated the infection after party helped eliminate the source - a mind-controlling myconid in a nearby cave
 - **The Scientific Approach**: Revealed her scholarly method of studying nature during downtime conversations with Qotal, demonstrating academic rigor in botanical research
+- **The Eris Medallion**: Her Leshy familiar found a religious necklace with symbol of Eris (goddess of discord and chaos) in the woods near Teghrim's Crossing, brought it to party's attention through Arnor's visit
 
 ## Current Status
 
-Living in treehouse near [entity:7763187|Teghrim's Crossing], serving as local ally for wilderness missions. Available to assist with forest-related activities and provide magical support, though she considers the area too dangerous for long-term residence.
+Living in treehouse near [entity:7763187|Teghrim's Crossing], serving as local ally for wilderness missions. Available to assist with forest-related activities and provide magical support, though she considers the area too dangerous for long-term residence. Can cure diseases including the Clumsy 1 condition contracted by Qotal from giant rat bites.
 
 ## Secrets & Mysteries
 

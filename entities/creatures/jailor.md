@@ -4,12 +4,12 @@ type: Monstrous
 is_hidden: false
 entity_id: 7888221
 created: '2025-07-13T06:58:22.341998+00:00'
-updated: '2025-07-13T14:30:08.394924+00:00'
+updated: '2025-10-07T04:18:20.324031+00:00'
 ---
 
 # The Jailor
 
-The Jailor is a massive, unique undead-construct hybrid creature standing over twenty feet tall that roams the frontier territories, capturing people alive in a cage built into its chest. This horrifying giant combines aspects of undead animation with constructed resilience, making it a formidable threat to travelers and settlers in remote areas.
+The Jailor was a massive, unique undead-construct hybrid creature standing over twenty feet tall that roamed the frontier territories, capturing people alive in a cage built into its chest. This horrifying giant combined aspects of undead animation with constructed resilience, serving as the "gatherer" for the Fleshcrafter's necromantic experiments beneath Skull Rock until its destruction by adventurers.
 
 ## Description
 
@@ -23,33 +23,37 @@ Driven by an singular compulsion to capture living beings rather than kill them.
 
 ### Abilities & Skills
 
-**Combat Capabilities**: Exceptional physical strength capable of dealing massive non-lethal damage through melee attacks. Can throw chunks of its own body as projectile weapons. Creates noxious auras that affect nearby enemies.
+**Combat Capabilities**: Exceptional physical strength capable of dealing massive damage through melee whip attacks and bare-handed strikes. Can throw chunks of its own flesh as projectile weapons with devastating impact. Creates rotting aura of noxious fumes affecting all within range, causing festering wounds in injured victims. Can perform offal spray attack, shaking like a dog to spray filth at everyone within 15 feet.
 
-**Defensive Properties**: Immune to death effects, disease, mental effects, paralysis, poison, and unconscious conditions. Possesses significant damage resistance but demonstrates weakness to positive energy and slashing damage.
+**Defensive Properties**: Immune to death effects, disease, mental effects, paralysis, poison, and unconscious conditions. Possesses significant damage resistance but demonstrates weakness to positive energy and slashing damage. Vulnerable to anti-Jailor bombs crafted from its own ichor, which slow and weaken its combat capabilities.
 
-**Special Abilities**: Moves at high speed while ignoring difficult terrain. Leaves cursed black substance footprints made of negative energy that drain color from surroundings and explode when exposed to divine light.
+**Special Abilities**: Moves at high speed while ignoring difficult terrain. Leaves cursed black substance footprints made of negative energy that drain color from surroundings and explode when exposed to divine light. Can be frightened despite construct nature.
 
 ## Background
 
-The origin and creator of this unique creature remain unknown. Its existence suggests either powerful necromantic experimentation or the manifestation of some dark supernatural force. The creature's purpose appears focused entirely on capture rather than destruction.
+Created or bound by the Fleshcrafter to serve as her "gatherer," collecting living victims for her necromantic experiments in Skull Rock dungeon. The creature's purpose was entirely focused on capture rather than destruction, delivering subjects alive to the necromancer's lair beneath the cursed stone formation.
 
 ## Relationships
 
-- **Captured Victims**: Holds people alive in its chest cage for unknown purposes
-- **The Search Party**: Encountered and escaped from Arnor, Aurelia, Alrik, and Sylvia
-- **Unknown Creator**: Some entity or force responsible for its existence and compulsions
+- **The Fleshcrafter**: Creator/binder who commanded the Jailor as her gatherer
+- **Captured Victims**: Previously held people alive in its chest cage to deliver to the Fleshcrafter
+- **The Adventuring Party**: First encountered and escaped from Arnor, Aurelia, Alrik, and Sylvia; later destroyed by Qotal, Bruldin, Alrik, and Arnor in Skull Rock dungeon
 
 ## Notable History
 
-- **The Caravan Attack**: Attacked and destroyed wagons, capturing the occupants while leaving no trace of their escape
+- **The Caravan Attack**: Attacked and destroyed wagons, capturing the occupants alive for delivery to the Fleshcrafter
 - **The Forest Encounter**: Battled the search party in a forest clearing, knocking Arnor and Aurelia unconscious
 - **The Tactical Retreat**: Fled at high speed when its chest cage became full, unable to capture additional victims
 - **The Cursed Trail**: Left behind footprints of negative energy substance that explodes when exposed to divine power
+- **The Skull Rock Guardianship**: Stationed in the jail cell chamber deep within Skull Rock dungeon, attempting to capture intruders for the Fleshcrafter
+- **The Empty Cage**: When confronted in its lair, the Jailor's chest cage was empty - all cells already open, suggesting it had recently delivered victims to the Fleshcrafter
+- **The Anti-Jailor Weakness**: Weakened and slowed by special bombs crafted from its own ichor by Rosencrantz and Lyn Chong, which neutralized its most dangerous abilities
+- **The Final Battle**: Destroyed by adventuring party through combined martial and magical assault, with Qotal delivering the killing blows that shattered the construct's bone cage chest cavity
 
 ## Current Status
 
-At large in the frontier territories east of Teghrim's Crossing, presumably with victims still trapped in its chest cage. The creature's location and activities remain unknown, representing an ongoing threat to travelers and isolated settlements.
+Destroyed. The Jailor's bones now lie scattered in the jail cell chamber of Skull Rock dungeon, its threat to the region permanently ended. The Fleshcrafter has lost her primary means of capturing victims for her experiments.
 
 ## Secrets & Mysteries
 
-The identity of its creator, the ultimate purpose of the captured victims, the creature's base of operations, and its connection to other mysterious events in the region all remain unknown. The relationship between the Jailor and the Diablo ritual discovered at the abandoned farm raises disturbing questions about coordinated dark activities.
+While the Jailor's connection to the Fleshcrafter is now known, the exact method of its creation or binding remains unclear. Whether it was purpose-built by the necromancer or captured and enslaved for her use has not been determined. The fate of all the victims it delivered to the Fleshcrafter over its operational lifetime remains unknown.

@@ -4,7 +4,7 @@ name: Qotal
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:37:10+00:00'
-updated: '2025-07-20T03:58:07.959536+00:00'
+updated: '2025-10-08T05:05:16.138380+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25af8c-87ef-460a-9fa0-367d6acdb65e.png
 ---
 # Qotal
@@ -72,7 +72,44 @@ Raised in a monastery in [entity:7763174|Primordia] where pupils learn to hear e
 - **The Spirit Encounter**: Met the ghost of Echin at ancient forest ruins, engaging diplomatically before discovering the tragic truth
 - **The Midora Liberation**: Participated in divine ritual to free trapped spirits of Midora and Echin, helping end decades of supernatural storms
 - **The Striking Rune**: Made down payment of 32 gold toward purchasing striking rune enhancement from [entity:7764097|Irka Spritzel]
+- **The Silver Fox**: Encountered silver-furred fox caught in snare with badly injured leg while delivering herb pouch for Iridessa to grove in forest. Freed the fox and treated its wound with salve. The fox dug up leather bundle containing striking rune and dropped it at his feet as thanks before vanishing. This is how his staff gained its striking rune enhancement.
+- **The Gaz Friendship**: Spent second downtime day with Gaz using Society check to gossip and gather information, building relationship for future benefits (+2 bonus for future checks with her).
+- **The Fairy Games**: Learned from Iridessa about strange fairy game with no clear rules, where she was angry about not winning and wanted to add "Billy Boo-ka-boosh-oo-lu-lu thing" to it.
+- **The Skull Rock Entry**: Descended into Skull Rock dungeon beneath cursed stone formation on Aestra-Orpheus 29th to investigate Jailor threat. Prepared four lesser elixirs of life for party. Carried three anti-Jailor potion bombs created by Lyn and Rosencrantz.
+- **The Spider Snake Venom**: Poisoned by large spider snake during dungeon combat, taking ongoing poison damage before recovering.
+- **The Rat Disease**: Contracted disease from giant rat bite (Clumsy 1 indefinitely until cured), will need healing from Aelysh to remove condition.
+- **The Necromancer Confrontation**: Encountered the Fleshcrafter in Skull Rock bone chamber, gave sarcastic response that led to her raising skeleton army.
+- **The Skeleton Battle**: Fought five skeleton warriors in bone chamber, using flurry of blows and staff attacks. Demonstrated use of ki rush for enhanced movement and parry stance for defense. Multiple natural 1s rolled during combat but still contributed to victory.
+- **The Anti-Jailor Deployment**: Carried two anti-Jailor bombs into dungeon. Successfully deployed one bomb against the Jailor, dealing damage and causing visible slowing effect on the construct's movement and combat ability.
+- **The Jailor Destruction**: Delivered killing blows to the Jailor with flurry attacks, staff strikes penetrating directly into cage chest cavity and shattering enough bones to collapse the construct. Had to pull staff free from tangled bones after final blow.
+- **The Meat Puppet Endurance**: Fought through extended combat against nine meat puppets, taking multiple maggot poison attacks. Attempted multiple grapple maneuvers to throw enemies into soul pool, rolling natural 1s and 2s even with hero point rerolls.
+- **The Medical Recovery**: Received battle medicine from Bruldin using risky surgery technique - took 7 damage from the procedure but gained critical success healing for net 16 hit points restored.
+- **The Fleshcrafter Battle**: Engaged undead walker and crawler troops in final confrontation. Hammered through troop formations with staff attacks while avoiding stupefied conditions and negative energy bursts.
+- **The Research Collection**: After the Fleshcrafter's escape, collected correspondence written in Necral from her personal quarters for later translation. Participated in three rounds of 10-minute exploration investigating stone tome (Nature check 23), flayed corpses (Medicine check 25 - natural 20), and soul pool (Occultism check 14 - failed to learn information).
+- **The Curse Recovery**: Returned to Teghrim's Crossing on Aestra-Orpheus 30th morning still afflicted by Curse of Skull Rock. Remained cursed and poisoned while party attempted saves - player absent during this resolution
+- **The Orc Moot Entrance**: Arrived late to gladiatorial combat on Aestra-Orpheus 31st during party's challenge at orc moot gathering site
+- **The Dramatic Trip**: Made spectacular entrance with trip attempt using pizazz (natural 20 critical success), downing large orc rampager with Babe Ruth-style showboating - pointing where he'd strike before attacking
+- **The Critical Flurry**: Delivered devastating flurry of blows with first attack natural 20 (critical hit) for massive damage, second attack also hitting, weakening rampager for final blow
+- **The Honored Guest**: Earned orc respect through impressive combat performance, attending tribal council where party learned about Vilis Gavrik's Necarch network and regional threats
+- **The Curse Cure** (Orpheus 2nd): Attempted daily save versus Skull Rock curse, rolled natural 20, successfully cured
+- **The Rat Swarm Defense**: Fought coordinated [entity:8244509|giant rat] attack at mess hall, used ki move and flurries to kill first blue rat with double critical hits dealing 48 damage total, parkoured over tables to block escape routes
+- **The Equipment Acquisition**: Ordered Hand Wraps of Mighty Punching (+1 striking, 100 gold) and Pendant of the Occult (60 gold), delivery on Aestra-Lux 02. Hand wraps delivered early by ERCA during breakfast on Orpheus 4th, allowing kicks with claw damage for acrobatic monk combat style.
+- **The Aelysh Friendship**: Spent downtime sharing medicinal plant knowledge from Primordia (Medicine/Nature 28), learned she can teach animal-related dedications. Day 2 discussing nature (Nature 23) relationship +3. Day 3 used Forest Lore with natural 20 (+3 bonus) to become GOOD FRIENDS with Aelysh—second good friendship in campaign.
+- **The Highland Expedition** (Orpheus 5th): Traveled to Highland Uplands above waterfall, identified hob ruins with Engineering Lore (natural 20, total 25 critical success), discovering structures from ~50 years ago when hobs lived in highlands before bridge construction
+- **The Ogre Combat**: Fought three ogres in highland camp, tripped Sword Ogre (Athletics 31), used flurries and parkour tactics, took 25 damage total from Ogre Lady and Ax Ogre
+- **The Musical Communication**: Party played song taught by Willow Dryad to one-eyed creature (Genovian emanation), creature responded with rhythmic dancing before flying southeast
+- **The Highland Expedition** (Orpheus 5th-12th): Led week-long expedition into Highland Uplands with Alrik and Bruldin, accompanied by Gierr, following Genovian emanation southeast to map unexplored territory
+- **The Dragon Ogre Encounter** (Orpheus 5th-7th): Attempted diplomatic approach to two dragon ogres ("I am called Kotal"), but creatures proved hostile. Fought alongside party, learning about dragon ogres' energy mechanic. Took critical hit from glowing claw attack. Used elixir for healing during extended combat.
+- **The Lair Tracking**: Spent three days tracking defeated dragon ogres back to canyon lair, discovering evidence of previous ogre community transformed by draconic influence
+- **The Vision Realized** (Orpheus 9th): Discovered Waterfall Lake—massive eight-mile lake surrounded by waterfalls. On central island found dwarven ruins matching the image from his research. Recognized this as major breakthrough in broken hammer quest. Location matches Queen Zelinda's lore about guardian trapped in waterfall cavern.
+- **The Island Observation**: Observed multi-level dwarven structure on island 3-4 miles from shore with small encampment (tents, fires) at base indicating current occupation. Assessed need for boats/rafts to access. Designated location as urgent for investigation.
+- **The Musical Success** (Orpheus 10th): Communicated with one-eyed birds using Willow Dryad's song. Birds responded with rhythmic stomping before flying toward distant mountain cave entrance, suggesting connection to that location.
+- **The Brine Drake Battle**: Ambushed by aquatic creature at river confluence on return journey. Dealt killing blow with 57 damage from double natural 20s. Party acknowledged near defeat and would have retreated if combat continued.
+- **The Failed Identification**: Attempted recall knowledge on Brine Drake (rolled 20, failed). Sketched creature in sketchbook for later expert identification.
+- **The Equipment Receipt** (Orpheus 12th): Received Pendant of Occult upon return to Teghrim's Crossing
 
 ## Current Status
 
-Based at [entity:7763187|Teghrim's Crossing] after successful fey alliance missions, with proven access to sacred forest locations and [entity:7764101|dryad] consultation. Continues scholarly research while serving as environmental harmony liaison between party and wild fey network. His primary focus remains the [entity:7763875|Broken Hammer Quest] that brought him to these frontier lands, seeking to complete the story behind the ancient dwarven statue.
+Based at [entity:7763187|Teghrim's Crossing] with proven access to sacred forest locations and [entity:7764101|dryad] consultation. Continues scholarly research while serving as environmental harmony liaison between party and wild fey network. His primary focus remains the [entity:7763875|Broken Hammer Quest] that brought him to these frontier lands, seeking to complete the story behind the ancient dwarven statue.
+
+Achieved major breakthrough on Orpheus 9th with discovery of Island Dwarven Ruins in Waterfall Lake—the location matching his research images. The ruins are currently occupied and require watercraft to access across 3-4 miles of open water. Planning urgent expedition to investigate this critical site. Fully recovered from Skull Rock curse and disease as of Orpheus 2nd. Returned to Teghrim's Crossing on Orpheus 12th following week-long highland expedition.

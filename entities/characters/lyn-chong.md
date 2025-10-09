@@ -6,7 +6,7 @@ tags:
 - Dramatis Personae
 is_hidden: false
 created: '2025-06-13T00:29:56+00:00'
-updated: '2025-08-21T14:37:36.540360+00:00'
+updated: '2025-10-08T04:22:14.937564+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336b77-b2ec-46d4-ab3a-80911595d0d0.png
 ---
 
@@ -47,11 +47,14 @@ Hails from the [entity:7763168|Jade Kingdoms] where he studied religious traditi
 - **The Temple Construction**: Currently building a zen temple at [entity:7763187|Teghrim's Crossing], receiving help from [entity:7763289|Alrik] in exchange for research assistance
 - **The Jailor Consultation**: Provided religious perspective on the Jailor threat, identifying it as arcane construct rather than divine entity
 - **The Friendship with Alrik**: Formed strong bond with [entity:7763289|Alrik] who achieved exceptional success (roll of 26) in befriending him through temple assistance
+- **The Skaven Warning** (Orpheus 3rd): Approached party with concerning news about [entity:7763213|Skaven] threat after coordinated rat attacks. Explained that rat people from [entity:7763168|Jade Kingdoms] operate in paired clans (one male-led, one female-led), are opportunistic scavengers who raid settlements at night, carry disease and pestilence, and sometimes form unusual religious cults. Revealed his shrine construction site was attacked simultaneously with the bridge raid, indicating multi-target coordination.
 
 ## Current Status
 
-Actively constructing a zen temple at [entity:7763187|Teghrim's Crossing] while continuing to search for the abandoned oriental shrine. Provides spiritual guidance and healing support to the community, particularly offering Divine Rest benefits to those suffering from curses. Maintains close friendship with [entity:7763289|Alrik] following their successful collaboration on temple construction.
+Actively constructing a zen temple at [entity:7763187|Teghrim's Crossing] while continuing to search for the abandoned oriental shrine. Provides spiritual guidance and healing support to the community, particularly offering Divine Rest benefits to those suffering from curses. Maintains close friendship with [entity:7763289|Alrik] following their successful collaboration on temple construction. Construction site now faces [entity:7763213|Skaven] threat following organized raid on Orpheus 2nd.
 
 ## Secrets & Mysteries
 
 The exact nature of the shrine he seeks and why it was abandoned remain unknown. His knowledge of its existence and location suggests either divine revelation or access to ancient texts.
+
+Prone to melancholy when alone, will sing and work but gets depressed without company—a secret revealed to [entity:7763294|Aurelia] during downtime on Orpheus 3rd (Religion check 23).

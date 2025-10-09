@@ -4,7 +4,7 @@ name: Arnor Josefson
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:35:52+00:00'
-updated: '2025-08-21T14:37:38.422113+00:00'
+updated: '2025-10-08T04:22:20.789103+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3369fe-110e-4695-8960-7254b8b5c619.jpg
 ---
 
@@ -61,10 +61,32 @@ Hails from [entity:7763178|Solstheim], the Norse island nation known for produci
 - **The Lilith Analysis**: Explained why Lilith wouldn't grant Annie vengeance since her family's killers were already dead
 - **The Occult Panache**: Impressed orc spectators with "weird glowing runes in the air" during combat
 - **The Level Advancement**: Advanced to level 3 following successful ritual combat completion
+- **The Eris Discovery**: Visited Aelysh during downtime and learned her familiar had found strange necklace with religious symbol in the woods, brought this to party's attention
+- **The Gierr Brotherhood**: Spent downtime doing archery practice with Gierr (Athletics check), rolled natural 20 for total of 30 (critical success), earning "Norn Brew" benefit - free elixir before each mission comparable to party level, only lasts for that adventure
+- **The Skull Rock Entry**: Descended into Skull Rock dungeon on Aestra-Orpheus 29th to investigate Jailor threat, noting the oppressive spiritual atmosphere and describing it as "malaise" and "cursed"
+- **The Spider Snake Combat**: Fought multiple spider snakes using electric arc spells, was knocked unconscious by critical hit (natural 20 from creature for 42 damage), later stabilized and recovered
+- **The Pedestal Investigation**: Used Arcana check with astrology ability (rolled 17) to learn details about necrotic field mechanism - rune pulls from energies very deep within, will reset in 1-2 days, linked to something further down
+- **The Positive Energy Theory**: Suggested that mechanism might give short pulse of positive energy when deactivated, explaining why it hurt vampire Osanna
+- **The Skeleton Barrage**: Fought five skeleton warriors using electric arc repeatedly despite their electricity resistance. Rolled initiative of 9 (natural 1 + high modifiers) but still went first. Demonstrated consistent tactical spellcasting throughout combat.
+- **The Jailor Strategy**: Carried one anti-Jailor bomb during dungeon expedition. Used ignition spell on Jailor targeting Will save (creature passed for half damage). Cast force barrage dealing 12 force damage with no save. Took 16 damage from Jailor's whip attack.
+- **The Meat Puppet Attrition**: Fought through extended combat against nine meat puppets using needle darts and electric arc. Discovered electric arc particularly effective against these constructs. Attempted Concordant Choir area spell but enemy rolled natural 20 critical success.
+- **The Fleshcrafter Confrontation**: Hit by initial necrotic pulse (stupefied condition inflicted). Used Lose Time's Arrow spell granting party pseudo-haste effect with extra action each. Engaged undead troops with area spells while managing stupefied penalties.
+- **The Arcane Investigation**: Participated in exploration rounds investigating magic tomes (Arcana check 29 - excellent result) and magic circle pentagram (Arcana check 21 - success). Collected information about Fleshcrafter's research and summoning/teleportation circle.
+- **The Curse Recovery**: Successfully saved against Curse of Skull Rock on Aestra-Orpheus 30th (Will save 24), removing curse
+- **The Striking Rune Story**: Received free striking rune at level 4 with story that Natvig brought it - maintaining plausible deniability about mysterious sources
+- **The Orc Moot Combat**: Participated in gladiatorial challenge on Aestra-Orpheus 31st fighting orc rampagers and fire-breathing goblins
+- **The Theatrical Magic**: Cast electric arc with pizazz, hamming it up with over-exaggerated thunder and lightning effects "like Thor for a moment" (performance check 20 success), earning pizazz point from orc spectators
+- **The Tactical Spellcasting**: Contributed area damage through electric arc spells and needle darts during extended combat
+- **The Intelligence Council**: Attended orc tribal council as honored guest, learning about Vilis Gavrik's Necarch network and regional threats
+- **The Rat Swarm Defense**: Fought coordinated [entity:8244509|giant rat] attack at mess hall, cast Noise Blast hitting blue rat 2 for 8 damage and Red rat 2 for 16 damage with deafened condition. Took 25 points from combined poison and piercing attacks. Killed fleeing red rat with needle darts (natural 20 critical hit) for 27 damage, "pin-cushioned like fell into pile of cactuses."
+- **The Osanna Friendship** (Orpheus 2nd-3rd): Spent day with Osanna gossiping about recent events including new witch cult (Society 20), learned she can teach Aklo language, relationship +2. Day 2 with Osanna using Society with secret society lore (rolled 29), became GOOD FRIENDS with Osanna—first good friendship in campaign!
+- **The Bastard Dedication** (Orpheus 3rd): Learned Bastard Dedication from ERCA (defensive dedication) allowing Shield Block reaction, took full day training
+- **The Highland Expedition** (Orpheus 5th): Traveled to Highland Uplands above waterfall with party
+- **The Ogre Combat**: Fought three ogres using Daze spell on Ax Ogre (Will save 16 failure) for 8 mental damage, used needle darts for tactical support throughout battle
 
 ## Current Status
 
-Active at [entity:7763187|Teghrim's Crossing] with his abilities proven through multiple combats. His familiar [entity:7763867|Natvig] now openly accompanies the party on missions, no longer a hidden ally. His possession of enchanted materials and ritualistic practices mark him as a practitioner of ancient [entity:7763211|Norn] mystical traditions.
+Active at [entity:7763187|Teghrim's Crossing] with his abilities proven through multiple combats. His familiar [entity:7763867|Natvig] now openly accompanies the party on missions, no longer a hidden ally. His possession of enchanted materials and ritualistic practices mark him as a practitioner of ancient [entity:7763211|Norn] mystical traditions. Earned honored guest status among orc tribes through impressive magical displays on Aestra-Orpheus 31st. Received free striking rune enhancement through Natvig's mysterious delivery. Achieved first good friendship in campaign with [entity:7764193|Osanna Von Carstein] on Orpheus 3rd. Learned Bastard Dedication from ERCA for defensive capabilities. Currently in Highland Uplands planning to follow Genovian emanation southeast.
 
 ## Secrets & Mysteries
 

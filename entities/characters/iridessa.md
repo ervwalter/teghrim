@@ -4,7 +4,7 @@ name: Iridessa
 type: NPC
 is_hidden: false
 created: '2025-06-13T01:40:14+00:00'
-updated: '2025-06-25T12:03:20.155108+00:00'
+updated: '2025-10-07T04:08:25.406463+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f3c67e7-4d52-49e6-b5ed-a2abade375f0.jpg
 ---
 
@@ -47,6 +47,8 @@ Member of the wild fey alliance protecting forest areas around [entity:7763187|T
 - **The Healing Support**: Provided magical strawberries for party healing after plant guardian battle
 - **The Ecological Explanation**: Explained that plant guardians went defensive due to dryad's stress from spider attacks
 - **The Tea Bath Incident**: Was kicked out of the dining hall for using tea as a bath, later found the party to deliver [entity:7764102|Aelysh's] request for help
+- **The Silver Fox Request**: Asked Qotal to deliver herb pouch to grove deeper in forest, where he found and rescued trapped silver fox, which led to his staff receiving striking rune as thanks
+- **The Fairy Game Frustration**: Discussed strange fairy game with no clear rules with Qotal, was angry about not winning and wanted to add "Billy Boo-ka-boosh-oo-lu-lu thing" to the game
 
 ## Current Status
 

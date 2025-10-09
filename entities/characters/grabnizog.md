@@ -6,7 +6,7 @@ tags:
 is_hidden: false
 entity_id: 7888223
 created: '2025-07-13T06:58:23.482464+00:00'
-updated: '2025-07-13T06:58:23.482471+00:00'
+updated: '2025-10-07T04:28:45.686001+00:00'
 ---
 
 # Grabnizog
@@ -44,10 +44,15 @@ Leader of the local orc tribe that operates in the eastern forest territories. H
 - **The Peaceful Contact**: Chose diplomacy over hostility when party proved their warrior worth
 - **The Gift Exchange**: Presented party with Sapling Shield as tribute to impressive combat performance
 - **The Future Invitation**: Extended offer for party to "come deep in forest" for full-strength combat challenges
+- **The Moot Gathering**: On Aestra-Orpheus 31st, coordinated orc moot in eastern forests where multiple tribes gathered for council
+- **The Challenge Acceptance**: When party investigated smoke and drums near old farmstead, provided escort to moot gathering site
+- **The Gladiatorial Test**: Oversaw spectator combat where party fought orc rampagers and fire-breathing goblins, evaluating their performance through "pizazz" system
+- **The Council Invitation**: After party proved their worth, invited them to attend tribal intelligence-sharing council as honored guests
+- **The Intelligence Exchange**: Shared knowledge about regional threats including [entity:7763296|Vilis Gavrik's] Necarch network, wolf creatures in [entity:7763299|Midnight Glade], and other dangers
 
 ## Current Status
 
-Maintains leadership of eastern forest orc tribe while expressing interest in developing ongoing warrior relationship with the party. His diplomatic approach suggests potential for future cooperation based on mutual respect for combat skills.
+Maintains leadership of eastern forest orc tribe while expressing interest in developing ongoing warrior relationship with the party. His diplomatic approach suggests potential for future cooperation based on mutual respect for combat skills. On Aestra-Orpheus 31st, his tribe hosted an orc moot where the party attended as honored guests after proving themselves through gladiatorial combat.
 
 ## Secrets & Mysteries
 

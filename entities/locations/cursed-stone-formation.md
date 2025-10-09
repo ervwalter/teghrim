@@ -3,7 +3,7 @@ name: Cursed Stone Formation
 type: Landmark
 is_hidden: false
 created: '2025-08-21T14:29:24.764233+00:00'
-updated: '2025-08-21T14:37:44.849481+00:00'
+updated: '2025-10-07T04:08:26.524952+00:00'
 entity_id: 8051165
 ---
 
@@ -35,10 +35,12 @@ The formation's origins remain mysterious, though its connection to [entity:7888
 
 ## Relationships
 
-- **[entity:7888221|The Jailor]**: Uses the location as a lair, massive footprints lead to and from the site
+- **[entity:7888221|The Jailor]**: Gatherer for the necromancer operating beneath the formation
+- **The Fleshcrafter**: Powerful necromancer controlling dungeon complex beneath the formation
 - **[entity:7921762|Old Gus]**: The bear's undead resurrection likely connected to the formation's corrupting influence
 - **Regional Wildlife**: Source of undead corruption affecting nearby creatures
 - **Weeping Woods**: Part of the dangerous exploration area beyond [entity:7763187|Teghrim's Crossing]
+- **Skull Rock Dungeon**: Extensive carved tunnel system beneath the formation housing necromantic operations
 
 ## Notable History
 
@@ -46,10 +48,13 @@ The formation's origins remain mysterious, though its connection to [entity:7888
 - **The Failed Approach**: Party nearly died attempting to reach the central rune, forced to retreat due to severe necrotic damage
 - **The Jailor Tracks**: Fresh tracks confirmed the massive construct uses this location regularly
 - **The Corruption Spread**: Identified as source of undead activity in the region, including [entity:7921762|Old Gus's] resurrection
+- **The Vampire Intervention**: Osanna Von Carstein disabled the necrotic field by pressing the pedestal mechanism atop the skull formation on Aestra-Orpheus 29th. The mechanism released a positive energy pulse that knocked her unconscious but allowed party access to the dungeon entrance below.
+- **The Dungeon Access**: With field disabled, party discovered actual door inside skull formation leading to stairway descending into carved tunnels. The entrance and tunnels are sized for large creatures, designed to accommodate beings like the Jailor.
+- **The Field Mechanism**: Investigation revealed the rune pulls energy from very deep source, will reset in 1-2 days, is linked to something further down in the dungeon. Simple to deactivate but releases positive energy pulse when switched off.
 
 ## Current Status
 
-Active threat requiring specialized magical or divine intervention to neutralize. The force field prevents conventional attempts at destruction, while the necrotic damage makes prolonged exposure lethal. Various experts at [entity:7763187|Teghrim's Crossing] have proposed solutions including vampire assistance, positive energy devices, and divine magic.
+Necrotic field temporarily disabled as of Aestra-Orpheus 29th, will reset within 1-2 days. Dungeon entrance now accessible, revealing the formation serves as entry point to extensive underground complex. Party has entered the tunnels beneath, discovering necromantic operations controlled by the Fleshcrafter. Osanna remains unconscious near the entrance from the positive energy backlash.
 
 ## Secrets & Mysteries
 

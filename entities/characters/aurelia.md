@@ -4,7 +4,7 @@ name: Aurelia
 type: Player Character
 is_hidden: false
 created: '2025-06-12T21:36:47+00:00'
-updated: '2025-07-20T03:58:06.913487+00:00'
+updated: '2025-10-08T04:22:16.908055+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f336a37-767e-430b-a504-4208c9ba294d.jpg
 ---
 
@@ -71,10 +71,23 @@ As a dhampir (half-vampire), Aurelia occupies a unique position in society, part
 - **The Mural Provocation**: Deliberately scratched Echin's magical mural to test reactions, triggering combat with the bound ghost
 - **The Spirit Diplomacy**: Used diplomatic skills to communicate with trapped spirit of Midora, helping uncover the truth behind the binding ritual
 - **The Lightning Javelin**: Identified recovered magical weapon as "javelin of lightning" through arcane knowledge
+- **The Downtime Networking**: While party cleared Skull Rock dungeon on Aestra-Orpheus 28th-29th, spent time befriending dramatis personae at Teghrim's Crossing
+- **The Gaz Friendship**: Attempted befriending (Society roll 21 - barely succeeded) and spent day learning about Gaz (Society roll 13 - minimal success), discovering she's chatty and loves hearing stories
+- **The Sylvia Acrobatics**: Spent day doing acrobatics with Sylvia Mournhold (roll 29 - great success), bonding over shared appreciation for acrobatics, dance, and formal dances
+- **The Correspondence Mission**: Began translating Necral documents recovered from Fleshcrafter's lair to understand soul well network operations
+- **The Orc Moot Combat**: Participated in gladiatorial challenge on Aestra-Orpheus 31st, fighting orc rampagers and fire-breathing goblins to prove party's worthiness before orc tribes
+- **The Critical Strike**: Delivered critical hit that bloodied the large orc rampager during spectator combat
+- **The Intelligence Council**: Attended orc tribal council as honored guest, learning about Vilis Gavrik's Necarch operations, soul well network, and other regional threats
+- **The Rat Swarm Defense**: Fought coordinated [entity:8244509|giant rat] attack at mess hall, dropped bow for rapier, killed green rat 3 for 6 piercing, attacked green rat 2 for 8 piercing, killed green rat 2 with critical hit (28 to hit) for 16 points damage with Deadly D8
+- **The Sylvia Friendship** (Orpheus 2nd): Attempted to befriend Sylvia using Acrobatics, rolled poorly initially, used hero points, final roll 21 (success), became friends with Sylvia
+- **The Lyn Chong Time** (Orpheus 3rd): Spent day with Lyn Chong (Religion 23), learned his secret: prone to melancholy when alone, will sing and work but gets depressed
+- **The Equipment Upgrades**: Ordered Weapon Potency Rune (+1, 35 gold available immediately) and Striking Rune (65 gold, 4 days delivery) for bow, free rune installation through Gaz's contacts
+- **The Highland Expedition** (Orpheus 5th): Traveled to Highland Uplands above waterfall, identified Animal Staff with Nature check (25 success)
+- **The Ogre Combat**: Fought three ogres in highland camp using flanking sneak attacks. Flanked Sword Ogre for 25 hit dealing 21 piercing with 2d6 sneak attack (now at level 5). Delivered kidney strike for 14 piercing causing Sword Ogre to flee. Critical hit killed Ogre Lady (32 to hit) for 24 total piercing (18 doubled + 6 deadly d8). Killed final Ax Ogre for 18 damage—legitimately killed all three ogres, earning "Ogre Killer" and "Aurelia, the Vampire Ogre Killer" titles.
 
 ## Current Status
 
-Based at [entity:7763187|Teghrim's Crossing] with proven fey alliance credentials and access to magical forest consultation through dryad rescue success. Continues her mysterious investigation while serving as party member with enhanced local network access.
+Based at [entity:7763187|Teghrim's Crossing] with proven fey alliance credentials and access to magical forest consultation through dryad rescue success. Continues her mysterious investigation while serving as party member with enhanced local network access. Currently translating Necral correspondence recovered from [entity:8244510|the Fleshcrafter's] lair to uncover details about the soul well network. Earned legendary "Ogre Killer" title on Orpheus 5th by delivering all three killing blows in highland combat—people will tell stories. Successfully befriended Sylvia on Orpheus 2nd. Currently in Highland Uplands planning to follow Genovian emanation southeast.
 
 ## Secrets & Mysteries
 

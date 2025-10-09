@@ -7,8 +7,8 @@ $arguments
 ## Task
 
 1. **Find First Unprocessed Digest**
-   - List all files in `entities/notes/` directory that match pattern `digest-YYYY-MM-DD.md`
-   - Check if the digest has the "Processed" tag in its frontmatter
+   - Use `grep -L "^- Processed$" entities/notes/digest-*.md | sort` to find all unprocessed digests
+   - This efficiently finds digests missing the "Processed" tag in their frontmatter
    - Identify the FIRST digest without the "Processed" tag in chronological order
    - If all digests are processed, report "All digests have been processed"
 
