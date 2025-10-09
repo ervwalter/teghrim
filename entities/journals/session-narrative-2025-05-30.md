@@ -71,13 +71,13 @@ As [entity:7763296|Qotal] departed, he noticed [entity:7763295|Bruldin] waiting 
 
 ---
 
-The settlement's rhythm over the next two days took on the peculiar quality of enforced rest. The Dramatis Personae system—the bridge's method of tracking relationships with significant individuals—encouraged the party to deepen connections during mandatory downtime.
+The settlement's rhythm over the next two days took on the peculiar quality of enforced rest. The bridge's authorities encouraged newcomers to establish themselves within the community before undertaking further work, a policy that gave the party time to deepen connections and gather information.
 
 [entity:7763296|Qotal] found a shaded spot near the water where his lute's melodies could catch the river breeze. [entity:7763866|Lyn Chong] joined him there, sharing tea that tasted of distant mountains while they discussed the nature of divine whispers and earthly obligations. The elderly traveler's insights into [entity:7763144|Gia's] worship across different cultures proved unexpectedly profound.
 
 [entity:7763289|Alrik], his curiosity piqued by his lengthy petrification, spent hours with [entity:7764196|Rosencrantz] in the [entity:7764199|island laboratory]. Between experiments with beakers and bizarre contraptions, they calculated his stone sleep at approximately one hundred and fifty years. The revelation left the chef unusually subdued, muttering about missed culinary innovations and lost recipe variations.
 
-[entity:7763294|Aurelia's] vampiric nature demanded attention. The ritual of blood tokens—that careful accounting of her feeding needs—yielded twelve tokens, a comfortable buffer against the hunger. She spent her remaining time with [entity:7764195|Gaz], learning the intricate web of [entity:7763229|goblin] politics and rumors that flowed through the bridge settlement like water through its pilings.
+[entity:7763294|Aurelia's] vampiric nature demanded attention. She attended to her feeding needs with careful discretion, securing enough sustenance to keep the hunger at bay for some time. She spent her remaining hours with [entity:7764195|Gaz], learning the intricate web of [entity:7763229|goblin] politics and rumors that flowed through the bridge settlement like water through its pilings.
 
 "The civilized camps upriver, they're cousins mostly," [entity:7764195|Gaz] explained over carefully watered wine. "But the raiders? They're getting organized. Used to be just tollgates and robbery. Now there's talk of something bigger. Someone's united several tribes."
 
@@ -115,7 +115,7 @@ The [entity:7764198|Von Carstein mansion] rose from its island perch like a Goth
 
 From the second-floor balcony, a figure in tattered robes began weaving patterns in the air. Where his gestures passed, fallen skeps twitched and rose again, their movements even more unnatural than before.
 
-"A gods-damned necromancer," [entity:7763295|Bruldin] growled, his tattoos already beginning to glow. "In broad daylight. No respect for proper battle."
+"A gods-damned necromancer," [entity:7763295|Bruldin] growled, battle fury already rising in his blood. "In broad daylight. No respect for proper battle."
 
 [entity:7763296|Qotal] didn't wait for further assessment. The monk launched himself at the building's facade, scaled fingers finding purchase on decorative stonework. His ascent drew the necromancer's attention—and his defensive spells.
 
@@ -155,4 +155,4 @@ The bridge's mundane bustle—merchants hawking, workers hauling, children playi
 
 [entity:7764097|Captain Irka Spritzel] waited in his office, maps already spread with new markings, new concerns. As the party began their report, [entity:7763295|Bruldin] noticed he'd placed a paperweight on one particular document—a sketch of a broken blade that looked remarkably like the one from [entity:7763296|Qotal's] vision.
 
-But that was a mystery for another day. For now, they had vampires to worry about, and only six days to prepare for their arrival.
+The captain listened to their account in silence, his expression darkening with each revelation. When they finished, he pushed the papers aside and steepled his fingers, eyes already calculating angles and contingencies. Outside his window, the bridge bustled on, unaware that old bloodlines had extended their reach into these frontier waters.

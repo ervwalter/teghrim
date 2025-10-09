@@ -87,7 +87,7 @@ But the watching orcs did not disperse. Instead, their largest representative st
 
 "Grabnizog," he said, offering his name like a gift. "You fight with honor. Come deep in forest when ready for real battle."
 
-The [entity:7888223|orc chieftain] presented a [Sapling Shield]—a buckler that hummed with transformation magic—as tribute to their performance. The gesture carried significance beyond mere reward; it represented recognition of warrior worth from a culture that valued such things above gold or territory.
+The [entity:7888223|orc chieftain] presented a small wooden shield—a buckler that hummed with transformation magic—as tribute to their performance. The gesture carried significance beyond mere reward; it represented recognition of warrior worth from a culture that valued such things above gold or territory.
 
 "We will remember," [entity:7763296|Qotal] replied, accepting the gift with bow that honored both giver and gesture. Around them, the orc spectators began departing with satisfied murmurs, already composing tales of the day they had witnessed impressive combat against a fallen daughter's demonic servants.
 
@@ -95,6 +95,6 @@ As the eastern forest reclaimed its children and quiet returned to the [entity:7
 
 The smoke had long since dispersed, carrying its message to distant observers who would interpret its meaning according to their own understanding. But here, where flame had done its cleansing work, something like peace settled over earth that had known too much suffering.
 
-In the distance, [entity:7763187|Teghrim's Crossing] continued its daily business, unaware that threats both ancient and immediate had been faced and overcome by those who called it home. The bridge settlement's newest protectors had earned respect through combat excellence, proven their worth through trial by fire, and discovered that even enemies could become allies when honor met honor in the space between heartbeats.
+In the distance, [entity:7763187|Teghrim's Crossing] continued its daily business, unaware that threats both ancient and immediate had been faced and overcome by those who called it home. The bridge settlement's newest protectors had earned respect from an unexpected quarter, and somewhere in the eastern forests, an [entity:7888223|orc chieftain] looked forward to future meetings with warriors who had proven themselves worthy.
 
-The seventh chapter of their frontier saga closed with embers cooling and justice satisfied, while somewhere in the eastern forests, an [entity:7888223|orc chieftain] looked forward to future meetings with warriors who had proven themselves worthy of respect. For [entity:7763296|Qotal], [entity:7763294|Aurelia], [entity:7763289|Alrik], and [entity:7763290|Arnor], the road ahead remained uncertain—but they would walk it as veterans who had faced hatred itself and emerged victorious through unity of purpose and excellence of execution.
+[entity:7763296|Qotal] looked at the wooden shield in his hands, feeling the magic thrumming through its grain. Around him, his companions began the quiet work of searching the farmhouse, each lost in their own thoughts about what they had witnessed. The drums had fallen silent. The smoke had cleared. And [entity:7764100|Gierr] stood alone by the ritual circle, staring at the scorched earth where a woman named Annie had made her final choice.

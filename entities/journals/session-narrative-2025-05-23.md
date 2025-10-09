@@ -85,13 +85,13 @@ The forest fought their passage, or perhaps tested it. Underbrush that should ha
 
 Two boars burst from the foliage, foam flecking their tusks, eyes rolling with unnatural panic. Behind them, moving with the inexorable patience of vegetation, came horrors of vine and thorn. The stench hit first—rotting compost mixed with something sweeter and infinitely worse.
 
-[entity:7763296|Qotal's] needle darts flew true, but the boar's hide turned them aside. [entity:7763289|Alrik] charged with surprising agility for someone recently de-petrified, his weapon finding the sweet spot between ribs. But the boar's tusk found him in return, and suddenly the chef was on his back, red spreading across weathered leather.
+[entity:7763296|Qotal] hurled his darts with precision, but the boar's thick hide turned them aside. [entity:7763289|Alrik] charged with surprising agility for someone recently de-petrified, his weapon finding the sweet spot between ribs. But the boar's tusk found him in return, and suddenly the chef was on his back, red spreading across weathered leather.
 
-The vine-things closed in, their mere presence making eyes water and stomachs turn. One caught [entity:7763295|Bruldin] with a blow that would have felled trees, driving the slayer to his knees. The dwarf's tattoos flared—not with his usual battle fury, but with the desperate light of survival.
+The vine-things closed in, their mere presence making eyes water and stomachs turn. One caught [entity:7763295|Bruldin] with a blow that would have felled trees, driving the slayer to his knees. Pain lanced through the dwarf's body—not his usual battle fury, but the desperate ache of survival.
 
-"Take this, you fiend!" someone shouted, magic crackling through the fetid air.
+"Hold on!" someone shouted, power crackling through the fetid air.
 
-[entity:7763289|Alrik's] hands glowed with healing light, dragging [entity:7763295|Bruldin] back from death's edge. The dwarf surged upright, his maul singing its brutal song, and the vine-thing simply ceased. One moment there, the next scattered across the glade in chunks of fibrous matter.
+[entity:7763289|Alrik] pressed his hands to [entity:7763295|Bruldin's] wounds, warmth flowing between them, dragging the dwarf back from death's edge. The dwarf surged upright, his maul singing its brutal song, and the vine-thing simply ceased. One moment there, the next scattered across the glade in chunks of fibrous matter.
 
 When the last creature fell, [entity:7764104|Iridessa] hovered over the carnage with something like sorrow. "They were guardians once. Protectors of the grove. But when the dryad suffers, they suffer. When she grows desperate, they grow mad."
 
@@ -125,11 +125,11 @@ The [entity:7764107|Willow Glade] writhed in silk. Webs stretched between trees 
 
 Spiders moved through their creation with horrific grace—some small and red as fresh blood, others bearing skull patterns on their backs. And from the shadows between trees came something worse: a spriggan, its form a mockery of natural growth, orchestrating the assault with gestures that made the spiders dance.
 
-[entity:7764100|Gierr's] bow sang first, arrows enhanced by [entity:7763295|Bruldin's] runic magic striking deep. The party spread out, each finding their role in the chaotic ballet of combat. [entity:7764102|Aelysh] rushed forward, her blade parting webs like morning mist, working steadily toward the trapped dryad.
+[entity:7764100|Gierr's] bow sang first, his arrows striking deep. The party spread out, each finding their role in the chaotic ballet of combat. [entity:7764102|Aelysh] rushed forward, her blade parting webs like morning mist, working steadily toward the trapped dryad.
 
-A skull spider dropped from above, mandibles seeking her throat. The elf twisted aside, and her cloak—woven of thorns and moonlight—retaliated, driving spines deep into the creature's eyes. Its death scream brought its fellows running.
+A skull spider dropped from above, mandibles seeking her throat. The elf twisted aside, her cloak catching the creature in its thorny folds, driving the spider into its own embrace. Spines pierced compound eyes. Its death scream brought its fellows running.
 
-[entity:7763296|Qotal] burned through webs with hands that glowed with inner fire, each strand curling away from his touch. [entity:7763289|Alrik], ever practical, had attached a torch to his omnipresent pole, wielding it like a flaming lance. [entity:7763295|Bruldin's] maul crushed spiders with methodical efficiency, each swing accompanied by dwarven battle hymns.
+[entity:7763296|Qotal] burned through webs with blazing hands, each strand curling away from his touch. [entity:7763289|Alrik], ever practical, had attached a torch to his omnipresent pole, wielding it like a flaming lance. [entity:7763295|Bruldin's] maul crushed spiders with methodical efficiency, each swing accompanied by dwarven battle hymns.
 
 The spriggan's web caught [entity:7763296|Qotal] full in the chest, binding him fast. But even immobilized, the monk's training showed—his strike flew true, catching the creature in what passed for its heart. The spriggan's scream shook leaves from trees, and then it was falling, its hold on the spiders broken.
 
@@ -155,8 +155,10 @@ At the fairy circle, they paused to gather the possessions of the less fortunate
 
 [entity:7763295|Bruldin] clapped him on the shoulder, nearly dislodging the sprite. "First round's on me, cook. Anyone who survives plant monsters and spider ambush deserves a proper drink."
 
-As they crossed the bridge into [entity:7763187|Teghrim's Crossing], other groups were returning from the eastern patrol. Stories would need sharing, introductions making. But for now, they had new allies, new mysteries, and the satisfying weight of problems solved—even if bigger problems lurked beyond the tree line, waiting with patient stone eyes and clicking mandibles.
+As they crossed the bridge into [entity:7763187|Teghrim's Crossing], other groups were returning from the eastern patrol. The administrative tower's windows glowed warm against the gathering dusk, and somewhere inside, [entity:7764097|Captain Irka Spritzel] would be waiting for their report. The settlement's sounds wrapped around them—hammer on anvil, conversation and laughter, the river's eternal song beneath it all.
 
-The bridge thrummed beneath their feet, a heartbeat of commerce and hope. Somewhere in the administrative tower, [entity:7764097|Captain Irka Spritzel] waited for reports. Somewhere in the forest, basilisks turned unwary travelers to stone. And somewhere in [entity:7763289|Alrik's] memories, secret recipes waited to be cooked again, their flavors potent enough to drive immortals to desperate measures.
+[entity:7763296|Qotal] walked in silence, turning the day's events over in his mind like prayer beads. Harmony with the environment, the purple fairy had said. The forest had tested them, and they had answered—not with conquest, but with alliance. The [entity:7764101|Willow Dryad] was free, the glade cleansed, and new bonds formed between settlement and wilderness.
 
-But those were worries for another day. For now, there was warmth, walls, and the promise of proper food prepared by someone who'd spent a century and a half perfecting his craft, even if he couldn't remember most of it. [entity:7763187|Teghrim's Crossing] had survived another day, and its newest protectors had proven themselves in fairy ring and spider glade alike.
+[entity:7763289|Alrik] was already planning his next meal, hands moving in unconscious recipe rehearsal as [entity:7764103|Vidia] watched with patient amusement. [entity:7764106|Aelysh] and [entity:7764100|Gierr] spoke quietly of forest paths and safe routes. And [entity:7763295|Bruldin]—the slayer walked with the slight ease of someone who had found, if not purpose, at least useful work.
+
+The bridge thrummed beneath their feet, forty years of dwarven engineering holding firm against the river's pull. Above them, the first stars emerged, and somewhere in the forest beyond, the [entity:7764101|Willow Dryad] swayed in evening wind, remembering those who had freed her.

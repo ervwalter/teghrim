@@ -69,7 +69,7 @@ Illusions rose like fever dreams—false paths, phantom enemies, bridges that we
 
 Gore stood seven feet of corrupted muscle and malevolent intelligence. The bulvak leader's horns swept back from a skull that seemed designed for destruction, and in his massive hands he held rope leads attached to beaten, bloodied humans. Two smaller bulvaks flanked him, their postures speaking of submission to his dominance.
 
-The battle erupted without preamble. [entity:7763290|Arnor's] opening salvo carried cold iron and silver, materials anathema to demon-spawn. [entity:7763294|Aurelia's] crossbow found the sweet spot between Gore's shoulder plates, her critical strike drawing a bellow that shook leaves from trees.
+The battle erupted without preamble. [entity:7763290|Arnor's] opening salvo carried cold iron and silver, materials anathema to demon-spawn. [entity:7763294|Aurelia's] crossbow bolt struck true between Gore's shoulder plates, piercing deep into corrupted flesh and drawing a bellow that shook leaves from trees.
 
 When Gore caught [entity:7763296|Qotal] in his massive hands, the horns following to pierce and hold, it seemed the monk's speed had finally met its match. But [entity:7763296|Qotal] moved like water given purpose, flowing out of the grab to deliver strikes that cracked bone despite the creature's supernatural resilience.
 
@@ -99,6 +99,8 @@ Then they too vanished, leaving only confused silence and rescued prisoners who 
 
 As they dispersed through the settlement, [entity:7763867|Natvig] landed once more on [entity:7763290|Arnor's] shoulder, casting one last hopeful glance toward [entity:7763296|Qotal]. The monk smiled and tossed a final morsel, which the trash griffin caught with a satisfied chirp-croak.
 
-The afternoon sun beat down on [entity:7763187|Teghrim's Crossing] with the weight of summer's promise. Somewhere in the forest, wagons rotted into memory. Somewhere else, a one-eyed witness kept its vigil. And somewhere, perhaps, someone named Tessa waited for news only the fey understood.
+[entity:7763294|Aurelia] paused at the edge of the mess hall, looking back toward the forest where the one-eyed figure had vanished. "It must be Tessa," the fey had said, as though the name should mean something.
 
-But for now, the guards lived, the gold clinked heavy in their purses, and tomorrow's mysteries could wait their turn. On the frontier, that counted as victory enough.
+She turned away. The guards were safe, the bulvaks were dead, and the gold clinked heavy in their purses. Whatever Tessa was, whoever watched from the shadows with that single glowing eye—those mysteries would reveal themselves in their own time.
+
+The afternoon sun beat down on [entity:7763187|Teghrim's Crossing], indifferent to questions that had no answers.

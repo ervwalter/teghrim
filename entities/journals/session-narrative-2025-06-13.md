@@ -61,13 +61,13 @@ Two rust oozes emerged fully now, their amorphous bodies somehow both beautiful 
 
 But what else was there on a bare bridge with hungry oozes pressing close? [entity:7763295|Bruldin's] maul degraded with each strike, [entity:7763294|Aurelia's] sword grew duller by the moment, and the oozes seemed to swell with each metallic meal.
 
-[entity:7763290|Arnor] smiled then, the expression sharp as winter wind. "Then let them taste lightning instead of steel."
+[entity:7763290|Arnor] smiled then, the expression sharp as winter wind. "Then let them taste the storm instead of steel."
 
-Power gathered around the [entity:7763211|Norn], crackling between his fingers like captive stars. When he released it, the bolt struck the first ooze with the sound of divine judgment. The creature convulsed, its form rippling and sparking as electricity coursed through its alien anatomy.
+Power gathered around the [entity:7763211|Norn], crackling between his fingers like captive stars. When he released it, light exploded across the bridge with the sound of divine judgment. The creature convulsed, its form rippling and hissing as the magical assault tore through its alien anatomy.
 
-"Yes!" [entity:7764102|Aelysh] channeled her own magic, adding nature's fury to the assault. "Strike again while it's disrupted!"
+"Yes!" [entity:7764102|Aelysh] channeled her own magic, adding nature's fury to the assault. "Again! While it writhes!"
 
-The battle became a desperate dance on degrading planks. [entity:7763290|Arnor's] lightning proved devastating but exhausting. Each bolt drained him while the oozes pressed closer, forcing the warriors to use their corroding weapons sparingly. [entity:7763295|Bruldin] took to using his maul as a club, accepting the damage for the chance to drive the creatures back.
+The battle became a desperate dance on degrading planks. [entity:7763290|Arnor's] magic proved devastating but exhausting. Each invocation drained him while the oozes pressed closer, forcing the warriors to use their corroding weapons sparingly. [entity:7763295|Bruldin] took to using his maul as a club, accepting the punishment for the chance to drive the creatures back.
 
 When the second ooze finally collapsed into a puddle of inert rust, they stood panting on a bridge that looked decades older than it had minutes before. Their weapons bore the scars of the encounter—pitted, dull, some barely functional.
 
@@ -95,7 +95,7 @@ The enslaved creatures attacked with coordinated precision. The beetles flanked 
 
 "Bruldin!" [entity:7764102|Aelysh] started forward, but the myconid's tentacles wove a barrier between them.
 
-The dwarf's eyes, when he turned them on the mushroom creature, burned with something beyond his usual battle fury. His tattoos flared to painful brilliance as he brought his maul up and over in an arc that seemed to carry the weight of mountains.
+The dwarf's eyes, when he turned them on the mushroom creature, burned with something beyond his usual battle fury. Ancient scars along his arms seemed to writhe in the dim light as he brought his maul up and over in an arc that seemed to carry the weight of mountains.
 
 The myconid's scream was soundless but felt in the bones. Its cap split like overripe fruit, releasing a cloud of spores that might have doomed them all if [entity:7764102|Aelysh] hadn't been ready. Wind howled through the cave at her command, driving the deadly cloud out into open air where it could disperse harmlessly.
 
@@ -127,12 +127,10 @@ At [entity:7763187|Teghrim's Crossing], they parted ways with [entity:7764102|Ae
 
 [entity:7763290|Arnor] consulted the sun's position. "It's barely past noon. Plenty of daylight left for new disasters."
 
-[entity:7763295|Bruldin] grunted agreement, absently rubbing his chest where the infection had taken hold. The smith's hammer rang out across the settlement—a sound of normalcy that seemed precious after their morning's work. Their weapons would be repaired, their mysterious rewards identified, and tomorrow would bring new challenges.
+[entity:7763295|Bruldin] grunted agreement, absently rubbing his chest where the infection had taken hold. The smith's hammer rang out across the settlement—a sound of normalcy that seemed precious after their morning's work.
 
-But for now, they had prevented a creeping doom from consuming the forest, saved a druid's familiar (even if it had fled in terror), and added three more mysteries to their growing collection. On the frontier, that counted as a successful morning.
+They crossed the threshold into the dim interior, where the forge's heat drove back the memory of the cave's damp chill. The blacksmith looked up from his work, eyes widening at the state of their equipment.
 
-The 13th of Aestra-Orpheus was only half done, but already it had taught them that in this new land, danger came in many forms—not all of them as straightforward as goblin raids or vampire politics. Sometimes the greatest threats were the quiet ones, spreading in darkness until brave souls brought light to burn them away.
+"What in the hells did you fight?" he asked, reaching for [entity:7763294|Aurelia's] ruined blade.
 
-Their damaged weapons would carry new scars, badges of honor from a battle most would never know had been fought. And somewhere in the forest, a Leshy ran free, shaking off the last threads of puppet strings, while its master mixed cures from corruption's own flesh.
-
-Just another day at [entity:7763187|Teghrim's Crossing], where even the mushrooms had teeth.
+She exchanged glances with her companions. Where to even begin?

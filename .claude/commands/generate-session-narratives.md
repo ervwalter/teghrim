@@ -111,15 +111,30 @@ Example opening style:
 - Use atmospheric, descriptive, or contextual references that enhance the narrative
 
 ### Game Mechanics Transformation:
-**CRITICAL**: Never reference game mechanics directly in narratives. Transform all mechanical elements into cinematic prose:
-- **Damage numbers**: "20 points of damage" → "a crushing blow that left him reeling"
-- **Hit points**: "reduced to 2 hit points" → "barely clinging to life"
-- **Actions**: "three-action heal" → "channeled divine power in a desperate prayer"
-- **Conditions**: "clumsy 1 condition" → "fumbling with uncharacteristic clumsiness"
-- **Rolls/Saves**: "failed the save" → "succumbed to the creature's influence"
-- **Critical hits**: "critical hit for 38 damage" → "a bone-crushing blow that sent her sprawling"
+**ABSOLUTELY CRITICAL**: You are writing in-world narrative from a character's perspective. Characters do NOT know about game mechanics. Transform ALL mechanical elements into pure narrative prose:
 
-Focus on the **narrative effect** rather than the mechanical cause. Describe what characters see, feel, and experience - not the numbers or systems behind it.
+**NEVER USE**:
+- Point values: "20 points of damage", "42 hit points", "reduce to 2 HP"
+- Resource names: "resolve points", "hero points", "stamina points", "focus points", "ki points"
+- Dice references: "natural 20", "natural 1", "rolled a 23", "critical success", "critical failure"
+- Game terms: "saves", "checks", "DC", "bonus", "penalty", "flanking", "attack of opportunity"
+- Condition names as labels: "frightened 1", "clumsy 2", "stupefied", "sickened", "persistent bleed"
+- Feat/spell names as mechanics: "**intimidating strike**", "used ki rush", "cast electric arc"
+- Action economy: "three-action spell", "used my reaction", "two actions to move"
+- Combat mechanics: "initiative roll", "reflex save", "will save", "fortitude save"
+- Numeric modifiers: "rolled 28 total", "athletics check of 31", "perception 22"
+
+**INSTEAD USE NARRATIVE DESCRIPTIONS**:
+- "a crushing blow that left him reeling" (not "20 points of damage")
+- "barely clinging to life" (not "reduced to 2 hit points")
+- "exhausted from channeling divine power" (not "out of resolve points")
+- "his blade found a perfect opening" (not "critical hit")
+- "she stumbled, disoriented" (not "failed the save")
+- "fumbling with uncharacteristic clumsiness" (not "clumsy 1 condition")
+- "lightning crackled from his fingers" (not "cast electric arc")
+- "drove forward with terrifying intensity" (not "used intimidating strike")
+
+Characters experience combat as chaos, pain, fear, triumph - not as numbered exchanges. Describe what they SEE, FEEL, and EXPERIENCE.
 
 ### Processing the Digest:
 
@@ -223,13 +238,17 @@ Note: Use two-digit format in the frontmatter name (e.g., "01 - The Bridge and t
 - Make combat dynamic and cinematic
 
 **DON'T:**
-- Mention game mechanics, dice, or numbers
-- Reference damage amounts, hit points, or conditions
-- Use meta-game terminology (saves, checks, rolls, actions)
+- Mention game mechanics, dice, or numbers (natural 20, critical hit, damage points, etc.)
+- Reference game resources (resolve points, hero points, stamina points, ki points)
+- Reference damage amounts, hit points, or specific numeric values
+- Use meta-game terminology (saves, checks, rolls, actions, initiative, DC, bonus)
+- Use condition labels (frightened 1, clumsy 2, stupefied, persistent bleed)
+- Name feats/spells as mechanics (**intimidating strike**, used ki rush, cast electric arc)
 - Include player names or table talk
 - List events mechanically
 - Rush through important moments
 - Forget to link entities with IDs
+- End with meta-commentary about chapters or dramatic recaps
 
 ### Example Style Elements:
 
@@ -248,6 +267,37 @@ When generating the narrative:
 - No preamble or explanation
 - No meta-commentary about the process
 - Pure narrative content after the required heading
+
+### Chapter Endings - CRITICAL:
+
+**NEVER** end chapters with TV-episode style conclusions. These are chapters in an ongoing book, NOT standalone episodes.
+
+**FORBIDDEN ending styles**:
+- Meta-commentary about "chapters" or "sagas": "The fifteenth chapter closed with..."
+- Dramatic recaps: "They had proven themselves through... while ahead lay..."
+- "Next episode" previews: "Mysteries remained... decisions awaited... challenges loomed..."
+- Summary paragraphs listing what happened and what's next
+- Any reference to "the [number]th chapter of their frontier saga"
+
+**INSTEAD**:
+- End on a **narrative moment** - action, dialogue, observation, or reflection
+- Let the story simply **stop** where the session ended
+- Trust readers to remember context without recap
+- Flow naturally into what would be the next chapter's opening
+- Think: literary novel chapters, not TV episode endings
+
+**Good ending examples**:
+- Ending on dialogue: "They departed with Gierr's words echoing in their thoughts."
+- Ending on action: "The gate closed behind them, and the climb began."
+- Ending on observation: "The ruins waited, patient as stone."
+- Ending on reflection: "Sleep came uneasily that night."
+
+**Bad ending examples** (DO NOT USE):
+- "The chapter closed with mysteries unresolved and challenges ahead..."
+- "They had proven themselves capable while facing threats that..."
+- "Ahead lay decisions about which path to pursue..."
+
+End when the narrative ends. No meta-framing. No recaps. Just storytelling.
 
 ## Important Notes:
 - Session narratives are public (is_hidden: false) while summaries are GM-only

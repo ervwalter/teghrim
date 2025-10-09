@@ -83,11 +83,11 @@ His maul struck the gate with earth-shaking force. Chains snapped like overtaxed
 
 Goblins poured through the breach in pairs, their movements suggesting practiced coordination rather than mindless assault. The orc commander followed, his massive frame blocking moonlight as battle erupted in the confined space.
 
-[entity:7763295|Bruldin's] rage ignited instantly, his first strike combining physical might with spiritual fury. A goblin simply ceased to exist, its body painting the defensive stakes with gore. But numbers told their own story—while the dwarf's maul sang death songs, smaller blades found gaps in his defense. Flanking attackers wore him down with cuts that individually meant nothing but collectively drained his strength.
+[entity:7763295|Bruldin's] rage ignited instantly, his first strike combining physical might with spiritual fury. A goblin simply ceased to exist, its body painting the defensive stakes with gore. But numbers told their own story—while the dwarf's maul sang death songs, smaller blades found gaps in his defense. Attackers from multiple sides wore him down with cuts that individually meant nothing but collectively drained his strength.
 
 [entity:7763296|Qotal] moved like water between enemies, his staff work precise as calligraphy. Each strike flowed into the next, dropping goblins with mechanical efficiency. Yet even his grace couldn't prevent the orc's massive maul from finding its mark, sending the monk sprawling into unconsciousness.
 
-[entity:7763290|Arnor] wove magic into the night, his **Needle Darts** carrying cold iron's bite to pierce the orc's thick hide. When both frontline fighters fell, desperation colored his voice. "Natvig, help!"
+[entity:7763290|Arnor] wove magic into the night, conjured missiles carrying cold iron's bite to pierce the orc's thick hide. When both frontline fighters fell, desperation colored his voice. "Natvig, help!"
 
 The response defied explanation—a creature burst from the forest, its form indistinct as it swooped over the combatants. Whatever [entity:7763867|Natvig] was, its presence disrupted the orc's defenses at the crucial moment.
 

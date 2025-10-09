@@ -19,11 +19,9 @@ The morning after [entity:7763294|Aurelia's] revelation had settled into comfort
 
 "We need expert advice," the [entity:7763230|Slaan] monk declared with unusual directness for one typically given to measured speech. "The locals here each possess knowledge we need."
 
-The decision to divide their efforts proved wise. [entity:7763296|Qotal] sought [entity:7764102|Aelysh] at her [entity:7764106|treehouse preserve], where the wood elf's scientific approach to botanical mysteries had impressed him during previous visits. Her **"Nature's Rest"** ability—rolling twice and taking the better result for disease recovery—represented practical magic that transcended mere academic interest.
+The decision to divide their efforts proved wise. [entity:7763296|Qotal] sought [entity:7764102|Aelysh] at her [entity:7764106|treehouse preserve], where the wood elf's scientific approach to botanical mysteries had impressed him during previous visits. The day spent learning herbalism and nature lore deepened his understanding of the region's supernatural ecology. [entity:7764102|Aelysh] shared with him her techniques for helping those afflicted by disease and poison, her connection to the natural world allowing recoveries that seemed almost miraculous. Her friendship carried weight beyond mere social courtesy—when natural mysteries demanded answers, she would prioritize his questions regardless of her other obligations.
 
-The day spent learning herbalism and nature lore deepened his understanding of the region's supernatural ecology. [entity:7764102|Aelysh's] friendship carried weight beyond mere social courtesy—when natural mysteries demanded answers, she would prioritize his questions regardless of her other obligations.
-
-Meanwhile, [entity:7763289|Alrik] found purpose in honest labor with [entity:7763866|Lyn Chong], whose zen temple construction project reflected the elderly monk's methodical approach to spiritual practice. The exchange proved mutually beneficial—[entity:7763289|Alrik's] assistance with temple building earned genuine friendship, while [entity:7763866|Lyn's] **"Divine Rest"** ability offered hope for countering cursed effects that conventional medicine couldn't address.
+Meanwhile, [entity:7763289|Alrik] found purpose in honest labor with [entity:7763866|Lyn Chong], whose zen temple construction project reflected the elderly monk's methodical approach to spiritual practice. The exchange proved mutually beneficial—[entity:7763289|Alrik's] assistance with temple building earned genuine friendship, while [entity:7763866|Lyn's] divine power offered hope for countering cursed effects that conventional medicine couldn't address.
 
 Most significantly, [entity:7763290|Arnor] deepened his connection with [entity:7764193|Osanna Von Carstein], discovering secrets that elevated their relationship beyond diplomatic courtesy. The vampire noble's hidden interest in occultism—knowledge she kept carefully concealed from other vampires—opened doors to understanding constructs and undead-construct hybrids like [entity:7888221|the Jailor].
 
@@ -47,7 +45,7 @@ The strategic importance of their mission crystallized as they traveled upstream
 
 [entity:7764197|Queen Zelinda's] settlement revealed itself as elaborate theater of royal pretension. The grand hut surrounded by smaller dwellings backed into defensive tree positions, while fetishes and protective charms hung like supernatural armor from every available surface. Her formal introduction—a parade of titles that included **"Her Royal Eminence and Imperador Zelinda, Queen of the Icenii, Scion of the Eldrazi, The Six-Hokage of the Leafy Village, Duchess of Shale, Lord of the North Land, and leader of its peoples"**—demonstrated appetite for recognition that bordered on hunger.
 
-The social encounter that followed tested their diplomatic skills against [entity:7764197|Queen Zelinda's] evident need for validation. [entity:7763295|Bruldin's] astrological knowledge proved particularly effective, his bestowing of the title **"Queen of the Starry River"** earning multiple points of favor through its cosmic significance. [entity:7763296|Qotal's] contribution of **"Queen of the Ecliptic Veil"** complemented perfectly, explaining the cosmic power and energy of day and night sky residing within her royal presence.
+The social encounter that followed tested their diplomatic skills against [entity:7764197|Queen Zelinda's] evident need for validation. [entity:7763295|Bruldin's] astrological knowledge proved particularly effective, his bestowing of the title **"Queen of the Starry River"** delighting her with its cosmic significance. [entity:7763296|Qotal's] contribution of **"Queen of the Ecliptic Veil"** complemented perfectly, explaining the cosmic power and energy of day and night sky residing within her royal presence.
 
 [entity:7763289|Alrik's] religious insight provided the capstone with **"Divine Mistress and Guardian of the River Wild,"** acknowledging her spiritual authority over the waterways that defined her territory. The courtly behavior that [entity:7763290|Arnor] demonstrated through his greeting of **"Queen Zelinda, the Graciousness of Hosts"** appealed to her desire for noble recognition, though it became apparent she imitated what she thought nobility looked like rather than displaying genuine aristocratic bearing.
 
@@ -77,7 +75,7 @@ The performance requirement for earning [entity:8051161|King Jareth's] favor fel
 
 ---
 
-With [entity:7763295|Bruldin's] early departure due to medication side effects, the remaining party faced the waterfall region's challenges with reduced numbers but enhanced understanding. The rocky terrain slick with rain tested their Athletics and Acrobatics skills, while the massive waterfall itself held guardian more gregarious than dangerous.
+With [entity:7763295|Bruldin's] early departure due to medication side effects, the remaining party faced the waterfall region's challenges with reduced numbers but enhanced understanding. The rocky terrain slick with rain tested their agility and balance, each step a careful negotiation with wet stone, while the massive waterfall itself held guardian more gregarious than dangerous.
 
 [entity:8051159|Grogug] the Troll emerged from behind the thundering cascade like natural force given personality, his switch from **Jotun** to Common revealing language skills learned from [entity:7766459|hob] neighbors. His toll system—one gold per person or one person as meal—represented frontier capitalism at its most direct, though his acceptance of **Mendel's** cake (provided by thoughtful [entity:7764197|Queen Zelinda]) demonstrated that reputation and gifts could substitute for currency.
 
@@ -89,7 +87,7 @@ The treacherous stone stairs carved into the cliff face demanded careful navigat
 
 The [entity:7797914|One-Eyed Figure] that had observed their adventures for sessions chose this moment for direct confrontation. Its transformation from mist into raven-like shadow creature with single glowing eye represented culmination of supernatural surveillance that had marked their growing reputation.
 
-[entity:7763296|Qotal's] identification of it as corrupted nature spirit provided tactical intelligence that proved crucial. The creature's resistance to most damage except cold iron turned combat into test of preparation and adaptability. [entity:7763290|Arnor's] **Concordant Choir** provided sustained sonic damage while [entity:7763289|Alrik's] cold iron needle darts found their mark with deadly precision.
+[entity:7763296|Qotal's] identification of it as corrupted nature spirit provided tactical intelligence that proved crucial. The creature's resistance to most damage except cold iron turned combat into test of preparation and adaptability. [entity:7763290|Arnor's] voice rose in a resonating chorus that seemed to come from multiple throats at once, the sound battering the spirit with sonic force, while [entity:7763289|Alrik's] cold iron needle darts found their mark with deadly precision.
 
 The spirit's ability to shift between mist and solid forms created tactical challenges that demanded coordination rather than individual heroics. When it finally dissipated into harmless vapor, the victory felt significant—they had eliminated a threat that had haunted their adventures since the beginning.
 
@@ -101,7 +99,7 @@ The highland plateau's marshy environment harbored its own dangers in the form o
 
 The battle that erupted transcended simple party-versus-monsters combat, becoming complex three-way conflict where giant flies engaged beetles while both species attacked the amphibians. [entity:7763296|Qotal] found himself grabbed and dragged toward snapping jaws, his monastic training tested against supernatural strength.
 
-[entity:7763290|Arnor's] **Concordant Choir** proved devastatingly effective against grouped enemies, its area damage affecting multiple creatures while the party exploited tactical positioning to let the monsters damage each other. The strategy conserved resources while maximizing effectiveness—lessons learned from previous encounters where brute force had proved insufficient.
+[entity:7763290|Arnor's] voice rose in that strange resonating chorus again, the sound washing over the battlefield in waves that struck multiple creatures at once, while the party exploited tactical positioning to let the monsters damage each other. The strategy conserved their strength while maximizing effectiveness—lessons learned from previous encounters where brute force had proved insufficient.
 
 [entity:7763289|Alrik's] needle darts and combat maneuvers provided supporting fire while the [entity:7763211|Norn] wizard's spells coordinated their response. The extended battle tested endurance as much as skill, each creature eliminated through patient application of tactics rather than overwhelming assault.
 
@@ -109,18 +107,8 @@ When the highland marsh finally fell silent, littered with the corpses of creatu
 
 ---
 
-Their striking runes, distributed as quest rewards, represented more than mere equipment enhancement. They symbolized growth earned through trial and error, understanding purchased with pain and persistence. The highland plateau spread before them like promise of greater challenges, while behind them the bridge settlement continued its daily business, unaware of the supernatural dramas unfolding in the territories beyond civilization's comfortable boundaries.
+The highland plateau spread before them like an ancient wilderness unmarked by civilization. Somewhere in the northwest waited the cursed **Duergar lodge** that [entity:8051161|King Jareth] had warned them of, and beyond it, the giant guardian that had drawn [entity:7763296|Qotal] across continents.
 
-[entity:7763289|Alrik's] vision of the raven-winged woman remained unresolved threat, approaching with supernatural patience toward timing only she understood. [entity:7888221|The Jailor] continued its predatory collection of victims somewhere in the eastern territories, its massive cage requiring eventual confrontation with forces they were still building.
+The [entity:7763230|Slaan] monk stood at the edge of the plateau, studying the distant terrain with the patience of one who had traveled too far to turn back now. Behind him, [entity:7763290|Arnor] and [entity:7763289|Alrik] prepared their gear for the journey ahead, while far below, [entity:8051159|Grogug] had already settled back behind his waterfall, their passing already forgotten in the endless rhythm of his toll collecting.
 
-The [entity:8051165|Cursed Stone Formation] remained too dangerous to approach directly, though [entity:7764193|Osanna's] offer to help during cloudy conditions provided hope for future resolution. Each mystery they solved revealed two more, each ally gained suggested new enemies gathering in shadows beyond their current sight.
-
-But they had proven themselves capable of adaptation and growth. [entity:7764197|Queen Zelinda's] theatrical court and [entity:8051161|King Jareth's] genuine majesty had both accepted them as worthy of respect. [entity:8051159|Grogug's] practical negotiations and the [entity:7797914|One-Eyed Figure's] final confrontation had tested different aspects of their developing capabilities.
-
-Most importantly, they had learned to function as team rather than mere collection of individuals. [entity:7763296|Qotal's] scholarly approach, [entity:7763290|Arnor's] tactical spellcasting, and [entity:7763289|Alrik's] unexpected adaptability combined into effectiveness that transcended their individual limitations.
-
-The tenth chapter of their frontier saga closed with crowns acknowledged and waterfalls conquered, while ahead lay the giant guardian that had drawn [entity:7763296|Qotal] across continents in pursuit of answers to questions whose importance grew with each revelation. The highland plateau stretched northwest toward the cursed **Duergar lodge** and the statue that waited beyond, promising resolution to mysteries that connected ancient protection magic with present dangers.
-
-At [entity:7763187|Teghrim's Crossing], the bridge settlement they now called home, residents continued their daily routines while heroes they had learned to trust ventured into territories where protection required more than conventional weapons. The bonds they were building with both supernatural and mortal allies would be tested in challenges to come, but for now, they had proven themselves worthy of the crowns they sought and the waterfalls they had conquered.
-
-Behind them, [entity:8051159|Grogug] settled back into his patient guardianship of the treacherous stairs, toll collector and gatekeeper rolled into one practical package. Ahead lay the **giant guardian** and whatever trials awaited those who would seek truth from protectors that had outlived the civilizations they were created to defend.
+The answers [entity:7763296|Qotal] sought lay ahead, waiting in a cavern where a guardian had watched over secrets since before the [entity:7766459|hobs] had fled the Eastern lands. Whether those answers would prove worth the dangers they faced remained to be seen.

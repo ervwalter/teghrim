@@ -13,7 +13,7 @@ youtube_url: https://youtu.be/RYfowqtJ1eI
 
 The morning after their return from forest ventures found the party's rest shattered by the rumble of wagon wheels and shouting teamsters. A late caravan had rolled into [entity:7763187|Teghrim's Crossing] in the small hours, its arrival echoing across the bridge settlement like thunder in the darkness. When dawn finally crept over the eastern horizon, it illuminated red-rimmed eyes and stifled yawns at the mess hall's scarred tables.
 
-[entity:7763289|Alrik Grimmelstang] approached breakfast with the methodical precision of a surgeon, wielding forceps where others might use spoons. His wild white hair caught the morning light like storm clouds as he examined each morsel with the intensity of one who had spent centuries perfecting recipes. Poor sleep had left him fumbling with uncharacteristic clumsiness, his usual culinary finesse wobbling like a drunk patron on the bridge's planks.
+[entity:7763289|Alrik Grimmelstang] approached breakfast with the methodical precision of a surgeon, wielding forceps where others might use spoons. His wild white hair caught the morning light like storm clouds as he examined each morsel with the intensity of one who had spent centuries perfecting recipes. Poor sleep had left his hands trembling, his usual culinary finesse compromised by exhaustion.
 
 [entity:7763294|Aurelia] traced idle patterns in spilled salt, her crimson eyes distant as she contemplated the exchange she'd planned—her crossbow for a short bow, a simple transaction that spoke to adaptability in a land where survival often required reinvention. [entity:7763290|Arnor] studied the grain of the wooden table as if it might reveal prophecies, the bird skull pendant at his throat catching shadows that seemed deeper than mere morning gloom.
 
@@ -63,25 +63,25 @@ The Jailor loomed in a clearing where natural law seemed negotiable. Twenty feet
 
 [entity:7763290|Arnor's] scholarly knowledge, sharpened by years of studying the occult, identified it as something unique—a creature born from the intersection of religious fervor and undead hunger. When he shared this revelation, it came with the cold comfort of understanding an enemy's nature without diminishing its threat.
 
-The battle erupted with the sudden violence of a summer storm. The Jailor's opening attack—a chunk of its own flesh hurled with supernatural force—struck [entity:7763290|Arnor] with crushing impact that left him reeling, though the blow seemed calculated to incapacitate rather than kill. The creature shared its captives' preference for living prey.
+The battle erupted with the sudden violence of a summer storm. The Jailor's opening attack—a chunk of its own flesh hurled with supernatural force—struck [entity:7763290|Arnor] with crushing impact that left him reeling. The creature wanted them alive, just like its captives.
 
-[entity:7763289|Alrik's] vine lance gleamed with holy energy as he brought it to bear, but divine favor proved insufficient against supernatural resilience. [entity:7763294|Aurelia's] tactical analysis revealed their enemy's nature—undead construct hybrid immune to most conventional attacks but vulnerable to positive energy and slashing weapons.
+[entity:7763289|Alrik's] vine lance gleamed with holy energy as he brought it to bear, but even divine power seemed to wash over the creature like water off stone. [entity:7763294|Aurelia] called out warnings as she studied the monster—it moved like undead but held together like a construct, its flesh knitting even as they wounded it.
 
-Her bow sang its deadly song, striking true, while [entity:7763693|Sylvia's] crossbow added supporting fire. But the colossal Jailor's response demonstrated why it had survived long enough to fill its massive chest cage. [entity:7763290|Arnor] fell beneath another devastating blow from the giant's crushing limbs, consciousness fleeing as his body crumpled to the forest floor, barely clinging to life.
+Her bow sang its deadly song, striking true, while [entity:7763693|Sylvia's] crossbow added supporting fire. But the towering Jailor's response demonstrated why it had survived long enough to fill its massive chest cage. [entity:7763290|Arnor] fell beneath another devastating blow from the giant's crushing limbs, the world going dark as his body crumpled to the forest floor.
 
-[entity:7763289|Alrik] channeled divine power in a desperate prayer, golden light pouring from his hands to pull his companion back from the brink while simultaneously searing the Jailor with holy radiance. But the creature's retaliation proved overwhelming—[entity:7763294|Aurelia] crumpled beneath a bone-crushing blow that sent her sprawling across the clearing. The violence of the impact taught harsh lessons about frontier survival.
+[entity:7763289|Alrik] channeled divine power in a desperate prayer, golden light pouring from his hands to draw [entity:7763290|Arnor] back to consciousness while simultaneously searing the Jailor with holy radiance. But the creature's retaliation proved overwhelming—[entity:7763294|Aurelia] crumpled beneath a bone-crushing blow that sent her sprawling across the clearing, motionless.
 
-When the towering Jailor attempted to stuff [entity:7763294|Aurelia's] unconscious form into its enormous chest cage but found it already filled with captives, a terrible understanding dawned. The creature collected the living, not the dead. The moaning from within its massive cage belonged to those still breathing, still hoping, still suffering.
+The towering Jailor reached for [entity:7763294|Aurelia's] unconscious form, attempting to stuff her into its enormous chest cage, but found it already filled with captives. The creature paused, as if considering. A terrible understanding dawned—it collected the living, not the dead. The moaning from within its massive cage belonged to those still breathing, still hoping, still suffering.
 
-Discretion, as [entity:7763294|Aurelia] might have observed in more conscious moments, proved the better part of valor. The party's tactical retreat behind trees might have lacked glory, but it preserved their lives when the giant Jailor departed at supernatural speed, its massive form disappearing through the forest with its captives' cries fading into silence.
+Wounded and exhausted, they retreated behind trees, watching as the giant Jailor finally departed at supernatural speed, its massive form disappearing through the forest with its captives' cries fading into silence.
 
 ---
 
 The black substance pooled in the creature's footprints defied easy categorization. [entity:7763289|Alrik's] crafting knowledge eliminated manufactured origins—not grease, not pitch, not tar. [entity:7763290|Arnor's] religious understanding provided grimmer truth: cursed material made of negative energy, substance that drained color and light from the world around it.
 
-When [entity:7763290|Arnor] tested it with divine light, the explosion that followed reminded them how close they had come to facing environmental hazards alongside supernatural ones. The [entity:7763211|Norn's] experimentation might have saved their lives by revealing dangers they could not see.
+When [entity:7763290|Arnor] tested it with divine light, the explosion that followed sent them scrambling backward. The cursed substance reacted violently to holy energy—something they might have discovered in far worse circumstances.
 
-An hour's rest and [entity:7763289|Alrik's] medical attention slowly restored them to fighting condition. His surgical precision with healing kits demonstrated skills that transcended mere cooking, though his approach to wound treatment bore the same methodical intensity he brought to custard preparation.
+An hour's rest and [entity:7763289|Alrik's] medical attention slowly restored them. His surgical precision with healing kits demonstrated skills that transcended mere cooking, though his approach to wound treatment bore the same methodical intensity he brought to custard preparation.
 
 The one-eyed figure watching from tree shadows added another mystery to their growing collection. [entity:7763867|Natvig's] investigation ended when the entity simply ceased—not fleeing or hiding, but absent in the way that only unnatural things could manage.
 
@@ -99,12 +99,6 @@ Around the circle, bodies told their own grim tale. Orcs and goblins, some attem
 
 The party's response proved swift and thorough. Scarecrows burned like torches throughout the field, their straw hearts consumed by cleansing flame. The wheat field itself followed, smoke rising toward a sky that promised rain but delivered only judgment.
 
-As the smoke climbed toward the heavens, drums echoed from the eastern forest. Orc drums, beating the rhythm of war or investigation. The session ended with the party hiding in woods opposite the sound, realizing that their fire would be visible from [entity:7763187|Teghrim's Crossing]—a beacon that might bring rescue or unwanted attention in equal measure.
+As the smoke climbed toward the heavens, drums echoed from the eastern forest. Orc drums, beating the rhythm of war or investigation. They took cover in woods opposite the sound, watching the fire they had set—a blaze that would be visible from [entity:7763187|Teghrim's Crossing], a beacon that might bring rescue or unwanted attention in equal measure.
 
-The questions lingered in the smoke-hazed air: where had the Jailor taken its captives? What connection bound [entity:7888222|Annie's] dark transformation to the creature's supernatural hunger? And as orc drums drew closer, would the approaching warriors prove enemy or opportunity?
-
-The sixth chapter of their frontier saga closed with flames reaching toward storm clouds, while somewhere in the darkness, captives remained trapped in cages of bone and malice, counting heartbeats until help arrived or hope finally died.
-
-In the distance, [entity:7763187|Teghrim's Crossing] carried on its daily business, unaware that smoke on the horizon marked the discovery of corruption that threatened more than abandoned farms. The bridge settlement that had become their haven might soon need defending against threats both ancient and immediate.
-
-But for now, they waited in shadow while wheat burned away the evidence of [entity:7888222|Annie's] fall from grief to damnation, each ember a prayer that some corruptions could still be cleansed by fire and will.
+The drums grew louder, closer. Somewhere to the west, the Jailor carried its captives to an unknown fate. And here, hidden in shadow while wheat burned away the evidence of [entity:7888222|Annie's] fall from grief to damnation, they waited to see what the approaching drums would bring.
