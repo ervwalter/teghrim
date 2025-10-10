@@ -3,7 +3,7 @@ name: 16 - Songs for Stone Sentinels
 type: Session Narrative
 is_hidden: false
 created: '2025-10-09T04:51:29.821513+00:00'
-updated: '2025-10-09T04:51:29.821520+00:00'
+updated: '2025-10-09T12:25:46.414139+00:00'
 entity_id: 8252858
 ---
 
@@ -103,7 +103,7 @@ The vista opened before them like revelation.
 
 A massive lake filled the space where mountains formed natural amphitheater, waterfalls cascading from all sides to feed the body of water with constant influx that maintained its depth despite whatever drainage existed. Eight miles across, [entity:7763296|Qotal] estimated using practiced eye for distance and terrain. The ring of peaks created bowl where water gathered, and in the center—
 
-"This is it," [entity:7763296|Qotal] breathed, his usual measured tones carrying weight of discovery that transcended simple location identification. "This is my new home base. We're going to liberate it and this is gonna be our base."
+"This is it," [entity:7763296|Qotal] breathed, his usual measured tones carrying weight of discovery that transcended simple location identification. The ruins from his research—the very structure that had drawn him to these frontier territories.
 
 The island rose from the lake's center, perhaps three to four miles from their current vantage point. Upon it stood structure that matched the image from [entity:7763296|Qotal's] research with precision that eliminated any doubt—the moss-eaten statue, the distinctive architecture, the very positioning that his scholarly investigation had suggested existed somewhere in these frontier territories.
 

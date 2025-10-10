@@ -28,15 +28,15 @@ except ImportError:
     sys.exit(1)
 
 # Voice ID for audiobook narration
-NARRATOR_VOICE_ID = "N2lVS1w4EtoT3dr4eOWO"
+NARRATOR_VOICE_ID = "J64VNrjLE6uKFBKlxfSJ"
 
 # ElevenLabs API settings
 VOICE_SETTINGS = VoiceSettings(
     stability=0.5,
     similarity_boost=0.75,
-    style=0,
+    style=0.05,
     use_speaker_boost=True,
-    speed=1.05
+    speed=1.1
 )
 MODEL_ID = "eleven_multilingual_v2"
 

@@ -3,7 +3,7 @@ name: 2025-09-26 - Highland Depths and Waterfall Wonders
 type: Session Summary
 is_hidden: false
 created: '2025-10-09T04:03:48.808974+00:00'
-updated: '2025-10-09T04:51:45.942271+00:00'
+updated: '2025-10-09T12:25:47.458152+00:00'
 entity_id: 8252802
 ---
 
@@ -33,7 +33,7 @@ On Orpheus 9th, their exploration led to the expedition's first major discovery.
 
 The **Island Dwarven Ruins** matched perfectly the image from [entity:7763296|Qotal's] scholarly research—the moss-eaten statue with the broken hammer that had drawn him to the frontier. [entity:7763295|Bruldin] immediately recognized it as a dwarven hold despite its distance and ruined state. A dock extended from the island into the water, and most intriguingly, small tents and fires were visible at the base of the structure. Someone—or something—currently occupied the ancient ruins.
 
-The party recalled previous lore about this location. King Jareth had spoken of guardians who warned that "evil hearts must pay the price." Queen Zelinda told of "a royal guard whose ego trapped them in a cavern of waterfalls." The [entity:7766459|hobs] held deep superstitions about such structures, carving little statues and believing them cursed particularly for dwarves. [entity:7763296|Qotal] declared with certainty: "This is my new home base. We're going to liberate it." The multi-level structure promised exploration for the future, but first they needed boats or rafts to cross the eight-mile lake.
+The party recalled previous lore about this location. King Jareth had spoken of guardians who warned that "evil hearts must pay the price." Queen Zelinda told of "a royal guard whose ego trapped them in a cavern of waterfalls." The [entity:7766459|hobs] held deep superstitions about such structures, carving little statues and believing them cursed particularly for dwarves. The multi-level structure promised exploration for the future, but first they needed boats or rafts to cross the eight-mile lake.
 
 Continuing their circuit around the highlands, the party discovered another significant location. A large trampled path—not quite a road but clearly not natural—ran out of the mountains for two to three miles before winding back up into the peaks. Stone guideposts lined the route where lanterns could theoretically be placed. Looking up toward the distant heights, they spotted a cave entrance at the path's terminus.
 
