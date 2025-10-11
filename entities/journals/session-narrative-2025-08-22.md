@@ -1,5 +1,5 @@
 ---
-name: 11 - The Necromancer's Welcome
+name: 11 - Beneath the Cursed Skull
 type: Session Narrative
 is_hidden: false
 created: '2025-10-09T04:51:31.286178+00:00'
@@ -7,7 +7,9 @@ updated: '2025-10-09T04:51:31.286185+00:00'
 entity_id: 8252860
 ---
 
-# Chapter 11 - The Necromancer's Welcome
+# Chapter 11 - Beneath the Cursed Skull
+
+The highland plateau's mysteries would have to wait. [entity:7763296|Qotal's] quest for the giant guardian remained unfinished, but more immediate threats demanded attention. After their initial exploration above the waterfall, the party returned to [entity:7763187|Teghrim's Crossing] knowing that [entity:7888221|the Jailor] continued its grim work collecting victims while they prepared. The ancient guardian had waited centuries—it could wait a few days more while they dealt with the necromantic horror threatening the settlement's eastern territories.
 
 The morning of Aestra-Orpheus 28th arrived with the weight of unfinished business. [entity:7888221|The Jailor] still prowled the eastern territories, its massive cage collecting victims while the party built their strength through careful preparation. At [entity:7763187|Teghrim's Crossing], breakfast conversation turned not to immediate action but to the more subtle art of cultivating alliances—the kind that might mean the difference between survival and becoming additions to the construct's grim collection.
 
@@ -91,4 +93,4 @@ The skeleton army advanced with grinding patience of beings who knew no fear, no
 
 The bones clattered forward with inexorable purpose. [entity:7763289|Alrik] hefted his blade, still crusted with spider snake blood. [entity:7763296|Qotal] shifted his stance despite the disease weakening his limbs, the anti-Jailor bombs weighing heavy at his belt—useless against these foes. [entity:7763290|Arnor] began gathering power for another spell, while [entity:7763295|Bruldin] stepped forward to meet the largest skeleton with grim determination.
 
-"Well," [entity:7763289|Alrik] muttered, eyeing the shambling horde, "at least they didn't bring cake either."
+"My sarcasm may have backfired," [entity:7763289|Alrik] muttered, eyeing the shambling horde his words had helped summon.

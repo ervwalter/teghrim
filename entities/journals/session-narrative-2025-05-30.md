@@ -19,7 +19,7 @@ Dawn broke humid and heavy over [entity:7763187|Teghrim's Crossing], the air alr
 
 [entity:7763289|Alrik's] eyes narrowed, then relaxed. The cold iron test—five gold pieces worth of insurance against fey trickery—had become second nature after centuries of pursuit. "Well then. Good to meet someone who takes proper precautions."
 
-Their conversation drew the attention of [entity:7764195|Gaz], who wove between tables with practiced ease. The [entity:7763190|hobgoblin] server paused at their table, her expression brightening with the look of someone who recognized opportunity.
+Their conversation drew the attention of [entity:7764195|Gaz], who wove between tables with practiced ease. The [entity:7766459|hob] server paused at their table, her expression brightening with the look of someone who recognized opportunity.
 
 "New faces settling in, I see." She gestured toward the menu board where a crude drawing showed a fairy in a teacup with a firm circle-and-cross through it. "Though some faces aren't so welcome here anymore."
 

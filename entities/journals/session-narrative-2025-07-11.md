@@ -11,7 +11,7 @@ youtube_url: https://youtu.be/3pqTP9f16Pc
 
 # Chapter 7 - The Chain and the Chorus
 
-Smoke rises like prayers to uncaring gods, and like prayers, it serves different purposes to different observers. From the eastern road, [entity:7763296|Qotal] watched the massive column of dark gray pierce the afternoon sky with the methodical interest of a scholar observing natural phenomena. Beside him, [entity:7764100|Gierr Bjornson] gripped the boat's rail with the tension of one who recognized the direction from which his worst fears might rise.
+Smoke rises like prayers to uncaring gods, and like prayers, it serves different purposes to different observers. From the eastern road, [entity:7763296|Qotal] watched the massive column of dark gray pierce the afternoon sky with the methodical interest of a scholar observing natural phenomena. He had remained behind at [entity:7763187|Teghrim's Crossing] while his companions pursued [entity:7764194|Sigrid's] urgent quest, but now that smoke column summoned him with unmistakable urgency. Beside him, [entity:7764100|Gierr Bjornson] gripped the boat's rail with the tension of one who recognized the direction from which his worst fears might rise.
 
 "That's where they went," the hermit said, his weathered face creased with worry. "Same direction. Can't be coincidence."
 

@@ -9,12 +9,6 @@ entity_id: 8252863
 
 # Chapter 12 - Bones and Broken Things
 
-The necromancer's command echoed through the bone chamber with the weight of ancient authority, her single word in Necral carrying power that transcended mere speech. The skeletal army rose in answer, bones assembling themselves from scattered remains with grinding purpose that spoke of death transformed into servitude. Five warriors took form—four wielding glaives with reach that promised to keep their prey at bay, and one towering specimen whose size suggested it had been formidable even in life.
-
-"Bring them to me," she commanded, gesturing toward the party with languid contempt. "Alive at the least."
-
-Then she turned and retreated through the far door, leaving her risen guardians to collect or destroy these intruders who had breached security through methods she could not fathom. The door closed behind her with finality that promised deeper mysteries beyond, but first they would have to survive the skeletal army grinding forward with patience only the unliving could muster.
-
 [entity:7763290|Arnor] moved first, lightning crackling between his fingers as he targeted the leftmost skeletons with elemental fury. One jerked and shuddered as electricity coursed through ancient bones, while the other weathered the assault with minimal effect. These creatures seemed resistant to the very magic he had deployed so effectively against spider-snakes.
 
 [entity:7763289|Alrik] raised his holy symbol, channeling divine power that struck the nearest skeleton with sanctified force. Sacred energy shattered through bone that had forgotten life's sanctity, though the undead proved more resilient than expected. He raised his shield with practiced efficiency, settling into defensive stance that acknowledged the reach advantage his opponents wielded.

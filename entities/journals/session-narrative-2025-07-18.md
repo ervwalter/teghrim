@@ -71,7 +71,7 @@ The pattern she described chilled them more than morning air. Every few years, l
 
 ---
 
-**Georgette's** tale carried the authority of one who had lived through the bridge's construction and remembered when the settlement was nothing but ambitious plans and dwarven stonework. She spoke of **Midora** and **Echin** with the careful precision of one who had known them personally—young people whose names were written in the storm's genesis.
+[entity:8248774|Georgette's] tale carried the authority of one who had lived through the bridge's construction and remembered when the settlement was nothing but ambitious plans and dwarven stonework. She spoke of **Midora** and **Echin** with the careful precision of one who had known them personally—young people whose names were written in the storm's genesis.
 
 "He was taken with her," the storyteller recalled, her weathered hands tracing patterns on the table. "Planned some surprise, took her into the forest. Neither came back. Storm started the very next day."
 

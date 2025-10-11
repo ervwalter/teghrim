@@ -109,6 +109,12 @@ When the highland marsh finally fell silent, littered with the corpses of creatu
 
 The highland plateau spread before them like an ancient wilderness unmarked by civilization. Somewhere in the northwest waited the cursed **Duergar lodge** that [entity:8051161|King Jareth] had warned them of, and beyond it, the giant guardian that had drawn [entity:7763296|Qotal] across continents.
 
-The [entity:7763230|Slaan] monk stood at the edge of the plateau, studying the distant terrain with the patience of one who had traveled too far to turn back now. Behind him, [entity:7763290|Arnor] and [entity:7763289|Alrik] prepared their gear for the journey ahead, while far below, [entity:8051159|Grogug] had already settled back behind his waterfall, their passing already forgotten in the endless rhythm of his toll collecting.
+The [entity:7763230|Slaan] monk stood at the edge of the plateau, studying the distant terrain with the patience of one who had traveled too far to turn back now. Behind him, [entity:7763290|Arnor] and [entity:7763289|Alrik] discussed what they had learned—the terrain's dangers, the mysterious one-eyed creature's nature, the practical challenges of extended exploration through hostile territory.
 
-The answers [entity:7763296|Qotal] sought lay ahead, waiting in a cavern where a guardian had watched over secrets since before the [entity:7766459|hobs] had fled the Eastern lands. Whether those answers would prove worth the dangers they faced remained to be seen.
+"We're not equipped for this," [entity:7763289|Alrik] said finally, gesturing at their depleted supplies and wounds that still ached despite healing. "Not yet."
+
+[entity:7763296|Qotal] nodded slowly, acceptance settling over him like evening mist. The guardian had waited centuries. It could wait while they returned to [entity:7763187|Teghrim's Crossing] to prepare properly. More pressing threats demanded attention—[entity:7888221|the Jailor] still collected victims in the eastern territories, and the party had promised to help stop it.
+
+The answers [entity:7763296|Qotal] sought lay ahead, somewhere in these highlands—the place where the story of the broken hammer would finally conclude. Those answers would keep. The victims in [entity:7888221|the Jailor's] cage could not.
+
+They turned their steps back toward the waterfall and the long climb down, carrying knowledge gained and mysteries deferred. Far below, [entity:8051159|Grogug] waited behind his cascade, ready to collect another toll or accept another gift of cake. Above, the highland plateau kept its secrets a while longer.
