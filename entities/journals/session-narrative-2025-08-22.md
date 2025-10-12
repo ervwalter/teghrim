@@ -3,7 +3,7 @@ name: 11 - Beneath the Cursed Skull
 type: Session Narrative
 is_hidden: false
 created: '2025-10-09T04:51:31.286178+00:00'
-updated: '2025-10-09T04:51:31.286185+00:00'
+updated: '2025-10-11T13:09:34.563597+00:00'
 entity_id: 8252860
 ---
 

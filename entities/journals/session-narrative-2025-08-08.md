@@ -4,9 +4,8 @@ name: 10 - Crowns and Waterfalls
 type: Session Narrative
 is_hidden: false
 created: '2025-08-21T16:12:38+00:00'
-updated: '2025-10-09T04:51:48+00:00'
+updated: '2025-10-12T14:36:53.345467+00:00'
 image: https://cdn-ugc.kanka.io/campaigns/322885/9fb05ed8-086e-42b7-a67b-24b63e7e88e3.png
-youtube_url: https://www.youtube.com/watch?v=ajOPqg9Jb9Y
 ---
 
 # Chapter 10 - Crowns and Waterfalls

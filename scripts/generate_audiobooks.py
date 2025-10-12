@@ -194,23 +194,23 @@ def normalize_audio(input_path: Path, output_path: Path) -> bool:
             return False
         
         # Create temporary file for normalization
-        temp_path = output_path.with_suffix('.temp.mp3')
-        
+        temp_path = output_path.with_suffix('.temp.m4a')
+
         # Run ffmpeg normalization using compressor + loudnorm
         # This approach handles the ElevenLabs volume dropoff issue better
         # acompressor: Compress dynamic range to prevent gradual volume decrease
         #   - threshold=-20dB: Compression threshold
-        #   - ratio=4: Compression ratio (4:1)
+        #   - ratio=2.5: Compression ratio (2.5:1, gentler to avoid pumping/clipping)
         #   - attack=5: Attack time in ms
         #   - release=50: Release time in ms
         # loudnorm: EBU R128 loudness normalization for consistent overall level
-        #   - I=-23: Target integrated loudness (lowered from -20 for quieter output)
+        #   - I=-24: Target integrated loudness (middle ground to prevent clipping)
         #   - LRA=7: Loudness range
-        #   - TP=-2: True peak
+        #   - TP=-1.5: True peak (more headroom to prevent clipping)
         cmd = [
             "ffmpeg", "-i", str(input_path),
-            "-af", "acompressor=threshold=-20dB:ratio=4:attack=5:release=50,loudnorm=I=-23:LRA=7:TP=-2",
-            "-codec:a", "libmp3lame", "-b:a", "192k",
+            "-af", "acompressor=threshold=-20dB:ratio=2.5:attack=5:release=50,loudnorm=I=-24:LRA=7:TP=-1.5",
+            "-codec:a", "aac", "-b:a", "192k",
             "-y",  # Overwrite output
             str(temp_path)
         ]
@@ -310,8 +310,8 @@ def generate_audiobook(client: ElevenLabs, narrative_content: str,
                 except Exception as e:
                     print(f"    Warning: Error processing chunk {i+1}: {e}")
             
-            # Export the combined audio as MP3
-            combined_audio.export(output_path, format="mp3", bitrate="192k")
+            # Export the combined audio as M4A (AAC)
+            combined_audio.export(output_path, format="ipod", bitrate="192k")
         
         # Normalize the audio to fix volume dropoff
         normalized = normalize_audio(output_path, output_path)
@@ -365,7 +365,7 @@ def extract_chapter_info(narrative_path: Path) -> Tuple[Optional[int], Optional[
 def find_narratives_needing_audio() -> List[Tuple[Path, int, str, str]]:
     """
     Find all narrative files that don't have corresponding audiobooks.
-    
+
     Returns:
         List of (narrative_path, chapter_num, title, date) tuples
     """
@@ -373,43 +373,44 @@ def find_narratives_needing_audio() -> List[Tuple[Path, int, str, str]]:
     project_root = Path(__file__).parent.parent
     narratives_dir = project_root / "entities" / "journals"
     audiobooks_dir = project_root / "audiobooks"
-    
+
     # Find all session-narrative files
     narrative_files = sorted(narratives_dir.glob("session-narrative-*.md"))
-    
+
     narratives_to_generate = []
-    
+
     for narrative_path in narrative_files:
-        # Extract date from filename
+        # Extract date from filename (for display purposes)
         date_match = re.search(r'(\d{4}-\d{2}-\d{2})', narrative_path.name)
         date = date_match.group(1) if date_match else ""
-        
+
         # Extract chapter info from the file
         chapter_num, title = extract_chapter_info(narrative_path)
-        
-        if chapter_num and title and date:
-            # Expected audiobook filename
+
+        if chapter_num and title:
+            # Expected audiobook filename (chapter number and title only)
             clean_title = clean_title_for_filename(title)
-            audio_filename = f"audiobook-{date}-{chapter_num:03d}-{clean_title}.mp3"
+            audio_filename = f"{chapter_num:03d}-{clean_title}.m4a"
             audio_path = audiobooks_dir / audio_filename
-            
+
             # Add to list if audiobook doesn't exist
             if not audio_path.exists():
                 narratives_to_generate.append((narrative_path, chapter_num, title, date))
-    
+
     return narratives_to_generate
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate audiobook MP3s from narrative text files",
+        description="Generate audiobook M4A files from narrative text files",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 This script automatically finds session narratives that need audiobook generation.
 
 Looks for: entities/journals/session-narrative-YYYY-MM-DD.md
-Generates: audiobooks/audiobook-YYYY-MM-DD-001-Chapter Title.mp3
+Generates: audiobooks/###-Chapter Title.m4a (AAC audio format)
 
+Audiobooks are matched by chapter number and title, not date.
 Entity mentions [entity:ID|text] are automatically cleaned from narratives.
         """
     )
@@ -489,9 +490,9 @@ Entity mentions [entity:ID|text] are automatically cleaned from narratives.
         project_root = Path(__file__).parent.parent
         audiobooks_dir = project_root / "audiobooks"
         audiobooks_dir.mkdir(exist_ok=True)
-        
+
         clean_title_text = clean_title_for_filename(title)
-        output_filename = f"audiobook-{date}-{chapter_num:03d}-{clean_title_text}.mp3"
+        output_filename = f"{chapter_num:03d}-{clean_title_text}.m4a"
         output_path = audiobooks_dir / output_filename
         
         # Generate audiobook

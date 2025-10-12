@@ -4,9 +4,8 @@ name: 01 - The Bridge and the Bloodline
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:43:12+00:00'
-updated: '2025-10-09T04:51:50.256369+00:00'
+updated: '2025-10-12T14:36:54.267068+00:00'
 image: https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/322885/9f25ae3a-a855-454f-889f-ef044a6cfbc8.png
-youtube_url: https://youtu.be/Wt-5ewKppqI?si=RB9sM1vpF2aRe4eP
 ---
 
 # Chapter 1 - The Bridge and the Bloodline

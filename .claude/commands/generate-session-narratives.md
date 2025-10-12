@@ -198,7 +198,7 @@ Characters experience combat as chaos, pain, fear, triumph - not as numbered exc
    - Avoids bland place names or simple descriptions
    - Should feel mysterious, poetic, or slightly ominous
    - Techniques for evocative titles:
-     * Ironic phrases: "Necromancer's Welcome" (hostile greeting)
+     * Ironic phrases: "Death's Manor" (peaceful home + mortality)
      * Metaphorical pairings: "Stone Hearts and Fairy Rings" (emotional + magical)
      * Action + Mystery: "The Bridge and the Bloodline" (journey + heritage)
      * Contradictions: A peaceful word with a dangerous one

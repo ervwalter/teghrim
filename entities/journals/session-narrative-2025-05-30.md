@@ -1,15 +1,14 @@
 ---
 entity_id: 7766456
-name: 03 - Necromancer's Welcome
+name: 03 - Death's Manor
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T14:13:08+00:00'
-updated: '2025-10-09T04:51:39+00:00'
+updated: '2025-10-12T14:39:28.618013+00:00'
 image: https://cdn-ugc.kanka.io/campaigns/322885/9f25ad5e-ebfd-43de-b52c-d1c903df44c7.png
-youtube_url: https://www.youtube.com/watch?v=2mZnIjsbyGQ
 ---
 
-# Chapter 3 - Necromancer's Welcome
+# Chapter 3 - Death's Manor
 
 Dawn broke humid and heavy over [entity:7763187|Teghrim's Crossing], the air already thick with the promise of summer's relentless heat. In the mess hall, condensation beaded on wooden beams as the reunited party gathered over porridge and small beer, their recent victories still fresh in mind and muscle.
 

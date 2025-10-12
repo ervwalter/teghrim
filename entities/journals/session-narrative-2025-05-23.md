@@ -4,9 +4,8 @@ name: 02 - Stone Hearts and Fairy Rings
 type: Session Narrative
 is_hidden: false
 created: '2025-06-13T13:53:12+00:00'
-updated: '2025-10-09T04:51:36.633109+00:00'
+updated: '2025-10-12T14:36:48.552282+00:00'
 image: https://cdn-ugc.kanka.io/campaigns/322885/9f25ae6a-2302-490d-ba78-3fd49e80f6fa.png
-youtube_url: https://www.youtube.com/watch?v=EmAteaFbkTA
 ---
 
 # Chapter 2 - Stone Hearts and Fairy Rings
