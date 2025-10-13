@@ -4,7 +4,7 @@ type: Landmark
 is_hidden: false
 entity_id: 8248838
 created: '2025-10-08T05:05:10.849223+00:00'
-updated: '2025-10-09T04:53:50.354194+00:00'
+updated: '2025-10-12T21:49:31.766846+00:00'
 ---
 
 # Island Dwarven Ruins
@@ -21,7 +21,7 @@ A dock extends from the island into the water, indicating the structure was desi
 
 ### Current Occupation
 
-A small encampment is visible at the base of the ruins—tents and fires indicating active habitation. The identity of the current occupants remains unknown, though their presence suggests the ruins retain significance or value that draws visitors despite the remote location and difficult access.
+The ruins are currently occupied by grolschs (yeti-ogre hybrids) who have established multiple camps with fires across different levels of the structure. Approximately ten grolschs including elite, normal, and weak classifications inhabit the location. Additionally, unidentified winged creatures with bows nest in the upper areas of the ruins, creating a territorial conflict. The elevated tree areas and rocky formations provide strategic combat positions for both groups.
 
 ### Atmospheric Elements
 
@@ -56,11 +56,15 @@ Historical accounts mention at least one other similar structure may have existe
 
 - **The Connections**: Party discussion connected the discovery to Queen Zelinda's lore about the guardian in the waterfall cavern and King Jareth's warnings about evil hearts paying the price. They recognized this as a major breakthrough in [entity:7763296|Qotal's] quest.
 
+- **The Raft Construction** (Orpheus 15th): Party crafted a high-quality blessed raft and crossed Waterfall Lake using a feather token fan, crashing into the dock at high speed but arriving successfully.
+
+- **The Three-Way Battle**: Upon landing, the full party ([entity:7763296|Qotal], [entity:7763289|Alrik], [entity:7763295|Bruldin], [entity:7763294|Aurelia], [entity:7763290|Arnor]) engaged in combat with grolschs occupying the ruins and winged creatures nesting in upper areas. [entity:7763294|Aurelia's] critical knowledge check revealed grolschs' fire weakness. Combat ongoing, paused mid-battle to resume next session.
+
 ## Current Status
 
-The ruins remain unexplored by the party. Currently occupied by unknown individuals or creatures, the location awaits full investigation. Access requires watercraft capable of crossing several miles of open water.
+The party is actively engaged in combat at the ruins on Orpheus 15th. The occupants have been identified as grolschs (yeti-ogre hybrids) and unidentified winged bow-wielders, both hostile and territorial. A mysterious fire-shooting entity from a statue or rock formation adds a third faction to the conflict. The party's raft remains docked for potential retreat or continued access.
 
-The party has designated this location as urgent for investigation, planning to return with proper equipment and possibly additional party members. The connection to [entity:7763296|Qotal's] primary quest and the guardian legend makes this a priority target despite the logistical challenges.
+Interior exploration awaits combat resolution. The multi-level structure suggests substantial underground elements that match the "cavern of waterfalls" description from lore. The connection to [entity:7763296|Qotal's] broken hammer quest and the guardian legend will be investigated once the current threats are neutralized.
 
 ## Secrets & Mysteries
 

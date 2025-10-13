@@ -4,7 +4,7 @@ type: Landmark
 is_hidden: false
 entity_id: 8248836
 created: '2025-10-08T05:05:09.950270+00:00'
-updated: '2025-10-09T04:52:58.305470+00:00'
+updated: '2025-10-12T21:49:30.931826+00:00'
 ---
 
 # Waterfall Lake
@@ -49,11 +49,19 @@ Queen Zelinda's lore speaks of "a guardian trapped in a cavern of waterfalls," w
 
 - **The Planning**: Party recognized they would need boats or rafts to access the island, located 3-4 miles from shore across open water. They planned to return with proper equipment and possibly additional party members for a full expedition.
 
+- **The Raft Construction** (Orpheus 15th): Party crafted a high-quality raft through collaborative skill checks, utilizing survival expertise to find materials, athletics to haul timber, engineering knowledge for design, and nature skills to locate high-quality trees. [entity:7763296|Qotal] blessed the raft through religious invocation, ensuring its sturdiness.
+
+- **The Crossing**: Using a feather token fan worth 15 gold, the party propelled their raft across the lake at high speed, covering the 3-4 miles to the island. The powerful magical wind required [entity:7763294|Aurelia] to make a fortitude save to avoid being blown off the raft. The fan's 8-hour duration provided enough power to essentially turn the craft into a speedboat.
+
+- **The Crash Landing**: The raft crashed into the island's dock platform at full speed, providing a dramatic but effective arrival. The raft survived the impact and remains tied at the dock for future use.
+
+- **The Three-Way Battle**: Upon landing, the party engaged in combat with grolschs (yeti-ogre hybrids) occupying the ruins and unidentified winged creatures with bows nesting in the upper areas. A mysterious fire-shooting entity from a statue or rock formation added a third faction to the conflict. Combat was paused mid-battle to resume next session.
+
 ## Current Status
 
-The lake remains largely unexplored despite the party's discovery. The island ruins are currently occupied by unknown individuals or creatures, as evidenced by the visible encampment. Access requires watercraft, and the party has not yet attempted to reach the island or identify its current inhabitants.
+The party is actively exploring the island, currently engaged in ongoing combat on Orpheus 15th. The island's occupants have been identified as grolschs and winged creatures, both territorial and hostile. The high-quality raft constructed by the party remains docked at the island, available for retreat or future crossings. The raft is also stored at the [entity:8051164|Upper Falls] area for subsequent expeditions.
 
-The location's distance from [entity:7763187|Teghrim's Crossing]—many miles with mountains in between—makes it a significant expedition target rather than a casual visit.
+The lake's full extent, underwater features, and potential submerged structures remain unexplored. The encounter with a brine drake at the river confluence during the previous expedition (Orpheus 10th) suggests the lake and its river system support substantial and dangerous aquatic life.
 
 ## Secrets & Mysteries
 

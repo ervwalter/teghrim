@@ -1,10 +1,46 @@
 # Generate Session Summaries
 
-This command creates session summaries as local journal entries for all digests that don't already have summaries.
+This command creates concise session summaries as local journal entries for all digests that don't already have summaries.
+
+## Reference Examples
+
+**Read these first to understand the target style:**
+- `entities/journals/session-summary-2025-06-13.md` - Concise, story-focused
+- `entities/journals/session-summary-2025-07-11.md` - Good combat section example
+- `entities/journals/session-summary-2025-07-18.md` - Balanced detail level
+
+**Key observations from these examples:**
+- Combat sections are 1-3 paragraphs, not play-by-play logs
+- Focus on dramatic moments and outcomes, not mechanics
+- No dice rolls, initiative orders, or specific damage numbers
+- Player-facing recaps, not GM notes
+
+## Core Principles
+
+**Purpose**: These are player-facing story recaps, not detailed combat logs or GM notes.
+
+**Style**:
+- Concise prose (think Wikipedia article, not transcript)
+- Past tense, third person
+- Story impact over mechanical details
+- Each section should be tight—no rambling
+
+**What to emphasize**:
+- Dramatic moments and character decisions
+- Plot revelations and discoveries
+- Memorable tactical decisions (not every dice roll)
+- Quest progression and world-building
+
+**What to exclude**:
+- Meta-game content (photography, table management, real-world times)
+- Detailed mechanics (dice rolls, ACs, DCs, specific damage amounts)
+- Round-by-round combat play-by-play
+- Out-of-character jokes and banter
+- Color coding for miniatures (convert to narrative descriptions)
 
 ## Usage
 
-Run this command to automatically generate session summaries for any digests that are missing them. The summaries will be created locally and can be pushed to Kanka using the push-to-kanka command.
+Run this command to automatically generate session summaries for any digests that are missing them.
 
 ## Process
 
@@ -17,212 +53,148 @@ Run this command to automatically generate session summaries for any digests tha
    ```bash
    ls entities/journals/session-summary-*.md | sort
    ```
-   
+
 3. Process digests in chronological order:
-   - **Process sequentially, not in parallel** - each summary needs to read previous ones
+   - **Process sequentially, not in parallel**
    - For each digest that doesn't have a corresponding session summary, launch a subagent
    - Wait for each subagent to complete before processing the next date
-   - This ensures proper continuity between sessions
 
 ```
 Generate a session summary for digest-YYYY-MM-DD.md
 
 Instructions:
-1. First, run `python scripts/get_entity_overview.py` to get entity names, IDs, and file paths
-2. **Use semantic search strategically** to understand session context:
-   - Search for the session date or related timeframes to understand ongoing storylines
-   - Search for key character names and locations mentioned in the digest
-   - Search for quest keywords and plot elements to understand context
-   - Always use `extensionFilter: [".md"]` to focus on campaign content
-   - Examples: "July 2025 sessions", "Von Carstein vampire mansion", "Teghrim's Crossing quests"
-3. Check if `entities/journals/session-summary-YYYY-MM-DD.md` already exists
-4. If it doesn't exist:
-   - Find and read 2-3 session summaries from dates BEFORE YYYY-MM-DD for continuity
-   - Read the digest from `entities/notes/digest-YYYY-MM-DD.md`
-   - The entity overview already provides entity IDs for linking
-   - **Use semantic search to understand entity relationships** before writing:
-     * Search for character relationships and connections
-     * Search for location details and significance
-     * Search for organizational structures and conflicts
-     * Review results to understand context, but remember files contain future events
-   - Generate a comprehensive session summary following the format below
-   - BEFORE SAVING: Review your summary and verify EVERY entity against the overview
-   - If any entity with an ID isn't linked, add the link
-   - Create the summary as `entities/journals/session-summary-YYYY-MM-DD.md`
-5. Report completion or any issues encountered
+1. Run `python scripts/get_entity_overview.py` to get entity names and IDs
+2. **Read reference examples** to understand the target style:
+   - entities/journals/session-summary-2025-06-13.md
+   - entities/journals/session-summary-2025-07-11.md
+   - entities/journals/session-summary-2025-07-18.md
+3. Read 2-3 previous session summaries for continuity
+4. Read the digest from `entities/notes/digest-YYYY-MM-DD.md`
+5. Use semantic search strategically (see guidelines below)
+6. Generate summary following the format below
+7. BEFORE SAVING: Verify entity linking (see appendix)
+8. Create as `entities/journals/session-summary-YYYY-MM-DD.md`
 
 Summary Generation Instructions:
-[Copy all content from "Summary Generation Instructions" section through the end of this document]
+[Copy all content from "Writing Guidelines" section through the end]
 ```
 
-## Summary Generation Instructions
-
-$arguments
-
-You are creating comprehensive summaries of Pathfinder 2e tabletop roleplaying sessions based on pre-processed digests. Each digest contains:
-- **Session Overview**: Date, previous session recap, key events, party status
-- **Chronological Events**: Numbered entries tagged as SCENE, ACTION, DIALOGUE, COMBAT, DISCOVERY, NPC, LOCATION, ITEM, PLANNING, REACTION, SKILL, LORE, CREATURE
-- **Combat Summary**: Details of each combat encounter
-- **Entities for Extraction**: NPCs, Locations, Quests/Tasks, Organizations with all relevant details
-- **Unresolved Questions**: Ambiguities and unclear elements
-- **Technical Notes**: Speaker identification issues or unclear segments
-
-### Key Guidelines:
-- Use LOCAL entity files in `entities/` for reference and context
-- Look up entity details by reading files like `entities/characters/[name].md`
-- Create summaries as local journal entries in `entities/journals/`
-- Include proper frontmatter with `is_hidden: true`
+## Writing Guidelines
 
 ### Summary Structure
-
-Format each summary using this markdown structure:
 
 ```markdown
 # [Descriptive Session Title - max 6-7 words]
 
 ## Session Overview
-A brief (2-3 sentence) overview of the session's main events and accomplishments.
+2-3 sentences covering main events and accomplishments.
 
 ## Story Developments
-Write story developments as a flowing narrative, organized chronologically. Use paragraph breaks to separate distinct scenes. Bold important discoveries, names, or items on first mention.
+Flowing prose organized chronologically. Paragraph breaks for distinct scenes.
+**DO**: Bold important discoveries on first mention
+**DON'T**: List every action, include dice rolls, mention player names
 
 ## Combat & Challenges
-Describe significant battles narratively, focusing on memorable moments and outcomes rather than mechanics.
+1-3 paragraphs summarizing significant battles in prose.
+**DO**: Memorable moments, key tactical decisions, dramatic outcomes
+**DON'T**: Round-by-round play-by-play, initiative orders, specific damage amounts, dice rolls, skill check mechanics, table management details (color coding), meta-game references
 
 ## Discoveries & Lore
-Outline new world information in clear paragraphs. Include both explicit lore and information gleaned through investigation.
+Clear paragraphs about new world information.
+**DO**: Plot revelations, world-building, investigation results
+**DON'T**: Repeat story developments, include future events from entity files
 
 ## Quest Updates
-* Current primary objective and progress
-* New quests acquired
-* Quests completed
-* Major changes to existing quests
+Bullet list of quest progression.
+**DO**: Link quest entities, note completion/progress
+**DON'T**: Write paragraphs here (keep it scannable)
 
 ## Next Steps
-List known immediate objectives and upcoming challenges. Focus on concrete options rather than speculation.
+Known immediate objectives and upcoming challenges.
+**DO**: Concrete options the party discussed
+**DON'T**: Speculate on events not mentioned in digest
 ```
 
-### Combat Color Coding Note:
-**IMPORTANT**: Digests may contain color references like "red orc" or "blue goblin" - these are out-of-game miniature color codes for table management. **DO NOT include color designations in summaries.** Convert them to natural descriptions:
-- "red orc #2" → "the orc leader" or "another orc warrior"  
+### Section Length Guidelines
+
+- **Session Overview**: 2-3 sentences
+- **Story Developments**: 3-8 paragraphs (most of the content)
+- **Combat & Challenges**: 1-3 paragraphs (not per-round logs!)
+- **Discoveries & Lore**: 2-5 paragraphs
+- **Quest Updates**: Bullet list (5-10 items typical)
+- **Next Steps**: 1-2 paragraphs
+
+### Combat Section Anti-Patterns
+
+**NEVER include**:
+- "Initiative was called, Alrik rolled 20 for 34"
+- "rolled 16 (success) for 1 point toward goal"
+- "Aurelia measured distance—14 inches (70 feet)"
+- "The GM explained the enemy sizing system"
+- "Photography was taken for accurate resumption"
+- "Color-coded for table management"
+- Specific AC/DC numbers unless exceptionally dramatic
+- Every attack roll, movement, or action in sequence
+
+**Instead write**:
+- "The grolsch proved formidable opponents with their signature power slam attacks"
+- "Aurelia's recall knowledge revealed they were weak to fire"
+- "Combat paused incomplete with multiple enemies still active"
+
+### Color Coding Conversion
+
+Digests contain miniature color codes—convert to natural descriptions:
+- "red orc #2" → "the orc leader" or "another orc warrior"
 - "blue goblin archers" → "goblin archers" or "the mounted goblins"
-- Use positional, descriptive, or sequential references instead
+- "Green grolsch #1" → "one of the grolsch" or "the nearest hybrid"
 
-### Processing the Digest with Semantic Search:
-1. **Use semantic search to understand context** before diving into files:
-   - Search for session participants to understand their current roles and relationships
-   - Search for locations mentioned to understand their significance
-   - Search for quest keywords to identify ongoing storylines
-   - Always use `extensionFilter: [".md"]` to focus on campaign content
-2. **Review previous session summaries** (if they exist) to understand:
-   - Ongoing plot threads and unresolved quests
-   - Character relationships and dynamics
-   - Recent events that might influence this session
-   - The party's current goals and situation
-3. **Read the digest thoroughly** to understand the session's flow and key events
-4. **Identify major story beats** by looking at:
-   - DISCOVERY and LORE entries for plot revelations
-   - NPC entries for important character interactions
-   - COMBAT entries for significant battles
-   - PLANNING entries for party decisions
-   - Quest/Task entries in Entities section
-5. **Use semantic search for efficient entity research**:
-   - Search for entity relationships and connections instead of reading all files
-   - Search for character personalities and motivations with context
-   - Search for location atmospheres and significance
-   - Search for organizational conflicts and alliances
-   - **Semantic search advantages**:
-     * Finds relevant information faster than reading entire entity files
-     * Identifies connections and relationships across the campaign
-     * Provides context about entities without spoiling future events
-   - **IMPORTANT**: Entity files contain the full history including events that happen AFTER this session
-   - Use semantic search results to understand context for better narrative writing
-   - DO NOT include events or facts from entity files that aren't in the digest
-   - The digest represents what was known/happened at that specific session date
-6. **Synthesize into narrative flow** rather than listing events
-7. **Focus on story impact** over mechanical details
-8. **Ensure continuity** with previous sessions:
-   - Reference callbacks to earlier events when relevant
-   - Note progress on ongoing quests
-   - Show character development over time
-9. **VERIFY ENTITY LINKING**: As you write, constantly check:
-   - Is this character in the overview? Link it.
-   - Is this location in the overview? Link it.
-   - Is this organization/race/deity in the overview? Link it.
-   - No entity with an ID should go unlinked
+### Using Semantic Search
 
-### Formatting Rules:
-- Use **bold** for first mentions of significant non-entity items (spells, abilities, important objects without entity records)
-- Use *italics* sparingly for emphasis or quotes
-- Single-level bullet points only
-- Clear paragraphs over nested lists
-- Headers (##) only for main sections
-- Line breaks between sections
+Search to **understand context**, not to add extra content:
+- Search for session participants, locations, and quests mentioned
+- Use `extensionFilter: [".md"]` to focus on campaign content
+- **Remember**: Entity files contain future events—don't include info not in the digest
+- Search helps you write better prose, not find more things to include
 
-### Name Resolution and Entity Mentions:
-- The digest has already resolved most name spellings
-- Verify against local entity files when adding context
-- Use the exact spellings from the digest's entity extraction section
-- For existing entities, you can add details from their local files
+### Temporal Constraint
 
-### Entity Linking (CRITICAL):
-**YOU MUST LINK EVERY ENTITY THAT EXISTS IN THE DATABASE:**
-- Check the entity overview for EVERY character, location, organization, etc. you mention
-- If it has an ID in the overview, YOU MUST link it on first mention IN EACH PARAGRAPH
-- Use the format `[entity:ID|display text]` 
-- NO EXCEPTIONS - if an entity has an ID, it gets linked
-- Examples of entities you MUST link:
-  - Characters: `[entity:7764102|Aelysh]`, `[entity:7763290|Arnor]`
-  - Locations: `[entity:7763187|Teghrim's Crossing]`, `[entity:7763870|Menoth-Derith]`
-  - Organizations: `[entity:7763122|Dwarven Slayer Cults]`, `[entity:7763864|Goblin Raiders]`
-  - Races: `[entity:7763165|Slaan]`, `[entity:7763129|Norn]`
-  - Even deities if mentioned: `[entity:7763160|Moradin]`
-- Override display text for natural flow:
-  - `[entity:7764102|the wood elf]` instead of repeating "Aelysh"
-  - `[entity:7763122|the slayer cult]` for variety
-- **PARAGRAPH RULE**: Link the first mention in EACH paragraph, not just once per document
-- Within a paragraph, only link the first mention
-- Before finalizing, VERIFY every entity name against the overview - if it has an ID, it must be linked
+**CRITICAL**: Entity files show current state with full history. Only include information that appears in the digest itself. Entity files are for:
+- Looking up entity IDs for linking
+- Understanding context for better writing
+- **NOT** for adding events that happened after this session
 
-### Creating the Journal Entry:
-After generating the summary content, create a local journal file:
+## Appendix: Entity Linking
 
-1. **Filename**: `entities/journals/session-summary-YYYY-MM-DD.md`
-   - Example: `entities/journals/session-summary-2025-05-30.md`
+### Quick Reference
 
-2. **File content**:
-```markdown
+**Link first mention in each paragraph** using format: `[entity:ID|display text]`
+
+**Must link**: Characters, locations, organizations, races, deities, major items with IDs
+
+**Paragraph rule**: Link first mention per paragraph (not once per document, not every mention)
+
+**Display text**: Override for natural flow
+- `[entity:7764102|the wood elf]` not just "Aelysh" repeatedly
+- `[entity:7763122|the slayer cult]` for variety
+
+### Entity ID Lookup
+
+The entity overview provides all IDs. Before finalizing, verify:
+- Is this character in the overview? → Link it
+- Is this location in the overview? → Link it
+- Is this organization/race/deity in the overview? → Link it
+
+### File Creation
+
+**Filename**: `entities/journals/session-summary-YYYY-MM-DD.md`
+
+**Frontmatter**:
+```yaml
 ---
-name: 2025-05-30 - The Bridge and the Bloodline
+name: 2025-MM-DD - Descriptive Title
 type: Session Summary
 is_hidden: true
-created: '[current timestamp]'
-updated: '[current timestamp]'
+created: '[current ISO timestamp]'
+updated: '[current ISO timestamp]'
 ---
-
-[The full summary content goes here]
 ```
-
-### Checking for Existing Summaries:
-Before creating a new summary:
-1. Check if a journal file already exists for this session date
-2. Look for files matching pattern: `entities/journals/session-summary-YYYY-MM-DD.md`
-3. Only create if no summary exists for that digest date
-
-## Important Notes:
-- Each digest represents one complete game session at a specific point in time
-- Only mention characters and events that appear in the digest
-- Transform the tagged chronological events into flowing narrative
-- Preserve important details while making it readable
-- The digest has already filtered out out-of-game content
-- Use the Entities for Extraction section to ensure all NPCs and locations are mentioned
-- **Temporal Warning**: Entity files represent the "current" state with full history - they contain future events relative to the session you're summarizing
-- **Only include information that appears in the digest itself** - entity files are just for ID lookups and understanding context
-
-## Writing Style:
-- Write in past tense, third person
-- Use character names, not player names
-- Focus on what happened, not game mechanics
-- Make it engaging to read while preserving accuracy
-- Bold important names on first mention
-- Keep sections distinct but flowing

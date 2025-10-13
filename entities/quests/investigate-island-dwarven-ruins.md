@@ -4,7 +4,7 @@ name: Investigate Island Dwarven Ruins
 type: Party Quest
 is_hidden: false
 created: '2025-10-08T05:05:11+00:00'
-updated: '2025-10-09T04:53:51+00:00'
+updated: '2025-10-12T21:49:32.718752+00:00'
 is_completed: false
 ---
 
@@ -43,22 +43,27 @@ Queen Zelinda previously shared lore about "a guardian trapped in a cavern of wa
 
 ## Current Status
 
-**Quest State**: Active, high priority, not yet begun
+**Quest State**: Active, in progress - COMBAT ONGOING
 
-**Obstacles**:
+**Participants**: Full party - [entity:7763296|Qotal], [entity:7763289|Alrik], [entity:7763295|Bruldin], [entity:7763294|Aurelia], [entity:7763290|Arnor]
 
-- Distance: Many miles from [entity:7763187|Teghrim's Crossing] with mountains in between
-- Water Access: Requires boats or rafts to cross 3-4 miles of open water
-- Unknown Occupants: Current inhabitants of unknown disposition
-- Potential Curse: Hob lore suggests danger particularly for dwarves
-- Guardian Threat: Legendary guardian's nature and status unknown
+**Progress**:
+- ✓ Watercraft constructed (high-quality blessed raft)
+- ✓ Lake crossed successfully using feather token fan
+- ✓ Island reached and raft docked
+- ✓ Occupants identified (grolschs and winged creatures)
+- ⚠ THREE-WAY COMBAT IN PROGRESS (party vs grolschs vs winged creatures)
+- ☐ Interior exploration pending combat resolution
+- ☐ Guardian location unknown
+- ☐ Cavern system unexplored
 
-**Preparation Needed**:
+**Current Obstacles**:
 
-- Watercraft construction or acquisition
-- Expedition supplies for extended mission
-- Possibly underwater breathing equipment (party's Everair Masks don't work underwater)
-- Intelligence on current occupants if possible
+- Grolschs (yeti-ogre hybrids): ~10 individuals, fire vulnerable, power slam attacks
+- Winged bow-wielders: Unknown numbers, nesting in upper areas
+- Fire-shooting entity: Mysterious third faction from statue/rock
+- Party members taking damage, spell durations active
+- Combat paused mid-battle to resume next session
 
 ## Connections to Other Quests
 
@@ -81,7 +86,12 @@ Queen Zelinda's lore emphasized the guardian's ego led to imprisonment, suggesti
 
 The current occupation suggests others have already accessed the island, potentially uncovering secrets or awakening dangers. The party's approach must account for both the historical threats and present-day complications.
 
+## Notable Developments
+
+- **Orpheus 15th - The Assault**: Party departed [entity:7763187|Teghrim's Crossing] after two days' downtime, paying [entity:8051159|Grogug] 2 gold for Mendels cake toll. Crafted blessed raft through collaborative skill checks, crossed lake at high speed using feather token fan, crashed into dock. Engaged immediately in three-way combat with grolschs and winged creatures. [entity:7763294|Aurelia's] critical Recall Knowledge revealed grolschs' fire weakness (yeti heritage). Combat paused mid-battle, ongoing.
+
 ## Date
 
 Quest discovered: Orpheus 9th
-Quest initiated: Pending party preparation and departure
+Quest initiated: Orpheus 15th
+Current status: In progress (combat phase)
