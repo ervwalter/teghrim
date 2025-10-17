@@ -1,14 +1,14 @@
 # Audio transcription requirements
-elevenlabs==2.7.1
+elevenlabs==2.18.0
 pydub==0.25.1
-audioop-lts==0.2.1  # Required for pydub on Python 3.13+
+audioop-lts==0.2.2  # Required for pydub on Python 3.13+
 
 # Image generation requirements  
-openai==2.1.0
+openai==2.3.0
 
 # Entity sync requirements
 mcp-kanka==1.1.0
-pyyaml==6.0.2
+pyyaml==6.0.3
 
 # Note: pydub requires ffmpeg or libav to be installed on the system
 # Install with: apt-get install ffmpeg (Linux) or brew install ffmpeg (Mac)
